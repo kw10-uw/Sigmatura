@@ -1,0 +1,2403 @@
+{
+ "subject": "geo-pr",
+ "source": "Rozporządzenie MEN z 28.06.2024 (Dz.U. 2024 poz. 1019), załącznik nr 1 – podstawa programowa LO, s. 181–214",
+ "scope": "Egzamin rozszerzony obejmuje zakres podstawowy (kody P.*) i rozszerzony (kody R.*).",
+ "freqNote": "freq = ile razy zasady oceniania arkuszy CKE od grudnia 2024 (diagnostyczny XII 2024, maj 2025, próbny III 2026, maj 2026; wersja standardowa) powołują się na dane wymaganie. Arkusze 2023 i V 2024 pominięto: używały starszej numeracji wymagań.",
+ "topics": [
+  {
+   "id": "geo-map",
+   "name": "Mapa, metody badań, GIS",
+   "w": 3
+  },
+  {
+   "id": "geo-zie",
+   "name": "Ruchy Ziemi i czas",
+   "w": 3
+  },
+  {
+   "id": "geo-kli",
+   "name": "Atmosfera i klimat",
+   "w": 3
+  },
+  {
+   "id": "geo-hyd",
+   "name": "Hydrosfera",
+   "w": 2
+  },
+  {
+   "id": "geo-ska",
+   "name": "Skały i tektonika",
+   "w": 2
+  },
+  {
+   "id": "geo-rze",
+   "name": "Rzeźba terenu i procesy geomorfologiczne",
+   "w": 2
+  },
+  {
+   "id": "geo-gle",
+   "name": "Gleby, biosfera, strefowość",
+   "w": 1
+  },
+  {
+   "id": "geo-pls",
+   "name": "Polityka i poziom rozwoju świata",
+   "w": 1
+  },
+  {
+   "id": "geo-lud",
+   "name": "Ludność i urbanizacja",
+   "w": 2
+  },
+  {
+   "id": "geo-gos",
+   "name": "Gospodarka świata",
+   "w": 2
+  },
+  {
+   "id": "geo-sro",
+   "name": "Człowiek a środowisko",
+   "w": 1
+  },
+  {
+   "id": "geo-pol",
+   "name": "Geografia Polski",
+   "w": 3
+  }
+ ],
+ "requirements": [
+  {
+   "code": "P.I.1",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia możliwości wykorzystywania różnych źródeł informacji geograficznej i ocenia ich przydatność"
+  },
+  {
+   "code": "P.I.2",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "wyróżnia graficzne i kartograficzne metody przedstawiania informacji geograficznej i podaje przykłady zastosowania różnych rodzajów map"
+  },
+  {
+   "code": "P.I.3",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 49,
+   "text": "czyta i interpretuje treści różnych map, w tym topograficznych"
+  },
+  {
+   "code": "P.I.4",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 5,
+   "text": "podaje przykłady informacji pozyskiwanych na podstawie obserwacji i pomiarów prowadzonych w terenie"
+  },
+  {
+   "code": "P.I.5",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 21,
+   "text": "interpretuje dane liczbowe przedstawione w postaci tabel i wykresów"
+  },
+  {
+   "code": "P.I.6",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje przydatność fotografii i zdjęć satelitarnych do pozyskiwania informacji o środowisku geograficznym oraz interpretuje ich treść"
+  },
+  {
+   "code": "P.I.7",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "określa współrzędne geograficzne za pomocą odbiornika GPS"
+  },
+  {
+   "code": "P.I.8",
+   "level": "P",
+   "section": "P.I",
+   "sectionName": "Źródła informacji geograficznej, technologie geoinformacyjne oraz metody prezentacji danych przestrzennych",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "podaje przykłady wykorzystania narzędzi GIS do analiz zróżnicowania przestrzennego środowiska geograficznego."
+  },
+  {
+   "code": "P.II.1",
+   "level": "P",
+   "section": "P.II",
+   "sectionName": "Ziemia we Wszechświecie",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 1,
+   "text": "charakteryzuje Ziemię jako planetę Układu Słonecznego"
+  },
+  {
+   "code": "P.II.2",
+   "level": "P",
+   "section": "P.II",
+   "sectionName": "Ziemia we Wszechświecie",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 6,
+   "text": "podaje cechy ruchów Ziemi i charakteryzuje ich następstwa, z uwzględnieniem siły Coriolisa"
+  },
+  {
+   "code": "P.II.3",
+   "level": "P",
+   "section": "P.II",
+   "sectionName": "Ziemia we Wszechświecie",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 1,
+   "text": "na podstawie zdjęć i innych materiałów źródłowych przedstawia i porównuje ciała niebieskie tworzące Układ Słoneczny"
+  },
+  {
+   "code": "P.II.4",
+   "level": "P",
+   "section": "P.II",
+   "sectionName": "Ziemia we Wszechświecie",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 1,
+   "text": "charakteryzuje stan poznania Wszechświata"
+  },
+  {
+   "code": "P.II.5",
+   "level": "P",
+   "section": "P.II",
+   "sectionName": "Ziemia we Wszechświecie",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 0,
+   "text": "identyfikuje wybrane gwiazdozbiory nieba północnego."
+  },
+  {
+   "code": "P.III.1",
+   "level": "P",
+   "section": "P.III",
+   "sectionName": "Atmosfera",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 1,
+   "text": "przedstawia czynniki klimatotwórcze decydujące o zróżnicowaniu klimatu na Ziemi"
+  },
+  {
+   "code": "P.III.2",
+   "level": "P",
+   "section": "P.III",
+   "sectionName": "Atmosfera",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia rozkład temperatury powietrza i ciśnienia atmosferycznego na Ziemi"
+  },
+  {
+   "code": "P.III.3",
+   "level": "P",
+   "section": "P.III",
+   "sectionName": "Atmosfera",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 3,
+   "text": "wyjaśnia mechanizm cyrkulacji atmosferycznej i rozkład opadów atmosferycznych na Ziemi"
+  },
+  {
+   "code": "P.III.4",
+   "level": "P",
+   "section": "P.III",
+   "sectionName": "Atmosfera",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 3,
+   "text": "analizuje mapę synoptyczną i zdjęcia satelitarne w celu przedstawienia aktualnego stanu i prognozy pogody"
+  },
+  {
+   "code": "P.III.5",
+   "level": "P",
+   "section": "P.III",
+   "sectionName": "Atmosfera",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 0,
+   "text": "porównuje strefy klimatyczne i typy klimatów na Ziemi"
+  },
+  {
+   "code": "P.III.6",
+   "level": "P",
+   "section": "P.III",
+   "sectionName": "Atmosfera",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia globalne i lokalne zmiany klimatu, ich przyczyny i skutki."
+  },
+  {
+   "code": "P.IV.1",
+   "level": "P",
+   "section": "P.IV",
+   "sectionName": "Hydrosfera",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia zróżnicowanie rodzajów i wielkości zasobów wód na Ziemi"
+  },
+  {
+   "code": "P.IV.2",
+   "level": "P",
+   "section": "P.IV",
+   "sectionName": "Hydrosfera",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia cechy fizykochemiczne wód morskich oraz dostrzega problem ich zanieczyszczenia"
+  },
+  {
+   "code": "P.IV.3",
+   "level": "P",
+   "section": "P.IV",
+   "sectionName": "Hydrosfera",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 2,
+   "text": "objaśnia mechanizm powstawania i układ powierzchniowych prądów morskich oraz ocenia ich wpływ na życie i gospodarkę człowieka"
+  },
+  {
+   "code": "P.IV.4",
+   "level": "P",
+   "section": "P.IV",
+   "sectionName": "Hydrosfera",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 5,
+   "text": "wyjaśnia zróżnicowanie sieci rzecznej na Ziemi"
+  },
+  {
+   "code": "P.IV.5",
+   "level": "P",
+   "section": "P.IV",
+   "sectionName": "Hydrosfera",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia proces powstawania lodowców i przedstawia ich występowanie na Ziemi"
+  },
+  {
+   "code": "P.IV.6",
+   "level": "P",
+   "section": "P.IV",
+   "sectionName": "Hydrosfera",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia wpływ zanikania pokrywy lodowej w obszarach okołobiegunowych na środowisko geograficzne."
+  },
+  {
+   "code": "P.V.1",
+   "level": "P",
+   "section": "P.V",
+   "sectionName": "Litosfera",
+   "topic": "geo-ska",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia związek budowy wnętrza Ziemi z ruchem płyt litosfery i jego wpływ na genezę procesów endogenicznych"
+  },
+  {
+   "code": "P.V.2",
+   "level": "P",
+   "section": "P.V",
+   "sectionName": "Litosfera",
+   "topic": "geo-ska",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia przebieg głównych procesów wewnętrznych prowadzących do urozmaicenia powierzchni Ziemi (ruchy górotwórcze, wulkanizm, plutonizm, trzęsienia ziemi)"
+  },
+  {
+   "code": "P.V.3",
+   "level": "P",
+   "section": "P.V",
+   "sectionName": "Litosfera",
+   "topic": "geo-ska",
+   "written": true,
+   "freq": 9,
+   "text": "charakteryzuje główne procesy zewnętrzne modelujące powierzchnię Ziemi (erozja, transport, akumulacja) oraz skutki rzeźbotwórczej działalności rzek, wiatru, lodowców górskich, lądolodu i mórz oraz wietrzenia"
+  },
+  {
+   "code": "P.V.4",
+   "level": "P",
+   "section": "P.V",
+   "sectionName": "Litosfera",
+   "topic": "geo-ska",
+   "written": true,
+   "freq": 2,
+   "text": "rozpoznaje wybrane rodzaje skał oraz przedstawia ich gospodarcze zastosowanie."
+  },
+  {
+   "code": "P.VI.1",
+   "level": "P",
+   "section": "P.VI",
+   "sectionName": "Pedosfera i biosfera",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia czynniki i przebieg głównych procesów glebotwórczych"
+  },
+  {
+   "code": "P.VI.2",
+   "level": "P",
+   "section": "P.VI",
+   "sectionName": "Pedosfera i biosfera",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 0,
+   "text": "wyróżnia cechy głównych typów gleb strefowych i niestrefowych, wyjaśnia ich rozmieszczenie na Ziemi"
+  },
+  {
+   "code": "P.VI.3",
+   "level": "P",
+   "section": "P.VI",
+   "sectionName": "Pedosfera i biosfera",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 1,
+   "text": "identyfikuje czynniki wpływające na piętrowe zróżnicowanie roślinności na Ziemi"
+  },
+  {
+   "code": "P.VI.4",
+   "level": "P",
+   "section": "P.VI",
+   "sectionName": "Pedosfera i biosfera",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 1,
+   "text": "wyjaśnia zależności między klimatem, występowaniem typów gleb i formacji roślinnych w układzie strefowym."
+  },
+  {
+   "code": "P.VII.1",
+   "level": "P",
+   "section": "P.VII",
+   "sectionName": "Podział polityczny i zróżnicowanie poziomu rozwoju społeczno-gospodarczego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 1,
+   "text": "posługuje się mapą podziału politycznego świata do analizy procesów społeczno-ekonomicznych"
+  },
+  {
+   "code": "P.VII.2",
+   "level": "P",
+   "section": "P.VII",
+   "sectionName": "Podział polityczny i zróżnicowanie poziomu rozwoju społeczno-gospodarczego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia przyczyny oraz skutki integracji politycznej i gospodarczej na świecie, ze szczególnym uwzględnieniem Unii Europejskiej oraz procesów dezintegracyjnych na wybranych przykładach"
+  },
+  {
+   "code": "P.VII.3",
+   "level": "P",
+   "section": "P.VII",
+   "sectionName": "Podział polityczny i zróżnicowanie poziomu rozwoju społeczno-gospodarczego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "wskazuje na mapie miejsca ważniejszych konfliktów zbrojnych w XXI w."
+  },
+  {
+   "code": "P.VII.4",
+   "level": "P",
+   "section": "P.VII",
+   "sectionName": "Podział polityczny i zróżnicowanie poziomu rozwoju społeczno-gospodarczego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 2,
+   "text": "analizuje zróżnicowanie przestrzenne państw świata według wskaźników rozwoju – PKB na jednego mieszkańca, wskaźnika rozwoju społecznego (HDI)"
+  },
+  {
+   "code": "P.VII.5",
+   "level": "P",
+   "section": "P.VII",
+   "sectionName": "Podział polityczny i zróżnicowanie poziomu rozwoju społeczno-gospodarczego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 1,
+   "text": "porównuje strukturę PKB państw znajdujących się na różnym poziomie rozwoju gospodarczego oraz ocenia strukturę PKB Polski na tle innych krajów."
+  },
+  {
+   "code": "P.VIII.1",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 2,
+   "text": "wskazuje obszary koncentracji ludności i małej gęstości zaludnienia oraz określa czynniki i prawidłowości w zakresie rozmieszczenia ludności świata"
+  },
+  {
+   "code": "P.VIII.2",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 1,
+   "text": "analizuje i wyjaśnia zmiany liczby ludności świata oraz przestrzenne zróżnicowanie wielkości wskaźników: urodzeń, zgonów i przyrostu naturalnego"
+  },
+  {
+   "code": "P.VIII.3",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 2,
+   "text": "opisuje etapy rozwoju demograficznego ludności na przykładach wybranych krajów świata oraz ocenia konsekwencje eksplozji demograficznej lub regresu demograficznego w wybranych państwach"
+  },
+  {
+   "code": "P.VIII.4",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "rozumie społeczno-kulturowe uwarunkowania zróżnicowania modelu rodziny i poziomu dzietności w różnych regionach świata"
+  },
+  {
+   "code": "P.VIII.5",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "omawia przyczyny i konsekwencje procesu starzenia się ludności na przykładach wybranych regionów świata"
+  },
+  {
+   "code": "P.VIII.6",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "charakteryzuje główne kierunki i przyczyny migracji ludności na świecie"
+  },
+  {
+   "code": "P.VIII.7",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "dyskutuje na temat skutków wielkich ruchów migracyjnych dla społeczeństw i gospodarki wybranych państw świata, ze szczególnym uwzględnieniem krajów Europy, w tym Polski"
+  },
+  {
+   "code": "P.VIII.8",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "odróżnia uchodźstwo od migracji ekonomicznej oraz dostrzega problemy uchodźców, w tym dzieci, na wybranych przykładach z Europy i innych regionów świata"
+  },
+  {
+   "code": "P.VIII.9",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 1,
+   "text": "charakteryzuje zróżnicowanie religijne ludności świata i Polski oraz wpływ religii na życie społeczne i gospodarkę"
+  },
+  {
+   "code": "P.VIII.10",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "wyróżnia główne kręgi kulturowe"
+  },
+  {
+   "code": "P.VIII.11",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 1,
+   "text": "określa główne przyczyny i skutki urbanizacji oraz analizuje zróżnicowanie wskaźnika urbanizacji na świecie i w Polsce"
+  },
+  {
+   "code": "P.VIII.12",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "identyfikuje główne czynniki rozwoju obszarów wiejskich na świecie"
+  },
+  {
+   "code": "P.VIII.13",
+   "level": "P",
+   "section": "P.VIII",
+   "sectionName": "Przemiany struktur demograficznych i społecznych oraz procesy osadnicze",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "korzysta z map cyfrowych dostępnych w Internecie w analizie sieci osadniczej wybranych regionów świata."
+  },
+  {
+   "code": "P.IX.1",
+   "level": "P",
+   "section": "P.IX",
+   "sectionName": "Uwarunkowania rozwoju gospodarki światowej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia przyczyny i formułuje twierdzenia o prawidłowościach w zakresie zmiany roli sektorów gospodarki (rolnictwa, przemysłu i usług) wraz z rozwojem cywilizacyjnym dla wybranych krajów świata, w tym Polski"
+  },
+  {
+   "code": "P.IX.2",
+   "level": "P",
+   "section": "P.IX",
+   "sectionName": "Uwarunkowania rozwoju gospodarki światowej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "charakteryzuje przejawy procesów globalizacji w aspekcie gospodarczym, społecznym i politycznym, dyskutuje na temat skutków tego procesu dla Polski i podaje ich przykłady na podstawie własnych obserwacji"
+  },
+  {
+   "code": "P.IX.3",
+   "level": "P",
+   "section": "P.IX",
+   "sectionName": "Uwarunkowania rozwoju gospodarki światowej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 3,
+   "text": "analizuje strukturę i kierunki międzynarodowej wymiany towarowej, ocenia strukturę handlu zagranicznego Polski oraz uzasadnia potrzebę przestrzegania zasad sprawiedliwego handlu"
+  },
+  {
+   "code": "P.IX.4",
+   "level": "P",
+   "section": "P.IX",
+   "sectionName": "Uwarunkowania rozwoju gospodarki światowej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "charakteryzuje główne cechy gospodarki opartej na wiedzy i czynniki wpływające na jej innowacyjność i rozwój w Polsce oraz innych krajach świata"
+  },
+  {
+   "code": "P.IX.5",
+   "level": "P",
+   "section": "P.IX",
+   "sectionName": "Uwarunkowania rozwoju gospodarki światowej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje znaczenie kapitału ludzkiego w rozwoju gospodarczym"
+  },
+  {
+   "code": "P.IX.6",
+   "level": "P",
+   "section": "P.IX",
+   "sectionName": "Uwarunkowania rozwoju gospodarki światowej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "dyskutuje na temat przejawów i skutków kształtowania się społeczeństwa informacyjnego."
+  },
+  {
+   "code": "P.X.1",
+   "level": "P",
+   "section": "P.X",
+   "sectionName": "Rolnictwo, leśnictwo i rybactwo",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 5,
+   "text": "wyjaśnia wpływ czynników przyrodniczych i pozaprzyrodniczych na rozwój rolnictwa na świecie"
+  },
+  {
+   "code": "P.X.2",
+   "level": "P",
+   "section": "P.X",
+   "sectionName": "Rolnictwo, leśnictwo i rybactwo",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "porównuje strukturę użytków rolnych w Polsce z wybranymi krajami świata"
+  },
+  {
+   "code": "P.X.3",
+   "level": "P",
+   "section": "P.X",
+   "sectionName": "Rolnictwo, leśnictwo i rybactwo",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 5,
+   "text": "wyjaśnia zasięg geograficzny głównych upraw i chowu zwierząt na świecie"
+  },
+  {
+   "code": "P.X.4",
+   "level": "P",
+   "section": "P.X",
+   "sectionName": "Rolnictwo, leśnictwo i rybactwo",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia zróżnicowanie przestrzenne wskaźnika lesistości na świecie i w Polsce oraz uzasadnia konieczność racjonalnego gospodarowania zasobami leśnymi zgodnie z zasadami zrównoważonej gospodarki leśnej i ochrony przyrody"
+  },
+  {
+   "code": "P.X.5",
+   "level": "P",
+   "section": "P.X",
+   "sectionName": "Rolnictwo, leśnictwo i rybactwo",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "wykazuje znaczenie przyrodnicze, społeczne i gospodarcze lasów"
+  },
+  {
+   "code": "P.X.6",
+   "level": "P",
+   "section": "P.X",
+   "sectionName": "Rolnictwo, leśnictwo i rybactwo",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia rozmieszczenie głównych łowisk oraz dyskutuje na temat możliwości rozwoju akwakultury w kontekście zachowania równowagi ekosystemów wodnych."
+  },
+  {
+   "code": "P.XI.1",
+   "level": "P",
+   "section": "P.XI",
+   "sectionName": "Przemysł",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "wyjaśnia zmieniającą się rolę czynników lokalizacji przemysłu oraz ich wpływ na rozmieszczenie i rozwój wybranych jego działów"
+  },
+  {
+   "code": "P.XI.2",
+   "level": "P",
+   "section": "P.XI",
+   "sectionName": "Przemysł",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "porównuje cechy przemysłu tradycyjnego i przemysłu zaawansowanych technologii oraz analizuje gospodarcze i społeczne skutki rozwoju nowoczesnego przemysłu"
+  },
+  {
+   "code": "P.XI.3",
+   "level": "P",
+   "section": "P.XI",
+   "sectionName": "Przemysł",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 1,
+   "text": "analizuje przebieg i konsekwencje procesów dezindustrializacji w wybranych państwach świata oraz uzasadnia rolę procesów reindustrializacji na świecie, ze szczególnym uwzględnieniem Europy i Polski"
+  },
+  {
+   "code": "P.XI.4",
+   "level": "P",
+   "section": "P.XI",
+   "sectionName": "Przemysł",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "charakteryzuje zmiany w strukturze zużycia energii, z uwzględnieniem podziału na źródła odnawialne i nieodnawialne oraz porównuje strukturę produkcji energii w Polsce ze strukturą w innych krajach w kontekście bezpieczeństwa energetycznego i wpływu na środowisko geograficzne"
+  },
+  {
+   "code": "P.XI.5",
+   "level": "P",
+   "section": "P.XI",
+   "sectionName": "Przemysł",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 1,
+   "text": "ocenia stan i zmiany bilansu energetycznego świata i Polski, przedstawia skutki rosnącego zapotrzebowania na energię, jego wpływ na środowisko geograficzne oraz uzasadnia konieczność podejmowania działań na rzecz ograniczania tempa wzrostu zużycia energii"
+  },
+  {
+   "code": "P.XI.6",
+   "level": "P",
+   "section": "P.XI",
+   "sectionName": "Przemysł",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "dyskutuje na temat pozytywnych i negatywnych skutków stosowania odnawialnych i nieodnawialnych źródeł energii"
+  },
+  {
+   "code": "P.XI.7",
+   "level": "P",
+   "section": "P.XI",
+   "sectionName": "Przemysł",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje wykorzystanie energetyki jądrowej na świecie, dyskutuje na temat problemów związanych z jej rozwojem."
+  },
+  {
+   "code": "P.XII.1",
+   "level": "P",
+   "section": "P.XII",
+   "sectionName": "Usługi",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 1,
+   "text": "charakteryzuje zróżnicowanie sektora usługowego"
+  },
+  {
+   "code": "P.XII.2",
+   "level": "P",
+   "section": "P.XII",
+   "sectionName": "Usługi",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "wyjaśnia znaczenie usług komunikacyjnych (transportu i łączności), edukacyjnych, finansowych i turystycznych oraz handlowej wymiany towarowej w rozwoju społeczno-gospodarczym świata"
+  },
+  {
+   "code": "P.XII.3",
+   "level": "P",
+   "section": "P.XII",
+   "sectionName": "Usługi",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "przedstawia zalety i wady różnych rodzajów transportu oraz charakteryzuje uwarunkowania ich rozwoju w wybranych państwach świata, w tym w Polsce"
+  },
+  {
+   "code": "P.XII.4",
+   "level": "P",
+   "section": "P.XII",
+   "sectionName": "Usługi",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 1,
+   "text": "na podstawie zebranych informacji, danych statystycznych i map formułuje wnioski dotyczące atrakcyjności wybranych regionów turystycznych świata."
+  },
+  {
+   "code": "P.XIII.1",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje na przykładzie wybranych miejscowości wpływ działalności człowieka na powstawanie smogu typu londyńskiego i fotochemicznego oraz proponuje sposoby zapobiegania powstawaniu tego zjawiska"
+  },
+  {
+   "code": "P.XIII.2",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 1,
+   "text": "ocenia wpływ wielkich inwestycji hydrologicznych na środowisko geograficzne"
+  },
+  {
+   "code": "P.XIII.3",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 1,
+   "text": "analizuje na przykładach ze świata i Polski wpływ działalności rolniczej, w tym monokultury rolnej, chemizacji i mechanizacji rolnictwa, melioracji i nadmiernego wypasu zwierząt na środowisko przyrodnicze"
+  },
+  {
+   "code": "P.XIII.4",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 3,
+   "text": "wyjaśnia wpływ górnictwa na środowisko przyrodnicze na przykładzie odkrywkowych i głębinowych kopalni w Polsce i na świecie oraz dostrzega konieczność rekultywacji terenów pogórniczych"
+  },
+  {
+   "code": "P.XIII.5",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje wpływ dynamicznego rozwoju turystyki na środowisko geograficzne oraz wskazuje możliwości stosowania w turystyce zasad zrównoważonego rozwoju"
+  },
+  {
+   "code": "P.XIII.6",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 1,
+   "text": "ocenia wpływ transportu na warunki życia ludności i środowisko przyrodnicze"
+  },
+  {
+   "code": "P.XIII.7",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje przykłady degradacji krajobrazu kulturowego miast i terenów wiejskich, wyjaśnia rolę planowania przestrzennego w jego kształtowaniu i ochronie"
+  },
+  {
+   "code": "P.XIII.8",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "identyfikuje konflikty interesów w relacjach człowiek – środowisko i rozumie potrzebę ich rozwiązywania zgodnie z zasadami zrównoważonego rozwoju oraz podaje propozycje sposobów rozwiązania takich konfliktów"
+  },
+  {
+   "code": "P.XIII.9",
+   "level": "P",
+   "section": "P.XIII",
+   "sectionName": "Człowiek a środowisko geograficzne – konflikty interesów",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "podaje przykłady procesów rewitalizacji obszarów zdegradowanych i proekologicznych rozwiązań w działalności rolniczej, przemysłowej i usługowej."
+  },
+  {
+   "code": "P.XIV.1",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "wskazuje na mapie główne regiony fizycznogeograficzne Polski"
+  },
+  {
+   "code": "P.XIV.2",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 2,
+   "text": "wyróżnia na podstawie mapy główne jednostki geologiczne występujące na obszarze Polski"
+  },
+  {
+   "code": "P.XIV.3",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "charakteryzuje na podstawie map rozmieszczenie głównych zasobów surowców mineralnych Polski oraz określa ich znaczenie gospodarcze"
+  },
+  {
+   "code": "P.XIV.4",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "identyfikuje związki między budową geologiczną Polski a głównymi cechami ukształtowania powierzchni"
+  },
+  {
+   "code": "P.XIV.5",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "charakteryzuje klimat Polski na podstawie map elementów klimatu i danych klimatycznych"
+  },
+  {
+   "code": "P.XIV.6",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia zróżnicowanie klimatu oraz przedstawia gospodarcze konsekwencje długości trwania okresu wegetacyjnego w różnych regionach Polski"
+  },
+  {
+   "code": "P.XIV.7",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 5,
+   "text": "identyfikuje cechy sieci rzecznej Polski"
+  },
+  {
+   "code": "P.XIV.8",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje znaczenie przyrodnicze, społeczne i gospodarcze, w tym turystyczne jezior oraz sztucznych zbiorników na obszarze Polski"
+  },
+  {
+   "code": "P.XIV.9",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia przyczyny i skutki niedoboru wody w wybranych regionach Polski"
+  },
+  {
+   "code": "P.XIV.10",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "dokonuje analizy stanu środowiska w Polsce i własnym regionie oraz przedstawia wnioski z niej wynikające na podstawie map, danych statystycznych lub aplikacji GIS"
+  },
+  {
+   "code": "P.XIV.11",
+   "level": "P",
+   "section": "P.XIV",
+   "sectionName": "Regionalne zróżnicowanie środowiska przyrodniczego Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "uzasadnia konieczność działań na rzecz ochrony środowiska przyrodniczego w Polsce oraz przedstawia różne formy ochrony przyrody w Polsce i własnym regionie."
+  },
+  {
+   "code": "P.XV.1",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "formułuje twierdzenia o prawidłowościach w zakresie rozmieszczenia ludności i wyjaśnia przyczyny jego zróżnicowania"
+  },
+  {
+   "code": "P.XV.2",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 3,
+   "text": "analizuje strukturę demograficzną ludności Polski na podstawie danych liczbowych oraz piramidy wieku i płci"
+  },
+  {
+   "code": "P.XV.3",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje, na podstawie źródeł informacji geograficznej, zmiany liczby ludności, przyrostu naturalnego i rzeczywistego ludności Polski oraz prognozuje skutki współczesnych przemian demograficznych w Polsce dla rozwoju społeczno-gospodarczego kraju"
+  },
+  {
+   "code": "P.XV.4",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "analizuje przestrzenne zróżnicowanie salda migracji w Polsce, podaje przyczyny migracji wewnętrznych i zewnętrznych, główne kierunki emigracji Polaków"
+  },
+  {
+   "code": "P.XV.5",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 3,
+   "text": "wyjaśnia zmiany w strukturze zatrudnienia, podaje przyczyny bezrobocia i analizuje przestrzenne zróżnicowanie rynku pracy w Polsce"
+  },
+  {
+   "code": "P.XV.6",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia zmiany procesów urbanizacyjnych i osadnictwa wiejskiego w Polsce, wiążąc je z przemianami społecznymi i gospodarczymi"
+  },
+  {
+   "code": "P.XV.7",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 6,
+   "text": "wskazuje obszary o najkorzystniejszych warunkach dla rozwoju rolnictwa oraz analizuje wpływ czynników przyrodniczych i pozaprzyrodniczych na możliwości przemian w rolnictwie Polski"
+  },
+  {
+   "code": "P.XV.8",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia cechy rolnictwa ekologicznego w Polsce, cele certyfikacji żywności produkowanej w ramach tego systemu oraz rozumie potrzebę zapoznania się z opisem pochodzenia i składem nabywanych produktów spożywczych"
+  },
+  {
+   "code": "P.XV.9",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "podaje przyczyny przemian strukturalnych w przemyśle Polski po 1989 r. i ocenia ich skutki"
+  },
+  {
+   "code": "P.XV.10",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje przyczyny zmian i zróżnicowanie sieci transportu w Polsce, wskazuje główne węzły oraz terminale transportowe i przedstawia znaczenie sieci transportu dla gospodarki kraju"
+  },
+  {
+   "code": "P.XV.11",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "prezentuje wartości obiektów stanowiących dziedzictwo kulturowe Polski na przykładzie wybranego regionu lub szlaku turystycznego"
+  },
+  {
+   "code": "P.XV.12",
+   "level": "P",
+   "section": "P.XV",
+   "sectionName": "Społeczeństwo i gospodarka Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "projektuje trasę wycieczki uwzględniającą wybrane grupy atrakcji turystycznych w miejscowości lub regionie."
+  },
+  {
+   "code": "P.XVI.1",
+   "level": "P",
+   "section": "P.XVI",
+   "sectionName": "Morze Bałtyckie i gospodarka morska Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia główne cechy i stan środowiska przyrodniczego Morza Bałtyckiego oraz dostrzega potrzebę jego ochrony"
+  },
+  {
+   "code": "P.XVI.2",
+   "level": "P",
+   "section": "P.XVI",
+   "sectionName": "Morze Bałtyckie i gospodarka morska Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "charakteryzuje gospodarkę morską Polski."
+  },
+  {
+   "code": "R.I.1",
+   "level": "R",
+   "section": "R.I",
+   "sectionName": "Metody badań geograficznych i technologie geoinformacyjne",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia podstawowe ilościowe i jakościowe metody badań geograficznych oraz możliwości ich wykorzystania na wybranych przykładach"
+  },
+  {
+   "code": "R.I.2",
+   "level": "R",
+   "section": "R.I",
+   "sectionName": "Metody badań geograficznych i technologie geoinformacyjne",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "rozumie zasady tworzenia kwestionariusza ankiety oraz przeprowadzania wywiadu i opracowania wyników"
+  },
+  {
+   "code": "R.I.3",
+   "level": "R",
+   "section": "R.I",
+   "sectionName": "Metody badań geograficznych i technologie geoinformacyjne",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 32,
+   "text": "stosuje wybrane metody kartograficzne do prezentacji cech ilościowych i jakościowych środowiska geograficznego i ich analizy z użyciem narzędzi GIS"
+  },
+  {
+   "code": "R.I.4",
+   "level": "R",
+   "section": "R.I",
+   "sectionName": "Metody badań geograficznych i technologie geoinformacyjne",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "wykorzystuje odbiornik GPS do dokumentacji prowadzonych obserwacji"
+  },
+  {
+   "code": "R.I.5",
+   "level": "R",
+   "section": "R.I",
+   "sectionName": "Metody badań geograficznych i technologie geoinformacyjne",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 1,
+   "text": "wykorzystuje technologie informacyjno-komunikacyjne i geoinformacyjne do pozyskiwania, przechowywania, przetwarzania i prezentacji informacji geograficznych"
+  },
+  {
+   "code": "R.I.6",
+   "level": "R",
+   "section": "R.I",
+   "sectionName": "Metody badań geograficznych i technologie geoinformacyjne",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 0,
+   "text": "posługuje się mapą topograficzną w terenie"
+  },
+  {
+   "code": "R.I.7",
+   "level": "R",
+   "section": "R.I",
+   "sectionName": "Metody badań geograficznych i technologie geoinformacyjne",
+   "topic": "geo-map",
+   "written": true,
+   "freq": 70,
+   "text": "identyfikuje zależności przyczynowo-skutkowe, funkcjonalne i czasowe między elementami przestrzeni geograficznej, argumentuje, wnioskuje i formułuje twierdzenia o prawidłowościach."
+  },
+  {
+   "code": "R.II.1",
+   "level": "R",
+   "section": "R.II",
+   "sectionName": "Obserwacje astronomiczne i współczesne badania Wszechświata",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 0,
+   "text": "oblicza wysokość górowania Słońca na dowolnej szerokości geograficznej w dniach równonocy i przesileń w celu wykazania zależności między nachyleniem osi Ziemi w ruchu obiegowym a dopływem energii słonecznej do jej powierzchni"
+  },
+  {
+   "code": "R.II.2",
+   "level": "R",
+   "section": "R.II",
+   "sectionName": "Obserwacje astronomiczne i współczesne badania Wszechświata",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 2,
+   "text": "wyznacza współrzędne geograficzne dowolnego punktu na powierzchni Ziemi na podstawie wysokości górowania Słońca w dniach równonocy i przesileń oraz obliczeń różnicy czasu słonecznego"
+  },
+  {
+   "code": "R.II.3",
+   "level": "R",
+   "section": "R.II",
+   "sectionName": "Obserwacje astronomiczne i współczesne badania Wszechświata",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 1,
+   "text": "wyjaśnia występowanie faz Księżyca, zaćmień Słońca i Księżyca oraz oddziaływanie Księżyca i Słońca na powstawanie pływów"
+  },
+  {
+   "code": "R.II.4",
+   "level": "R",
+   "section": "R.II",
+   "sectionName": "Obserwacje astronomiczne i współczesne badania Wszechświata",
+   "topic": "geo-zie",
+   "written": true,
+   "freq": 1,
+   "text": "prezentuje teorię heliocentryczną Mikołaja Kopernika, znaczenie współczesnych metod badań kosmicznych oraz osiągnięcia naukowców, w tym Polaków, w poznawaniu Wszechświata."
+  },
+  {
+   "code": "R.III.1",
+   "level": "R",
+   "section": "R.III",
+   "sectionName": "Dynamika procesów atmosferycznych",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje związek między budową atmosfery a zjawiskami i procesami meteorologicznymi"
+  },
+  {
+   "code": "R.III.2",
+   "level": "R",
+   "section": "R.III",
+   "sectionName": "Dynamika procesów atmosferycznych",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 2,
+   "text": "przedstawia charakterystyczne zmiany pogody w czasie przemieszczania się frontów atmosferycznych, potrafi je interpretować oraz identyfikować zjawiska z nimi związane"
+  },
+  {
+   "code": "R.III.3",
+   "level": "R",
+   "section": "R.III",
+   "sectionName": "Dynamika procesów atmosferycznych",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia na przykładach genezę wiatrów stałych, okresowych oraz lokalnych i określa ich znaczenie dla przebiegu pogody"
+  },
+  {
+   "code": "R.III.4",
+   "level": "R",
+   "section": "R.III",
+   "sectionName": "Dynamika procesów atmosferycznych",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia uwarunkowania cech klimatów strefowych i astrefowych"
+  },
+  {
+   "code": "R.III.5",
+   "level": "R",
+   "section": "R.III",
+   "sectionName": "Dynamika procesów atmosferycznych",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 0,
+   "text": "opisuje przebieg roczny temperatur powietrza i opadów atmosferycznych we własnym regionie oraz podaje cechy klimatu lokalnego miejsca zamieszkania"
+  },
+  {
+   "code": "R.III.6",
+   "level": "R",
+   "section": "R.III",
+   "sectionName": "Dynamika procesów atmosferycznych",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 4,
+   "text": "rozpoznaje strefę klimatyczną i typ klimatu na podstawie rocznego przebiegu temperatury powietrza i sum opadów atmosferycznych"
+  },
+  {
+   "code": "R.III.7",
+   "level": "R",
+   "section": "R.III",
+   "sectionName": "Dynamika procesów atmosferycznych",
+   "topic": "geo-kli",
+   "written": true,
+   "freq": 6,
+   "text": "dostrzega prawidłowości w rozmieszczeniu zjawisk i procesów atmosferycznych."
+  },
+  {
+   "code": "R.IV.1",
+   "level": "R",
+   "section": "R.IV",
+   "sectionName": "Dynamika procesów hydrologicznych",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 1,
+   "text": "wyjaśnia mechanizm falowania wód morskich i upwellingu oraz wpływ mechanizmu ENSO na środowisko geograficzne"
+  },
+  {
+   "code": "R.IV.2",
+   "level": "R",
+   "section": "R.IV",
+   "sectionName": "Dynamika procesów hydrologicznych",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 0,
+   "text": "wyróżnia rodzaje wód podziemnych oraz wyjaśnia powstawanie źródeł"
+  },
+  {
+   "code": "R.IV.3",
+   "level": "R",
+   "section": "R.IV",
+   "sectionName": "Dynamika procesów hydrologicznych",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 1,
+   "text": "przedstawia uwarunkowania występowania wód podziemnych oraz ich znaczenie gospodarcze"
+  },
+  {
+   "code": "R.IV.4",
+   "level": "R",
+   "section": "R.IV",
+   "sectionName": "Dynamika procesów hydrologicznych",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 4,
+   "text": "rozpoznaje i opisuje cechy ustrojów rzecznych na świecie, w tym ustroju rzeki płynącej najbliżej jego szkoły"
+  },
+  {
+   "code": "R.IV.5",
+   "level": "R",
+   "section": "R.IV",
+   "sectionName": "Dynamika procesów hydrologicznych",
+   "topic": "geo-hyd",
+   "written": true,
+   "freq": 1,
+   "text": "wyjaśnia powstawanie różnych typów jezior na Ziemi."
+  },
+  {
+   "code": "R.V.1",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 4,
+   "text": "rozumie zasady ustalania wieku względnego i bezwzględnego skał oraz wydarzeń geologicznych"
+  },
+  {
+   "code": "R.V.2",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 2,
+   "text": "charakteryzuje najważniejsze wydarzenia geologiczne i przyrodnicze w dziejach Ziemi (fałdowania, transgresje i regresje morskie, zlodowacenia, rozwój świata organicznego i jego wymieranie) oraz odtwarza je na podstawie analizy przekroju geologicznego"
+  },
+  {
+   "code": "R.V.3",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 3,
+   "text": "wyróżnia główne minerały skałotwórcze, klasyfikuje skały, przedstawia genezę skał magmowych, osadowych i przeobrażonych"
+  },
+  {
+   "code": "R.V.4",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 0,
+   "text": "podczas lekcji w terenie rozpoznaje rodzaje skał"
+  },
+  {
+   "code": "R.V.5",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 2,
+   "text": "charakteryzuje zjawiska wietrzenia fizycznego i chemicznego, krasowienia oraz opisuje produkty i formy powstałe w wyniku tych procesów"
+  },
+  {
+   "code": "R.V.6",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 3,
+   "text": "wykazuje wpływ czynników przyrodniczych i działalności człowieka na grawitacyjne ruchy masowe i podaje sposoby zapobiegania im"
+  },
+  {
+   "code": "R.V.7",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 2,
+   "text": "przedstawia przykłady ograniczeń w zakresie zagospodarowania terenu wynikające z budowy geologicznej podłoża, rzeźby i grawitacyjnych ruchów masowych"
+  },
+  {
+   "code": "R.V.8",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 3,
+   "text": "dostrzega prawidłowości w rozmieszczeniu zjawisk i procesów geologicznych na Ziemi"
+  },
+  {
+   "code": "R.V.9",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 4,
+   "text": "wyjaśnia wpływ procesów geologicznych na powstanie głównych struktur tektonicznych i ukształtowanie powierzchni Ziemi na wybranych przykładach"
+  },
+  {
+   "code": "R.V.10",
+   "level": "R",
+   "section": "R.V",
+   "sectionName": "Dynamika procesów geologicznych i geomorfologicznych",
+   "topic": "geo-rze",
+   "written": true,
+   "freq": 2,
+   "text": "analizuje odkrywkę geologiczną i wnioskuje na jej podstawie o przeszłości geologicznej obszaru."
+  },
+  {
+   "code": "R.VI.1",
+   "level": "R",
+   "section": "R.VI",
+   "sectionName": "Gleby",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 2,
+   "text": "rozpoznaje typ gleby i wnioskuje o przebiegu procesu glebotwórczego na podstawie obserwacji profilu glebowego"
+  },
+  {
+   "code": "R.VI.2",
+   "level": "R",
+   "section": "R.VI",
+   "sectionName": "Gleby",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 0,
+   "text": "ocenia przydatność rolniczą wybranych typów gleb na świecie."
+  },
+  {
+   "code": "R.VII.1",
+   "level": "R",
+   "section": "R.VII",
+   "sectionName": "Współpraca i konflikty",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje wpływ dawnych systemów kolonialnych na współczesną sieć powiązań politycznych, gospodarczych i kulturowych państw"
+  },
+  {
+   "code": "R.VII.2",
+   "level": "R",
+   "section": "R.VII",
+   "sectionName": "Współpraca i konflikty",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia rolę ważniejszych międzynarodowych organizacji w życiu politycznym, społecznym i gospodarczym różnych regionów świata, w tym znaczenie Unii Europejskiej w przemianach społeczno-gospodarczych państw zintegrowanych"
+  },
+  {
+   "code": "R.VII.3",
+   "level": "R",
+   "section": "R.VII",
+   "sectionName": "Współpraca i konflikty",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia przyczyny współczesnych konfliktów zbrojnych w wybranych regionach świata oraz ich wpływ na zmiany granic państw, migracje ludności, struktury społeczne, gospodarkę i środowisko przyrodnicze."
+  },
+  {
+   "code": "R.VIII.1",
+   "level": "R",
+   "section": "R.VIII",
+   "sectionName": "Zróżnicowanie struktur społecznych i procesów urbanizacyjnych",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "charakteryzuje strukturę narodowościową ludności świata i Polski oraz zróżnicowanie etniczne w wybranych regionach świata"
+  },
+  {
+   "code": "R.VIII.2",
+   "level": "R",
+   "section": "R.VIII",
+   "sectionName": "Zróżnicowanie struktur społecznych i procesów urbanizacyjnych",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 1,
+   "text": "analizuje zróżnicowanie językowe ludności świata oraz wyjaśnia proces upowszechniania się wybranych języków na świecie i podaje jego konsekwencje"
+  },
+  {
+   "code": "R.VIII.3",
+   "level": "R",
+   "section": "R.VIII",
+   "sectionName": "Zróżnicowanie struktur społecznych i procesów urbanizacyjnych",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje zróżnicowanie struktury wykształcenia ludności na świecie i wykazuje jej związek z poziomem rozwoju społeczno-gospodarczego"
+  },
+  {
+   "code": "R.VIII.4",
+   "level": "R",
+   "section": "R.VIII",
+   "sectionName": "Zróżnicowanie struktur społecznych i procesów urbanizacyjnych",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "dyskutuje na temat problemów państw o różnej strukturze etnicznej (zwartości socjoetnicznej)"
+  },
+  {
+   "code": "R.VIII.5",
+   "level": "R",
+   "section": "R.VIII",
+   "sectionName": "Zróżnicowanie struktur społecznych i procesów urbanizacyjnych",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 2,
+   "text": "wyróżnia fazy urbanizacji oraz charakteryzuje procesy metropolizacji"
+  },
+  {
+   "code": "R.VIII.6",
+   "level": "R",
+   "section": "R.VIII",
+   "sectionName": "Zróżnicowanie struktur społecznych i procesów urbanizacyjnych",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "identyfikuje funkcje, typy fizjonomiczne miast i formy zespołów miejskich na świecie."
+  },
+  {
+   "code": "R.IX.1",
+   "level": "R",
+   "section": "R.IX",
+   "sectionName": "Struktura gospodarki i tendencje rozwoju gospodarczego",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje w analizach gospodarczych Polską Klasyfikację Działalności (PKD)"
+  },
+  {
+   "code": "R.IX.2",
+   "level": "R",
+   "section": "R.IX",
+   "sectionName": "Struktura gospodarki i tendencje rozwoju gospodarczego",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "dostrzega współzależność sektorów przemysłowego i usługowego"
+  },
+  {
+   "code": "R.IX.3",
+   "level": "R",
+   "section": "R.IX",
+   "sectionName": "Struktura gospodarki i tendencje rozwoju gospodarczego",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "wykazuje wpływ procesu globalizacji i rozwoju nowych technologii na zmiany w zatrudnieniu według sektorów gospodarki oraz przemiany wewnątrzsektorowe na wybranych przykładach."
+  },
+  {
+   "code": "R.X.1",
+   "level": "R",
+   "section": "R.X",
+   "sectionName": "Zróżnicowanie gospodarki rolnej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 6,
+   "text": "charakteryzuje różne typy rolnictwa, przedstawia ich uwarunkowania oraz wyróżnia główne cechy regionów rolniczych na świecie"
+  },
+  {
+   "code": "R.X.2",
+   "level": "R",
+   "section": "R.X",
+   "sectionName": "Zróżnicowanie gospodarki rolnej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia zasady rolnictwa ekologicznego, wykazuje różnice między rolnictwem uprzemysłowionym i rolnictwem ekologicznym oraz przedstawia ich wady i zalety"
+  },
+  {
+   "code": "R.X.3",
+   "level": "R",
+   "section": "R.X",
+   "sectionName": "Zróżnicowanie gospodarki rolnej",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia korzyści oraz identyfikuje problemy związane z upowszechnianiem się roślin uprawnych modyfikowanych genetycznie i wyjaśnia rozmieszczenie obszarów ich upraw."
+  },
+  {
+   "code": "R.XI.1",
+   "level": "R",
+   "section": "R.XI",
+   "sectionName": "Przemiany sektora przemysłowego i budownictwa",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 1,
+   "text": "na wybranych przykładach wykazuje różnice między czynnikami lokalizacji przemysłu tradycyjnego i zaawansowanych technologii oraz wyjaśnia zmiany znaczenia tych czynników w procesie rozwoju cywilizacyjnego"
+  },
+  {
+   "code": "R.XI.2",
+   "level": "R",
+   "section": "R.XI",
+   "sectionName": "Przemiany sektora przemysłowego i budownictwa",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 3,
+   "text": "wskazuje obszary koncentracji przemysłu (ważniejsze ośrodki przemysłowe, technopolie, okręgi) na świecie i w Polsce oraz wyjaśnia istotę i rolę klastrów w budowie gospodarki opartej na wiedzy"
+  },
+  {
+   "code": "R.XI.3",
+   "level": "R",
+   "section": "R.XI",
+   "sectionName": "Przemiany sektora przemysłowego i budownictwa",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia zmiany struktury przestrzennej przemysłu tradycyjnego i zaawansowanych technologii na świecie i w Polsce"
+  },
+  {
+   "code": "R.XI.4",
+   "level": "R",
+   "section": "R.XI",
+   "sectionName": "Przemiany sektora przemysłowego i budownictwa",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 1,
+   "text": "przedstawia rolę budownictwa w gospodarce na przykładzie wybranych państw świata i Polski"
+  },
+  {
+   "code": "R.XI.5",
+   "level": "R",
+   "section": "R.XI",
+   "sectionName": "Przemiany sektora przemysłowego i budownictwa",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "podaje argumenty przemawiające za potrzebą zharmonizowania stylu budownictwa z istniejącym krajobrazem przyrodniczym i kulturowym."
+  },
+  {
+   "code": "R.XII.1",
+   "level": "R",
+   "section": "R.XII",
+   "sectionName": "Rola tradycyjnych i nowoczesnych usług w rozwoju społeczno-gospodarczym",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "wykazuje na podstawie danych statystycznych i map tematycznych zróżnicowanie udziału poszczególnych rodzajów transportu w przewozach na świecie i w Polsce"
+  },
+  {
+   "code": "R.XII.2",
+   "level": "R",
+   "section": "R.XII",
+   "sectionName": "Rola tradycyjnych i nowoczesnych usług w rozwoju społeczno-gospodarczym",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje rolę telekomunikacji w kształtowaniu społeczeństwa informacyjnego"
+  },
+  {
+   "code": "R.XII.3",
+   "level": "R",
+   "section": "R.XII",
+   "sectionName": "Rola tradycyjnych i nowoczesnych usług w rozwoju społeczno-gospodarczym",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "identyfikuje prawidłowości dotyczące przestrzennego zróżnicowania dostępności do usług edukacyjnych oraz nakładów na prace badawczo-rozwojowe na świecie"
+  },
+  {
+   "code": "R.XII.4",
+   "level": "R",
+   "section": "R.XII",
+   "sectionName": "Rola tradycyjnych i nowoczesnych usług w rozwoju społeczno-gospodarczym",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje znaczenie usług finansowych w rozwoju innych sektorów gospodarki oraz wskazuje główne centra finansowe na świecie"
+  },
+  {
+   "code": "R.XII.5",
+   "level": "R",
+   "section": "R.XII",
+   "sectionName": "Rola tradycyjnych i nowoczesnych usług w rozwoju społeczno-gospodarczym",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia przyczyny i skutki społeczno-kulturowe i gospodarcze szybkiego rozwoju usług turystycznych na świecie"
+  },
+  {
+   "code": "R.XII.6",
+   "level": "R",
+   "section": "R.XII",
+   "sectionName": "Rola tradycyjnych i nowoczesnych usług w rozwoju społeczno-gospodarczym",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "na podstawie danych statystycznych analizuje rolę usług turystycznych w rozwoju regionów świata"
+  },
+  {
+   "code": "R.XII.7",
+   "level": "R",
+   "section": "R.XII",
+   "sectionName": "Rola tradycyjnych i nowoczesnych usług w rozwoju społeczno-gospodarczym",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje mapę głównych miejsc pielgrzymkowych różnych religii na świecie i w Polsce."
+  },
+  {
+   "code": "R.XIII.1",
+   "level": "R",
+   "section": "R.XIII",
+   "sectionName": "Związki między elementami środowiska przyrodniczego na wybranych obszarach Polski",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 3,
+   "text": "przedstawia cechy rzeźby i wyjaśnia wpływ procesów wewnętrznych i zewnętrznych na ukształtowanie powierzchni głównych jednostek fizycznogeograficznych Polski"
+  },
+  {
+   "code": "R.XIII.2",
+   "level": "R",
+   "section": "R.XIII",
+   "sectionName": "Związki między elementami środowiska przyrodniczego na wybranych obszarach Polski",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 2,
+   "text": "porównuje środowisko przyrodnicze Tatr Zachodnich i Wysokich oraz wykazuje związki między jego elementami"
+  },
+  {
+   "code": "R.XIII.3",
+   "level": "R",
+   "section": "R.XIII",
+   "sectionName": "Związki między elementami środowiska przyrodniczego na wybranych obszarach Polski",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 2,
+   "text": "przedstawia specyficzne cechy środowiska przyrodniczego Sudetów, Gór Świętokrzyskich i Bieszczad oraz identyfikuje przyczyny istniejących różnic"
+  },
+  {
+   "code": "R.XIII.4",
+   "level": "R",
+   "section": "R.XIII",
+   "sectionName": "Związki między elementami środowiska przyrodniczego na wybranych obszarach Polski",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia wpływ skał węglanowych i lessowych wyżyn Polski na elementy środowiska przyrodniczego"
+  },
+  {
+   "code": "R.XIII.5",
+   "level": "R",
+   "section": "R.XIII",
+   "sectionName": "Związki między elementami środowiska przyrodniczego na wybranych obszarach Polski",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia wpływ lądolodu na środowisko przyrodnicze pojezierzy i nizin oraz porównuje rzeźbę młodoglacjalną i staroglacjalną"
+  },
+  {
+   "code": "R.XIII.6",
+   "level": "R",
+   "section": "R.XIII",
+   "sectionName": "Związki między elementami środowiska przyrodniczego na wybranych obszarach Polski",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "wykazuje związki między elementami środowiska przyrodniczego Żuław Wiślanych"
+  },
+  {
+   "code": "R.XIII.7",
+   "level": "R",
+   "section": "R.XIII",
+   "sectionName": "Związki między elementami środowiska przyrodniczego na wybranych obszarach Polski",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "charakteryzuje zróżnicowanie rzeźby pobrzeża Bałtyku oraz porównuje cechy i wyjaśnia genezę wybrzeża niskiego i wysokiego."
+  },
+  {
+   "code": "R.XIV.1",
+   "level": "R",
+   "section": "R.XIV",
+   "sectionName": "Zróżnicowanie krajobrazowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 4,
+   "text": "rozpoznaje na podstawie materiałów źródłowych (map, fotografii naziemnych i lotniczych, obrazów satelitarnych) rodzaj pokrycia terenu i wyróżnia główne cechy wybranych krajobrazów w Polsce: krajobraz wód powierzchniowych (np. Wielkie Jeziora Mazurskie), leśny (np. Puszcza Białowieska), bagienno-łąkowy (np. Biebrzański Park Narodowy), górski ponad granicą lasu (np. Karkonosze), rolniczy – wiejski (np. Roztocze), podmiejski i rezydencjalny (np. miejscowości podwarszawskie), małomiasteczkowy (np. Tykocin), wielkich miast (np. Poznań), przemysłowy (np. Dąbrowa Górnicza – obszar kombinatu metalurgicznego), górniczy (np. obszar kopalni Bełchatów), komunikacyjny (np. węzeł transportowy komunikacyjny Kraków – Balice)"
+  },
+  {
+   "code": "R.XIV.2",
+   "level": "R",
+   "section": "R.XIV",
+   "sectionName": "Zróżnicowanie krajobrazowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 5,
+   "text": "podaje ważniejsze czynniki kształtujące wybrane krajobrazy"
+  },
+  {
+   "code": "R.XIV.3",
+   "level": "R",
+   "section": "R.XIV",
+   "sectionName": "Zróżnicowanie krajobrazowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "dokonuje oceny wartości przyrodniczych i kulturowych oraz stanu zachowania krajobrazu (harmonijny, przekształcony, zdegradowany)"
+  },
+  {
+   "code": "R.XIV.4",
+   "level": "R",
+   "section": "R.XIV",
+   "sectionName": "Zróżnicowanie krajobrazowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 3,
+   "text": "podaje przykłady działań służących zachowaniu walorów krajobrazów przyrodniczych i kulturowych oraz zapobieganiu ich degradacji."
+  },
+  {
+   "code": "R.XV.1",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia zróżnicowanie etnograficzne Polski na wybranych przykładach"
+  },
+  {
+   "code": "R.XV.2",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "porównuje poziom życia ludności (w zakresie stanu środowiska, warunków mieszkaniowych, infrastruktury komunalnej, dostępu do kultury, oświaty i ochrony zdrowia) w wybranych regionach Polski"
+  },
+  {
+   "code": "R.XV.3",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "analizuje zróżnicowanie przestrzenne zachowań prokreacyjnych Polaków i wykazuje ich związek z uwarunkowaniami społeczno-kulturowymi"
+  },
+  {
+   "code": "R.XV.4",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "dyskutuje na temat przyczyn depopulacji niektórych wsi w Polsce, zalet i wad życia na wsi i w miastach różnej wielkości oraz w wybranych regionach"
+  },
+  {
+   "code": "R.XV.5",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "dostrzega problem gettoizacji przestrzeni miasta, jego przyczyny i konsekwencje"
+  },
+  {
+   "code": "R.XV.6",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 3,
+   "text": "identyfikuje cechy indywidualne wybranych miast w Polsce, określa, na czym polega ich genius loci"
+  },
+  {
+   "code": "R.XV.7",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje przestrzenne zróżnicowanie preferencji wyborczych Polaków z wykorzystaniem technologii geoinformacyjnych"
+  },
+  {
+   "code": "R.XV.8",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "dostrzega wartość partycypacji społecznej w działaniach na rzecz rozwoju lokalnego i regionalnego, w tym poprawy jakości życia"
+  },
+  {
+   "code": "R.XV.9",
+   "level": "R",
+   "section": "R.XV",
+   "sectionName": "Zróżnicowanie społeczno-kulturowe Polski",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje dane dotyczące regionalnego zróżnicowania ubóstwa, formułuje i weryfikuje hipotezy dotyczące jego przyczyn, proponuje działania na rzecz ograniczania biedy i wykluczenia społecznego w Polsce oraz wykazuje znaczenie solidarności społecznej w rozwiązywaniu tego problemu."
+  },
+  {
+   "code": "R.XVI.1",
+   "level": "R",
+   "section": "R.XVI",
+   "sectionName": "Elementy przestrzeni geograficznej i relacje między nimi we własnym regionie – analiza materiałów źródłowych, badania i obserwacje terenowe. Uczeń",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 2,
+   "text": "analizuje wpływ przedsiębiorstwa przemysłowego lub usługowego na środowisko przyrodnicze, rynek pracy, jakość życia ludności i rozwój gospodarczy najbliższego otoczenia"
+  },
+  {
+   "code": "R.XVI.2",
+   "level": "R",
+   "section": "R.XVI",
+   "sectionName": "Elementy przestrzeni geograficznej i relacje między nimi we własnym regionie – analiza materiałów źródłowych, badania i obserwacje terenowe. Uczeń",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje dostępność i ocenia jakość wybranych usług (np. edukacyjnych, zdrowotnych, rekreacyjnych, handlowych) w najbliższej okolicy (ulicy, dzielnicy miasta, wsi) na podstawie ankiety"
+  },
+  {
+   "code": "R.XVI.3",
+   "level": "R",
+   "section": "R.XVI",
+   "sectionName": "Elementy przestrzeni geograficznej i relacje między nimi we własnym regionie – analiza materiałów źródłowych, badania i obserwacje terenowe. Uczeń",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "na podstawie obserwacji oraz dostępnych materiałów źródłowych (np. miejscowego planu zagospodarowania przestrzennego, geoportalu, zdjęć satelitarnych) wyróżnia główne funkcje i dokonuje oceny zagospodarowania wybranego terenu"
+  },
+  {
+   "code": "R.XVI.4",
+   "level": "R",
+   "section": "R.XVI",
+   "sectionName": "Elementy przestrzeni geograficznej i relacje między nimi we własnym regionie – analiza materiałów źródłowych, badania i obserwacje terenowe. Uczeń",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "na podstawie obserwacji terenowych, współczesnych i archiwalnych map oraz fotografii prezentuje i wyjaśnia zmiany układu przestrzennego i wyglądu zabudowy wybranego terenu we własnej miejscowości"
+  },
+  {
+   "code": "R.XVI.5",
+   "level": "R",
+   "section": "R.XVI",
+   "sectionName": "Elementy przestrzeni geograficznej i relacje między nimi we własnym regionie – analiza materiałów źródłowych, badania i obserwacje terenowe. Uczeń",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 1,
+   "text": "wyszukuje informacje na temat rewitalizacji zdegradowanych obszarów zurbanizowanych i poprzemysłowych, przedstawia jej cele oraz proponuje działania rewitalizacyjne w wybranej miejscowości własnego regionu"
+  },
+  {
+   "code": "R.XVI.6",
+   "level": "R",
+   "section": "R.XVI",
+   "sectionName": "Elementy przestrzeni geograficznej i relacje między nimi we własnym regionie – analiza materiałów źródłowych, badania i obserwacje terenowe. Uczeń",
+   "topic": "geo-pol",
+   "written": true,
+   "freq": 0,
+   "text": "dokonuje analizy mocnych i słabych stron miejscowości zamieszkania lub dzielnicy dużego miasta oraz zagrożeń i szans jej rozwoju."
+  },
+  {
+   "code": "R.XVII.1",
+   "level": "R",
+   "section": "R.XVII",
+   "sectionName": "Strefowość środowiska przyrodniczego na Ziemi",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 0,
+   "text": "identyfikuje prawidłowości dotyczące zróżnicowania środowiska przyrodniczego na Ziemi"
+  },
+  {
+   "code": "R.XVII.2",
+   "level": "R",
+   "section": "R.XVII",
+   "sectionName": "Strefowość środowiska przyrodniczego na Ziemi",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia strefowe występowanie zjawisk przyrodniczych"
+  },
+  {
+   "code": "R.XVII.3",
+   "level": "R",
+   "section": "R.XVII",
+   "sectionName": "Strefowość środowiska przyrodniczego na Ziemi",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 1,
+   "text": "przedstawia główne cechy środowiska przyrodniczego stref od równikowej do polarnych"
+  },
+  {
+   "code": "R.XVII.4",
+   "level": "R",
+   "section": "R.XVII",
+   "sectionName": "Strefowość środowiska przyrodniczego na Ziemi",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 0,
+   "text": "identyfikuje na przykładach współzależności elementów środowiska przyrodniczego w strefach od równikowej do polarnych"
+  },
+  {
+   "code": "R.XVII.5",
+   "level": "R",
+   "section": "R.XVII",
+   "sectionName": "Strefowość środowiska przyrodniczego na Ziemi",
+   "topic": "geo-gle",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia wpływ astrefowych czynników przyrodniczych na modyfikowanie zjawisk strefowych na Ziemi."
+  },
+  {
+   "code": "R.XVIII.1",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia powstawanie geozagrożeń meteorologicznych i klimatycznych (tropikalne cyklony, trąby powietrzne, pustynnienie, zmiany klimatu)"
+  },
+  {
+   "code": "R.XVIII.2",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 2,
+   "text": "wyjaśnia powstawanie powodzi i tsunami"
+  },
+  {
+   "code": "R.XVIII.3",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia genezę i skutki geologicznych zagrożeń (wulkanizm, trzęsienia ziemi, powstawanie lejów krasowych)"
+  },
+  {
+   "code": "R.XVIII.4",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "wskazuje na mapie regiony występowania geozagrożeń i podaje przykłady działań ograniczających ich skutki"
+  },
+  {
+   "code": "R.XVIII.5",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "podaje przyrodnicze i antropogeniczne przyczyny intensywnej erozji gleb oraz prezentuje sposoby jej zapobiegania na wybranych przykładach"
+  },
+  {
+   "code": "R.XVIII.6",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "wykorzystuje zdjęcia satelitarne i lotnicze oraz technologie geoinformacyjne do lokalizowania i określania zasięgu katastrof przyrodniczych"
+  },
+  {
+   "code": "R.XVIII.7",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 1,
+   "text": "dyskutuje na temat wpływu deforestacji i innych czynników na zmiany klimatu na Ziemi oraz proponuje działania służące ograniczaniu tych zmian"
+  },
+  {
+   "code": "R.XVIII.8",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "wskazuje na mapach obszary współcześnie zlodzone i ocenia wpływ zmian klimatycznych na zasięg pokrywy lodowej"
+  },
+  {
+   "code": "R.XVIII.9",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 1,
+   "text": "identyfikuje przyczyny przyrodnicze i antropogeniczne ograniczonych zasobów wodnych w wybranych regionach świata i proponuje działania wspomagające racjonalne gospodarowanie wodą"
+  },
+  {
+   "code": "R.XVIII.10",
+   "level": "R",
+   "section": "R.XVIII",
+   "sectionName": "Problemy środowiskowe współczesnego świata",
+   "topic": "geo-sro",
+   "written": true,
+   "freq": 0,
+   "text": "uzasadnia znaczenie georóżnorodności oraz bioróżnorodności i podaje przykłady działań na rzecz ich ochrony."
+  },
+  {
+   "code": "R.XIX.1",
+   "level": "R",
+   "section": "R.XIX",
+   "sectionName": "Uwarunkowania przyrodnicze gospodarczej działalności człowieka na przykładzie wybranych obszarów",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 6,
+   "text": "wykazuje związki kierunków produkcji rolnej, w tym struktury upraw i chowu zwierząt, z klimatem, ukształtowaniem powierzchni, żyznością gleb i zasobami wodnymi"
+  },
+  {
+   "code": "R.XIX.2",
+   "level": "R",
+   "section": "R.XIX",
+   "sectionName": "Uwarunkowania przyrodnicze gospodarczej działalności człowieka na przykładzie wybranych obszarów",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 5,
+   "text": "wyjaśnia związki między występowaniem surowców mineralnych a kierunkami rozwoju przemysłu i strukturą towarową handlu zagranicznego"
+  },
+  {
+   "code": "R.XIX.3",
+   "level": "R",
+   "section": "R.XIX",
+   "sectionName": "Uwarunkowania przyrodnicze gospodarczej działalności człowieka na przykładzie wybranych obszarów",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 4,
+   "text": "prezentuje przykłady sposobów pokonywania przyrodniczych ograniczeń działalności gospodarczej człowieka i ocenia ich zgodność z zasadami zrównoważonego rozwoju"
+  },
+  {
+   "code": "R.XIX.4",
+   "level": "R",
+   "section": "R.XIX",
+   "sectionName": "Uwarunkowania przyrodnicze gospodarczej działalności człowieka na przykładzie wybranych obszarów",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia zmiany znaczenia czynników przyrodniczych w rozwoju społeczno-gospodarczym regionów w przeszłości i współcześnie oraz dyskutuje na temat ich roli w przyszłości."
+  },
+  {
+   "code": "R.XX.1",
+   "level": "R",
+   "section": "R.XX",
+   "sectionName": "Problemy polityczne współczesnego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia najnowsze zmiany na mapie politycznej świata"
+  },
+  {
+   "code": "R.XX.2",
+   "level": "R",
+   "section": "R.XX",
+   "sectionName": "Problemy polityczne współczesnego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 1,
+   "text": "przedstawia i ocenia skutki (polityczne, społeczne i gospodarcze) przemian ustrojowych i gospodarczych w Europie po 1989 r."
+  },
+  {
+   "code": "R.XX.3",
+   "level": "R",
+   "section": "R.XX",
+   "sectionName": "Problemy polityczne współczesnego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "dyskutuje na temat funkcjonowania Unii Europejskiej w sferach społeczno-gospodarczej oraz środowiskowej"
+  },
+  {
+   "code": "R.XX.4",
+   "level": "R",
+   "section": "R.XX",
+   "sectionName": "Problemy polityczne współczesnego świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "charakteryzuje wyzwanie dla świata, jakim jest terroryzm."
+  },
+  {
+   "code": "R.XXI.1",
+   "level": "R",
+   "section": "R.XXI",
+   "sectionName": "Wybrane problemy społeczne współczesnego świata",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 4,
+   "text": "charakteryzuje problemy demograficzne w skali globalnej i krajowej (starzenie demograficzne, eksplozja ludnościowa, migracje, uchodźstwo), podając ich przyczyny oraz skutki"
+  },
+  {
+   "code": "R.XXI.2",
+   "level": "R",
+   "section": "R.XXI",
+   "sectionName": "Wybrane problemy społeczne współczesnego świata",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 2,
+   "text": "formułuje hipotezy dotyczące wpływu procesów starzenia się ludności na życie społeczne i gospodarkę, ze szczególnym uwzględnieniem Europy"
+  },
+  {
+   "code": "R.XXI.3",
+   "level": "R",
+   "section": "R.XXI",
+   "sectionName": "Wybrane problemy społeczne współczesnego świata",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "wyróżnia problemy związane z migracjami (dobrowolnymi i przymusowymi) i uchodźstwem ludności w skali globalnej i krajowej oraz formułuje hipotezy odnoszące się do migracji ludności spowodowanych zmianami klimatycznymi"
+  },
+  {
+   "code": "R.XXI.4",
+   "level": "R",
+   "section": "R.XXI",
+   "sectionName": "Wybrane problemy społeczne współczesnego świata",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "klasyfikuje migracje oraz charakteryzuje przebieg ważniejszych fal migracyjnych historycznych i współczesnych na świecie"
+  },
+  {
+   "code": "R.XXI.5",
+   "level": "R",
+   "section": "R.XXI",
+   "sectionName": "Wybrane problemy społeczne współczesnego świata",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia problem wykorzystywania pracy dzieci na świecie i pracowników w krajach o niskich kosztach pracy"
+  },
+  {
+   "code": "R.XXI.6",
+   "level": "R",
+   "section": "R.XXI",
+   "sectionName": "Wybrane problemy społeczne współczesnego świata",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "analizuje przyczyny i skutki bezrobocia w regionach wysoko i słabo rozwiniętych ze szczególnym uwzględnieniem problemu bezrobocia wśród ludzi młodych"
+  },
+  {
+   "code": "R.XXI.7",
+   "level": "R",
+   "section": "R.XXI",
+   "sectionName": "Wybrane problemy społeczne współczesnego świata",
+   "topic": "geo-lud",
+   "written": true,
+   "freq": 0,
+   "text": "uzasadnia potrzebę przeciwdziałania dyskryminacji rasowej, ksenofobii i innym formom nietolerancji na świecie oraz przedstawia przykłady wpływu wykluczania grup ludności na życie społeczne i gospodarcze państw."
+  },
+  {
+   "code": "R.XXII.1",
+   "level": "R",
+   "section": "R.XXII",
+   "sectionName": "Zróżnicowanie jakości życia człowieka w wybranych regionach i krajach świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "rozumie pojęcie jakości życia człowieka, formułuje hipotezy dotyczące przyczyn jego zróżnicowania na świecie oraz przedstawia konsekwencje zróżnicowania jakości życia człowieka w różnych regionach i krajach świata"
+  },
+  {
+   "code": "R.XXII.2",
+   "level": "R",
+   "section": "R.XXII",
+   "sectionName": "Zróżnicowanie jakości życia człowieka w wybranych regionach i krajach świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "na podstawie materiałów źródłowych analizuje i wyjaśnia zróżnicowanie poziomu zaspokojenia potrzeb żywieniowych, poczucia bezpieczeństwa i potrzeb edukacyjnych oraz przyczyn zagrożenia życia, w tym związanych z rozprzestrzenianiem się chorób, niskim poziomem ochrony zdrowia i degradacją środowiska na świecie"
+  },
+  {
+   "code": "R.XXII.3",
+   "level": "R",
+   "section": "R.XXII",
+   "sectionName": "Zróżnicowanie jakości życia człowieka w wybranych regionach i krajach świata",
+   "topic": "geo-pls",
+   "written": true,
+   "freq": 0,
+   "text": "dokonuje oceny poczucia bezpieczeństwa mieszkańców w wybranych regionach świata na podstawie samodzielnie opracowanych kryteriów."
+  },
+  {
+   "code": "R.XXIII.1",
+   "level": "R",
+   "section": "R.XXIII",
+   "sectionName": "Problemy gospodarcze współczesnego świata",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 2,
+   "text": "wskazuje na mapie świata najbiedniejsze i najbogatsze państwa oraz charakteryzuje ich główne problemy społeczno-gospodarcze, w tym problem zadłużenia"
+  },
+  {
+   "code": "R.XXIII.2",
+   "level": "R",
+   "section": "R.XXIII",
+   "sectionName": "Problemy gospodarcze współczesnego świata",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 3,
+   "text": "identyfikuje przyczyny przyrodnicze, historyczne, społeczne, gospodarcze i polityczne dysproporcji rozwoju regionów świata i państw oraz przedstawia skutki tych nierówności"
+  },
+  {
+   "code": "R.XXIII.3",
+   "level": "R",
+   "section": "R.XXIII",
+   "sectionName": "Problemy gospodarcze współczesnego świata",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "podaje przykłady działań dążących do zmniejszania dysproporcji w rozwoju gospodarczym państw i regionów świata oraz dokonuje ich oceny"
+  },
+  {
+   "code": "R.XXIII.4",
+   "level": "R",
+   "section": "R.XXIII",
+   "sectionName": "Problemy gospodarcze współczesnego świata",
+   "topic": "geo-gos",
+   "written": true,
+   "freq": 0,
+   "text": "ocenia wpływ korporacji transnarodowych na społeczeństwa, gospodarki i środowisko przyrodnicze państw i regionów świata."
+  }
+ ],
+ "unmatchedSchemeCodes": [
+  "R.XIII.10"
+ ]
+}

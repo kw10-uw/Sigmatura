@@ -1,8 +1,10 @@
 // Sigmatura service worker: app works offline after the first visit.
 // Bump VERSION on every release so phones pick up the new files.
-const VERSION = "v1";
+const VERSION = "v2";
 const CACHE = "sigmatura-" + VERSION;
-const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon.svg", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png"];
+// Formula sheet pages (maths): precached so they open offline, e.g. during practice without signal.
+const WZORY = Array.from({ length: 31 }, (_, i) => `assets/wzory/p${String(i + 4).padStart(2, "0")}.webp`);
+const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon.svg", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png", ...WZORY];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

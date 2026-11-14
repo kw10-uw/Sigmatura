@@ -15,7 +15,7 @@
       "points": 1,
       "type": "num",
       "topic": "geo-map",
-      "requirement": "I.1",
+      "requirement": "P.I.3",
       "materials": ["m1"],
       "prompt": "Odległość na mapie wynosi 4 cm. Oblicz odległość w terenie.",
       "answer": 2,

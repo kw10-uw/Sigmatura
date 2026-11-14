@@ -1,0 +1,970 @@
+{
+ "subject": "pol-pp",
+ "source": "Rozporządzenie MEN z 28.06.2024 (Dz.U. 2024 poz. 1019), załącznik nr 1 – podstawa programowa LO, s. 30–48, kolumna: zakres podstawowy",
+ "scope": "Zakres podstawowy. readings = lektury obowiązkowe dla zakresu podstawowego.",
+ "freqNote": "freq = ile razy zasady oceniania arkuszy CKE od grudnia 2024 (diagnostyczny XII 2024, maj 2025, próbny III 2026, maj 2026; wersja standardowa) powołują się na dane wymaganie. Arkusze 2023 i V 2024 pominięto: używały starszej numeracji wymagań.",
+ "topics": [
+  {
+   "id": "pol-epo",
+   "name": "Epoki literackie i lektury",
+   "w": 3
+  },
+  {
+   "id": "pol-sty",
+   "name": "Środki stylistyczne",
+   "w": 2
+  },
+  {
+   "id": "pol-tek",
+   "name": "Czytanie tekstów nieliterackich",
+   "w": 3
+  },
+  {
+   "id": "pol-jez",
+   "name": "Nauka o języku",
+   "w": 2
+  },
+  {
+   "id": "pol-kul",
+   "name": "Kultura i funkcje języka",
+   "w": 1
+  },
+  {
+   "id": "pol-wyp",
+   "name": "Wypracowanie i argumentacja",
+   "w": 3
+  }
+ ],
+ "requirements": [
+  {
+   "code": "I.1.1",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 7,
+   "text": "rozumie podstawy periodyzacji literatury, sytuuje utwory literackie w poszczególnych okresach: starożytność, średniowiecze, renesans, barok, oświecenie, romantyzm, pozytywizm, Młoda Polska, dwudziestolecie międzywojenne, literatura wojny i okupacji, literatura lat 1945–1989 krajowa i emigracyjna, literatura po 1989 r."
+  },
+  {
+   "code": "I.1.2",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 5,
+   "text": "rozpoznaje w utworze literackim elementy fantastyki, symbolizmu, realizmu"
+  },
+  {
+   "code": "I.1.3",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 1,
+   "text": "rozróżnia gatunki epickie, liryczne, dramatyczne i synkretyczne, w tym: gatunki poznane w szkole podstawowej oraz epos, odę, tragedię antyczną, psalm, sonet, satyrę, balladę, dramat romantyczny, a także odmiany powieści i dramatu; wymienia ich podstawowe cechy gatunkowe"
+  },
+  {
+   "code": "I.1.4",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-sty",
+   "written": true,
+   "freq": 6,
+   "text": "rozpoznaje w tekście literackim środki wyrazu artystycznego poznane w szkole podstawowej oraz środki znaczeniowe: oksymoron, peryfrazę, hiperbolę; leksykalne, w tym frazeologizmy; składniowe: antytezę, paralelizm, wyliczenie; wersyfikacyjne, w tym przerzutnię; określa ich funkcje"
+  },
+  {
+   "code": "I.1.5",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 9,
+   "text": "interpretuje treści alegoryczne i symboliczne utworu literackiego"
+  },
+  {
+   "code": "I.1.6",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-sty",
+   "written": true,
+   "freq": 1,
+   "text": "rozpoznaje w tekstach literackich: ironię i autoironię, komizm, tragizm, humor, patos, groteskę; określa ich funkcje w tekście oraz rozumie wartościujący charakter"
+  },
+  {
+   "code": "I.1.7",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 33,
+   "text": "wykazuje się znajomością i zrozumieniem treści utworów wskazanych w podstawie programowej jako lektury obowiązkowe"
+  },
+  {
+   "code": "I.1.8",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 44,
+   "text": "rozpoznaje tematykę i problematykę poznanych tekstów oraz ich związek z programami epoki literackiej, zjawiskami społecznymi, historycznymi, egzystencjalnymi i estetycznymi"
+  },
+  {
+   "code": "I.1.9",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 4,
+   "text": "rozpoznaje w utworze i interpretuje sposoby kreowania: świata przedstawionego (fabuły, bohaterów, akcji, wątków, motywów), narracji, sytuacji lirycznej"
+  },
+  {
+   "code": "I.1.10",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 4,
+   "text": "rozumie pojęcia motywu literackiego i toposu; rozpoznaje podstawowe motywy i toposy oraz dostrzega żywotność motywów biblijnych i antycznych w utworach literackich; określa rolę motywów i toposów w tworzeniu znaczeń uniwersalnych"
+  },
+  {
+   "code": "I.1.11",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 4,
+   "text": "w interpretacji utworów literackich odwołuje się do tekstów poznanych w szkole podstawowej, w tym: trenów i pieśni Jana Kochanowskiego, bajek Ignacego Krasickiego, Dziadów cz. II oraz Pana Tadeusza (księgi: I, II, IV, X, XI, XII) Adama Mickiewicza, Zemsty Aleksandra Fredry, Balladyny Juliusza Słowackiego"
+  },
+  {
+   "code": "I.1.12",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 9,
+   "text": "porównuje utwory literackie lub ich fragmenty, dostrzega kontynuacje i nawiązania w porównywanych utworach, określa cechy wspólne i różne"
+  },
+  {
+   "code": "I.1.13",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 8,
+   "text": "przedstawia propozycję interpretacji utworu, wskazuje w tekście miejsca, które mogą stanowić argumenty na poparcie propozycji interpretacyjnej"
+  },
+  {
+   "code": "I.1.14",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 8,
+   "text": "wykorzystuje w interpretacji utworów literackich potrzebne konteksty, szczególnie kontekst historycznoliteracki, historyczny, polityczny, kulturowy, filozoficzny, biograficzny, mitologiczny, biblijny, egzystencjalny"
+  },
+  {
+   "code": "I.1.15",
+   "level": "P",
+   "section": "I.1",
+   "sectionName": "Czytanie utworów literackich",
+   "topic": "pol-epo",
+   "written": true,
+   "freq": 5,
+   "text": "rozpoznaje obecne w utworach literackich wartości uniwersalne i narodowe; określa ich rolę i związek z problematyką utworu oraz znaczenie dla budowania własnego systemu wartości."
+  },
+  {
+   "code": "I.2.1",
+   "level": "P",
+   "section": "I.2",
+   "sectionName": "Odbiór tekstów kultury",
+   "topic": "pol-tek",
+   "written": true,
+   "freq": 35,
+   "text": "przetwarza i hierarchizuje informacje z tekstów, np. publicystycznych, popularnonaukowych, naukowych"
+  },
+  {
+   "code": "I.2.2",
+   "level": "P",
+   "section": "I.2",
+   "sectionName": "Odbiór tekstów kultury",
+   "topic": "pol-tek",
+   "written": true,
+   "freq": 6,
+   "text": "analizuje strukturę tekstu: odczytuje jego sens, główną myśl, sposób prowadzenia wywodu oraz argumentację"
+  },
+  {
+   "code": "I.2.3",
+   "level": "P",
+   "section": "I.2",
+   "sectionName": "Odbiór tekstów kultury",
+   "topic": "pol-tek",
+   "written": true,
+   "freq": 29,
+   "text": "rozpoznaje specyfikę tekstów publicystycznych (artykuł, felieton, reportaż), retorycznych (przemówienie), popularnonaukowych i naukowych (rozprawa); wśród tekstów prasowych rozróżnia wiadomość i komentarz; rozpoznaje środki językowe i ich funkcje zastosowane w tekstach; odczytuje informacje i przekazy jawne i ukryte; rozróżnia odpowiedzi właściwe i unikowe"
+  },
+  {
+   "code": "I.2.4",
+   "level": "P",
+   "section": "I.2",
+   "sectionName": "Odbiór tekstów kultury",
+   "topic": "pol-tek",
+   "written": true,
+   "freq": 6,
+   "text": "charakteryzuje główne prądy filozoficzne oraz określa ich wpływ na kulturę epoki"
+  },
+  {
+   "code": "I.2.5",
+   "level": "P",
+   "section": "I.2",
+   "sectionName": "Odbiór tekstów kultury",
+   "topic": "pol-tek",
+   "written": true,
+   "freq": 13,
+   "text": "odczytuje pozaliterackie teksty kultury, stosując kod właściwy w danej dziedzinie sztuki"
+  },
+  {
+   "code": "I.2.6",
+   "level": "P",
+   "section": "I.2",
+   "sectionName": "Odbiór tekstów kultury",
+   "topic": "pol-tek",
+   "written": true,
+   "freq": 0,
+   "text": "odróżnia dzieła kultury wysokiej od tekstów kultury popularnej."
+  },
+  {
+   "code": "II.1.1",
+   "level": "P",
+   "section": "II.1",
+   "sectionName": "Gramatyka języka polskiego",
+   "topic": "pol-jez",
+   "written": true,
+   "freq": 14,
+   "text": "wykorzystuje wiedzę z dziedziny fleksji, słowotwórstwa, frazeologii i składni w analizie i interpretacji tekstów oraz tworzeniu własnych wypowiedzi"
+  },
+  {
+   "code": "II.1.2",
+   "level": "P",
+   "section": "II.1",
+   "sectionName": "Gramatyka języka polskiego",
+   "topic": "pol-jez",
+   "written": true,
+   "freq": 4,
+   "text": "rozumie zróżnicowanie składniowe zdań wielokrotnie złożonych, rozpoznaje ich funkcje w tekście i wykorzystuje je w budowie wypowiedzi o różnym charakterze"
+  },
+  {
+   "code": "II.1.3",
+   "level": "P",
+   "section": "II.1",
+   "sectionName": "Gramatyka języka polskiego",
+   "topic": "pol-jez",
+   "written": true,
+   "freq": 4,
+   "text": "rozpoznaje argumentacyjny charakter różnych konstrukcji składniowych i ich funkcje w tekście; wykorzystuje je w budowie własnych wypowiedzi"
+  },
+  {
+   "code": "II.1.4",
+   "level": "P",
+   "section": "II.1",
+   "sectionName": "Gramatyka języka polskiego",
+   "topic": "pol-jez",
+   "written": true,
+   "freq": 5,
+   "text": "rozumie rolę szyku wyrazów w zdaniu oraz określa rolę jego przekształceń w budowaniu znaczenia wypowiedzi."
+  },
+  {
+   "code": "II.2.1",
+   "level": "P",
+   "section": "II.2",
+   "sectionName": "Zróżnicowanie języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 1,
+   "text": "rozróżnia pojęcia stylu i stylizacji, rozumie ich znaczenie w tekście"
+  },
+  {
+   "code": "II.2.2",
+   "level": "P",
+   "section": "II.2",
+   "sectionName": "Zróżnicowanie języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 4,
+   "text": "rozróżnia style funkcjonalne polszczyzny oraz rozumie zasady ich stosowania"
+  },
+  {
+   "code": "II.2.3",
+   "level": "P",
+   "section": "II.2",
+   "sectionName": "Zróżnicowanie języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 2,
+   "text": "rozpoznaje rodzaje stylizacji (archaizacja, dialektyzacja, kolokwializacja, stylizacja środowiskowa, biblijna itp.) i określa ich funkcje w tekście"
+  },
+  {
+   "code": "II.2.4",
+   "level": "P",
+   "section": "II.2",
+   "sectionName": "Zróżnicowanie języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 1,
+   "text": "rozpoznaje i ocenia modę językową we współczesnym języku"
+  },
+  {
+   "code": "II.2.5",
+   "level": "P",
+   "section": "II.2",
+   "sectionName": "Zróżnicowanie języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 1,
+   "text": "rozpoznaje zapożyczenia w polszczyźnie i rozumie ich funkcje"
+  },
+  {
+   "code": "II.2.6",
+   "level": "P",
+   "section": "II.2",
+   "sectionName": "Zróżnicowanie języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 0,
+   "text": "zna, rozumie i funkcjonalnie wykorzystuje biblizmy, mitologizmy, sentencje, przysłowia i aforyzmy obecne w polskim dziedzictwie kulturowym"
+  },
+  {
+   "code": "II.2.7",
+   "level": "P",
+   "section": "II.2",
+   "sectionName": "Zróżnicowanie języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 2,
+   "text": "rozpoznaje słownictwo o charakterze wartościującym; odróżnia słownictwo neutralne od słownictwa o zabarwieniu emocjonalnym, oficjalne od potocznego."
+  },
+  {
+   "code": "II.3.1",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 1,
+   "text": "rozumie pojęcie znaku językowego oraz język jako system znaków"
+  },
+  {
+   "code": "II.3.2",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 1,
+   "text": "zna pojęcie aktu komunikacji językowej oraz jego składowe (komunikat, nadawca, odbiorca, kod, kontekst, kontakt)"
+  },
+  {
+   "code": "II.3.3",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 1,
+   "text": "rozpoznaje i określa funkcje tekstu (informatywną, poetycką, ekspresywną, impresywną, w tym perswazyjną)"
+  },
+  {
+   "code": "II.3.4",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 5,
+   "text": "rozpoznaje zjawiska powodujące niejednoznaczność wypowiedzi (homonimie, anakoluty, paradoksy), dba o jasność i precyzję komunikatu"
+  },
+  {
+   "code": "II.3.5",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 4,
+   "text": "posługuje się różnymi odmianami polszczyzny w zależności od sytuacji komunikacyjnej"
+  },
+  {
+   "code": "II.3.6",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 0,
+   "text": "odróżnia zamierzoną innowację językową od błędu językowego; określa funkcje innowacji językowej w tekście"
+  },
+  {
+   "code": "II.3.7",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 4,
+   "text": "stosuje zasady etyki wypowiedzi; wartościuje wypowiedzi językowe, stosując kryteria, np. prawda – fałsz, poprawność – niepoprawność"
+  },
+  {
+   "code": "II.3.8",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 0,
+   "text": "rozpoznaje w tekstach manipulację, dezinformację, stereotyp językowy"
+  },
+  {
+   "code": "II.3.9",
+   "level": "P",
+   "section": "II.3",
+   "sectionName": "Komunikacja językowa i kultura języka",
+   "topic": "pol-kul",
+   "written": true,
+   "freq": 4,
+   "text": "stosuje zasady etykiety językowej w wypowiedziach ustnych i pisemnych odpowiednie do sytuacji."
+  },
+  {
+   "code": "II.4.1",
+   "level": "P",
+   "section": "II.4",
+   "sectionName": "Ortografia i interpunkcja",
+   "topic": "pol-jez",
+   "written": true,
+   "freq": 8,
+   "text": "stosuje zasady ortografii i interpunkcji, w tym szczególnie: pisowni wielką i małą literą, pisowni łącznej i rozłącznej partykuły nie oraz partykuły -bym, -byś, -by z różnymi częściami mowy; pisowni zakończeń -ji, -ii, -i; zapisu przedrostków roz-, bez-, wes-, wz-, ws-; pisowni przyimków złożonych; pisowni nosówek (ą, ę) oraz połączeń om, on, em, en; pisowni skrótów i skrótowców"
+  },
+  {
+   "code": "II.4.2",
+   "level": "P",
+   "section": "II.4",
+   "sectionName": "Ortografia i interpunkcja",
+   "topic": "pol-jez",
+   "written": true,
+   "freq": 4,
+   "text": "wykorzystuje składniowo-znaczeniowy charakter interpunkcji do uwypuklenia sensów redagowanego przez siebie tekstu"
+  },
+  {
+   "code": "II.4.3",
+   "level": "P",
+   "section": "II.4",
+   "sectionName": "Ortografia i interpunkcja",
+   "topic": "pol-jez",
+   "written": true,
+   "freq": 0,
+   "text": "rozumie stylistyczną funkcję zamierzonego błędu ortograficznego w tekście artystycznym."
+  },
+  {
+   "code": "III.1.1",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 6,
+   "text": "formułuje tezy i argumenty w wypowiedzi ustnej i pisemnej przy użyciu odpowiednich konstrukcji składniowych"
+  },
+  {
+   "code": "III.1.2",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 2,
+   "text": "wskazuje i rozróżnia cele perswazyjne w wypowiedzi literackiej i nieliterackiej"
+  },
+  {
+   "code": "III.1.3",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 4,
+   "text": "rozumie i stosuje w tekstach retorycznych zasadę kompozycyjną (np. teza, argumenty, apel, pointa)"
+  },
+  {
+   "code": "III.1.4",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 0,
+   "text": "wyjaśnia, w jaki sposób użyte środki retoryczne (np. pytania retoryczne, wyliczenia, wykrzyknienia, paralelizmy, powtórzenia, apostrofy, przerzutnie, inwersje) oddziałują na odbiorcę"
+  },
+  {
+   "code": "III.1.5",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 3,
+   "text": "rozróżnia typy argumentów, w tym argumenty pozamerytoryczne (np. odwołujące się do litości, niewiedzy, groźby, autorytetu, argumenty ad personam)"
+  },
+  {
+   "code": "III.1.6",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 5,
+   "text": "rozumie, na czym polega logika i konsekwencja toku rozumowania w wypowiedziach argumentacyjnych i stosuje je we własnych tekstach"
+  },
+  {
+   "code": "III.1.7",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 0,
+   "text": "odróżnia dyskusję od sporu i kłótni"
+  },
+  {
+   "code": "III.1.8",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 2,
+   "text": "rozróżnia pragmatyczny i etyczny wymiar obietnic składanych w tekstach reklamy"
+  },
+  {
+   "code": "III.1.9",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 2,
+   "text": "rozpoznaje elementy erystyki w dyskusji oraz ocenia je pod względem etycznym"
+  },
+  {
+   "code": "III.1.10",
+   "level": "P",
+   "section": "III.1",
+   "sectionName": "Elementy retoryki",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 2,
+   "text": "rozumie zjawisko nowomowy; określa jego cechy i funkcje w tekście."
+  },
+  {
+   "code": "III.2.1",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 11,
+   "text": "zgadza się z cudzymi poglądami lub polemizuje z nimi, rzeczowo uzasadniając własne zdanie"
+  },
+  {
+   "code": "III.2.2",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 15,
+   "text": "buduje wypowiedź w sposób świadomy, ze znajomością jej funkcji językowej, z uwzględnieniem celu i adresata, z zachowaniem zasad retoryki"
+  },
+  {
+   "code": "III.2.3",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 0,
+   "text": "reaguje na przejawy agresji językowej, np. zadając pytania, prosząc o rozwinięcie lub uzasadnienie stanowiska, wykazując sprzeczność wypowiedzi"
+  },
+  {
+   "code": "III.2.4",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 0,
+   "text": "zgodnie z normami formułuje pytania, odpowiedzi, oceny, redaguje informacje, uzasadnienia, komentarze, głos w dyskusji"
+  },
+  {
+   "code": "III.2.5",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 6,
+   "text": "tworzy spójne wypowiedzi w następujących formach gatunkowych: wypowiedź o charakterze argumentacyjnym, referat, definicja, notatka syntetyzująca"
+  },
+  {
+   "code": "III.2.6",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 0,
+   "text": "odróżnia streszczenie od parafrazy; funkcjonalnie stosuje je w zależności od celu wypowiedzi"
+  },
+  {
+   "code": "III.2.7",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 0,
+   "text": "tworzy plan kompozycyjny i dekompozycyjny tekstów o charakterze argumentacyjnym"
+  },
+  {
+   "code": "III.2.8",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 2,
+   "text": "stosuje retoryczne zasady kompozycyjne w tworzeniu własnego tekstu; wygłasza mowę z uwzględnieniem środków pozajęzykowych"
+  },
+  {
+   "code": "III.2.9",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 2,
+   "text": "w interpretacji przedstawia propozycję odczytania tekstu, formułuje argumenty na podstawie tekstu oraz znanych kontekstów, w tym własnego doświadczenia, przeprowadza logiczny wywód służący uprawomocnieniu formułowanych sądów"
+  },
+  {
+   "code": "III.2.10",
+   "level": "P",
+   "section": "III.2",
+   "sectionName": "Mówienie i pisanie",
+   "topic": "pol-wyp",
+   "written": true,
+   "freq": 2,
+   "text": "wykorzystuje wiedzę o języku w pracy redakcyjnej nad tekstem własnym, dokonuje korekty tekstu własnego, stosuje kryteria poprawności językowej."
+  },
+  {
+   "code": "IV.1",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "rozwija umiejętność pracy samodzielnej m.in. przez przygotowanie różnorodnych form prezentacji własnego stanowiska"
+  },
+  {
+   "code": "IV.2",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "porządkuje informacje w problemowe całości poprzez ich wartościowanie; syntetyzuje poznawane treści wokół problemu, tematu, zagadnienia oraz wykorzystuje je w swoich wypowiedziach"
+  },
+  {
+   "code": "IV.3",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "korzysta z literatury naukowej lub popularnonaukowej"
+  },
+  {
+   "code": "IV.4",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "sporządza bibliografię i przypis bibliograficzny, także źródeł elektronicznych"
+  },
+  {
+   "code": "IV.5",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "dokonuje krytycznej selekcji źródeł"
+  },
+  {
+   "code": "IV.6",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wybiera z tekstu odpowiednie cytaty i stosuje je w wypowiedzi"
+  },
+  {
+   "code": "IV.7",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "posługuje się słownikami ogólnymi języka polskiego oraz słownikami specjalistycznymi (np. etymologicznymi, frazeologicznymi, skrótów, gwarowymi), także w wersji on-line"
+  },
+  {
+   "code": "IV.8",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wykorzystuje multimedialne źródła informacji oraz dokonuje ich krytycznej oceny"
+  },
+  {
+   "code": "IV.9",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "gromadzi i przetwarza informacje"
+  },
+  {
+   "code": "IV.10",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "korzysta z zasobów multimedialnych, np. z: bibliotek, słowników on-line, wydawnictw e-book, autorskich stron internetowych; dokonuje wyboru źródeł internetowych z uwzględnieniem kryterium poprawności rzeczowej oraz krytycznie ocenia ich zawartość"
+  },
+  {
+   "code": "IV.11",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Samokształcenie.",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wykorzystuje formę projektu w przygotowaniu i prezentowaniu oraz popularyzowaniu swoich zainteresowań i osiągnięć."
+  }
+ ],
+ "unmatchedSchemeCodes": [
+  "I.2.7"
+ ],
+ "readings": [
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 1,
+   "title": "Jan Parandowski, Mitologia, część I: Grecja"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 2,
+   "title": "Sofokles, Antygona"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 3,
+   "title": "William Szekspir, Makbet"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 4,
+   "title": "Molier, Skąpiec"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 5,
+   "title": "Adam Mickiewicz, Dziady cz. III"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 6,
+   "title": "Bolesław Prus, Lalka"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 7,
+   "title": "Fiodor Dostojewski, Zbrodnia i kara"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 8,
+   "title": "Stanisław Wyspiański, Wesele"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 9,
+   "title": "Stefan Żeromski, Przedwiośnie"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 10,
+   "title": "Hanna Krall, Zdążyć przed Panem Bogiem"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 11,
+   "title": "Albert Camus, Dżuma"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 12,
+   "title": "George Orwell, Rok 1984"
+  },
+  {
+   "group": "Utwory literackie poznawane w całości",
+   "no": 13,
+   "title": "Sławomir Mrożek, Tango"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 1,
+   "title": "Biblia, w tym fragmenty Księgi Rodzaju, Księgi Hioba, Księgi Koheleta, Księgi Psalmów, Apokalipsy św. Jana"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 2,
+   "title": "Homer, Iliada (fragmenty)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 3,
+   "title": "wybrane utwory polskiego średniowiecza, w tym: Lament świętokrzyski (fragmenty), Rozmowa Mistrza Polikarpa ze Śmiercią (fragmenty)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 4,
+   "title": "Pieśń o Rolandzie (fragmenty)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 5,
+   "title": "Ignacy Krasicki, wybrana satyra"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 6,
+   "title": "Adam Mickiewicz, wybrane ballady, w tym Romantyczność"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 7,
+   "title": "Henryk Sienkiewicz, Potop (fragmenty)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 8,
+   "title": "Władysław Stanisław Reymont, Chłopi (fragmenty)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 9,
+   "title": "Witold Gombrowicz, Ferdydurke (fragmenty)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 10,
+   "title": "Tadeusz Borowski, Proszę państwa do gazu"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 11,
+   "title": "Gustaw Herling-Grudziński, Inny świat (fragmenty)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 12,
+   "title": "Marek Nowakowski, Górą „Edek” (z tomu Prawo prerii)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 13,
+   "title": "Andrzej Stasiuk, Miejsce (z tomu Opowieści galicyjskie)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 14,
+   "title": "Olga Tokarczuk, Profesor Andrews w Warszawie (z tomu Gra na wielu bębenkach)"
+  },
+  {
+   "group": "Krótkie utwory literackie poznawane w całości i utwory literackie poznawane we fragmentach",
+   "no": 15,
+   "title": "Ryszard Kapuściński, Podróże z Herodotem (fragmenty)"
+  },
+  {
+   "group": "Utwory poetyckie",
+   "no": 1,
+   "title": "Horacy, wybrane utwory"
+  },
+  {
+   "group": "Utwory poetyckie",
+   "no": 2,
+   "title": "Bogurodzica"
+  },
+  {
+   "group": "Utwory poetyckie",
+   "no": 3,
+   "title": "Jan Kochanowski, wybrane pieśni, w tym: Pieśń IX ks. I, Pieśń V ks. II; tren IX, X, XI"
+  },
+  {
+   "group": "Utwory poetyckie",
+   "no": 4,
+   "title": "wybrane wiersze poetów epoki baroku"
+  },
+  {
+   "group": "Utwory poetyckie",
+   "no": 5,
+   "title": "Ignacy Krasicki, Hymn do miłości ojczyzny"
+  },
+  {
+   "group": "Utwory poetyckie",
+   "no": 6,
+   "title": "Adam Mickiewicz, Oda do młodości; wybrane sonety z cyklu Sonety krymskie oraz inne wiersze"
+  },
+  {
+   "group": "Utwory poetyckie",
+   "no": 7,
+   "title": "wybrane wiersze: Krzysztofa Kamila Baczyńskiego, Mirona Białoszewskiego, Józefa Czechowicza, Zbigniewa Herberta, Bolesława Leśmiana, Czesława Miłosza, Cypriana Kamila Norwida, Marii Pawlikowskiej-Jasnorzewskiej, Haliny Poświatowskiej, Kazimierza Przerwy-Tetmajera, Tadeusza Różewicza, Juliusza Słowackiego, w tym Testament mój, Leopolda Staffa, Wisławy Szymborskiej, Juliana Tuwima"
+  }
+ ]
+}

@@ -1,0 +1,1001 @@
+{
+ "subject": "ang-pp",
+ "source": "Rozporządzenie MEN z 28.06.2024 (Dz.U. 2024 poz. 1019), załącznik nr 1 – podstawa programowa LO, s. 48–80, wariant III.1.P",
+ "scope": "Poziom podstawowy egzaminu = wariant III.1.P.",
+ "freqNote": "freq = ile razy zasady oceniania arkuszy CKE od grudnia 2024 (diagnostyczny XII 2024, maj 2025, próbny III 2026, maj 2026; wersja standardowa) powołują się na dane wymaganie. Arkusze 2023 i V 2024 pominięto: używały starszej numeracji wymagań.",
+ "topics": [
+  {
+   "id": "angp-gra",
+   "name": "Gramatyka",
+   "w": 3
+  },
+  {
+   "id": "angp-voc",
+   "name": "Słownictwo",
+   "w": 2
+  },
+  {
+   "id": "angp-fun",
+   "name": "Funkcje językowe (reakcje)",
+   "w": 2
+  },
+  {
+   "id": "angp-lis",
+   "name": "Rozumienie ze słuchu",
+   "w": 3
+  },
+  {
+   "id": "angp-rea",
+   "name": "Rozumienie tekstów i przetwarzanie",
+   "w": 3
+  },
+  {
+   "id": "angp-wri",
+   "name": "Wypowiedź pisemna",
+   "w": 2
+  }
+ ],
+ "requirements": [
+  {
+   "code": "I",
+   "level": "P",
+   "section": "I-gram",
+   "sectionName": "Środki językowe (gramatyka, ortografia, fonetyka)",
+   "topic": "angp-gra",
+   "written": true,
+   "freq": 0,
+   "text": "Uczeń posługuje się w miarę rozwiniętym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych i fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie tematów"
+  },
+  {
+   "code": "I.1",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "człowiek (np. dane personalne, okresy życia, wygląd zewnętrzny, cechy charakteru, rzeczy osobiste, uczucia i emocje, umiejętności i zainteresowania)"
+  },
+  {
+   "code": "I.2",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "miejsce zamieszkania (np. dom i jego okolica, pomieszczenia i wyposażenie domu, prace domowe, wynajmowanie, kupno i sprzedaż mieszkania, przeprowadzka)"
+  },
+  {
+   "code": "I.3",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "edukacja (np. szkoła i jej pomieszczenia, przedmioty nauczania, uczenie się – w tym uczenie się przez całe życie, przybory szkolne, oceny szkolne, życie szkoły, zajęcia pozalekcyjne)"
+  },
+  {
+   "code": "I.4",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "praca (np. zawody i związane z nimi czynności i obowiązki, miejsce pracy, praca dorywcza, wybór zawodu, poszukiwanie pracy, warunki pracy i zatrudnienia)"
+  },
+  {
+   "code": "I.5",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "życie prywatne (np. rodzina, znajomi i przyjaciele, czynności życia codziennego, określanie czasu, formy spędzania czasu wolnego, święta i uroczystości, styl życia, konflikty i problemy)"
+  },
+  {
+   "code": "I.6",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "żywienie (np. artykuły spożywcze, posiłki i ich przygotowywanie, nawyki żywieniowe – w tym diety, lokale gastronomiczne)"
+  },
+  {
+   "code": "I.7",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "zakupy i usługi (np. rodzaje sklepów, towary i ich cechy, sprzedawanie i kupowanie, środki płatnicze, promocja i reklama, korzystanie z usług, reklamacja)"
+  },
+  {
+   "code": "I.8",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "podróżowanie i turystyka (np. środki transportu i korzystanie z nich, orientacja w terenie, baza noclegowa, wycieczki, zwiedzanie, awarie i wypadki w podróży, ruch uliczny)"
+  },
+  {
+   "code": "I.9",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "kultura (np. dziedziny kultury, twórcy i ich dzieła, uczestnictwo w kulturze, tradycje i zwyczaje, media)"
+  },
+  {
+   "code": "I.10",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "sport (np. dyscypliny sportu, sprzęt sportowy, obiekty sportowe, imprezy sportowe, uprawianie sportu, pozytywne i negatywne skutki uprawiania sportu)"
+  },
+  {
+   "code": "I.11",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "zdrowie (np. tryb życia, samopoczucie, choroby, ich objawy i leczenie, niepełno- sprawność, uzależnienia)"
+  },
+  {
+   "code": "I.12",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "nauka i technika (np. ludzie nauki, odkrycia naukowe, wynalazki, korzystanie z podstawowych urządzeń technicznych i technologii informacyjno-komunikacyjnych oraz szanse i zagrożenia z tym związane)"
+  },
+  {
+   "code": "I.13",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "świat przyrody (np. pogoda, pory roku, klimat, rośliny i zwierzęta, krajobraz, zagrożenia i ochrona środowiska naturalnego, klęski żywiołowe)"
+  },
+  {
+   "code": "I.14",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Znajomość środków językowych",
+   "topic": "angp-voc",
+   "written": true,
+   "freq": 0,
+   "text": "państwo i społeczeństwo (np. wydarzenia i zjawiska społeczne, problemy współczesnego świata)."
+  },
+  {
+   "code": "II.1",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 0,
+   "text": "reaguje na polecenia"
+  },
+  {
+   "code": "II.2",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 12,
+   "text": "określa główną myśl wypowiedzi lub fragmentu wypowiedzi"
+  },
+  {
+   "code": "II.3",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 7,
+   "text": "określa intencje nadawcy lub autora wypowiedzi"
+  },
+  {
+   "code": "II.4",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 4,
+   "text": "określa kontekst wypowiedzi (np. formę, czas, miejsce, sytuację, uczestników)"
+  },
+  {
+   "code": "II.5",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 15,
+   "text": "znajduje w wypowiedzi określone informacje"
+  },
+  {
+   "code": "II.6",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 1,
+   "text": "układa informacje w określonym porządku"
+  },
+  {
+   "code": "II.7",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 5,
+   "text": "wyciąga wnioski wynikające z informacji zawartych w wypowiedzi"
+  },
+  {
+   "code": "II.8",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Rozumienie wypowiedzi ustnych",
+   "topic": "angp-lis",
+   "written": true,
+   "freq": 0,
+   "text": "rozróżnia formalny i nieformalny styl wypowiedzi."
+  },
+  {
+   "code": "III.1",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 11,
+   "text": "określa główną myśl tekstu lub fragmentu tekstu"
+  },
+  {
+   "code": "III.2",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 1,
+   "text": "określa intencje nadawcy lub autora tekstu"
+  },
+  {
+   "code": "III.3",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 1,
+   "text": "określa kontekst wypowiedzi (np. nadawcę, odbiorcę, formę tekstu, czas, miejsce, sytuację)"
+  },
+  {
+   "code": "III.4",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 15,
+   "text": "znajduje w tekście określone informacje"
+  },
+  {
+   "code": "III.5",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 4,
+   "text": "rozpoznaje związki między poszczególnymi częściami tekstu"
+  },
+  {
+   "code": "III.6",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "układa informacje w określonym porządku"
+  },
+  {
+   "code": "III.7",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 5,
+   "text": "wyciąga wnioski wynikające z informacji zawartych w tekście"
+  },
+  {
+   "code": "III.8",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "odróżnia informacje o faktach od opinii"
+  },
+  {
+   "code": "III.9",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Rozumienie wypowiedzi pisemnych",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "rozróżnia formalny i nieformalny styl tekstu."
+  },
+  {
+   "code": "IV.1",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "opisuje ludzi, zwierzęta, przedmioty, miejsca i zjawiska"
+  },
+  {
+   "code": "IV.2",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "opowiada o czynnościach, doświadczeniach i wydarzeniach z przeszłości i teraźniejszości"
+  },
+  {
+   "code": "IV.3",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "przedstawia fakty z przeszłości i teraźniejszości"
+  },
+  {
+   "code": "IV.4",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "przedstawia intencje, marzenia, nadzieje i plany na przyszłość"
+  },
+  {
+   "code": "IV.5",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "opisuje upodobania"
+  },
+  {
+   "code": "IV.6",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wyraża i uzasadnia swoje opinie i poglądy, przedstawia i ustosunkowuje się do opinii i poglądów innych osób"
+  },
+  {
+   "code": "IV.7",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wyraża i opisuje uczucia i emocje"
+  },
+  {
+   "code": "IV.8",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "przedstawia zalety i wady różnych rozwiązań"
+  },
+  {
+   "code": "IV.9",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wyraża pewność, przypuszczenie, wątpliwości dotyczące zdarzeń z teraźniejszości i przyszłości"
+  },
+  {
+   "code": "IV.10",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "przedstawia sposób postępowania (np. udziela instrukcji, wskazówek, określa zasady)"
+  },
+  {
+   "code": "IV.11",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Tworzenie wypowiedzi ustnych",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji."
+  },
+  {
+   "code": "V.1",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 2,
+   "text": "opisuje ludzi, zwierzęta, przedmioty, miejsca i zjawiska"
+  },
+  {
+   "code": "V.2",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 12,
+   "text": "opowiada o czynnościach, doświadczeniach i wydarzeniach z przeszłości i teraźniejszości"
+  },
+  {
+   "code": "V.3",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 2,
+   "text": "przedstawia fakty z przeszłości i teraźniejszości"
+  },
+  {
+   "code": "V.4",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 2,
+   "text": "przedstawia intencje, marzenia, nadzieje i plany na przyszłość"
+  },
+  {
+   "code": "V.5",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 2,
+   "text": "opisuje upodobania"
+  },
+  {
+   "code": "V.6",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 5,
+   "text": "wyraża i uzasadnia swoje opinie i poglądy, przedstawia i ustosunkowuje się do opinii i poglądów innych osób"
+  },
+  {
+   "code": "V.7",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 4,
+   "text": "wyraża i opisuje uczucia i emocje"
+  },
+  {
+   "code": "V.8",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia zalety i wady różnych rozwiązań"
+  },
+  {
+   "code": "V.9",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 0,
+   "text": "wyraża pewność, przypuszczenie, wątpliwości dotyczące zdarzeń z teraźniejszości i przyszłości"
+  },
+  {
+   "code": "V.10",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia sposób postępowania (np. udziela instrukcji, wskazówek, określa zasady)"
+  },
+  {
+   "code": "V.11",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje zasady konstruowania tekstów o różnym charakterze"
+  },
+  {
+   "code": "V.12",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Tworzenie wypowiedzi pisemnych",
+   "topic": "angp-wri",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji."
+  },
+  {
+   "code": "VI.1",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "przedstawia siebie i inne osoby"
+  },
+  {
+   "code": "VI.2",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę; podtrzymuje rozmowę w przypadku trudności w jej przebiegu (np. prosi o wyjaśnienie, powtórzenie, sprecyzowanie; upewnia się, że rozmówca zrozumiał jego wypowiedź)"
+  },
+  {
+   "code": "VI.3",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "uzyskuje i przekazuje informacje i wyjaśnienia"
+  },
+  {
+   "code": "VI.4",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób, wyraża wątpliwość"
+  },
+  {
+   "code": "VI.5",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wyraża i uzasadnia swoje upodobania, preferencje, intencje i pragnienia, pyta o upodobania, preferencje, intencje i pragnienia innych osób"
+  },
+  {
+   "code": "VI.6",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "składa życzenia i gratulacje, odpowiada na życzenia i gratulacje"
+  },
+  {
+   "code": "VI.7",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "zaprasza i odpowiada na zaproszenie"
+  },
+  {
+   "code": "VI.8",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "proponuje, przyjmuje i odrzuca propozycje, zachęca; prowadzi proste negocjacje w sytuacjach życia codziennego"
+  },
+  {
+   "code": "VI.9",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "prosi o radę i udziela rady"
+  },
+  {
+   "code": "VI.10",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "pyta o pozwolenie, udziela i odmawia pozwolenia"
+  },
+  {
+   "code": "VI.11",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "ostrzega, nakazuje, zakazuje, instruuje"
+  },
+  {
+   "code": "VI.12",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wyraża prośbę oraz zgodę na spełnienie prośby lub odmowę spełnienia prośby"
+  },
+  {
+   "code": "VI.13",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "wyraża uczucia i emocje (np. radość, smutek, niezadowolenie, złość, zdziwienie, nadzieję, obawę, współczucie)"
+  },
+  {
+   "code": "VI.14",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "stosuje zwroty i formy grzecznościowe"
+  },
+  {
+   "code": "VI.15",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Reagowanie ustne",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "dostosowuje styl wypowiedzi (formalny lub nieformalny) do sytuacji."
+  },
+  {
+   "code": "VII.1",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia siebie i inne osoby"
+  },
+  {
+   "code": "VII.2",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "nawiązuje kontakty towarzyskie; rozpoczyna, prowadzi i kończy rozmowę (np. podczas rozmowy na czacie)"
+  },
+  {
+   "code": "VII.3",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 11,
+   "text": "uzyskuje i przekazuje informacje i wyjaśnienia (np. wypełnia formularz lub ankietę)"
+  },
+  {
+   "code": "VII.4",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 2,
+   "text": "wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza się z opiniami innych osób, wyraża wątpliwość"
+  },
+  {
+   "code": "VII.5",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "wyraża i uzasadnia swoje upodobania, preferencje, intencje i pragnienia, pyta o upodobania, preferencje, intencje i pragnienia innych osób"
+  },
+  {
+   "code": "VII.6",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "składa życzenia i gratulacje, odpowiada na życzenia i gratulacje"
+  },
+  {
+   "code": "VII.7",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "zaprasza i odpowiada na zaproszenie"
+  },
+  {
+   "code": "VII.8",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 2,
+   "text": "proponuje, przyjmuje i odrzuca propozycje, zachęca; prowadzi proste negocjacje w sytuacjach życia codziennego"
+  },
+  {
+   "code": "VII.9",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "prosi o radę i udziela rady"
+  },
+  {
+   "code": "VII.10",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "pyta o pozwolenie, udziela i odmawia pozwolenia"
+  },
+  {
+   "code": "VII.11",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "ostrzega, nakazuje, zakazuje, instruuje"
+  },
+  {
+   "code": "VII.12",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "wyraża prośbę oraz zgodę na spełnienie prośby lub odmowę spełnienia prośby"
+  },
+  {
+   "code": "VII.13",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "wyraża uczucia i emocje (np. radość, smutek, niezadowolenie, złość, zdziwienie, nadzieję, obawę, współczucie)"
+  },
+  {
+   "code": "VII.14",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje zwroty i formy grzecznościowe"
+  },
+  {
+   "code": "VII.15",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Reagowanie pisemne",
+   "topic": "angp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "dostosowuje styl wypowiedzi (formalny lub nieformalny) do odbiorcy."
+  },
+  {
+   "code": "VIII.1",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Przetwarzanie wypowiedzi",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "przekazuje w języku obcym nowożytnym informacje zawarte w materiałach wizualnych (np. wykresach, mapach, symbolach, piktogramach) lub audiowizualnych (np. filmach, reklamach)"
+  },
+  {
+   "code": "VIII.2",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Przetwarzanie wypowiedzi",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 8,
+   "text": "przekazuje w języku obcym nowożytnym lub języku polskim informacje sformułowane w tym języku obcym"
+  },
+  {
+   "code": "VIII.3",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Przetwarzanie wypowiedzi",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 4,
+   "text": "przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim"
+  },
+  {
+   "code": "VIII.4",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Przetwarzanie wypowiedzi",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "przedstawia publicznie w języku obcym wcześniej przygotowany materiał, np. prezentację, film."
+  },
+  {
+   "code": "IX.1",
+   "level": "P",
+   "section": "IX",
+   "sectionName": "Wiedza o krajach i kulturze",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "podstawową wiedzę o krajach, społeczeństwach i kulturach społeczności, które posługują się danym językiem obcym nowożytnym, oraz o kraju ojczystym, z uwzględnieniem kontekstu lokalnego, europejskiego i globalnego"
+  },
+  {
+   "code": "IX.2",
+   "level": "P",
+   "section": "IX",
+   "sectionName": "Wiedza o krajach i kulturze",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "świadomość związku między kulturą własną i obcą oraz wrażliwość międzykulturową."
+  },
+  {
+   "code": "X.1",
+   "level": "P",
+   "section": "X",
+   "sectionName": "Samoocena",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "Uczeń dokonuje samooceny i wykorzystuje techniki samodzielnej pracy nad językiem (np. korzystanie ze słownika, poprawianie błędów, prowadzenie notatek, stosowanie mnemotechnik, korzystanie z tekstów kultury w języku obcym nowożytnym)."
+  },
+  {
+   "code": "XI.1",
+   "level": "P",
+   "section": "XI",
+   "sectionName": "Współdziałanie w grupie",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "Uczeń współdziała w grupie (np. w lekcyjnych i pozalekcyjnych językowych pracach projektowych)."
+  },
+  {
+   "code": "XII.1",
+   "level": "P",
+   "section": "XII",
+   "sectionName": "Korzystanie ze źródeł informacji",
+   "topic": null,
+   "written": false,
+   "freq": 0,
+   "text": "Uczeń korzysta z różnych źródeł informacji w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych."
+  },
+  {
+   "code": "XIII.1",
+   "level": "P",
+   "section": "XIII",
+   "sectionName": "Strategie komunikacyjne",
+   "topic": "angp-rea",
+   "written": true,
+   "freq": 0,
+   "text": "Uczeń stosuje strategie komunikacyjne (np. domyślanie się znaczenia wyrazów z kontekstu, identyfikowanie słów kluczy lub internacjonalizmów) i strategie kompensacyjne, w przypadku gdy nie zna lub nie pamięta wyrazu (np. upraszczanie formy wypowiedzi, zastępowanie innym wyrazem, opis, wykorzystywanie środków niewerbalnych)."
+  },
+  {
+   "code": "XIV.1",
+   "level": "P",
+   "section": "XIV",
+   "sectionName": "Świadomość językowa",
+   "topic": "angp-gra",
+   "written": true,
+   "freq": 0,
+   "text": "Uczeń posiada świadomość językową (np. podobieństw i różnic między językami)."
+  }
+ ],
+ "unmatchedSchemeCodes": []
+}

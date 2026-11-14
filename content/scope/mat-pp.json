@@ -1,0 +1,874 @@
+{
+ "subject": "mat-pp",
+ "source": "Rozporządzenie MEN z 28.06.2024 (Dz.U. 2024 poz. 1019), załącznik nr 1 – podstawa programowa LO, s. 326–341",
+ "scope": "Zakres podstawowy. Te wymagania obowiązują też na poziomie rozszerzonym.",
+ "freqNote": "freq = ile razy zasady oceniania arkuszy CKE od grudnia 2024 (diagnostyczny XII 2024, maj 2025, próbny III 2026, maj 2026; wersja standardowa) powołują się na dane wymaganie. Arkusze 2023 i V 2024 pominięto: używały starszej numeracji wymagań. freqPR = to samo w arkuszach rozszerzonych.",
+ "topics": [
+  {
+   "id": "matp-lic",
+   "name": "Liczby, potęgi, logarytmy, procenty",
+   "w": 3
+  },
+  {
+   "id": "matp-wyr",
+   "name": "Wyrażenia algebraiczne",
+   "w": 2
+  },
+  {
+   "id": "matp-row",
+   "name": "Równania i nierówności",
+   "w": 3
+  },
+  {
+   "id": "matp-flin",
+   "name": "Funkcje: własności, liniowa, wykładnicza",
+   "w": 3
+  },
+  {
+   "id": "matp-fun",
+   "name": "Funkcja kwadratowa",
+   "w": 3
+  },
+  {
+   "id": "matp-cia",
+   "name": "Ciągi",
+   "w": 2
+  },
+  {
+   "id": "matp-try",
+   "name": "Trygonometria",
+   "w": 2
+  },
+  {
+   "id": "matp-geo",
+   "name": "Planimetria",
+   "w": 3
+  },
+  {
+   "id": "matp-ana",
+   "name": "Geometria analityczna",
+   "w": 2
+  },
+  {
+   "id": "matp-ste",
+   "name": "Stereometria",
+   "w": 2
+  },
+  {
+   "id": "matp-sta",
+   "name": "Kombinatoryka, prawdopodobieństwo, statystyka",
+   "w": 2
+  },
+  {
+   "id": "matp-opt",
+   "name": "Optymalizacja",
+   "w": 1
+  }
+ ],
+ "requirements": [
+  {
+   "code": "I.1",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 3,
+   "text": "wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie, pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych",
+   "freqPR": 0
+  },
+  {
+   "code": "I.2",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 5,
+   "text": "przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt z dzielenia, np.: a) dowód podzielności przez 24 iloczynu czterech kolejnych liczb naturalnych, b) dowód własności: jeśli liczba przy dzieleniu przez 4 daje resztę 3, to nie jest kwadratem liczby całkowitej",
+   "freqPR": 0
+  },
+  {
+   "code": "I.3",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 2,
+   "text": "stosuje własności pierwiastków dowolnego stopnia, w tym pierwiastków stopnia nieparzystego z liczb ujemnych",
+   "freqPR": 0
+  },
+  {
+   "code": "I.4",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 8,
+   "text": "stosuje związek pierwiastkowania z potęgowaniem oraz prawa działań na potęgach i pierwiastkach",
+   "freqPR": 0
+  },
+  {
+   "code": "I.5",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje monotoniczność potęgowania, w szczególności własności: jeśli x < y oraz a > 1, to ax < ay, zaś gdy x < y i 0 < a < 1, to ax > ay",
+   "freqPR": 0
+  },
+  {
+   "code": "I.6",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 4,
+   "text": "posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej",
+   "freqPR": 0
+  },
+  {
+   "code": "I.7",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 1,
+   "text": "stosuje interpretację geometryczną i algebraiczną wartości bezwzględnej, rozwiązuje równania typu: |x + 4| = 5",
+   "freqPR": 0
+  },
+  {
+   "code": "I.8",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 2,
+   "text": "wykorzystuje własności potęgowania i pierwiastkowania w sytuacjach praktycznych, w tym do obliczania procentów składanych, zysków z lokat i kosztów kredytów",
+   "freqPR": 0
+  },
+  {
+   "code": "I.9",
+   "level": "P",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matp-lic",
+   "written": true,
+   "freq": 4,
+   "text": "stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na logarytm iloczynu, logarytm ilorazu i logarytm potęgi.",
+   "freqPR": 0
+  },
+  {
+   "code": "II.1",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matp-wyr",
+   "written": true,
+   "freq": 3,
+   "text": "stosuje wzory skróconego mnożenia na: (a + b)2, (a − b)2, a2 − b2",
+   "freqPR": 0
+  },
+  {
+   "code": "II.2",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matp-wyr",
+   "written": true,
+   "freq": 1,
+   "text": "dodaje, odejmuje i mnoży wielomiany jednej i wielu zmiennych",
+   "freqPR": 0
+  },
+  {
+   "code": "II.3",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matp-wyr",
+   "written": true,
+   "freq": 0,
+   "text": "wyłącza poza nawias jednomian z sumy algebraicznej",
+   "freqPR": 0
+  },
+  {
+   "code": "II.4",
+   "level": "P",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matp-wyr",
+   "written": true,
+   "freq": 3,
+   "text": "mnoży i dzieli wyrażenia wymierne.",
+   "freqPR": 0
+  },
+  {
+   "code": "III.1",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matp-row",
+   "written": true,
+   "freq": 2,
+   "text": "przekształca równania i nierówności w sposób równoważny, w tym np. przekształca równoważnie równanie 5 x + 1 = x + 3 2x−1",
+   "freqPR": 0
+  },
+  {
+   "code": "III.2",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matp-row",
+   "written": true,
+   "freq": 0,
+   "text": "interpretuje równania i nierówności liniowe sprzeczne oraz tożsamościowe",
+   "freqPR": 0
+  },
+  {
+   "code": "III.3",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matp-row",
+   "written": true,
+   "freq": 1,
+   "text": "rozwiązuje nierówności liniowe z jedną niewiadomą",
+   "freqPR": 0
+  },
+  {
+   "code": "III.4",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matp-row",
+   "written": true,
+   "freq": 5,
+   "text": "rozwiązuje równania i nierówności kwadratowe",
+   "freqPR": 0
+  },
+  {
+   "code": "III.5",
+   "level": "P",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matp-row",
+   "written": true,
+   "freq": 3,
+   "text": "rozwiązuje równania wielomianowe postaci W(x) = 0 dla wielomianów doprowadzonych do postaci iloczynowej.",
+   "freqPR": 0
+  },
+  {
+   "code": "IV.1",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Układy równań",
+   "topic": "matp-row",
+   "written": true,
+   "freq": 2,
+   "text": "rozwiązuje układy równań liniowych z dwiema niewiadomymi, podaje interpretację geometryczną układów oznaczonych, nieoznaczonych i sprzecznych",
+   "freqPR": 0
+  },
+  {
+   "code": "IV.2",
+   "level": "P",
+   "section": "IV",
+   "sectionName": "Układy równań",
+   "topic": "matp-row",
+   "written": true,
+   "freq": 2,
+   "text": "stosuje układy równań do rozwiązywania zadań tekstowych.",
+   "freqPR": 0
+  },
+  {
+   "code": "V.1",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 0,
+   "text": "określa funkcje jako jednoznaczne przyporządkowanie za pomocą opisu słownego, tabeli, wykresu, wzoru (także różnymi wzorami na różnych przedziałach)",
+   "freqPR": 0
+  },
+  {
+   "code": "V.2",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 0,
+   "text": "oblicza wartość funkcji zadanej wzorem algebraicznym",
+   "freqPR": 0
+  },
+  {
+   "code": "V.3",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 2,
+   "text": "odczytuje i interpretuje wartości funkcji określonych za pomocą tabel, wykresów, wzorów itp., również w sytuacjach wielokrotnego użycia tego samego źródła informacji lub kilku źródeł jednocześnie",
+   "freqPR": 1
+  },
+  {
+   "code": "V.4",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 9,
+   "text": "odczytuje z wykresu funkcji: dziedzinę, zbiór wartości, miejsca zerowe, przedziały monotoniczności, przedziały, w których funkcja przyjmuje wartości większe (nie mniejsze) lub mniejsze (nie większe) od danej liczby, największe i najmniejsze wartości funkcji (o ile istnieją) w danym przedziale domkniętym oraz argumenty, dla których wartości największe i najmniejsze są przez funkcję przyjmowane",
+   "freqPR": 0
+  },
+  {
+   "code": "V.5",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 3,
+   "text": "interpretuje współczynniki występujące we wzorze funkcji liniowej",
+   "freqPR": 0
+  },
+  {
+   "code": "V.6",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 2,
+   "text": "wyznacza wzór funkcji liniowej na podstawie informacji o jej wykresie lub o jej własnościach",
+   "freqPR": 0
+  },
+  {
+   "code": "V.7",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-fun",
+   "written": true,
+   "freq": 1,
+   "text": "szkicuje wykres funkcji kwadratowej zadanej wzorem",
+   "freqPR": 0
+  },
+  {
+   "code": "V.8",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-fun",
+   "written": true,
+   "freq": 0,
+   "text": "interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci ogólnej, kanonicznej i iloczynowej (jeśli istnieje)",
+   "freqPR": 0
+  },
+  {
+   "code": "V.9",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-fun",
+   "written": true,
+   "freq": 3,
+   "text": "wyznacza wzór funkcji kwadratowej na podstawie informacji o tej funkcji lub o jej wykresie",
+   "freqPR": 0
+  },
+  {
+   "code": "V.10",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-fun",
+   "written": true,
+   "freq": 2,
+   "text": "wyznacza największą i najmniejszą wartość funkcji kwadratowej w przedziale domkniętym",
+   "freqPR": 0
+  },
+  {
+   "code": "V.11",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-fun",
+   "written": true,
+   "freq": 5,
+   "text": "wykorzystuje własności funkcji liniowej i kwadratowej do interpretacji zagadnień geometrycznych, fizycznych itp., także osadzonych w kontekście praktycznym",
+   "freqPR": 0
+  },
+  {
+   "code": "V.12",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 2,
+   "text": "na podstawie wykresu funkcji y= f(x) szkicuje wykresy funkcji y= f(x−a), y= f(x) + b",
+   "freqPR": 0
+  },
+  {
+   "code": "V.13",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 1,
+   "text": "posługuje się funkcją f(x) = a x, w tym jej wykresem, do opisu i interpretacji zagadnień związanych z wielkościami odwrotnie proporcjonalnymi, również w zastosowaniach praktycznych",
+   "freqPR": 0
+  },
+  {
+   "code": "V.14",
+   "level": "P",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matp-flin",
+   "written": true,
+   "freq": 1,
+   "text": "posługuje się funkcjami wykładniczą i logarytmiczną, w tym ich wykresami, do opisu i interpretacji zagadnień związanych z zastosowaniami praktycznymi.",
+   "freqPR": 2
+  },
+  {
+   "code": "VI.1",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matp-cia",
+   "written": true,
+   "freq": 2,
+   "text": "oblicza wyrazy ciągu określonego wzorem ogólnym",
+   "freqPR": 0
+  },
+  {
+   "code": "VI.2",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matp-cia",
+   "written": true,
+   "freq": 1,
+   "text": "oblicza początkowe wyrazy ciągów określonych rekurencyjnie",
+   "freqPR": 0
+  },
+  {
+   "code": "VI.3",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matp-cia",
+   "written": true,
+   "freq": 0,
+   "text": "w prostych przypadkach bada, czy ciąg jest rosnący, czy malejący",
+   "freqPR": 0
+  },
+  {
+   "code": "VI.4",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matp-cia",
+   "written": true,
+   "freq": 3,
+   "text": "sprawdza, czy dany ciąg jest arytmetyczny lub geometryczny",
+   "freqPR": 0
+  },
+  {
+   "code": "VI.5",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matp-cia",
+   "written": true,
+   "freq": 2,
+   "text": "stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego",
+   "freqPR": 0
+  },
+  {
+   "code": "VI.6",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matp-cia",
+   "written": true,
+   "freq": 4,
+   "text": "stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu geometrycznego",
+   "freqPR": 0
+  },
+  {
+   "code": "VI.7",
+   "level": "P",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matp-cia",
+   "written": true,
+   "freq": 5,
+   "text": "wykorzystuje własności ciągów, w tym arytmetycznych i geometrycznych, do rozwiązywania zadań, również osadzonych w kontekście praktycznym.",
+   "freqPR": 2
+  },
+  {
+   "code": "VII.1",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matp-try",
+   "written": true,
+   "freq": 5,
+   "text": "wykorzystuje definicje funkcji: sinus, cosinus i tangens dla kątów od 0° do 180°, w szczególności wyznacza wartości funkcji trygonometrycznych dla kątów 30°, 45°, 60°",
+   "freqPR": 1
+  },
+  {
+   "code": "VII.2",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matp-try",
+   "written": true,
+   "freq": 4,
+   "text": "korzysta z wzorów sin2 α+ cos2 α= 1, tg α= sinα cos α",
+   "freqPR": 0
+  },
+  {
+   "code": "VII.3",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matp-try",
+   "written": true,
+   "freq": 1,
+   "text": "stosuje twierdzenie cosinusów oraz wzór na pole trójkąta P= 1 2 ⋅a⋅b⋅sin γ",
+   "freqPR": 0
+  },
+  {
+   "code": "VII.4",
+   "level": "P",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matp-try",
+   "written": true,
+   "freq": 1,
+   "text": "oblicza kąty trójkąta prostokątnego i długości jego boków przy odpowiednich danych (rozwiązuje trójkąty prostokątne, w tym z wykorzystaniem funkcji trygonometrycznych).",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.1",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 0,
+   "text": "wyznacza promienie i średnice okręgów, długości cięciw okręgów oraz odcinków stycznych, w tym z wykorzystaniem twierdzenia Pitagorasa",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.2",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 0,
+   "text": "rozpoznaje trójkąty ostrokątne, prostokątne i rozwartokątne przy danych długościach boków (m.in. stosuje twierdzenie odwrotne do twierdzenia Pitagorasa i twierdzenie cosinusów); stosuje twierdzenie: w trójkącie naprzeciw większego kąta wewnętrznego leży dłuższy bok",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.3",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 3,
+   "text": "rozpoznaje wielokąty foremne i korzysta z ich podstawowych własności",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.4",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 0,
+   "text": "korzysta z własności kątów i przekątnych w prostokątach, równoległobokach, rombach i trapezach",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.5",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 4,
+   "text": "stosuje własności kątów wpisanych i środkowych",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.6",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 1,
+   "text": "stosuje wzory na pole wycinka koła i długość łuku okręgu",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.7",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 1,
+   "text": "stosuje twierdzenie Talesa",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.8",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 2,
+   "text": "korzysta z cech podobieństwa trójkątów",
+   "freqPR": 2
+  },
+  {
+   "code": "VIII.9",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 1,
+   "text": "wykorzystuje zależności między obwodami oraz między polami figur podobnych",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.10",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 3,
+   "text": "wskazuje podstawowe punkty szczególne w trójkącie: środek okręgu wpisanego w trójkąt, środek okręgu opisanego na trójkącie, ortocentrum, środek ciężkości oraz korzysta z ich własności",
+   "freqPR": 0
+  },
+  {
+   "code": "VIII.11",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 2,
+   "text": "przeprowadza dowody geometryczne",
+   "freqPR": 3
+  },
+  {
+   "code": "VIII.12",
+   "level": "P",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matp-geo",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje funkcje trygonometryczne do wyznaczania długości odcinków w figurach płaskich oraz obliczania pól figur.",
+   "freqPR": 0
+  },
+  {
+   "code": "IX.1",
+   "level": "P",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matp-ana",
+   "written": true,
+   "freq": 1,
+   "text": "rozpoznaje wzajemne położenie prostych na płaszczyźnie na podstawie ich równań, w tym znajduje wspólny punkt dwóch prostych, jeśli taki istnieje",
+   "freqPR": 0
+  },
+  {
+   "code": "IX.2",
+   "level": "P",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matp-ana",
+   "written": true,
+   "freq": 4,
+   "text": "posługuje się równaniami prostych na płaszczyźnie, w postaci kierunkowej i ogólnej, w tym wyznacza równanie prostej o zadanych własnościach (takich, jak np. przechodzenie przez dwa dane punkty, znany współczynnik kierunkowy, równoległość do innej prostej)",
+   "freqPR": 0
+  },
+  {
+   "code": "IX.3",
+   "level": "P",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matp-ana",
+   "written": true,
+   "freq": 5,
+   "text": "oblicza odległość dwóch punktów w układzie współrzędnych",
+   "freqPR": 0
+  },
+  {
+   "code": "IX.4",
+   "level": "P",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matp-ana",
+   "written": true,
+   "freq": 4,
+   "text": "posługuje się równaniem okręgu (x−a)2 + (y−b)2 = r2",
+   "freqPR": 0
+  },
+  {
+   "code": "IX.5",
+   "level": "P",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matp-ana",
+   "written": true,
+   "freq": 1,
+   "text": "wyznacza obrazy okręgów i wielokątów w symetriach osiowych względem osi układu współrzędnych, symetrii środkowej (o środku w początku układu współrzędnych).",
+   "freqPR": 0
+  },
+  {
+   "code": "X.1",
+   "level": "P",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matp-ste",
+   "written": true,
+   "freq": 0,
+   "text": "rozpoznaje wzajemne położenie prostych w przestrzeni, w szczególności proste prostopadłe nieprzecinające się",
+   "freqPR": 0
+  },
+  {
+   "code": "X.2",
+   "level": "P",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matp-ste",
+   "written": true,
+   "freq": 1,
+   "text": "posługuje się pojęciem kąta między prostą a płaszczyzną oraz pojęciem kąta dwuściennego między półpłaszczyznami",
+   "freqPR": 0
+  },
+  {
+   "code": "X.3",
+   "level": "P",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matp-ste",
+   "written": true,
+   "freq": 3,
+   "text": "rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami (np. krawędziami, krawędziami i przekątnymi) oraz kąty między ścianami, oblicza miary tych kątów",
+   "freqPR": 1
+  },
+  {
+   "code": "X.4",
+   "level": "P",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matp-ste",
+   "written": true,
+   "freq": 2,
+   "text": "rozpoznaje w walcach i w stożkach kąt między odcinkami oraz kąt między odcinkami i płaszczyznami (np. kąt rozwarcia stożka, kąt między tworzącą a podstawą), oblicza miary tych kątów",
+   "freqPR": 0
+  },
+  {
+   "code": "X.5",
+   "level": "P",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matp-ste",
+   "written": true,
+   "freq": 8,
+   "text": "oblicza objętości i pola powierzchni graniastosłupów, ostrosłupów, walca, stożka i kuli, również z wykorzystaniem trygonometrii",
+   "freqPR": 3
+  },
+  {
+   "code": "X.6",
+   "level": "P",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matp-ste",
+   "written": true,
+   "freq": 1,
+   "text": "wykorzystuje zależność między objętościami brył podobnych.",
+   "freqPR": 0
+  },
+  {
+   "code": "XI.1",
+   "level": "P",
+   "section": "XI",
+   "sectionName": "Kombinatoryka",
+   "topic": "matp-sta",
+   "written": true,
+   "freq": 0,
+   "text": "zlicza obiekty w prostych sytuacjach kombinatorycznych",
+   "freqPR": 0
+  },
+  {
+   "code": "XI.2",
+   "level": "P",
+   "section": "XI",
+   "sectionName": "Kombinatoryka",
+   "topic": "matp-sta",
+   "written": true,
+   "freq": 4,
+   "text": "zlicza obiekty, stosując reguły mnożenia i dodawania (także łącznie) dla dowolnej liczby czynności, np.: a) obliczenie, ile jest czterocyfrowych nieparzystych liczb całkowitych dodatnich takich, że w ich zapisie dziesiętnym występuje dokładnie jedna cyfra 1 i dokładnie jedna cyfra 2, b) obliczenie, ile jest czterocyfrowych parzystych liczb całkowitych dodatnich takich, że w ich zapisie dziesiętnym występuje dokładnie jedna cyfra 0 i dokładnie jedna cyfra 1.",
+   "freqPR": 0
+  },
+  {
+   "code": "XII.1",
+   "level": "P",
+   "section": "XII",
+   "sectionName": "Rachunek prawdopodobieństwa i statystyka",
+   "topic": "matp-sta",
+   "written": true,
+   "freq": 4,
+   "text": "oblicza prawdopodobieństwo w modelu klasycznym",
+   "freqPR": 1
+  },
+  {
+   "code": "XII.2",
+   "level": "P",
+   "section": "XII",
+   "sectionName": "Rachunek prawdopodobieństwa i statystyka",
+   "topic": "matp-sta",
+   "written": true,
+   "freq": 7,
+   "text": "oblicza średnią arytmetyczną i średnią ważoną, znajduje medianę i dominantę.",
+   "freqPR": 0
+  },
+  {
+   "code": "XIII.1",
+   "level": "P",
+   "section": "XIII",
+   "sectionName": "Optymalizacja i rachunek różniczkowy",
+   "topic": "matp-opt",
+   "written": true,
+   "freq": 0,
+   "text": "rozwiązuje zadania optymalizacyjne w sytuacjach dających się opisać funkcją kwadratową.",
+   "freqPR": 0
+  }
+ ],
+ "unmatchedSchemeCodes": []
+}

@@ -1,0 +1,516 @@
+{
+ "subject": "mat-pr",
+ "source": "Rozporządzenie MEN z 28.06.2024 (Dz.U. 2024 poz. 1019), załącznik nr 1 – podstawa programowa LO, s. 326–341",
+ "scope": "Zakres rozszerzony. Egzamin rozszerzony obejmuje też wszystkie wymagania z mat-pp.json.",
+ "freqNote": "freq = ile razy zasady oceniania arkuszy CKE od grudnia 2024 (diagnostyczny XII 2024, maj 2025, próbny III 2026, maj 2026; wersja standardowa) powołują się na dane wymaganie. Arkusze 2023 i V 2024 pominięto: używały starszej numeracji wymagań.",
+ "topics": [
+  {
+   "id": "matr-nie",
+   "name": "Wartość bezwzględna i wielomiany",
+   "w": 2
+  },
+  {
+   "id": "matr-par",
+   "name": "Równania z parametrem, wzory Viète'a",
+   "w": 2
+  },
+  {
+   "id": "matr-fun",
+   "name": "Funkcje: przekształcenia i złożenia",
+   "w": 1
+  },
+  {
+   "id": "matr-gra",
+   "name": "Granice i pochodna",
+   "w": 3
+  },
+  {
+   "id": "matr-try",
+   "name": "Trygonometria",
+   "w": 2
+  },
+  {
+   "id": "matr-pla",
+   "name": "Planimetria (rozszerzenie)",
+   "w": 2
+  },
+  {
+   "id": "matr-ana",
+   "name": "Geometria analityczna",
+   "w": 2
+  },
+  {
+   "id": "matr-ste",
+   "name": "Stereometria (rozszerzenie)",
+   "w": 2
+  },
+  {
+   "id": "matr-kom",
+   "name": "Kombinatoryka i prawdop. warunkowe",
+   "w": 2
+  }
+ ],
+ "requirements": [
+  {
+   "code": "I.R1",
+   "level": "R",
+   "section": "I",
+   "sectionName": "Liczby rzeczywiste",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje wzór na zamianę podstawy logarytmu."
+  },
+  {
+   "code": "II.R1",
+   "level": "R",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "dzieli wielomian jednej zmiennej W(x) przez dwumian postaci x − a"
+  },
+  {
+   "code": "II.R2",
+   "level": "R",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "rozkłada wielomiany na czynniki metodą wyłączania wspólnego czynnika przed nawias oraz metodą grupowania wyrazów"
+  },
+  {
+   "code": "II.R3",
+   "level": "R",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "znajduje pierwiastki całkowite wielomianu o współczynnikach całkowitych"
+  },
+  {
+   "code": "II.R4",
+   "level": "R",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matr-kom",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje podstawowe własności trójkąta Pascala oraz następujące własności współczynnika dwumianowego (symbolu Newtona): (n 0) = 1, (n 1) = n, ( n n−1) = n, (n k) = ( n n−k), (n k) + ( n k+1) = (n+1 k+1)"
+  },
+  {
+   "code": "II.R5",
+   "level": "R",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 2,
+   "text": "korzysta ze wzorów na: a3 + b3, a3 − b3, an − bn, (a + b)n i (a − b)n"
+  },
+  {
+   "code": "II.R6",
+   "level": "R",
+   "section": "II",
+   "sectionName": "Wyrażenia algebraiczne",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "dodaje i odejmuje wyrażenia wymierne, np.: 1 x +1 − 1 x, 1 x+ 1 x2 + 1 x3, x + 1 x + 2 + x − 1 x + 1."
+  },
+  {
+   "code": "III.R1",
+   "level": "R",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "rozwiązuje równania wielomianowe postaci W(x) = 0 oraz nierówności wielomianowe typu: W(x) > 0, W(x) ≥ 0, W(x) < 0, W(x) ≤ 0 dla wielomianów doprowadzonych do postaci iloczynowej lub takich, które dają się doprowadzić do postaci iloczynowej metodą wyłączania wspólnego czynnika przed nawias lub metodą grupowania"
+  },
+  {
+   "code": "III.R2",
+   "level": "R",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "rozwiązuje równania i nierówności wymierne, które dadzą się sprowadzić do równania lub nierówności liniowej lub kwadratowej"
+  },
+  {
+   "code": "III.R3",
+   "level": "R",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matr-par",
+   "written": true,
+   "freq": 2,
+   "text": "stosuje wzory Viète’a dla równań kwadratowych"
+  },
+  {
+   "code": "III.R4",
+   "level": "R",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 3,
+   "text": "rozwiązuje równania i nierówności z wartością bezwzględną"
+  },
+  {
+   "code": "III.R5",
+   "level": "R",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matr-par",
+   "written": true,
+   "freq": 3,
+   "text": "analizuje równania i nierówności liniowe z parametrami oraz równania i nierówności kwadratowe z parametrami, w szczególności: wyznacza liczbę rozwiązań w zależności od parametrów, podaje warunki, przy których rozwiązania mają określone znaki bądź należą do określonego przedziału, wyznacza rozwiązania w zależności od parametrów"
+  },
+  {
+   "code": "III.R6",
+   "level": "R",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "rozwiązuje równania wielomianowe, które dają się doprowadzić do równania kwadratowego, w szczególności równania dwukwadratowe"
+  },
+  {
+   "code": "III.R7",
+   "level": "R",
+   "section": "III",
+   "sectionName": "Równania i nierówności",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "rozwiązuje równania wymierne postaci V(x)/W(x)= 0ǡ gdzie wielomiany V(x) i W(x) są zapisane w postaci iloczynowej."
+  },
+  {
+   "code": "IV.R1",
+   "level": "R",
+   "section": "IV",
+   "sectionName": "Układy równań",
+   "topic": "matr-nie",
+   "written": true,
+   "freq": 0,
+   "text": "rozwiązuje układy równań liniowych i kwadratowych z dwiema niewiadomymi, które można sprowadzić do równania kwadratowego lub liniowego, a które nie są trudniejsze niż { x2 + y2 + aa+ bb= c x2 + y2 + dd+ ee= f ."
+  },
+  {
+   "code": "V.R1",
+   "level": "R",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matr-fun",
+   "written": true,
+   "freq": 0,
+   "text": "na podstawie wykresu funkcji y= f(x) rysuje wykresy funkcji y= −f(x), y= f(−x)"
+  },
+  {
+   "code": "V.R2",
+   "level": "R",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matr-fun",
+   "written": true,
+   "freq": 0,
+   "text": "posługuje się złożeniami funkcji"
+  },
+  {
+   "code": "V.R3",
+   "level": "R",
+   "section": "V",
+   "sectionName": "Funkcje",
+   "topic": "matr-fun",
+   "written": true,
+   "freq": 0,
+   "text": "dowodzi monotoniczności funkcji zadanej wzorem, jak w przykładzie: wykaż, że funkcja f(x) = x−1 x+2 jest monotoniczna w przedziale (−∞, −2)."
+  },
+  {
+   "code": "VI.R1",
+   "level": "R",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 2,
+   "text": "oblicza granice ciągów, korzystając z granic ciągów typu 1 n, √a n oraz twierdzeń o granicach sumy, różnicy, iloczynu i ilorazu ciągów zbieżnych, a także twierdzenia o trzech ciągach"
+  },
+  {
+   "code": "VI.R2",
+   "level": "R",
+   "section": "VI",
+   "sectionName": "Ciągi",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 1,
+   "text": "rozpoznaje zbieżne szeregi geometryczne i oblicza ich sumę."
+  },
+  {
+   "code": "VII.R1",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje miarę łukową, zamienia stopnie na radiany i odwrotnie"
+  },
+  {
+   "code": "VII.R2",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 0,
+   "text": "posługuje się wykresami funkcji trygonometrycznych: sinus, cosinus, tangens"
+  },
+  {
+   "code": "VII.R3",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 0,
+   "text": "wykorzystuje okresowość funkcji trygonometrycznych"
+  },
+  {
+   "code": "VII.R4",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje wzory redukcyjne dla funkcji trygonometrycznych"
+  },
+  {
+   "code": "VII.R5",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 1,
+   "text": "korzysta z wzorów na sinus, cosinus i tangens sumy i różnicy kątów, a także na funkcje trygonometryczne kątów podwojonych"
+  },
+  {
+   "code": "VII.R6",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 3,
+   "text": "rozwiązuje równania trygonometryczne"
+  },
+  {
+   "code": "VII.R7",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 1,
+   "text": "stosuje twierdzenie sinusów"
+  },
+  {
+   "code": "VII.R8",
+   "level": "R",
+   "section": "VII",
+   "sectionName": "Trygonometria",
+   "topic": "matr-try",
+   "written": true,
+   "freq": 1,
+   "text": "oblicza kąty trójkąta i długości jego boków przy odpowiednich danych (rozwiązuje trójkąty)."
+  },
+  {
+   "code": "VIII.R1",
+   "level": "R",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matr-pla",
+   "written": true,
+   "freq": 1,
+   "text": "stosuje własności czworokątów wpisanych w okrąg i opisanych na okręgu"
+  },
+  {
+   "code": "VIII.R2",
+   "level": "R",
+   "section": "VIII",
+   "sectionName": "Planimetria",
+   "topic": "matr-pla",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje twierdzenie odwrotne do twierdzenia Talesa."
+  },
+  {
+   "code": "IX.R1",
+   "level": "R",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matr-ana",
+   "written": true,
+   "freq": 1,
+   "text": "znajduje punkty wspólne prostej i okręgu"
+  },
+  {
+   "code": "IX.R2",
+   "level": "R",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matr-ana",
+   "written": true,
+   "freq": 1,
+   "text": "znajduje punkty wspólne dwóch okręgów"
+  },
+  {
+   "code": "IX.R3",
+   "level": "R",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matr-ana",
+   "written": true,
+   "freq": 2,
+   "text": "zna pojęcie wektora i oblicza jego współrzędne oraz długość, dodaje wektory i mnoży wektor przez liczbę, oba te działania wykonuje zarówno analitycznie, jak i geometrycznie"
+  },
+  {
+   "code": "IX.R4",
+   "level": "R",
+   "section": "IX",
+   "sectionName": "Geometria analityczna na płaszczyźnie kartezjańskiej",
+   "topic": "matr-ana",
+   "written": true,
+   "freq": 2,
+   "text": "wyznacza równanie prostej prostopadłej do zadanej prostej i prostej stycznej do zadanego okręgu."
+  },
+  {
+   "code": "X.R1",
+   "level": "R",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matr-ste",
+   "written": true,
+   "freq": 0,
+   "text": "zna i stosuje twierdzenie o prostej prostopadłej do płaszczyzny i o trzech prostopadłych"
+  },
+  {
+   "code": "X.R2",
+   "level": "R",
+   "section": "X",
+   "sectionName": "Stereometria",
+   "topic": "matr-ste",
+   "written": true,
+   "freq": 1,
+   "text": "wyznacza przekroje sześcianu i ostrosłupów prawidłowych oraz oblicza ich pola, także z wykorzystaniem trygonometrii."
+  },
+  {
+   "code": "XI.R1",
+   "level": "R",
+   "section": "XI",
+   "sectionName": "Kombinatoryka",
+   "topic": "matr-kom",
+   "written": true,
+   "freq": 0,
+   "text": "oblicza liczbę możliwych sytuacji, spełniających określone kryteria, z wykorzystaniem reguły mnożenia i dodawania (także łącznie) oraz wzorów na liczbę: permutacji, kombinacji i wariacji"
+  },
+  {
+   "code": "XI.R2",
+   "level": "R",
+   "section": "XI",
+   "sectionName": "Kombinatoryka",
+   "topic": "matr-kom",
+   "written": true,
+   "freq": 1,
+   "text": "stosuje współczynnik dwumianowy (symbol Newtona) i jego własności przy rozwiązywaniu problemów kombinatorycznych."
+  },
+  {
+   "code": "XII.R1",
+   "level": "R",
+   "section": "XII",
+   "sectionName": "Rachunek prawdopodobieństwa i statystyka",
+   "topic": "matr-kom",
+   "written": true,
+   "freq": 2,
+   "text": "oblicza prawdopodobieństwo warunkowe i stosuje wzór Bayesa, stosuje twierdzenie o prawdopodobieństwie całkowitym"
+  },
+  {
+   "code": "XII.R2",
+   "level": "R",
+   "section": "XII",
+   "sectionName": "Rachunek prawdopodobieństwa i statystyka",
+   "topic": "matr-kom",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje schemat Bernoullego."
+  },
+  {
+   "code": "XIII.R1",
+   "level": "R",
+   "section": "XIII",
+   "sectionName": "Optymalizacja i rachunek różniczkowy",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 0,
+   "text": "oblicza granice funkcji (w tym jednostronne)"
+  },
+  {
+   "code": "XIII.R2",
+   "level": "R",
+   "section": "XIII",
+   "sectionName": "Optymalizacja i rachunek różniczkowy",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje własność Darboux do uzasadniania istnienia miejsca zerowego funkcji"
+  },
+  {
+   "code": "XIII.R3",
+   "level": "R",
+   "section": "XIII",
+   "sectionName": "Optymalizacja i rachunek różniczkowy",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 0,
+   "text": "stosuje definicję pochodnej funkcji, podaje interpretację geometryczną i fizyczną pochodnej"
+  },
+  {
+   "code": "XIII.R4",
+   "level": "R",
+   "section": "XIII",
+   "sectionName": "Optymalizacja i rachunek różniczkowy",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 3,
+   "text": "oblicza pochodną funkcji potęgowej o wykładniku rzeczywistym oraz oblicza pochodną, korzystając z twierdzeń o pochodnej sumy, różnicy, iloczynu, ilorazu i funkcji złożonej"
+  },
+  {
+   "code": "XIII.R5",
+   "level": "R",
+   "section": "XIII",
+   "sectionName": "Optymalizacja i rachunek różniczkowy",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 3,
+   "text": "stosuje pochodną do badania monotoniczności funkcji"
+  },
+  {
+   "code": "XIII.R6",
+   "level": "R",
+   "section": "XIII",
+   "sectionName": "Optymalizacja i rachunek różniczkowy",
+   "topic": "matr-gra",
+   "written": true,
+   "freq": 3,
+   "text": "rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej."
+  }
+ ],
+ "unmatchedSchemeCodes": []
+}

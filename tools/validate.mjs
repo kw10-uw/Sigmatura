@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-// Checks every exam file in content/exams: structure, answers, topics, materials, asset files.
+// Checks content/scope (requirements per subject) and every exam file in content/exams:
+// structure, answers, topics, requirement codes, materials, asset files.
 // Usage: node tools/validate.mjs
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -18,6 +19,32 @@ const files = [];
 let errors = 0, tasks = 0; const seen = new Set();
 const err = (f, m) => { errors++; console.log(`✗ ${f.replace(root + "/", "")}: ${m}`); };
 
+// ---- scope: content/scope/<subject>.json (built by tools/build_scope.py) ----
+const scope = {}; // subject -> { topics:Set, codes:Set }
+const scopeDir = join(root, "content/scope");
+const scopeTopics = new Set();
+for (const f of existsSync(scopeDir) ? readdirSync(scopeDir).filter(f => f.endsWith(".json")) : []) {
+  const p = join(scopeDir, f); let sc;
+  try { sc = JSON.parse(readFileSync(p, "utf8")); } catch (e) { err(p, "invalid JSON: " + e.message); continue; }
+  if (!SUBJ.has(sc.subject)) err(p, `unknown subject "${sc.subject}"`);
+  const topics = new Set(sc.topics.map(t => t.id)), codes = new Set();
+  topics.forEach(t => scopeTopics.add(t));
+  for (const r of sc.requirements) {
+    if (codes.has(r.code)) err(p, `duplicate requirement ${r.code}`); codes.add(r.code);
+    if (r.topic !== null && !topics.has(r.topic)) err(p, `${r.code}: unknown topic "${r.topic}"`);
+    if (r.written && !r.topic) err(p, `${r.code}: written requirement without topic`);
+    if (!r.text) err(p, `${r.code}: empty text`);
+  }
+  for (const t of sc.topics) {
+    for (const c of t.alsoCovers || []) if (!codes.has(c)) err(p, `topic ${t.id}: alsoCovers unknown code ${c}`);
+    if (!sc.requirements.some(r => r.topic === t.id) && !(t.alsoCovers || []).length) err(p, `topic ${t.id} has no requirements`);
+  }
+  scope[sc.subject] = { topics, codes };
+}
+for (const id of ids) if (!SUBJ.has(id) && Object.keys(scope).length && !scopeTopics.has(id)) err(join(root, "index.html"), `app topic "${id}" is not in any content/scope file`);
+// mat-pr tasks may cite basic requirements too (the extended exam covers both).
+const codesFor = s => s === "mat-pr" ? new Set([...(scope["mat-pr"]?.codes || []), ...(scope["mat-pp"]?.codes || [])]) : scope[s]?.codes;
+
 for (const f of files) {
   let ex; try { ex = JSON.parse(readFileSync(f, "utf8")); } catch (e) { err(f, "invalid JSON: " + e.message); continue; }
   if (!ex.id) err(f, "missing id");
@@ -31,7 +58,9 @@ for (const f of files) {
     tasks++; const w = `task ${t.id || t.no}`;
     if (!t.id || seen.has(t.id)) err(f, `${w}: id missing or duplicated`); seen.add(t.id);
     if (!TYPES.has(t.type)) err(f, `${w}: unknown type "${t.type}"`);
-    if (!ids.has(t.topic)) err(f, `${w}: unknown topic "${t.topic}"`);
+    if (!ids.has(t.topic)) err(f, `${w}: unknown topic "${t.topic}" (add it to SUBJECTS in index.html; planned topics are in content/scope)`);
+    const cs = codesFor(ex.subject);
+    for (const rq of [].concat(t.requirement || [])) if (cs && !cs.has(rq)) err(f, `${w}: requirement "${rq}" is not in content/scope/${ex.subject}.json`);
     if (!t.prompt) err(f, `${w}: empty prompt`);
     if (typeof t.points !== "number") err(f, `${w}: points must be a number`);
     for (const m of t.materials || []) if (!mats.has(m)) err(f, `${w}: unknown material "${m}"`);
@@ -44,5 +73,5 @@ for (const f of files) {
     if (t.type === "open" && !t.scoring) err(f, `${w}: open needs scoring`);
   }
 }
-console.log(`${files.length} exam file(s), ${tasks} task(s), ${errors} error(s)`);
+console.log(`${Object.keys(scope).length} scope file(s), ${files.length} exam file(s), ${tasks} task(s), ${errors} error(s)`);
 process.exit(errors ? 1 : 0);
