@@ -1,0 +1,5 @@
+# Raw CKE PDFs stay local: heavy, and the structured JSON in content/ is the source of truth
+raw/*
+!raw/.gitkeep
+node_modules/
+.DS_Store

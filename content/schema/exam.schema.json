@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sigmatura exam paper",
+  "type": "object",
+  "required": ["id", "subject", "formula", "year", "session", "tasks"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z]+-p[pr]-\\d{4}-\\d{2}(-[a-z0-9]+)?$" },
+    "subject": { "enum": ["pol-pp", "mat-pp", "mat-pr", "ang-pp", "ang-pr", "geo-pr", "hisz-pp"] },
+    "formula": { "enum": ["2023", "2015"] },
+    "year": { "type": "integer" },
+    "session": { "enum": ["maj", "czerwiec", "sierpien", "probna", "pokazowy", "przyklad"] },
+    "source": { "type": "object", "properties": { "paper": { "type": "string" }, "key": { "type": "string" } } },
+    "materials": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type"],
+        "properties": {
+          "id": { "type": "string" },
+          "type": { "enum": ["map", "chart", "table", "image", "text"] },
+          "file": { "type": "string" },
+          "text": { "type": "string" },
+          "caption": { "type": "string" }
+        }
+      }
+    },
+    "tasks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "no", "points", "type", "topic", "prompt"],
+        "properties": {
+          "id": { "type": "string" },
+          "no": { "type": "string" },
+          "points": { "type": "number" },
+          "type": { "enum": ["mc", "tf", "match", "num", "text", "open"] },
+          "topic": { "type": "string" },
+          "requirement": { "type": "string" },
+          "materials": { "type": "array", "items": { "type": "string" } },
+          "prompt": { "type": "string" },
+          "options": { "type": "array", "items": { "type": "string" } },
+          "statements": { "type": "array", "items": { "type": "string" } },
+          "pairs": { "type": "array", "items": { "type": "array", "minItems": 2, "maxItems": 2 } },
+          "answer": {},
+          "tolerance": { "type": "number" },
+          "unit": { "type": "string" },
+          "explanation": { "type": "string" },
+          "scoring": { "type": "string" }
+        }
+      }
+    }
+  }
+}

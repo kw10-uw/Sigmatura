@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F4F1EA">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Sigmatura">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<title>Sigmatura – trening do matury 2027</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet">
+<style>
+/* ===== Paleta: Atlas ===== */
+:root{
+  --font:Nunito,system-ui,sans-serif;--font-h:Fraunces,Georgia,serif;--fw:600;--fwh:700;--tt:none;
+  --r:10px;--dep:0px;
+  --bg:#F4F1EA;--card:#FBF9F4;--ink:#1E2A26;--mute:#6E7773;--line:#DDD7CA;--track:#E6E0D3;
+  --pri:#1F5C4A;--pri-d:#143F33;--pri-ink:#FFFFFF;
+  --acc:#C2603A;--acc-d:#9C4826;--acc-bg:#F6E3D8;--acc-ink:#9C4826;
+  --ok:#3F8F5F;--ok-d:#2C6B45;--ok-bg:#DCEEDD;--ok-ink:#2C6B45;
+  --no:#B8443A;--no-d:#8F2F27;--no-bg:#F4DBD6;--no-ink:#8F2F27;
+  --warn:#C99A2E;--warn-bg:#F3E7C6;--warn-ink:#7A5A0E;
+  --c-pol:#A8475A;--t-pol:#F0DCDD;--c-mat:#3E6A91;--t-mat:#DAE5EE;--c-ang:#6A5A92;--t-ang:#E3DEEE;
+  --c-geo:#4F7F52;--t-geo:#DDE9D8;--c-hisz:#B97A2B;--t-hisz:#F2E4CB;
+  color-scheme:light;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);font-weight:var(--fw)}
+#app{max-width:560px;margin:0 auto;min-height:100vh;padding:calc(env(safe-area-inset-top) + 12px) 16px calc(env(safe-area-inset-bottom) + 120px)}
+h1,h2,h3{margin:0;font-family:var(--font-h);font-weight:var(--fwh);letter-spacing:-.01em}
+h1{font-size:26px}h2{font-size:20px}h3{font-size:16px}
+b{font-weight:800}
+.mute{color:var(--mute)}
+.small{font-size:13px}
+.row{display:flex;align-items:center;gap:10px}
+.between{justify-content:space-between}
+.grow{flex:1;min-width:0}
+.top{display:flex;align-items:center;margin-bottom:14px;gap:8px}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border-radius:999px;background:var(--card);border:2px solid var(--line);font:inherit;font-weight:800;font-size:15px;color:var(--ink)}
+.card{background:var(--card);border:2px solid var(--line);border-radius:var(--r);padding:14px;margin-bottom:12px}
+.btn{display:block;width:100%;border:none;border-radius:calc(var(--r) - 4px);padding:15px 16px;font:inherit;font-weight:900;font-size:16px;letter-spacing:.3px;text-transform:var(--tt);cursor:pointer;color:var(--pri-ink);background:var(--pri);box-shadow:0 var(--dep) 0 var(--pri-d);transition:transform .05s}
+.btn:active{transform:translateY(2px)}
+.btn.acc{background:var(--acc);box-shadow:0 var(--dep) 0 var(--acc-d);color:#fff}
+.btn.red{background:var(--no);box-shadow:0 var(--dep) 0 var(--no-d);color:#fff}
+.btn.good{background:var(--ok);box-shadow:0 var(--dep) 0 var(--ok-d);color:#fff}
+.btn.ghost{background:var(--card);color:var(--ink);border:2px solid var(--line);box-shadow:0 var(--dep) 0 var(--line)}
+.btn[disabled]{background:var(--track);color:var(--mute);box-shadow:0 var(--dep) 0 var(--line);cursor:default;opacity:.8}
+.btn.sm{padding:9px 14px;font-size:13px;width:auto;display:inline-block}
+.bar{height:12px;background:var(--track);border-radius:99px;overflow:hidden}
+.bar>i{display:block;height:100%;border-radius:99px;background:var(--ok);transition:width .4s}
+.bar.thin{height:8px;margin:7px 0 5px}
+.back{border:none;background:none;font:inherit;font-weight:800;font-size:15px;color:var(--mute);cursor:pointer;padding:4px 0;margin-bottom:10px}
+.why{font-size:12.5px;color:var(--mute);line-height:1.35}
+.sec{margin:20px 0 10px}
+/* home */
+.hero{display:flex;align-items:center;gap:14px}
+.ring{flex:none;display:block}
+.mixbtn{display:flex;align-items:center;gap:12px;width:100%;text-align:left;border:none;cursor:pointer;font:inherit;color:var(--pri-ink);background:var(--pri);border-radius:var(--r);padding:16px;box-shadow:0 var(--dep) 0 var(--pri-d)}
+.mixbtn:active{transform:translateY(2px)}
+.mixbtn .mi{font-size:26px;width:46px;height:46px;border-radius:14px;background:rgba(255,255,255,.22);display:grid;place-items:center;flex:none}
+.mixbtn b{display:block;font-family:var(--font-h);font-weight:var(--fwh);font-size:18px}
+.mixbtn .grow span{font-size:13px;opacity:.9;font-weight:600}
+.mixbtn .arr{font-size:28px;opacity:.8}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.tile{display:flex;flex-direction:column;gap:6px;text-align:left;font:inherit;color:var(--ink);cursor:pointer;background:var(--t);border:2px solid transparent;border-radius:var(--r);padding:14px;min-height:168px}
+.tile:active{border-color:var(--c)}
+.tile:last-child:nth-child(odd){grid-column:span 2;min-height:0}
+.tic{font-size:26px;width:46px;height:46px;border-radius:14px;background:var(--card);display:grid;place-items:center;flex:none}
+.lv{display:flex;flex-wrap:wrap;gap:5px}
+.lvb{font-size:11px;font-weight:800;padding:2px 8px;border-radius:99px;border:1.5px solid var(--c);color:var(--c);opacity:.45}
+.lvb.on{background:var(--c);color:var(--card);opacity:1}
+.tnote{font-size:13px;font-weight:800;margin-top:auto;padding-top:4px}
+/* group */
+.ghead{display:flex;align-items:center;gap:12px;background:var(--t);border-radius:var(--r);padding:14px;margin-bottom:12px}
+.seg{display:flex;background:var(--track);border-radius:14px;padding:4px;margin-bottom:12px;gap:4px}
+.seg button{flex:1;border:none;background:none;font:inherit;font-weight:800;font-size:14px;color:var(--mute);padding:9px 4px;border-radius:10px;cursor:pointer}
+.seg button.on{background:var(--card);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.notes{padding:6px 14px}
+.note{display:flex;gap:10px;align-items:flex-start;padding:9px 0;border-bottom:1px solid var(--line);font-size:14px;line-height:1.35}
+.note:last-child{border-bottom:none}
+.note .ni{flex:none;width:28px;height:28px;border-radius:9px;display:grid;place-items:center;font-size:15px}
+.status{font-size:12px;font-weight:800;padding:3px 9px;border-radius:99px;white-space:nowrap;flex:none}
+.st-new{background:var(--track);color:var(--mute)}
+.st-weak{background:var(--no-bg);color:var(--no-ink)}
+.st-mid{background:var(--warn-bg);color:var(--warn-ink)}
+.st-ok,.st-up{background:var(--ok-bg);color:var(--ok-ink)}
+.st-near{background:var(--acc-bg);color:var(--acc-ink)}
+.lvhead{font-size:12px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:16px 0 4px}
+.topic{display:flex;gap:12px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+.topic:last-child{border-bottom:none}
+.tname{font-weight:800;line-height:1.25}
+.go{flex:none;width:42px;height:42px;border-radius:50%;border:none;cursor:pointer;background:var(--acc);color:#fff;font-size:15px;box-shadow:0 var(--dep) 0 var(--acc-d)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:2px solid var(--line);background:var(--card);border-radius:999px;padding:7px 14px;font:inherit;font-size:14px;font-weight:800;cursor:pointer;color:var(--mute)}
+.chip.on{border-color:var(--acc);background:var(--acc-bg);color:var(--acc-ink)}
+.mrowx{display:flex;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
+.mrowx:last-child{border-bottom:none}
+/* lesson */
+.lhead{display:flex;align-items:center;gap:12px;margin-bottom:16px}
+.x{border:none;background:none;font-size:26px;color:var(--mute);cursor:pointer;padding:0 4px;line-height:1}
+.lhead .bar{flex:1;height:16px}
+.tag{display:inline-block;font-size:12px;font-weight:800;padding:4px 10px;border-radius:99px;background:var(--track);color:var(--mute);margin-bottom:8px}
+.qtext{font-size:19px;font-weight:800;line-height:1.35;margin:4px 0 14px;white-space:pre-line}
+.vis{background:#fff;border:2px solid var(--line);border-radius:16px;padding:8px;margin-bottom:14px}
+.vis svg{display:block;width:100%;height:auto}
+.opt{display:block;width:100%;text-align:left;border:2px solid var(--line);background:var(--card);border-radius:14px;padding:13px 14px;margin-bottom:10px;font:inherit;font-size:16px;cursor:pointer;box-shadow:0 calc(var(--dep)*.75) 0 var(--line);color:var(--ink)}
+.opt.sel{border-color:var(--acc);background:var(--acc-bg);box-shadow:0 calc(var(--dep)*.75) 0 var(--acc)}
+.opt.good{border-color:var(--ok);background:var(--ok-bg);box-shadow:0 calc(var(--dep)*.75) 0 var(--ok)}
+.opt.bad{border-color:var(--no);background:var(--no-bg);box-shadow:0 calc(var(--dep)*.75) 0 var(--no)}
+.tfrow{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
+.tfrow:last-child,.mrow:last-child{border-bottom:none}
+.tfrow .s{flex:1}
+.tfb{border:2px solid var(--line);background:var(--card);border-radius:10px;width:44px;height:40px;font:inherit;font-weight:900;cursor:pointer;color:var(--ink)}
+.tfb.sel{border-color:var(--acc);background:var(--acc-bg);color:var(--acc-ink)}
+.tfb.good{border-color:var(--ok);background:var(--ok-bg)}
+.tfb.bad{border-color:var(--no);background:var(--no-bg)}
+.mrow{padding:8px 0;border-bottom:1px solid var(--line)}
+.mrow label{display:block;margin-bottom:6px}
+select,input[type=text],textarea{width:100%;font:inherit;font-size:16px;padding:12px;border-radius:12px;border:2px solid var(--line);background:var(--card);color:var(--ink)}
+select.good,input.good{border-color:var(--ok);background:var(--ok-bg)}
+select.bad,input.bad{border-color:var(--no);background:var(--no-bg)}
+.foot{position:fixed;left:0;right:0;bottom:0;background:var(--bg);border-top:2px solid var(--line);padding:14px 16px calc(env(safe-area-inset-bottom) + 14px)}
+.foot .in{max-width:560px;margin:0 auto}
+.foot.ok{background:var(--ok-bg);border-color:transparent}
+.foot.no{background:var(--no-bg);border-color:transparent}
+.fb-title{font-family:var(--font-h);font-size:20px;font-weight:var(--fwh);margin-bottom:4px}
+.foot.ok .fb-title{color:var(--ok-ink)}
+.foot.no .fb-title{color:var(--no-ink)}
+.fb-text{font-size:14px;margin-bottom:12px;line-height:1.4;max-height:30vh;overflow:auto}
+.big{font-size:44px;text-align:center;margin:10px 0}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}
+.stat{border:2px solid var(--line);border-radius:14px;padding:12px;text-align:center;background:var(--card)}
+.stat b{display:block;font-size:24px;font-weight:900}
+.delta{font-size:13px;font-weight:900;flex:none}
+.up{color:var(--ok-ink)}.down{color:var(--no-ink)}
+.sync{font-size:12px;margin-top:16px;text-align:center}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+"use strict";
+/* =====================================================================
+   MATURA 2027 – trening (MVP: pytania zamknięte)
+   Sekcje: 1) Przedmioty i tematy  2) Pytania  3) Wizualizacje SVG
+           4) Silnik powtórek      5) Zapis (lokalny)  6) UI
+   ===================================================================== */
+
+const EXAM_START = new Date("2027-05-04T09:00:00+02:00");
+const DAY = 86400000;
+
+/* ---------- 1) PRZEDMIOTY I TEMATY ----------
+   w = waga tematu na egzaminie (1–3), pre = tematy, które warto opanować wcześniej */
+const SUBJECTS = [
+  {id:"pol-pp", name:"Polski", lvl:"podstawowy", ic:"📖", col:"#ffe1e1", exam:"2027-05-04", topics:[
+    {id:"pol-epo", name:"Epoki literackie i lektury", w:3},
+    {id:"pol-sty", name:"Środki stylistyczne", w:2},
+    {id:"pol-jez", name:"Nauka o języku", w:2},
+    {id:"pol-kul", name:"Kultura i funkcje języka", w:1},
+  ]},
+  {id:"mat-pp", name:"Matematyka", lvl:"podstawowy", ic:"📐", col:"#dff3ff", exam:"2027-05-05", topics:[
+    {id:"matp-lic", name:"Liczby, potęgi, logarytmy, procenty", w:3},
+    {id:"matp-row", name:"Równania i nierówności", w:3, pre:["matp-lic"]},
+    {id:"matp-fun", name:"Funkcja kwadratowa", w:3, pre:["matp-row"]},
+    {id:"matp-cia", name:"Ciągi", w:2},
+    {id:"matp-geo", name:"Geometria i trygonometria", w:3},
+    {id:"matp-sta", name:"Prawdopodobieństwo i statystyka", w:2},
+  ]},
+  {id:"ang-pp", name:"Angielski", lvl:"podstawowy", ic:"🇬🇧", col:"#e6e9ff", exam:"2027-05-06", topics:[
+    {id:"angp-gra", name:"Gramatyka: czasy i konstrukcje", w:3},
+    {id:"angp-voc", name:"Słownictwo i kolokacje", w:2},
+    {id:"angp-fun", name:"Funkcje językowe (reakcje)", w:2},
+  ]},
+  {id:"ang-pr", name:"Angielski", lvl:"rozszerzony", ic:"🎓", col:"#ece2ff", exam:"2027-05-07", topics:[
+    {id:"angr-gra", name:"Gramatyka zaawansowana", w:3, pre:["angp-gra"]},
+    {id:"angr-tra", name:"Transformacje zdań", w:3, pre:["angp-gra"]},
+    {id:"angr-voc", name:"Słowotwórstwo i phrasal verbs", w:2, pre:["angp-voc"]},
+  ]},
+  {id:"mat-pr", name:"Matematyka", lvl:"rozszerzony", ic:"∫", col:"#d9f7f0", exam:"2027-05-11", topics:[
+    {id:"matr-nie", name:"Wartość bezwzględna i wielomiany", w:2, pre:["matp-row"]},
+    {id:"matr-gra", name:"Granice i pochodna", w:3, pre:["matp-fun"]},
+    {id:"matr-try", name:"Trygonometria", w:2, pre:["matp-geo"]},
+    {id:"matr-ana", name:"Geometria analityczna", w:2},
+    {id:"matr-kom", name:"Kombinatoryka i prawdop. warunkowe", w:2, pre:["matp-sta"]},
+  ]},
+  {id:"geo-pr", name:"Geografia", lvl:"rozszerzony", ic:"🌍", col:"#e2f7d4", exam:"2027-05-14", topics:[
+    {id:"geo-map", name:"Mapa i skala", w:2},
+    {id:"geo-rze", name:"Rzeźba terenu i poziomice", w:2, pre:["geo-map"]},
+    {id:"geo-zie", name:"Ruchy Ziemi i czas", w:3},
+    {id:"geo-kli", name:"Klimat i klimatogramy", w:3},
+    {id:"geo-pol", name:"Geografia Polski", w:3},
+    {id:"geo-ska", name:"Skały i procesy geologiczne", w:2},
+  ]},
+  {id:"hisz-pp", name:"Hiszpański", lvl:"podstawowy", ic:"🇪🇸", col:"#fff1cc", exam:null, topics:[
+    {id:"hisz-gra", name:"Gramática", w:3},
+    {id:"hisz-voc", name:"Vocabulario", w:2},
+    {id:"hisz-fun", name:"Funciones comunicativas", w:2},
+  ]},
+];
+const TOPICS = {};
+SUBJECTS.forEach(s => s.topics.forEach(t => { t.s = s.id; t.pre = t.pre || []; TOPICS[t.id] = t; }));
+const SUBJ = Object.fromEntries(SUBJECTS.map(s => [s.id, s]));
+
+/* ---------- 2) PYTANIA ----------
+   Typy: mc (jednokrotny wybór), tf (prawda/fałsz), match (dopasowanie),
+         num (odpowiedź liczbowa), text (krótka odpowiedź – angielski)
+   d = trudność 1–3, img = [generator, parametr], e = wyjaśnienie
+   src: "styl CKE" = zadanie autorskie wzorowane na formatach CKE.
+   Prawdziwe zadania z arkuszy CKE dodajemy w tym samym formacie (src: "CKE 2024 maj, zad. X"). */
+const Q = [
+// ===== POLSKI =====
+{id:"p1",t:"pol-sty",d:1,type:"mc",q:"Jaki środek stylistyczny zastosowano w wyrażeniu „gorący lód”?",o:["oksymoron","metafora","epitet","porównanie"],a:0,e:"Oksymoron łączy wyrazy o przeciwstawnych znaczeniach (gorący ↔ lód)."},
+{id:"p2",t:"pol-sty",d:1,type:"mc",q:"Wyrazy „szum”, „plusk”, „bzyczenie”, naśladujące dźwięki, to:",o:["onomatopeje","anafory","hiperbole","apostrofy"],a:0,e:"Onomatopeja (wyraz dźwiękonaśladowczy) oddaje brzmienie zjawiska."},
+{id:"p3",t:"pol-sty",d:2,type:"mc",q:"Powtórzenie tego samego wyrazu na początku kolejnych wersów to:",o:["anafora","epifora","inwersja","elipsa"],a:0,e:"Anafora – powtórzenie na początku; epifora – na końcu wersów."},
+{id:"p4",t:"pol-sty",d:2,type:"mc",q:"Wyrażenie „morze łez” to przede wszystkim przykład:",o:["hiperboli","litoty","eufemizmu","onomatopei"],a:0,e:"Hiperbola to celowe wyolbrzymienie."},
+{id:"p5",t:"pol-sty",d:3,type:"mc",q:"Bezpośredni zwrot do osoby nieobecnej, zmarłej lub do bytu abstrakcyjnego, np. „Litwo! Ojczyzno moja!”, to:",o:["apostrofa","personifikacja","peryfraza","pytanie retoryczne"],a:0,e:"Apostrofa to uroczysty zwrot do adresata – często nieobecnego lub abstrakcyjnego."},
+{id:"p6",t:"pol-epo",d:1,type:"match",q:"Połącz utwór z epoką literacką.",pairs:[["„Treny” J. Kochanowskiego","renesans"],["„Dziady” cz. III A. Mickiewicza","romantyzm"],["„Lalka” B. Prusa","pozytywizm"],["„Wesele” S. Wyspiańskiego","Młoda Polska"]],e:"Kochanowski – renesans, Mickiewicz – romantyzm, Prus – pozytywizm, Wyspiański – Młoda Polska."},
+{id:"p7",t:"pol-epo",d:2,type:"tf",q:"Oceń prawdziwość stwierdzeń dotyczących „Lalki” B. Prusa.",st:[["Stanisław Wokulski jest kupcem.",true],["„Pamiętnik starego subiekta” prowadzi Ignacy Rzecki.",true],["Akcja powieści rozgrywa się głównie w Krakowie.",false]],e:"Akcja „Lalki” toczy się głównie w Warszawie (także w Paryżu i Zasławku)."},
+{id:"p8",t:"pol-epo",d:2,type:"mc",q:"Motywy vanitas, marności świata i silnego kontrastu są charakterystyczne przede wszystkim dla:",o:["baroku","oświecenia","pozytywizmu","Młodej Polski"],a:0,e:"Barok: vanitas, kontrast, koncept, przemijanie."},
+{id:"p9",t:"pol-epo",d:3,type:"mc",q:"Który utwór NIE należy do romantyzmu?",o:["„Ferdydurke”","„Dziady” cz. III","„Kordian”","„Pan Tadeusz”"],a:0,e:"„Ferdydurke” W. Gombrowicza to powieść dwudziestolecia międzywojennego (1937)."},
+{id:"p10",t:"pol-epo",d:1,type:"mc",q:"Autorem dramatu „Wesele” jest:",o:["Stanisław Wyspiański","Stefan Żeromski","Władysław Reymont","Juliusz Słowacki"],a:0,e:"„Wesele” (1901) – Stanisław Wyspiański."},
+{id:"p11",t:"pol-jez",d:1,type:"mc",q:"W wyrazie „domek” formant -ek nadaje znaczenie:",o:["zdrobniałe","zgrubiałe","wykonawcy czynności","miejsca"],a:0,e:"Formant -ek tworzy tu zdrobnienie (deminutywum)."},
+{id:"p12",t:"pol-jez",d:2,type:"mc",q:"Zdanie „Gdy wróciłam do domu, zaczęło padać.” to:",o:["zdanie złożone podrzędnie","zdanie złożone współrzędnie","zdanie pojedyncze rozwinięte","równoważnik zdania"],a:0,e:"Zdanie podrzędne okolicznikowe czasu (kiedy zaczęło padać? – gdy wróciłam)."},
+{id:"p13",t:"pol-jez",d:1,type:"mc",q:"Który wyraz jest zapożyczeniem z języka angielskiego?",o:["weekend","chleb","rzeka","okno"],a:0,e:"„Weekend” to anglicyzm."},
+{id:"p14",t:"pol-kul",d:1,type:"mc",q:"Wskaż wyrażenie poprawne.",o:["w każdym razie","w każdym bądź razie","wziąść","poszłem"],a:0,e:"Poprawnie: w każdym razie / bądź co bądź; wziąć; poszedłem."},
+{id:"p15",t:"pol-kul",d:2,type:"mc",q:"Komunikat „Zamknij, proszę, okno!” realizuje przede wszystkim funkcję:",o:["impresywną (konatywną)","poetycką","metajęzykową","fatyczną"],a:0,e:"Funkcja impresywna – nakłanianie odbiorcy do działania."},
+{id:"p16",t:"pol-kul",d:3,type:"mc",q:"Funkcja fatyczna języka polega na:",o:["nawiązaniu lub podtrzymaniu kontaktu","wyrażaniu emocji nadawcy","wywieraniu wpływu na odbiorcę","mówieniu o samym języku"],a:0,e:"Np. „Halo?”, „Dzień dobry” – służą kontaktowi."},
+
+// ===== ANGIELSKI P =====
+{id:"e1",t:"angp-gra",d:1,type:"mc",q:"She ___ in London since 2019.",o:["has lived","lives","lived","is living"],a:0,e:"„since + punkt w czasie” → Present Perfect."},
+{id:"e2",t:"angp-gra",d:1,type:"mc",q:"If I ___ rich, I would travel the world.",o:["were","am","will be","have been"],a:0,e:"Drugi tryb warunkowy: If + Past Simple (were), would + bezokolicznik."},
+{id:"e3",t:"angp-gra",d:2,type:"mc",q:"I'm looking forward ___ you next week.",o:["to seeing","to see","seeing","see"],a:0,e:"look forward to + -ing (to jest tu przyimkiem)."},
+{id:"e4",t:"angp-gra",d:2,type:"mc",q:"By the time we arrived, the film ___.",o:["had already started","has already started","already started","was already starting"],a:0,e:"Czynność wcześniejsza od innej w przeszłości → Past Perfect."},
+{id:"e5",t:"angp-voc",d:1,type:"mc",q:"Don't worry, everyone ___ mistakes.",o:["makes","does","takes","gets"],a:0,e:"Kolokacja: make a mistake."},
+{id:"e6",t:"angp-voc",d:2,type:"mc",q:"I can't ___ this phone – it's far too expensive.",o:["afford","allow","effort","spend"],a:0,e:"can't afford sth – nie stać mnie na coś."},
+{id:"e7",t:"angp-voc",d:2,type:"match",q:"Match the words with the definitions.",pairs:[["rent","money paid regularly to live in a flat"],["fare","price of a bus or train ticket"],["fee","money paid for a professional service"],["fine","money paid as a punishment"]],e:"rent – czynsz, fare – opłata za przejazd, fee – opłata/honorarium, fine – mandat/grzywna."},
+{id:"e8",t:"angp-fun",d:1,type:"mc",q:"Choose the best reaction.\n„Would you mind opening the window?”",o:["Not at all.","Yes, I would open.","You're welcome.","I don't think so, thanks."],a:0,e:"„Not at all” = nie mam nic przeciwko (czyli otworzę)."},
+{id:"e9",t:"angp-fun",d:1,type:"mc",q:"Choose the best reaction.\n„How about going to the cinema tonight?”",o:["Sounds great!","I'm fine, thank you.","It's twenty past eight.","Here you are."],a:0,e:"Reakcja na propozycję: Sounds great! / Good idea!"},
+{id:"e10",t:"angp-fun",d:2,type:"mc",q:"Your friend says: „I've passed my driving test!” You say:",o:["Congratulations!","Bless you!","Never mind.","Help yourself."],a:0,e:"Gratulacje: Congratulations! / Well done!"},
+
+// ===== ANGIELSKI R =====
+{id:"r1",t:"angr-gra",d:2,type:"mc",q:"If I had studied medicine, I ___ a doctor now.",o:["would be","would have been","will be","am"],a:0,e:"Mixed conditional: przeszły warunek (had studied) → skutek teraz (would be)."},
+{id:"r2",t:"angr-gra",d:3,type:"mc",q:"Hardly ___ down when the phone rang.",o:["had I sat","I had sat","did I sit","I sat"],a:0,e:"Inwersja po „Hardly … when”: Hardly had I sat down when…"},
+{id:"r3",t:"angr-gra",d:2,type:"mc",q:"It's high time you ___ to bed.",o:["went","go","will go","have gone"],a:0,e:"It's (high) time + Past Simple."},
+{id:"r4",t:"angr-gra",d:3,type:"mc",q:"He denied ___ the money.",o:["having taken","to take","to have taken","take"],a:0,e:"deny + -ing (tu forma perfect: having taken)."},
+{id:"r5",t:"angr-tra",d:2,type:"text",q:"Complete the second sentence so that it means the same as the first.\n„It's a pity I didn't go to the party.”\nI wish I ________ to the party.",acc:["had gone"],e:"I wish + Past Perfect – żal dotyczący przeszłości."},
+{id:"r6",t:"angr-tra",d:3,type:"text",q:"Use the word HAD.\n„Somebody stole my bike yesterday.”\nI ________ yesterday.",acc:["had my bike stolen"],e:"Konstrukcja have something done: I had my bike stolen."},
+{id:"r7",t:"angr-tra",d:3,type:"text",q:"Use the word IF.\n„You should have told me earlier.”\nIt would have been better ________ me earlier.",acc:["if you had told","if you'd told"],e:"Trzeci tryb warunkowy: if you had told me."},
+{id:"r8",t:"angr-voc",d:2,type:"mc",q:"The match was ___ off because of the storm.",o:["called","given","turned","broken"],a:0,e:"call off – odwołać."},
+{id:"r9",t:"angr-voc",d:2,type:"text",q:"Word formation (DECIDE):\nHer sudden ________ to leave surprised everyone.",acc:["decision"],e:"decide → decision."},
+{id:"r10",t:"angr-voc",d:2,type:"text",q:"Word formation (PREDICT):\nThe film was so ________ that I guessed the ending.",acc:["predictable"],e:"predict → predictable."},
+{id:"r11",t:"angr-voc",d:3,type:"text",q:"Word formation (REDUCE):\nThere has been a dramatic ________ in crime.",acc:["reduction"],e:"reduce → reduction."},
+
+// ===== HISZPAŃSKI =====
+{id:"s1",t:"hisz-gra",d:1,type:"mc",q:"Mi hermana ___ médica.",o:["es","está","hay","tiene"],a:0,e:"Zawód → ser."},
+{id:"s2",t:"hisz-gra",d:1,type:"mc",q:"Hoy ___ muy cansado.",o:["estoy","soy","hay","tengo"],a:0,e:"Stan chwilowy → estar."},
+{id:"s3",t:"hisz-gra",d:2,type:"mc",q:"Ayer ___ al cine con mis amigos.",o:["fui","iba","voy","iré"],a:0,e:"Zakończona czynność w przeszłości (ayer) → pretérito indefinido: fui."},
+{id:"s4",t:"hisz-gra",d:2,type:"mc",q:"A mí me ___ mucho las películas de terror.",o:["gustan","gusta","gusto","gustas"],a:0,e:"Gustar uzgadniamy z tym, co się podoba: las películas → gustan."},
+{id:"s5",t:"hisz-gra",d:3,type:"mc",q:"Espero que ___ buen tiempo mañana.",o:["haga","hace","hará","hacía"],a:0,e:"Esperar que + subjuntivo → haga."},
+{id:"s6",t:"hisz-voc",d:1,type:"mc",q:"La madre de mi madre es mi ___.",o:["abuela","tía","prima","suegra"],a:0,e:"abuela – babcia."},
+{id:"s7",t:"hisz-voc",d:2,type:"match",q:"Relaciona el lugar con lo que se compra o se encuentra allí.",pairs:[["la biblioteca","libros"],["la farmacia","medicamentos"],["la panadería","pan"],["la estación","trenes"]],e:"biblioteca – książki, farmacia – leki, panadería – chleb, estación – pociągi."},
+{id:"s8",t:"hisz-fun",d:1,type:"mc",q:"Elige la reacción adecuada.\n—¿Qué tal estás?",o:["—Muy bien, gracias.","—Tengo diecisiete años.","—Me llamo Ana.","—De nada."],a:0,e:"¿Qué tal? – Jak się masz?"},
+{id:"s9",t:"hisz-fun",d:2,type:"mc",q:"Quieres invitar a un amigo a tu fiesta. Dices:",o:["¿Te apetece venir a mi fiesta?","¿Cuánto cuesta la fiesta?","Lo siento, no puedo.","¡Que aproveche!"],a:0,e:"¿Te apetece…? – Masz ochotę…?"},
+{id:"s10",t:"hisz-fun",d:2,type:"mc",q:"Alguien estornuda. Dices:",o:["¡Salud!","¡Buen provecho!","¡Enhorabuena!","¡Felicidades!"],a:0,e:"Po kichnięciu: ¡Salud! (lub ¡Jesús!)."},
+
+// ===== GEOGRAFIA =====
+{id:"g1",t:"geo-map",d:1,type:"num",q:"Odległość na mapie w skali 1:50 000 wynosi 4 cm. Oblicz odległość w terenie.",unit:"km",a:2,e:"1 cm = 50 000 cm = 0,5 km → 4 · 0,5 km = 2 km."},
+{id:"g2",t:"geo-map",d:1,type:"mc",q:"Skala liczbowa 1:200 000 zapisana jako skala mianowana to:",o:["1 cm – 2 km","1 cm – 20 km","1 cm – 200 m","1 cm – 0,2 km"],a:0,e:"200 000 cm = 2 000 m = 2 km."},
+{id:"g3",t:"geo-map",d:2,type:"num",q:"Na mapie w skali 1:25 000 kwadrat ma bok 2 cm. Oblicz jego powierzchnię w terenie.",unit:"km²",a:0.25,e:"Bok: 2 cm · 250 m = 500 m = 0,5 km. Pole: 0,5 · 0,5 = 0,25 km²."},
+{id:"g4",t:"geo-map",d:3,type:"num",q:"Odcinek o długości 10 km w terenie ma na mapie 4 cm. Podaj mianownik skali liczbowej tej mapy.",a:250000,e:"10 km = 1 000 000 cm; 1 000 000 : 4 = 250 000 → skala 1:250 000."},
+{id:"g5",t:"geo-rze",d:1,type:"num",img:["contour"],q:"Na podstawie mapy poziomicowej podaj cięcie poziomicowe.",unit:"m",a:50,e:"Kolejne poziomice różnią się o 50 m (150, 200, 250…)."},
+{id:"g6",t:"geo-rze",d:2,type:"mc",img:["contour"],q:"Które zbocze wzniesienia jest bardziej strome?",o:["wschodnie","zachodnie","oba są jednakowo strome","nie da się tego określić"],a:0,e:"Im gęściej położone poziomice, tym bardziej strome zbocze – po stronie wschodniej leżą blisko siebie."},
+{id:"g7",t:"geo-rze",d:2,type:"mc",img:["contour"],q:"Punkt A leży na wysokości:",o:["200–250 m n.p.m.","150–200 m n.p.m.","250–300 m n.p.m.","powyżej 350 m n.p.m."],a:0,e:"Punkt A leży między poziomicami 200 m i 250 m."},
+{id:"g8",t:"geo-rze",d:3,type:"num",img:["contour"],q:"Oblicz wysokość względną między szczytem a punktem leżącym na najniższej poziomicy.",unit:"m",a:221,e:"Szczyt 371 m n.p.m., najniższa poziomica 150 m → 371 − 150 = 221 m."},
+{id:"g9",t:"geo-zie",d:2,type:"num",img:["globe",{lat:52,decl:23.45,label:"22 VI"}],q:"Oblicz wysokość Słońca w momencie górowania 22 czerwca na szerokości 52°N. Przyjmij deklinację 23°27′.\n(Wpisz np. 61°27′ lub 61,45)",unit:"°",a:61.45,tol:0.06,e:"h = 90° − φ + 23°27′ = 90° − 52° + 23°27′ = 61°27′."},
+{id:"g10",t:"geo-zie",d:2,type:"num",img:["globe",{lat:-30,decl:0,label:"21 III"}],q:"Oblicz wysokość Słońca w momencie górowania 21 marca na szerokości 30°S.",unit:"°",a:60,tol:0.06,e:"W dniu równonocy h = 90° − φ = 90° − 30° = 60°."},
+{id:"g11",t:"geo-zie",d:1,type:"mc",q:"W Krakowie (20°E) jest południe słoneczne (12:00). Która godzina czasu słonecznego jest wtedy na południku 50°E?",o:["14:00","10:00","13:00","16:00"],a:0,e:"Różnica 30° = 2 h (1° = 4 min). Na wschodzie jest później: 12:00 + 2 h = 14:00."},
+{id:"g12",t:"geo-zie",d:3,type:"mc",q:"W dniu 22 grudnia Słońce góruje w zenicie nad:",o:["zwrotnikiem Koziorożca","równikiem","zwrotnikiem Raka","kołem podbiegunowym południowym"],a:0,e:"Przesilenie zimowe (dla półkuli N): Słońce w zenicie nad zwrotnikiem Koziorożca (23°27′S)."},
+{id:"g13",t:"geo-kli",d:1,type:"num",img:["klimat","K1"],q:"Na podstawie klimatogramu oblicz roczną amplitudę temperatury powietrza.",unit:"°C",a:21,e:"Najcieplej w lipcu (19°C), najzimniej w styczniu (−2°C): 19 − (−2) = 21°C."},
+{id:"g14",t:"geo-kli",d:2,type:"mc",img:["klimat","K2"],q:"Klimatogram przedstawia klimat:",o:["równikowy wilgotny","zwrotnikowy suchy","umiarkowany ciepły kontynentalny","śródziemnomorski"],a:0,e:"Wysoka temperatura przez cały rok (~27°C), mała amplituda, obfite opady w każdym miesiącu."},
+{id:"g15",t:"geo-kli",d:2,type:"mc",img:["klimat","K3"],q:"Klimatogram przedstawia klimat:",o:["podzwrotnikowy śródziemnomorski","równikowy wilgotny","umiarkowany chłodny kontynentalny","monsunowy"],a:0,e:"Gorące, suche lato i łagodna, wilgotna zima – klimat śródziemnomorski."},
+{id:"g16",t:"geo-kli",d:3,type:"mc",img:["klimat","K4"],q:"Stacja meteorologiczna, której dotyczy klimatogram, leży na półkuli:",o:["południowej","północnej"],a:0,e:"Najcieplej w styczniu, najzimniej w lipcu – to półkula południowa."},
+{id:"g17",t:"geo-pol",d:1,type:"mc",img:["plmap","gda"],q:"Literą X oznaczono na mapie miasto:",o:["Gdańsk","Szczecin","Olsztyn","Koszalin"],a:0,e:"Gdańsk leży nad Zatoką Gdańską, u ujścia Wisły."},
+{id:"g18",t:"geo-pol",d:1,type:"mc",img:["plmap","kra"],q:"Literą X oznaczono na mapie miasto:",o:["Kraków","Katowice","Rzeszów","Kielce"],a:0,e:"Kraków leży nad Wisłą w południowej Polsce."},
+{id:"g19",t:"geo-pol",d:2,type:"mc",img:["plmap","bia"],q:"Literą X oznaczono na mapie miasto:",o:["Białystok","Lublin","Olsztyn","Suwałki"],a:0,e:"Białystok – stolica województwa podlaskiego, na północnym wschodzie kraju."},
+{id:"g20",t:"geo-pol",d:2,type:"mc",img:["plmap","wro"],q:"Literą X oznaczono na mapie miasto:",o:["Wrocław","Opole","Poznań","Zielona Góra"],a:0,e:"Wrocław leży nad Odrą na Dolnym Śląsku."},
+{id:"g21",t:"geo-pol",d:2,type:"mc",img:["plmap","lub"],q:"Literą X oznaczono na mapie miasto:",o:["Lublin","Rzeszów","Białystok","Radom"],a:0,e:"Lublin – największe miasto wschodniej Polski."},
+{id:"g22",t:"geo-pol",d:1,type:"mc",q:"Najwyższym szczytem Polski jest:",o:["Rysy","Śnieżka","Babia Góra","Tarnica"],a:0,e:"Rysy (2499 m n.p.m.) w Tatrach Wysokich."},
+{id:"g23",t:"geo-ska",d:1,type:"mc",q:"Granit to skała:",o:["magmowa głębinowa","magmowa wylewna","osadowa","metamorficzna"],a:0,e:"Granit krystalizuje powoli w głębi skorupy ziemskiej."},
+{id:"g24",t:"geo-ska",d:2,type:"tf",q:"Oceń prawdziwość informacji.",st:[["Bazalt jest skałą magmową wylewną.",true],["Marmur powstaje w wyniku metamorfizmu wapienia.",true],["Węgiel kamienny jest skałą metamorficzną.",false]],e:"Węgiel kamienny to skała osadowa pochodzenia organicznego."},
+{id:"g25",t:"geo-ska",d:2,type:"match",q:"Przyporządkuj skałę do grupy.",pairs:[["wapień","osadowa organogeniczna"],["piaskowiec","osadowa okruchowa"],["gnejs","metamorficzna"],["bazalt","magmowa wylewna"]],e:"Wapień – z muszli/szkieletów organizmów, piaskowiec – scementowany piasek, gnejs – przeobrażony granit."},
+
+// ===== MATEMATYKA P =====
+{id:"m1",t:"matp-lic",d:1,type:"mc",q:"Wartość wyrażenia 2³ · 2⁵ : 2⁴ jest równa:",o:["16","8","32","2"],a:0,e:"2^(3+5−4) = 2⁴ = 16."},
+{id:"m2",t:"matp-lic",d:1,type:"num",q:"Oblicz: log₂ 8 + log₃ 9",a:5,e:"log₂8 = 3, log₃9 = 2 → 5."},
+{id:"m3",t:"matp-lic",d:2,type:"mc",q:"Cenę podniesiono o 20%, a następnie obniżono o 20%. Cena końcowa w porównaniu z początkową jest:",o:["niższa o 4%","taka sama","niższa o 2%","wyższa o 4%"],a:0,e:"1,2 · 0,8 = 0,96 → spadek o 4%."},
+{id:"m4",t:"matp-lic",d:2,type:"mc",q:"Liczba √50 − √18 jest równa:",o:["2√2","√32","4","8√2"],a:0,e:"√50 = 5√2, √18 = 3√2 → 2√2."},
+{id:"m5",t:"matp-lic",d:3,type:"num",q:"Oblicz: (1/3)⁻² + 27^(1/3)",a:12,e:"(1/3)⁻² = 9, ∛27 = 3 → 12."},
+{id:"m6",t:"matp-row",d:1,type:"num",q:"Rozwiąż równanie 3x − 7 = 2x + 5.  x = ?",a:12,e:"3x − 2x = 5 + 7 → x = 12."},
+{id:"m7",t:"matp-row",d:2,type:"mc",q:"Zbiorem rozwiązań nierówności x² − 4 < 0 jest:",o:["(−2, 2)","(−∞, −2) ∪ (2, ∞)","⟨−2, 2⟩","(−∞, 2)"],a:0,e:"(x−2)(x+2) < 0 → między pierwiastkami, bez końców."},
+{id:"m8",t:"matp-row",d:2,type:"mc",q:"Rozwiązaniem układu równań y = 2x + 1 i y = −x + 4 jest:",o:["x = 1, y = 3","x = 3, y = 1","x = −1, y = −1","x = 2, y = 5"],a:0,e:"2x + 1 = −x + 4 → x = 1, y = 3."},
+{id:"m9",t:"matp-fun",d:1,type:"mc",img:["parab"],q:"Na rysunku przedstawiono wykres funkcji kwadratowej f. Wierzchołek paraboli ma współrzędne:",o:["(1, −4)","(−1, −4)","(1, 4)","(−4, 1)"],a:0,e:"Odczyt z wykresu: najniższy punkt (1, −4). To f(x) = x² − 2x − 3."},
+{id:"m10",t:"matp-fun",d:2,type:"mc",img:["parab"],q:"Na podstawie wykresu funkcji f wskaż zbiór rozwiązań nierówności f(x) < 0.",o:["(−1, 3)","(−∞, −1) ∪ (3, ∞)","⟨−1, 3⟩","(−4, ∞)"],a:0,e:"Wykres leży pod osią OX między miejscami zerowymi −1 i 3 (bez końców)."},
+{id:"m11",t:"matp-fun",d:2,type:"mc",q:"Zbiorem wartości funkcji f(x) = −(x − 2)² + 5 jest:",o:["(−∞, 5⟩","⟨5, ∞)","(−∞, 2⟩","⟨2, ∞)"],a:0,e:"Wierzchołek (2, 5), ramiona w dół → y ≤ 5."},
+{id:"m12",t:"matp-fun",d:3,type:"num",q:"Funkcja f(x) = x² − 6x + c ma dokładnie jedno miejsce zerowe. Wyznacz c.",a:9,e:"Δ = 36 − 4c = 0 → c = 9."},
+{id:"m13",t:"matp-cia",d:1,type:"num",q:"W ciągu arytmetycznym a₁ = 3 i r = 4. Oblicz a₁₀.",a:39,e:"a₁₀ = a₁ + 9r = 3 + 36 = 39."},
+{id:"m14",t:"matp-cia",d:2,type:"num",q:"W ciągu geometrycznym a₁ = 2 i q = 3. Oblicz a₄.",a:54,e:"a₄ = a₁ · q³ = 2 · 27 = 54."},
+{id:"m15",t:"matp-cia",d:2,type:"num",q:"Ciąg jest określony wzorem aₙ = 2n + 1. Oblicz sumę jego 10 początkowych wyrazów.",a:120,e:"a₁ = 3, a₁₀ = 21, S₁₀ = (3 + 21)/2 · 10 = 120."},
+{id:"m16",t:"matp-geo",d:1,type:"mc",img:["tri"],q:"W trójkącie prostokątnym przedstawionym na rysunku sin α jest równy:",o:["3/5","4/5","3/4","4/3"],a:0,e:"sin α = przyprostokątna naprzeciw α / przeciwprostokątna = 3/5."},
+{id:"m17",t:"matp-geo",d:2,type:"mc",q:"Pole trójkąta równobocznego o boku 4 jest równe:",o:["4√3","8√3","16√3","2√3"],a:0,e:"P = a²√3/4 = 16√3/4 = 4√3."},
+{id:"m18",t:"matp-geo",d:2,type:"mc",q:"Kąt środkowy ma miarę 110°. Kąt wpisany oparty na tym samym łuku ma miarę:",o:["55°","110°","220°","70°"],a:0,e:"Kąt wpisany = połowa kąta środkowego."},
+{id:"m19",t:"matp-sta",d:1,type:"mc",q:"Rzucamy dwa razy symetryczną kostką. Prawdopodobieństwo, że suma oczek wyniesie 7, jest równe:",o:["1/6","7/36","1/12","1/3"],a:0,e:"6 sprzyjających par z 36 → 1/6."},
+{id:"m20",t:"matp-sta",d:1,type:"num",q:"Oblicz medianę danych: 2, 3, 3, 5, 7, 8.",a:4,e:"Parzysta liczba danych: (3 + 5)/2 = 4."},
+{id:"m21",t:"matp-sta",d:2,type:"num",q:"Średnia arytmetyczna liczb 4, x, 8, 10 jest równa 7. Oblicz x.",a:6,e:"4 + x + 8 + 10 = 28 → x = 6."},
+
+// ===== MATEMATYKA R =====
+{id:"x1",t:"matr-nie",d:1,type:"mc",q:"Zbiorem rozwiązań nierówności |x − 3| < 2 jest:",o:["(1, 5)","(−∞, 1) ∪ (5, ∞)","(−5, −1)","⟨1, 5⟩"],a:0,e:"−2 < x − 3 < 2 → 1 < x < 5."},
+{id:"x2",t:"matr-nie",d:2,type:"num",q:"Oblicz resztę z dzielenia wielomianu W(x) = x³ − 2x² − 5x + 6 przez dwumian (x − 2).",a:-4,e:"Z twierdzenia o reszcie: W(2) = 8 − 8 − 10 + 6 = −4."},
+{id:"x3",t:"matr-nie",d:2,type:"mc",q:"Pierwiastkami wielomianu W(x) = x³ − 2x² − 5x + 6 są liczby:",o:["−2, 1, 3","−1, 2, 3","1, 2, 3","−3, −1, 2"],a:0,e:"W(1) = 0, więc dzielimy przez (x − 1): x² − x − 6 = (x − 3)(x + 2)."},
+{id:"x4",t:"matr-nie",d:3,type:"num",q:"Oblicz sumę wszystkich rozwiązań równania |x + 1| + |x − 3| = 6.",a:2,e:"Dla x ≥ 3: 2x − 2 = 6 → x = 4. Dla x ≤ −1: −2x + 2 = 6 → x = −2. Dla −1 < x < 3 lewa strona = 4. Suma: 2."},
+{id:"x5",t:"matr-gra",d:1,type:"num",q:"Oblicz granicę ciągu: lim (3n² + 1)/(n² − 5) przy n → ∞.",a:3,e:"Dzielimy licznik i mianownik przez n² → 3/1 = 3."},
+{id:"x6",t:"matr-gra",d:1,type:"num",q:"Oblicz sumę szeregu geometrycznego 1 + 1/2 + 1/4 + 1/8 + …",a:2,e:"S = a₁/(1 − q) = 1/(1 − 1/2) = 2."},
+{id:"x7",t:"matr-gra",d:2,type:"num",q:"Dana jest funkcja f(x) = x³ − 3x. Oblicz f′(2).",a:9,e:"f′(x) = 3x² − 3 → f′(2) = 12 − 3 = 9."},
+{id:"x8",t:"matr-gra",d:2,type:"mc",q:"Funkcja f(x) = x³ − 3x ma minimum lokalne w punkcie:",o:["x = 1","x = −1","x = 0","x = 3"],a:0,e:"f′(x) = 3(x − 1)(x + 1); znak zmienia się z − na + w x = 1."},
+{id:"x9",t:"matr-gra",d:3,type:"mc",q:"Równanie stycznej do wykresu f(x) = x² w punkcie o odciętej x₀ = 1 to:",o:["y = 2x − 1","y = 2x + 1","y = x + 1","y = 2x"],a:0,e:"f′(1) = 2, punkt (1, 1): y − 1 = 2(x − 1) → y = 2x − 1."},
+{id:"x10",t:"matr-try",d:2,type:"mc",q:"Wiadomo, że sin x = 1/3. Wtedy cos 2x jest równy:",o:["7/9","−7/9","2/3","8/9"],a:0,e:"cos 2x = 1 − 2sin²x = 1 − 2/9 = 7/9."},
+{id:"x11",t:"matr-try",d:1,type:"mc",q:"Okres podstawowy funkcji f(x) = sin(2x) jest równy:",o:["π","2π","π/2","4π"],a:0,e:"T = 2π/2 = π."},
+{id:"x12",t:"matr-try",d:3,type:"num",q:"Ile rozwiązań ma równanie sin x = 1/2 w przedziale ⟨0, 2π⟩?",a:2,e:"x = π/6 oraz x = 5π/6."},
+{id:"x13",t:"matr-ana",d:1,type:"num",q:"Oblicz odległość punktu P = (1, 2) od prostej 3x + 4y − 1 = 0.",a:2,e:"d = |3 + 8 − 1| / √(9 + 16) = 10/5 = 2."},
+{id:"x14",t:"matr-ana",d:1,type:"num",q:"Oblicz długość odcinka AB, gdzie A = (1, 1), B = (4, 5).",a:5,e:"√(3² + 4²) = 5."},
+{id:"x15",t:"matr-ana",d:2,type:"mc",q:"Okrąg ma równanie x² + y² − 4x + 6y − 3 = 0. Jego środek S i promień r to:",o:["S = (2, −3), r = 4","S = (−2, 3), r = 4","S = (2, −3), r = 16","S = (−2, 3), r = √3"],a:0,e:"(x − 2)² + (y + 3)² = 3 + 4 + 9 = 16."},
+{id:"x16",t:"matr-kom",d:1,type:"num",q:"Na ile sposobów można wybrać 3 osoby z grupy 10 osób?",a:120,e:"C(10,3) = 10·9·8 / 6 = 120."},
+{id:"x17",t:"matr-kom",d:2,type:"num",q:"P(A) = 0,5, P(B) = 0,4, P(A ∩ B) = 0,2. Oblicz P(A | B).",a:0.5,e:"P(A|B) = P(A∩B)/P(B) = 0,2/0,4 = 0,5."},
+{id:"x18",t:"matr-kom",d:3,type:"num",q:"Ile jest liczb czterocyfrowych o różnych cyfrach?",a:4536,e:"9 · 9 · 8 · 7 = 4536 (pierwsza cyfra ≠ 0)."},
+];
+Q.forEach(q => { q.s = TOPICS[q.t].s; q.src = q.src || "styl CKE"; });
+const QBY = Object.fromEntries(Q.map(q => [q.id, q]));
+
+/* ---------- 3) WIZUALIZACJE (SVG) ---------- */
+const CLIM = {
+  K1:{name:"Stacja A (50°N)",T:[-2,-1,3,9,14,17,19,18,14,8,3,-1],P:[30,28,32,38,58,68,80,65,48,36,40,38]},
+  K2:{name:"Stacja B (1°N)",T:[27,27.5,28,28,28,28,27.5,27.5,27.5,27.5,27,26.5],P:[240,170,190,180,170,160,160,170,170,190,250,290]},
+  K3:{name:"Stacja C (42°N)",T:[8,9,11,14,18,22,25,25,22,17,12,9],P:[80,75,70,60,35,20,15,25,70,110,110,95]},
+  K4:{name:"Stacja D (35°)",T:[24,23,21,17,14,11,11,12,14,17,20,23],P:[120,120,110,90,80,60,60,65,75,120,110,100]},
+};
+const CITIES = {gda:[18.65,54.35],kra:[19.94,50.06],bia:[23.16,53.13],wro:[17.03,51.11],lub:[22.57,51.25],waw:[21.01,52.23],poz:[16.93,52.41],szc:[14.55,53.43]};
+const PL_OUTLINE = [[14.2,53.92],[15.5,54.18],[16.5,54.55],[17.6,54.78],[18.4,54.83],[18.6,54.42],[19.4,54.37],[20.5,54.38],[22.0,54.35],[22.8,54.36],[23.5,54.0],[23.5,53.9],[23.9,53.1],[23.6,52.6],[23.2,52.3],[23.7,51.6],[24.1,50.85],[23.9,50.4],[23.3,50.0],[22.7,49.5],[22.6,49.08],[22.0,49.2],[21.0,49.4],[20.2,49.2],[19.5,49.5],[18.85,49.5],[18.6,49.75],[17.9,50.0],[17.6,50.25],[16.9,50.45],[16.3,50.65],[15.8,50.75],[15.0,51.0],[14.95,51.3],[14.7,51.6],[14.7,52.1],[14.55,52.6],[14.15,52.85],[14.4,53.25],[14.2,53.92]];
+
+const VIS = {
+  klimat(k){
+    const c = CLIM[k], W=320,H=220, L=36,R=284,Tp=24,B=190;
+    const pMax = Math.max(150, Math.ceil(Math.max(...c.P)/50)*50), tMin=-10,tMax=30;
+    const bw=(R-L)/12, yT=t=>B-(t-tMin)/(tMax-tMin)*(B-Tp), yP=p=>B-p/pMax*(B-Tp);
+    let s=`<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" font-family="Nunito,sans-serif" font-size="10" font-weight="700">`;
+    s+=`<text x="${W/2}" y="13" text-anchor="middle" font-size="12" fill="#1f2328">${c.name}</text>`;
+    for(let t=tMin;t<=tMax;t+=10){const y=yT(t);s+=`<line x1="${L}" x2="${R}" y1="${y}" y2="${y}" stroke="#eee"/><text x="${L-4}" y="${y+3}" text-anchor="end" fill="#d33131">${t}</text>`;}
+    for(let p=0;p<=pMax;p+=(pMax<=150?50:100)){const y=yP(p);s+=`<text x="${R+4}" y="${y+3}" fill="#1899d6">${p}</text>`;}
+    c.P.forEach((p,i)=>{s+=`<rect x="${L+i*bw+2}" y="${yP(p)}" width="${bw-4}" height="${B-yP(p)}" fill="#8fd3f7"/>`;});
+    s+=`<polyline fill="none" stroke="#d33131" stroke-width="2.5" points="${c.T.map((t,i)=>`${L+i*bw+bw/2},${yT(t)}`).join(" ")}"/>`;
+    c.T.forEach((t,i)=>{s+=`<circle cx="${L+i*bw+bw/2}" cy="${yT(t)}" r="2.6" fill="#d33131"/>`;});
+    ["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII"].forEach((m,i)=>{s+=`<text x="${L+i*bw+bw/2}" y="${B+12}" text-anchor="middle" fill="#6b7280" font-size="9">${m}</text>`;});
+    s+=`<line x1="${L}" x2="${R}" y1="${B}" y2="${B}" stroke="#999"/>`;
+    s+=`<text x="6" y="${Tp-8}" fill="#d33131">°C</text><text x="${R+2}" y="${Tp-8}" fill="#1899d6">mm</text>`;
+    const st=c.T.map(t=>t).join(";");
+    return s+`<desc>T: ${st}</desc></svg>`;
+  },
+  plmap(city){
+    const k=47.3, cs=Math.cos(52*Math.PI/180);
+    const X=lon=>10+(lon-14)*cs*k, Y=lat=>10+(54.95-lat)*k;
+    const pts=PL_OUTLINE.map(([lo,la])=>`${X(lo).toFixed(1)},${Y(la).toFixed(1)}`).join(" ");
+    const [lo,la]=CITIES[city];
+    let s=`<svg viewBox="0 0 320 306" xmlns="http://www.w3.org/2000/svg" font-family="Nunito,sans-serif" font-weight="800">`;
+    s+=`<rect width="320" height="306" fill="#e8f6ff"/>`;
+    s+=`<polygon points="${pts}" fill="#f4f1e6" stroke="#7a7a72" stroke-width="1.5" stroke-linejoin="round"/>`;
+    s+=`<text x="${X(15.6)}" y="${Y(54.7)}" font-size="10" fill="#4a90b8" font-style="italic">Morze Bałtyckie</text>`;
+    s+=`<circle cx="${X(lo)}" cy="${Y(la)}" r="6" fill="#ff4b4b" stroke="#fff" stroke-width="2"/>`;
+    s+=`<text x="${X(lo)+9}" y="${Y(la)+5}" font-size="16" fill="#d33131">X</text>`;
+    s+=`<g transform="translate(296,280)"><path d="M0,-14 L5,0 L0,-4 L-5,0Z" fill="#555"/><text y="10" text-anchor="middle" font-size="9" fill="#555">N</text></g>`;
+    return s+"</svg>";
+  },
+  contour(){
+    const cy=130, lv=[150,200,250,300,350];
+    let s=`<svg viewBox="0 0 320 262" xmlns="http://www.w3.org/2000/svg" font-family="Nunito,sans-serif" font-weight="800" font-size="10">`;
+    s+=`<rect width="320" height="262" fill="#fffdf6"/>`;
+    lv.forEach((h,i)=>{const cx=150+i*16, rx=130-i*24, ry=100-i*18;
+      s+=`<ellipse cx="${cx}" cy="${cy}" rx="${rx}" ry="${ry}" fill="none" stroke="#b06a2c" stroke-width="1.4"/>`;
+      s+=`<rect x="${cx-13}" y="${cy-ry-6}" width="26" height="12" fill="#fffdf6"/><text x="${cx}" y="${cy-ry+4}" text-anchor="middle" fill="#8a4d1a">${h}</text>`;});
+    s+=`<text x="214" y="134" text-anchor="middle" font-size="12" fill="#1f2328">▲371</text>`;
+    s+=`<circle cx="80" cy="${cy}" r="4" fill="#1cb0f6"/><text x="80" y="${cy+16}" text-anchor="middle" font-size="13" fill="#1899d6">A</text>`;
+    s+=`<g transform="translate(300,40)"><path d="M0,-16 L6,0 L0,-5 L-6,0Z" fill="#555"/><text y="11" text-anchor="middle" fill="#555">N</text></g>`;
+    s+=`<text x="8" y="254" fill="#6b7280">wysokości poziomic w m n.p.m.</text>`;
+    return s+"</svg>";
+  },
+  globe(o){
+    const cx=140,cy=120,r=90, rad=Math.PI/180;
+    const chord=(phi,col,w,dash)=>{const y=-r*Math.sin(phi*rad),x=r*Math.cos(phi*rad);return `<line x1="${-x}" x2="${x}" y1="${y}" y2="${y}" stroke="${col}" stroke-width="${w}" ${dash?'stroke-dasharray="4 3"':''}/>`;};
+    let s=`<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" font-family="Nunito,sans-serif" font-weight="800" font-size="11">`;
+    s+=`<circle cx="${cx}" cy="${cy}" r="${r}" fill="#dff3ff"/>`+`<path d="M${cx},${cy-r} A${r},${r} 0 0,0 ${cx},${cy+r}Z" fill="#c9d6e3"/>`;
+    s+=`<g transform="translate(${cx},${cy}) rotate(${o.decl})">`;
+    s+=`<circle r="${r}" fill="none" stroke="#1899d6" stroke-width="2"/>`;
+    s+=chord(0,"#555",1.4,false)+chord(23.45,"#999",1,true)+chord(-23.45,"#999",1,true)+chord(o.lat,"#ff4b4b",2.5,false);
+    s+=`<line x1="0" x2="0" y1="${-r-14}" y2="${r+14}" stroke="#333" stroke-width="1.5"/>`;
+    const yl=-r*Math.sin(o.lat*rad);
+    s+=`<text x="${-r*Math.cos(o.lat*rad)-4}" y="${yl+4}" text-anchor="end" fill="#d33131">${Math.abs(o.lat)}°${o.lat>=0?"N":"S"}</text>`;
+    s+=`<text x="${-r-4}" y="4" text-anchor="end" fill="#555">0°</text>`;
+    s+=`</g>`;
+    for(let i=-1;i<=1;i++){const y=cy+i*36;s+=`<line x1="300" x2="${cx+r+8}" y1="${y}" y2="${y}" stroke="#ffb020" stroke-width="2"/><path d="M${cx+r+8},${y} l8,-4 v8z" fill="#ffb020"/>`;}
+    s+=`<circle cx="300" cy="22" r="13" fill="#ffd34d"/><text x="300" y="50" text-anchor="middle" fill="#b27300">Słońce</text>`;
+    s+=`<text x="10" y="230" fill="#1f2328" font-size="13">${o.label}</text>`;
+    return s+"</svg>";
+  },
+  parab(){
+    const W=300,H=260,x0=-3,x1=5,y0=-5,y1=6, X=x=>20+(x-x0)/(x1-x0)*(W-40), Y=y=>12+(y1-y)/(y1-y0)*(H-30);
+    let s=`<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" font-family="Nunito,sans-serif" font-weight="700" font-size="10">`;
+    for(let x=x0;x<=x1;x++)s+=`<line x1="${X(x)}" x2="${X(x)}" y1="${Y(y0)}" y2="${Y(y1)}" stroke="#eee"/>`;
+    for(let y=y0;y<=y1;y++)s+=`<line y1="${Y(y)}" y2="${Y(y)}" x1="${X(x0)}" x2="${X(x1)}" stroke="#eee"/>`;
+    s+=`<line x1="${X(x0)}" x2="${X(x1)}" y1="${Y(0)}" y2="${Y(0)}" stroke="#333"/><line x1="${X(0)}" x2="${X(0)}" y1="${Y(y0)}" y2="${Y(y1)}" stroke="#333"/>`;
+    for(let x=x0;x<=x1;x++)if(x)s+=`<text x="${X(x)}" y="${Y(0)+12}" text-anchor="middle" fill="#6b7280">${x}</text>`;
+    for(let y=y0;y<=y1;y++)if(y)s+=`<text x="${X(0)-4}" y="${Y(y)+3}" text-anchor="end" fill="#6b7280">${y}</text>`;
+    const pts=[];for(let x=-2;x<=4.001;x+=0.05){pts.push(`${X(x).toFixed(1)},${Y(x*x-2*x-3).toFixed(1)}`);}
+    s+=`<polyline points="${pts.join(" ")}" fill="none" stroke="#1cb0f6" stroke-width="3"/>`;
+    s+=`<text x="${X(3.6)}" y="${Y(4.5)}" fill="#1899d6" font-size="13" font-weight="900">f</text><text x="${X(x1)-6}" y="${Y(0)-5}">x</text><text x="${X(0)+5}" y="${Y(y1)+8}">y</text>`;
+    return s+"</svg>";
+  },
+  tri(){
+    return `<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" font-family="Nunito,sans-serif" font-weight="800" font-size="15">
+      <polygon points="50,170 250,170 50,40" fill="#dff3ff" stroke="#1899d6" stroke-width="3"/>
+      <rect x="50" y="154" width="16" height="16" fill="none" stroke="#1899d6" stroke-width="2"/>
+      <text x="150" y="192" text-anchor="middle">4</text><text x="34" y="110" text-anchor="middle">3</text><text x="160" y="96" text-anchor="middle">5</text>
+      <path d="M215,170 A35,35 0 0,1 221,151" fill="none" stroke="#ff4b4b" stroke-width="2.5"/><text x="196" y="163" fill="#d33131">α</text></svg>`;
+  },
+};
+function renderVis(img){ if(!img) return ""; const [g,arg]=img; try{ return `<div class="vis">${VIS[g](arg)}</div>`; }catch(e){ return ""; } }
+
+/* ---------- 4) SILNIK POWTÓREK ----------
+   a) Opanowanie tematu: Bayesian Knowledge Tracing (BKT) – prawdopodobieństwo, że temat jest opanowany,
+      aktualizowane po każdej odpowiedzi (z uwzględnieniem szansy na zgadnięcie i pomyłkę).
+   b) Zapominanie: opanowanie wygasa wykładniczo (okres półtrwania rośnie, gdy temat jest utrwalany).
+   c) Pojedyncze pytania: harmonogram SM-2 (odstępy 1 → 3 → 7+ dni), błędne wracają w tej samej lekcji.
+   d) Dobór lekcji: priorytet = waga egzaminacyjna × braki × zaległe powtórki × gotowość (wymagania wstępne)
+      × pilność (bliskość egzaminu). Trudność pytań dopasowana do poziomu opanowania. */
+const BKT = {P0:0.15, T:0.12, S:0.10};
+function guessP(q){ if(q.type==="mc") return 1/q.o.length; if(q.type==="tf") return Math.pow(.5,q.st.length); if(q.type==="match") return 1/24; return .05; }
+function topicState(tid){ return state.topics[tid] || (state.topics[tid]={p:BKT.P0,n:0,c:0,last:0,hl:3}); }
+function effP(tid, now=Date.now()){
+  const t=state.topics[tid]; if(!t||!t.n) return BKT.P0;
+  const days=Math.max(0,(now-t.last)/DAY);
+  return BKT.P0 + (t.p-BKT.P0)*Math.pow(2,-days/t.hl);
+}
+function status(tid){
+  const t=state.topics[tid]; if(!t||!t.n) return {k:"new",l:"nowy",c:"st-new"};
+  const p=effP(tid);
+  if(p<0.55) return {k:"weak",l:"do powtórki",c:"st-weak"};
+  if(p<0.85||t.n<4) return {k:"mid",l:"w trakcie",c:"st-mid"};
+  return {k:"ok",l:"opanowany",c:"st-ok"};
+}
+function bktUpdate(tid, ok, q){
+  const t=topicState(tid), now=Date.now();
+  let p=effP(tid,now); if(!t.n) p=BKT.P0;
+  const G=guessP(q), S=BKT.S;
+  const post = ok ? p*(1-S)/(p*(1-S)+(1-p)*G) : p*S/(p*S+(1-p)*(1-G));
+  t.p = post + (1-post)*BKT.T; t.run = ok ? (t.run||0)+1 : 0; t.n++; t.c+=ok?1:0; t.last=now;
+}
+function cardUpdate(qid, ok, retry){
+  const c=state.cards[qid]||(state.cards[qid]={reps:0,ease:2.5,ivl:0,due:0,lapses:0,seen:0});
+  const now=Date.now(); c.seen=now;
+  if(retry){ c.due = now + (ok?1:0)*DAY; return; }
+  if(ok){ c.reps++; c.ivl = c.reps===1?1 : c.reps===2?3 : Math.round(c.ivl*c.ease); c.ease=Math.min(2.8,c.ease+0.05); }
+  else { c.reps=0; c.ivl=0; c.ease=Math.max(1.3,c.ease-0.2); c.lapses++; }
+  c.due = now + c.ivl*DAY;
+}
+function daysTo(dateStr){ const d=dateStr?new Date(dateStr+"T09:00:00+02:00"):EXAM_START; return Math.max(1,(d-Date.now())/DAY); }
+function dueCount(tid, now=Date.now()){ return Q.filter(q=>q.t===tid && state.cards[q.id] && state.cards[q.id].due<=now).length; }
+function prereqReady(tid){ const pre=TOPICS[tid].pre; if(!pre.length) return 1; return Math.min(...pre.map(id=>effP(id))); }
+function clamp(x,a,b){ return Math.max(a,Math.min(b,x)); }
+function topicPriority(tid, jitter=true){
+  const tp=TOPICS[tid], t=state.topics[tid], dl=daysTo(SUBJ[tp.s].exam);
+  const urg = 1 + clamp((150-dl)/150,0,1);                       // pilność rośnie w ostatnich 5 miesiącach
+  const need = (!t||!t.n) ? 0.55 + 0.35*clamp(1-dl/200,0,1)    // nieruszone tematy coraz ważniejsze
+                          : 1-effP(tid);
+  const due = Math.min(dueCount(tid),4)/4;
+  const ready = prereqReady(tid)>=0.5 || !TOPICS[tid].pre.length ? 1 : 0.35;
+  const fatigue = 1/(1 + recentCount(tid)/8);                     // nasycenie: temat ćwiczony dziś dużo → chwilowo niżej
+  return (tp.w/3)*(need + 0.25*due)*ready*urg*fatigue + (jitter?Math.random()*0.04:0);
+}
+function recentCount(tid){
+  const since=Date.now()-20*3600e3; let n=0;
+  for(let i=state.log.length-1;i>=0 && state.log[i][0]>=since;i--){ const q=QBY[state.log[i][1]]; if(q && q.t===tid) n++; }
+  return n;
+}
+function explainTopic(tid){
+  const t=state.topics[tid], st=status(tid), parts=[];
+  if(st.k==="new") parts.push("jeszcze nie ćwiczony");
+  else parts.push(`opanowanie ${Math.round(effP(tid)*100)}%`);
+  const d=dueCount(tid); if(d) parts.push(`${d} pyt. do powtórki`);
+  if(TOPICS[tid].w===3) parts.push("często na maturze");
+  if(TOPICS[tid].pre.length && prereqReady(tid)<0.5) parts.push("najpierw: "+TOPICS[TOPICS[tid].pre[0]].name);
+  if(t && t.n && effP(tid) < t.p-0.1) parts.push("zaczyna się zapominać");
+  return parts.join(" · ");
+}
+function targetDiff(tid){ const p=effP(tid); return p<0.45?1:p<0.75?2:3; }
+function pickFromTopic(tid, k, used, reason){
+  const now=Date.now(), td=targetDiff(tid), out=[];
+  const cands=Q.filter(q=>q.t===tid && !used.has(q.id)).map(q=>{
+    const c=state.cards[q.id]; let sc;
+    if(c && c.due<=now) sc = 0 + Math.abs(q.d-td)*0.3;                         // zaległa powtórka
+    else if(!c) sc = 1 + Math.abs(q.d-td)*0.6;                                  // nowe pytanie
+    else sc = 3 + Math.abs(q.d-td)*0.6 + ((now-c.seen)<20*3600e3?2:0) - c.lapses*0.3;
+    return {q, sc: sc + Math.random()*0.3, due: !!(c && c.due<=now)};
+  }).sort((a,b)=>a.sc-b.sc);
+  for(const c of cands.slice(0,k)){ used.add(c.q.id); out.push({q:c.q, reason: c.due?"review":reason}); }
+  return out;
+}
+function buildSession(scope, N=12){
+  const used=new Set(); let items=[];
+  if(scope.topic){
+    const t=state.topics[scope.topic], r=(!t||!t.n)?"new":effP(scope.topic)<0.55?"weak":"focus";
+    items = pickFromTopic(scope.topic, Math.min(N,10), used, r);
+  } else {
+    const tids = scope.subjects.flatMap(s=>SUBJ[s].topics.map(t=>t.id));
+    const ranked = tids.map(id=>({id, pr:topicPriority(id)})).sort((a,b)=>b.pr-a.pr);
+    const focus=[], perSubj={}, maxPer = scope.subjects.length>1 ? 1 : 3;
+    // pokrycie materiału: jeśli są nieruszone tematy z gotowymi wymaganiami wstępnymi, jeden slot zawsze dla nowego tematu
+    const fresh = ranked.find(r=>!(state.topics[r.id]&&state.topics[r.id].n) && (prereqReady(r.id)>=0.5 || !TOPICS[r.id].pre.length))
+               || ranked.find(r=>!(state.topics[r.id]&&state.topics[r.id].n));
+    if(fresh){ focus.push(fresh.id); perSubj[TOPICS[fresh.id].s]=1; }
+    for(const r of ranked){ const s=TOPICS[r.id].s; if(focus.includes(r.id) || (perSubj[s]||0)>=maxPer) continue; focus.push(r.id); perSubj[s]=(perSubj[s]||0)+1; if(focus.length===3) break; }
+    if(focus.length<3) for(const r of ranked){ if(!focus.includes(r.id)) focus.push(r.id); if(focus.length===3) break; }
+    for(const tid of focus){
+      const t=state.topics[tid], r=(!t||!t.n)?"new":effP(tid)<0.55?"weak":"focus";
+      items.push(...pickFromTopic(tid, 3, used, r));
+    }
+    // sloty powtórkowe: zaległe pytania z całego zakresu, potem kolejne tematy z rankingu
+    const now=Date.now();
+    const due = Q.filter(q=>tids.includes(q.t) && !used.has(q.id) && state.cards[q.id] && state.cards[q.id].due<=now)
+                 .sort((a,b)=>state.cards[a.id].due-state.cards[b.id].due);
+    for(const q of due){ if(items.length>=N) break; used.add(q.id); items.push({q, reason:"review"}); }
+    for(const r of ranked){ if(items.length>=N) break; if(focus.includes(r.id)) continue; items.push(...pickFromTopic(r.id, 1, used, "mix")); }
+  }
+  // kolejność: najpierw łatwiejsze (rozgrzewka), potem przeplatanie tematów
+  items.sort((a,b)=>a.q.d-b.q.d + (Math.random()-.5)*0.8);
+  const res=[]; const pool=items.slice();
+  while(pool.length){ const last=res.length?res[res.length-1].q.t:null; let i=pool.findIndex(x=>x.q.t!==last); if(i<0) i=0; res.push(pool.splice(i,1)[0]); }
+  return res.slice(0,N);
+}
+function recommendations(sids, k=3){
+  const tids=sids.flatMap(s=>SUBJ[s].topics.map(t=>t.id));
+  return tids.map(id=>({id,pr:topicPriority(id,false)})).sort((a,b)=>b.pr-a.pr).slice(0,k);
+}
+
+/* ---------- Ocenianie odpowiedzi ---------- */
+function parseNum(s){
+  if(s==null) return NaN; s=String(s).trim().replace(/\s+/g," ").replace(/[−–]/g,"-").replace(",",".");
+  s=s.replace(/\s*(km²|km2|km|m|°c|°C|zł)$/,"");
+  let m=s.match(/^(-?\d+(?:\.\d+)?)\s*°\s*(\d+(?:\.\d+)?)\s*['′’]?$/); if(m) return (+m[1]) + Math.sign(+m[1]||1)*(+m[2])/60;
+  m=s.match(/^(-?\d+(?:\.\d+)?)\s*°?$/); if(m) return +m[1];
+  m=s.match(/^(-?\d+(?:\.\d+)?)\s*\/\s*(\d+(?:\.\d+)?)$/); if(m && +m[2]) return (+m[1])/(+m[2]);
+  return NaN;
+}
+function normText(s){ return String(s||"").toLowerCase().replace(/[’‘`]/g,"'").replace(/[.!?]+$/,"").replace(/\s+/g," ").trim(); }
+function grade(q, r){
+  switch(q.type){
+    case "mc": return {ok: r.sel===q.a};
+    case "tf": { const marks=q.st.map((s,i)=>r.tf[i]===s[1]); return {ok: marks.every(Boolean), marks}; }
+    case "match": { const marks=q.pairs.map((p,i)=>r.m[i]===p[1]); return {ok: marks.every(Boolean), marks}; }
+    case "num": { const v=parseNum(r.v); const tol=q.tol!=null?q.tol:Math.max(1e-6,Math.abs(q.a)*1e-3); return {ok: Math.abs(v-q.a)<=tol}; }
+    case "text": return {ok: q.acc.map(normText).includes(normText(r.v))};
+  }
+  return {ok:false};
+}
+function answerText(q){
+  if(q.type==="mc") return q.o[q.a];
+  if(q.type==="tf") return q.st.map(s=>(s[1]?"P":"F")).join(", ");
+  if(q.type==="match") return q.pairs.map(p=>`${p[0]} → ${p[1]}`).join("; ");
+  if(q.type==="num") return String(q.a).replace(".",",")+(q.unit?" "+q.unit:"");
+  if(q.type==="text") return q.acc[0];
+}
+
+/* ---------- 5) ZAPIS: lokalnie (localStorage) ---------- */
+const KEY="matura27.v1";
+function freshState(){ return {v:1, topics:{}, cards:{}, xp:0, streak:{n:0,day:""}, daily:{day:"",xp:0}, goal:50, lvl:{}, mix:SUBJECTS.map(s=>s.id), updatedAt:0, log:[]}; }
+let state = freshState();
+try{ const raw=localStorage.getItem(KEY); if(raw) state=Object.assign(freshState(), JSON.parse(raw)); }catch(e){}
+function save(){
+  state.updatedAt=Date.now();
+  try{ localStorage.setItem(KEY, JSON.stringify(state)); }catch(e){}
+}
+function syncLabel(){ return "📱 Postęp zapisany na tym urządzeniu"; }
+
+/* ---------- XP, seria ---------- */
+function today(d=new Date()){ return d.toLocaleDateString("sv-SE"); }
+function addXP(n){
+  const td=today();
+  if(state.daily.day!==td) state.daily={day:td,xp:0};
+  state.daily.xp+=n; state.xp+=n;
+  if(state.streak.day!==td){
+    const y=today(new Date(Date.now()-DAY));
+    state.streak.n = state.streak.day===y ? state.streak.n+1 : 1; state.streak.day=td;
+  }
+}
+function streakNow(){ const td=today(), y=today(new Date(Date.now()-DAY)); return (state.streak.day===td||state.streak.day===y)?state.streak.n:0; }
+function subjMastery(sid){ const ts=SUBJ[sid].topics; return ts.reduce((a,t)=>a+(state.topics[t.id]&&state.topics[t.id].n?effP(t.id):0)*t.w,0)/ts.reduce((a,t)=>a+t.w,0); }
+
+/* ---------- 6) UI ---------- */
+// Kafelki: jeden na przedmiot; przedmioty z dwoma poziomami mają wybór poziomu (P / R / oba)
+const GROUPS=[
+  {id:"pol", name:"Polski",     ic:"📖", subs:["pol-pp"]},
+  {id:"mat", name:"Matematyka", ic:"📐", subs:["mat-pp","mat-pr"]},
+  {id:"ang", name:"Angielski",  ic:"🇬🇧", subs:["ang-pp","ang-pr"]},
+  {id:"geo", name:"Geografia",  ic:"🌍", subs:["geo-pr"]},
+  {id:"hisz",name:"Hiszpański", ic:"🇪🇸", subs:["hisz-pp"]},
+];
+const GRP=Object.fromEntries(GROUPS.map(g=>[g.id,g]));
+const app=document.getElementById("app");
+let view={name:"home"};
+let L=null; // bieżąca lekcja
+const REASON={weak:"🎯 Słaby temat",review:"🔁 Powtórka",new:"✨ Nowy temat",focus:"📚 Temat dnia",mix:"🔀 Przeplatanie"};
+function esc(s){ return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function shuffle(a){ a=a.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
+function pick(a){ return a[Math.floor(Math.random()*a.length)]; }
+function daysLeftLabel(){ return Math.ceil((EXAM_START-Date.now())/DAY); }
+function pl(n,a,b,c){ const m10=n%10,m100=n%100; return n===1?a:(m10>=2&&m10<=4&&!(m100>=12&&m100<=14))?b:c; }
+function lvName(sid){ return SUBJ[sid].lvl==="podstawowy"?"Podstawa":"Rozszerzenie"; }
+function examDay(sid){ return SUBJ[sid].exam ? new Date(SUBJ[sid].exam+"T12:00:00").toLocaleDateString("pl-PL",{day:"numeric",month:"long"}) : ""; }
+function selSubs(gid){
+  const g=GRP[gid]; if(g.subs.length===1) return g.subs;
+  const v=state.lvl[gid]||"all"; if(v==="all") return g.subs;
+  return g.subs.filter(s=>(SUBJ[s].lvl==="podstawowy")===(v==="p"));
+}
+function topicsOf(subs){ return subs.flatMap(s=>SUBJ[s].topics); }
+function mastery(subs){ const ts=topicsOf(subs); return ts.reduce((a,t)=>a+(state.topics[t.id]&&state.topics[t.id].n?effP(t.id):0)*t.w,0)/ts.reduce((a,t)=>a+t.w,0); }
+
+/* Komunikaty o postępie: co mówi mapa tematów */
+function insight(tid){
+  const t=state.topics[tid], tp=TOPICS[tid], hot=tp.w===3?" · często na maturze":"";
+  if(!t||!t.n){
+    const blocked=tp.pre.length && prereqReady(tid)<0.5;
+    return {k:"new",cls:"st-new",l:"✨ Nowy",col:"var(--track)",msg:(blocked?"Najpierw: "+TOPICS[tp.pre[0]].name:"Jeszcze nie zaczęty")+hot};
+  }
+  const p=effP(tid), pc=Math.round(p*100), due=dueCount(tid);
+  if(p>=0.85 && t.n>=4) return {k:"ok",cls:"st-ok",l:"🏆 Opanowany",col:"var(--ok)",msg:"Utrwalony"+(due?` · ${due} pyt. do odświeżenia`:"")};
+  if(p<0.55){
+    if(t.p-p>0.15) return {k:"fade",cls:"st-weak",l:"⏳ Zapominasz",col:"var(--no)",msg:"Dawno nie ćwiczony – wiedza ucieka"+hot};
+    return {k:"weak",cls:"st-weak",l:"⚠️ Wymaga powtórki",col:"var(--no)",msg:`Opanowanie ${pc}% – warto wrócić teraz`+hot};
+  }
+  if(p>=0.72) return {k:"near",cls:"st-near",l:"🎯 Prawie opanowany",col:"var(--acc)",msg:`Opanowanie ${pc}% – jeszcze kilka dobrych odpowiedzi`};
+  if((t.run||0)>=3) return {k:"up",cls:"st-up",l:"🚀 Świetny postęp",col:"var(--ok)",msg:`${t.run} poprawnych z rzędu – tak trzymaj`};
+  if(due) return {k:"due",cls:"st-mid",l:"🔁 Czas na powtórkę",col:"var(--warn)",msg:`${due} ${pl(due,"pytanie czeka","pytania czekają","pytań czeka")} na powtórkę`};
+  return {k:"mid",cls:"st-mid",l:"📈 W trakcie",col:"var(--warn)",msg:`Opanowanie ${pc}%`};
+}
+function byKind(subs){ const m={new:[],ok:[],fade:[],weak:[],near:[],up:[],due:[],mid:[]}; topicsOf(subs).forEach(t=>m[insight(t.id).k].push(t)); return m; }
+function names(ts,max=2){ const n=ts.slice(0,max).map(t=>t.name).join(", "); return ts.length>max?n+` i ${ts.length-max} więcej`:n; }
+function groupNotes(subs){
+  const m=byKind(subs), total=topicsOf(subs).length, out=[], bad=[...m.fade,...m.weak];
+  if(m.ok.length===total) return [{ic:"🏆",cls:"st-ok",t:"<b>Wszystko opanowane.</b> Utrzymuj formę krótkimi powtórkami."}];
+  if(m.new.length===total) return [{ic:"✨",cls:"st-new",t:"<b>Zacznij tutaj.</b> Pierwsza lekcja pokaże, od czego najlepiej ruszyć."}];
+  if(bad.length) out.push({ic:"⚠️",cls:"st-weak",t:`<b>${bad.length} ${pl(bad.length,"temat wymaga","tematy wymagają","tematów wymaga")} powtórki:</b> ${esc(names(bad))}`});
+  if(m.due.length) out.push({ic:"🔁",cls:"st-mid",t:`<b>Czas na powtórkę:</b> ${esc(names(m.due))}`});
+  if(m.up.length) out.push({ic:"🚀",cls:"st-up",t:`<b>Świetny postęp:</b> ${esc(names(m.up))}`});
+  if(m.near.length) out.push({ic:"🎯",cls:"st-near",t:`<b>Prawie opanowane:</b> ${esc(names(m.near))}`});
+  if(m.ok.length) out.push({ic:"🏆",cls:"st-ok",t:`<b>Opanowane:</b> ${m.ok.length} z ${total} ${pl(total,"tematu","tematów","tematów")}`});
+  if(m.new.length) out.push({ic:"✨",cls:"st-new",t:`<b>${m.new.length} ${pl(m.new.length,"temat czeka","tematy czekają","tematów czeka")} na start</b>`});
+  return out.slice(0,4);
+}
+function tileNote(subs){
+  const m=byKind(subs), total=topicsOf(subs).length, bad=m.fade.length+m.weak.length;
+  if(m.new.length===total) return "✨ Zacznij tutaj";
+  if(m.ok.length===total) return "🏆 Opanowane";
+  if(bad) return `⚠️ ${bad} do powtórki`;
+  if(m.due.length) return "🔁 Czas na powtórkę";
+  if(m.up.length) return "🚀 Świetny postęp";
+  if(m.near.length) return "🎯 Prawie tam";
+  return "📈 W trakcie";
+}
+function ring(frac,col,label,size=54){
+  const r=22,C=2*Math.PI*r, f=Math.max(0,Math.min(1,frac));
+  return `<svg class="ring" width="${size}" height="${size}" viewBox="0 0 54 54"><circle cx="27" cy="27" r="${r}" fill="none" stroke="var(--track)" stroke-width="6"/><circle cx="27" cy="27" r="${r}" fill="none" stroke="${col}" stroke-width="6" stroke-linecap="round" stroke-dasharray="${C*f} ${C}" transform="rotate(-90 27 27)"/>${label!=null?`<text x="27" y="31.5" text-anchor="middle" font-size="13" font-weight="800" fill="var(--ink)" font-family="inherit">${label}</text>`:""}</svg>`;
+}
+
+function render(){
+  if(view.name==="home") return renderHome();
+  if(view.name==="group") return renderGroup(view.gid);
+  if(view.name==="mix") return renderMix();
+  if(view.name==="lesson") return renderLesson();
+  if(view.name==="summary") return renderSummary();
+  if(view.name==="settings") return renderSettings();
+}
+function topBar(){
+  return `<div class="top"><span class="pill">🔥 ${streakNow()}</span><span class="pill">⭐ ${state.xp} XP</span><span class="grow"></span><button class="pill" data-act="settings" style="cursor:pointer" aria-label="Ustawienia">⚙️</button></div>`;
+}
+function renderHome(){
+  const dx=state.daily.day===today()?state.daily.xp:0, d=daysLeftLabel();
+  let h=topBar();
+  h+=`<div class="card hero">${ring(dx/state.goal,"var(--warn)",Math.min(dx,state.goal))}<div><h2>Do matury ${d} ${pl(d,"dzień","dni","dni")}</h2><div class="mute small">Cel na dziś: ${Math.min(dx,state.goal)}/${state.goal} XP${dx>=state.goal?" · zrobione ✓":""}</div></div></div>`;
+  h+=`<button class="mixbtn" data-act="mixview"><span class="mi">🔀</span><span class="grow"><b>Miks przedmiotów</b><span>Pytania z różnych przedmiotów, dobrane pod Twoje braki</span></span><span class="arr">›</span></button>`;
+  h+=`<h2 class="sec">Przedmioty</h2><div class="grid">`;
+  for(const g of GROUPS){
+    const subs=selSubs(g.id), m=mastery(subs);
+    h+=`<button class="tile" style="--c:var(--c-${g.id});--t:var(--t-${g.id})" data-act="group" data-id="${g.id}">`
+      +`<div class="row between"><span class="tic">${g.ic}</span>${ring(m,"var(--c)",Math.round(m*100)+"%",50)}</div>`
+      +`<h3>${g.name}</h3><div class="lv">${g.subs.map(s=>`<span class="lvb ${subs.includes(s)?"on":""}">${lvName(s)}</span>`).join("")}</div>`
+      +`<div class="tnote">${tileNote(subs)}</div></button>`;
+  }
+  h+=`</div><div class="sync mute" id="sync">${syncLabel()}</div>`;
+  app.innerHTML=h;
+}
+function renderGroup(gid){
+  const g=GRP[gid], subs=selSubs(gid), m=mastery(subs), notes=groupNotes(subs), v=state.lvl[gid]||"all";
+  const exams=subs.filter(s=>SUBJ[s].exam).map(s=>(g.subs.length>1?lvName(s)+": ":"egzamin ")+examDay(s)).join(" · ");
+  let h=`<button class="back" data-act="home">← Przedmioty</button>`;
+  h+=`<div class="ghead" style="--c:var(--c-${gid});--t:var(--t-${gid})"><span class="tic">${g.ic}</span><div class="grow"><h1>${g.name}</h1><div class="mute small">${g.subs.length===1?"poziom "+SUBJ[g.subs[0]].lvl+(exams?" · ":""):""}${exams}</div></div>${ring(m,"var(--c)",Math.round(m*100)+"%",58)}</div>`;
+  if(g.subs.length>1) h+=`<div class="seg">${[["p","Podstawa"],["r","Rozszerzenie"],["all","Oba poziomy"]].map(([k,l])=>`<button class="${v===k?"on":""}" data-act="seg" data-id="${gid}" data-v="${k}">${l}</button>`).join("")}</div>`;
+  h+=`<div class="card notes">${notes.map(n=>`<div class="note"><span class="ni ${n.cls}">${n.ic}</span><div>${n.t}</div></div>`).join("")}</div>`;
+  h+=`<button class="btn" data-act="grouplesson" data-id="${gid}">Ćwicz${g.subs.length>1?(v==="all"?" – oba poziomy":v==="p"?" – podstawa":" – rozszerzenie"):""}</button>`;
+  for(const sid of subs){
+    h+=`<div class="lvhead">${subs.length>1?lvName(sid)+" · ":""}Postęp w tematach</div><div class="card" style="padding:2px 14px">`;
+    for(const t of SUBJ[sid].topics){
+      const ins=insight(t.id), p=state.topics[t.id]&&state.topics[t.id].n?effP(t.id):0;
+      h+=`<div class="topic"><div class="grow"><div class="row between" style="align-items:flex-start"><span class="tname">${esc(t.name)}</span><span class="status ${ins.cls}">${ins.l}</span></div><div class="bar thin"><i style="width:${p*100}%;background:${ins.col}"></i></div><div class="why">${esc(ins.msg)}</div></div><button class="go" data-act="topiclesson" data-id="${t.id}" aria-label="Ćwicz temat">▶</button></div>`;
+    }
+    h+=`</div>`;
+  }
+  app.innerHTML=h;
+}
+function renderMix(){
+  const sel=state.mix, rec=sel.length?recommendations(sel,3):[];
+  let h=`<button class="back" data-act="home">← Wróć</button><h1>Miks przedmiotów</h1><p class="mute small" style="margin:4px 0 12px">Zaznacz, co ma trafić do lekcji. Silnik sam wybierze tematy, które najbardziej tego potrzebują.</p>`;
+  h+=`<div class="card" style="padding:4px 14px">`;
+  for(const g of GROUPS){
+    h+=`<div class="mrowx"><span class="tic" style="background:var(--t-${g.id});width:38px;height:38px;font-size:20px">${g.ic}</span><div class="grow"><b>${g.name}</b><div class="chips" style="margin-top:6px">${g.subs.map(s=>`<button class="chip ${sel.includes(s)?"on":""}" data-act="chip" data-id="${s}">${lvName(s)}</button>`).join("")}</div></div></div>`;
+  }
+  h+=`</div>`;
+  if(rec.length) h+=`<div class="card"><h3>Silnik proponuje teraz</h3>${rec.map(r=>{const ins=insight(r.id);return `<div class="topic"><div class="grow"><span class="tname">${esc(TOPICS[r.id].name)}</span><div class="why">${GRP_OF[TOPICS[r.id].s].name} · ${esc(ins.msg)}</div></div><span class="status ${ins.cls}">${ins.l}</span></div>`;}).join("")}</div>`;
+  h+=`<div class="foot"><div class="in"><button class="btn" data-act="mix" ${sel.length?"":"disabled"}>Start</button></div></div>`;
+  app.innerHTML=h;
+}
+const GRP_OF={}; GROUPS.forEach(g=>g.subs.forEach(s=>GRP_OF[s]=g));
+
+function startLesson(scope, back){
+  const items=buildSession(scope);
+  if(!items.length){ return; }
+  const before={}; items.forEach(it=>{ before[it.q.t]= state.topics[it.q.t]&&state.topics[it.q.t].n?effP(it.q.t):0; });
+  L={scope, back:back||{name:"home"}, queue:items.map(it=>({...it, retry:false})), i:0, done:0, firstOk:0, firstTotal:items.length, xp:0, before, per:{}, r:null, checked:false, res:null, order:null};
+  prepQ(); view={name:"lesson"}; render(); window.scrollTo(0,0);
+}
+function prepQ(){
+  const q=L.queue[L.i].q;
+  L.r={sel:null, tf:q.type==="tf"?q.st.map(()=>null):null, m:q.type==="match"?q.pairs.map(()=>""):null, v:""};
+  L.order = q.type==="mc" ? shuffle(q.o.map((_,i)=>i)) : null;
+  L.mopts = q.type==="match" ? shuffle(q.pairs.map(p=>p[1])) : null;
+  L.checked=false; L.res=null;
+}
+function canCheck(){
+  const q=L.queue[L.i].q, r=L.r;
+  if(q.type==="mc") return r.sel!=null;
+  if(q.type==="tf") return r.tf.every(x=>x!=null);
+  if(q.type==="match") return r.m.every(x=>x);
+  return String(r.v).trim().length>0;
+}
+function renderLesson(){
+  const it=L.queue[L.i], q=it.q, r=L.r, done=L.checked, res=L.res;
+  const prog = L.done/L.queue.length;
+  let h=`<div class="lhead"><button class="x" data-act="quit" aria-label="Zakończ">✕</button><div class="bar"><i style="width:${prog*100}%"></i></div></div>`;
+  h+=`<span class="tag">${it.retry?"↩️ Jeszcze raz":REASON[it.reason]||""} · ${GRP_OF[q.s].name} · ${esc(TOPICS[q.t].name)}</span>`;
+  h+=`<div class="qtext">${esc(q.q)}</div>`;
+  h+=renderVis(q.img);
+  if(q.type==="mc"){
+    for(const i of L.order){ let cls=""; if(done){ if(i===q.a) cls="good"; else if(i===r.sel) cls="bad"; } else if(i===r.sel) cls="sel";
+      h+=`<button class="opt ${cls}" data-act="sel" data-i="${i}" ${done?"disabled":""}>${esc(q.o[i])}</button>`; }
+  } else if(q.type==="tf"){
+    h+=`<div class="card" style="padding:4px 12px">`;
+    q.st.forEach((s,i)=>{ const v=r.tf[i]; const c=(val)=>{ if(done){ if(val===s[1]) return "good"; if(val===v) return "bad"; return ""; } return v===val?"sel":""; };
+      h+=`<div class="tfrow"><div class="s">${esc(s[0])}</div><button class="tfb ${c(true)}" data-act="tf" data-i="${i}" data-v="1" ${done?"disabled":""}>P</button><button class="tfb ${c(false)}" data-act="tf" data-i="${i}" data-v="0" ${done?"disabled":""}>F</button></div>`; });
+    h+=`</div>`;
+  } else if(q.type==="match"){
+    h+=`<div class="card" style="padding:4px 12px">`;
+    q.pairs.forEach((p,i)=>{ const cls=done?(res.marks[i]?"good":"bad"):"";
+      h+=`<div class="mrow"><label>${esc(p[0])}</label><select class="${cls}" data-act="match" data-i="${i}" ${done?"disabled":""}><option value="">— wybierz —</option>${L.mopts.map(o=>`<option ${r.m[i]===o?"selected":""}>${esc(o)}</option>`).join("")}</select></div>`; });
+    h+=`</div>`;
+  } else {
+    const cls=done?(res.ok?"good":"bad"):"";
+    h+=`<div class="row"><input type="text" id="ans" class="${cls}" ${q.type==="num"?'inputmode="decimal"':'autocapitalize="off" autocorrect="off" spellcheck="false"'} placeholder="${q.type==="num"?"Twoja odpowiedź":"Type your answer"}" value="${esc(r.v)}" ${done?"disabled":""}>${q.unit?`<b>${esc(q.unit)}</b>`:""}</div>`;
+  }
+  if(!done){
+    h+=`<div class="foot"><div class="in"><button class="btn" data-act="check" ${canCheck()?"":"disabled"} id="checkBtn">Sprawdź</button></div></div>`;
+  } else {
+    h+=`<div class="foot ${res.ok?"ok":"no"}"><div class="in"><div class="fb-title">${res.ok?pick(["Świetnie!","Brawo!","Dokładnie tak!","Super!"]):"Niestety…"}</div><div class="fb-text">${res.ok?"":`<b>Poprawna odpowiedź:</b> ${esc(answerText(q))}<br>`}${esc(q.e||"")}<div class="mute small" style="margin-top:4px">Źródło: ${esc(q.src)}</div></div><button class="btn ${res.ok?"good":"red"}" data-act="next">Dalej</button></div></div>`;
+  }
+  app.innerHTML=h;
+  const inp=document.getElementById("ans");
+  if(inp && !done){ inp.addEventListener("input",e=>{ L.r.v=e.target.value; const b=document.getElementById("checkBtn"); if(b) b.disabled=!canCheck(); }); inp.addEventListener("keydown",e=>{ if(e.key==="Enter"&&canCheck()) doCheck(); }); }
+}
+function doCheck(){
+  const it=L.queue[L.i], q=it.q;
+  const res=grade(q, L.r); L.res=res; L.checked=true;
+  bktUpdate(q.t, res.ok, q);
+  cardUpdate(q.id, res.ok, it.retry);
+  const per=L.per[q.t]||(L.per[q.t]={n:0,ok:0}); if(!it.retry){ per.n++; per.ok+=res.ok?1:0; }
+  if(!it.retry){ if(res.ok) L.firstOk++; }
+  if(res.ok){ const x=it.retry?5:10; L.xp+=x; addXP(x); L.done++; }
+  else if(!it.retry){ L.queue.push({...it, retry:true}); }
+  else { L.done++; }
+  state.log.push([Date.now(), q.id, res.ok?1:0]); if(state.log.length>2000) state.log=state.log.slice(-2000);
+  save(); renderLesson();
+}
+function nextQ(){
+  L.i++;
+  if(L.i>=L.queue.length) return finishLesson();
+  prepQ(); renderLesson(); window.scrollTo(0,0);
+}
+function finishLesson(){
+  // utrwalanie: tematy dobrze zrobione w tej lekcji zapominają się wolniej
+  for(const [tid,p] of Object.entries(L.per)){ if(!p.n) continue; const t=topicState(tid); const acc=p.ok/p.n; if(acc>=0.7) t.hl=Math.min(60,t.hl*1.6); else if(acc<0.5) t.hl=Math.max(2,t.hl*0.8); }
+  if(L.firstOk===L.firstTotal){ L.xp+=10; addXP(10); }
+  save(); view={name:"summary"}; render(); window.scrollTo(0,0);
+}
+function renderSummary(){
+  const acc=Math.round(L.firstOk/L.firstTotal*100);
+  let h=`<div class="big">${acc>=90?"🏆":acc>=70?"🎉":acc>=50?"💪":"📚"}</div><h1 style="text-align:center">Lekcja ukończona!</h1>`;
+  h+=`<div class="stats"><div class="stat"><span class="mute small">Zdobyte XP</span><b style="color:var(--warn-ink)">+${L.xp}</b></div><div class="stat"><span class="mute small">Poprawne za 1. razem</span><b style="color:var(--ok-ink)">${acc}%</b></div></div>`;
+  h+=`<div class="card" style="padding:6px 14px"><h3 style="margin-top:8px">Zmiany w tematach</h3>`;
+  for(const tid of Object.keys(L.per)){
+    const b=L.before[tid]||0, a=effP(tid), d=Math.round((a-b)*100), ins=insight(tid);
+    h+=`<div class="topic"><div class="grow"><span class="tname">${esc(TOPICS[tid].name)}</span><div class="why">${GRP_OF[TOPICS[tid].s].name} · ${lvName(TOPICS[tid].s).toLowerCase()}</div></div><span class="delta ${d>=0?"up":"down"}">${d>=0?"+":""}${d}%</span><span class="status ${ins.cls}">${ins.l}</span></div>`;
+  }
+  h+=`</div><div class="foot"><div class="in"><button class="btn" data-act="lessondone">Dalej</button></div></div>`;
+  app.innerHTML=h;
+}
+function renderSettings(){
+  let code=""; try{ code=btoa(unescape(encodeURIComponent(JSON.stringify(state)))); }catch(e){}
+  let h=`<button class="back" data-act="home">← Wróć</button><h1 style="margin-bottom:12px">Ustawienia</h1>`;
+  h+=`<div class="card"><h3>Cel dzienny</h3><div class="chips" style="margin-top:10px">${[30,50,80,120].map(g=>`<button class="chip ${state.goal===g?"on":""}" data-act="goal" data-v="${g}">${g} XP</button>`).join("")}</div></div>`;
+  h+=`<div class="card"><h3>Kopia zapasowa postępu</h3><p class="mute small">${syncLabel()}. Możesz też skopiować kod i wkleić go na innym urządzeniu.</p><textarea id="bk" rows="3" readonly>${code}</textarea><div style="height:8px"></div><button class="btn sm ghost" data-act="copy">Kopiuj kod</button><div style="height:14px"></div><textarea id="imp" rows="3" placeholder="Wklej kod, aby przywrócić postęp"></textarea><div style="height:8px"></div><button class="btn sm acc" data-act="import">Przywróć</button> <span id="impmsg" class="small mute"></span></div>`;
+  h+=`<div class="card"><h3>Baza pytań</h3><p class="mute small">${Q.length} pytań w ${Object.keys(TOPICS).length} tematach. Wersja MVP: pytania zamknięte w stylu CKE.</p></div>`;
+  h+=`<div class="card"><h3>Zacznij od nowa</h3><p class="mute small">Usuwa cały postęp.</p><button class="btn sm red" data-act="reset1" id="rs">Resetuj postęp</button></div>`;
+  app.innerHTML=h;
+}
+
+app.addEventListener("click", e=>{
+  const el=e.target.closest("[data-act]"); if(!el) return;
+  const act=el.dataset.act, id=el.dataset.id;
+  switch(act){
+    case "home": view={name:"home"}; render(); window.scrollTo(0,0); break;
+    case "settings": view={name:"settings"}; render(); window.scrollTo(0,0); break;
+    case "group": view={name:"group",gid:id}; render(); window.scrollTo(0,0); break;
+    case "mixview": view={name:"mix"}; render(); window.scrollTo(0,0); break;
+    case "seg": state.lvl[id]=el.dataset.v; save(); render(); break;
+    case "chip": state.mix = state.mix.includes(id)?state.mix.filter(x=>x!==id):[...state.mix,id]; save(); render(); break;
+    case "mix": if(state.mix.length) startLesson({subjects:state.mix},{name:"home"}); break;
+    case "grouplesson": startLesson({subjects:selSubs(id)},{name:"group",gid:id}); break;
+    case "topiclesson": startLesson({topic:id},{name:"group",gid:GRP_OF[TOPICS[id].s].id}); break;
+    case "sel": if(!L.checked){ L.r.sel=+el.dataset.i; renderLesson(); } break;
+    case "tf": if(!L.checked){ L.r.tf[+el.dataset.i]=el.dataset.v==="1"; renderLesson(); } break;
+    case "check": if(canCheck()) doCheck(); break;
+    case "next": nextQ(); break;
+    case "quit": case "lessondone": view=(L&&L.back)||{name:"home"}; render(); window.scrollTo(0,0); break;
+    case "goal": state.goal=+el.dataset.v; save(); render(); break;
+    case "copy": { const t=document.getElementById("bk"); try{ navigator.clipboard.writeText(t.value).then(()=>{el.textContent="Skopiowano ✓";},()=>{t.select();}); }catch(err){ t.select(); } break; }
+    case "import": { const v=document.getElementById("imp").value.trim(), msg=document.getElementById("impmsg");
+      try{ const s=JSON.parse(decodeURIComponent(escape(atob(v)))); if(!s.topics||!s.cards) throw 0; state=Object.assign(freshState(),s); save(); msg.textContent="Przywrócono ✓"; }catch(err){ msg.textContent="Nieprawidłowy kod"; } break; }
+    case "reset1": el.textContent="Na pewno? Kliknij ponownie"; el.dataset.act="reset2"; break;
+    case "reset2": { const keep={mix:state.mix,lvl:state.lvl,goal:state.goal}; state=Object.assign(freshState(),keep); save(); view={name:"home"}; render(); break; }
+  }
+});
+app.addEventListener("change", e=>{
+  const el=e.target; if(el.dataset.act==="match" && L && !L.checked){ L.r.m[+el.dataset.i]=el.value; const b=document.getElementById("checkBtn"); if(b) b.disabled=!canCheck(); }
+});
+
+render();
+if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});
+</script>
+</body>
+</html>

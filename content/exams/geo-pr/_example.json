@@ -1,0 +1,37 @@
+{
+  "id": "geo-pr-0000-00-example",
+  "subject": "geo-pr",
+  "formula": "2023",
+  "year": 0,
+  "session": "przyklad",
+  "source": { "paper": "NOT A REAL EXAM - format example only", "key": "" },
+  "materials": [
+    { "id": "m1", "type": "text", "text": "Skala mapy: 1:50 000", "caption": "Informacja do zadania 1." }
+  ],
+  "tasks": [
+    {
+      "id": "geo-pr-0000-00-example-z01",
+      "no": "1",
+      "points": 1,
+      "type": "num",
+      "topic": "geo-map",
+      "requirement": "I.1",
+      "materials": ["m1"],
+      "prompt": "Odległość na mapie wynosi 4 cm. Oblicz odległość w terenie.",
+      "answer": 2,
+      "unit": "km",
+      "explanation": "1 cm = 0,5 km, więc 4 cm = 2 km."
+    },
+    {
+      "id": "geo-pr-0000-00-example-z02",
+      "no": "2",
+      "points": 1,
+      "type": "tf",
+      "topic": "geo-ska",
+      "prompt": "Oceń prawdziwość informacji.",
+      "statements": ["Bazalt jest skałą magmową wylewną.", "Węgiel kamienny jest skałą metamorficzną."],
+      "answer": [true, false],
+      "explanation": "Węgiel kamienny to skała osadowa."
+    }
+  ]
+}
