@@ -11,10 +11,10 @@ const app = readFileSync(join(root, "index.html"), "utf8");
 const block = app.slice(app.indexOf("const SUBJECTS"), app.indexOf("const TOPICS"));
 const ids = new Set([...block.matchAll(/id:"([a-z0-9-]+)"/g)].map(m => m[1]));
 const SUBJ = new Set(["pol-pp", "mat-pp", "mat-pr", "ang-pp", "ang-pr", "geo-pr", "hisz-pp"]);
-const TYPES = new Set(["mc", "tf", "match", "num", "text", "open"]);
+const TYPES = new Set(["mc", "tf", "match", "num", "text", "multi", "open"]);
 
 const files = [];
-(function walk(d) { for (const f of readdirSync(d)) { const p = join(d, f); statSync(p).isDirectory() ? walk(p) : f.endsWith(".json") && files.push(p); } })(join(root, "content/exams"));
+(function walk(d) { for (const f of readdirSync(d)) { const p = join(d, f); statSync(p).isDirectory() ? walk(p) : f.endsWith(".json") && f !== "index.json" && files.push(p); } })(join(root, "content/exams"));
 
 let errors = 0, tasks = 0; const seen = new Set();
 const err = (f, m) => { errors++; console.log(`✗ ${f.replace(root + "/", "")}: ${m}`); };
@@ -70,8 +70,25 @@ for (const f of files) {
     if (t.type === "match" && !(Array.isArray(t.pairs) && t.pairs.length >= 2)) err(f, `${w}: match needs pairs`);
     if (t.type === "num" && typeof a !== "number") err(f, `${w}: num needs numeric answer`);
     if (t.type === "text" && !(Array.isArray(a) && a.length)) err(f, `${w}: text needs accepted answers`);
-    if (t.type === "open" && !t.scoring) err(f, `${w}: open needs scoring`);
+    if (t.type === "num" && t.suffix && !(Array.isArray(t.suffix.options) && Number.isInteger(t.suffix.answer) && t.suffix.answer < t.suffix.options.length)) err(f, `${w}: num suffix needs options and answer index`);
+    if (t.type === "multi") {
+      const ok = Array.isArray(t.items) && t.items.length && Array.isArray(a) && a.length === t.items.length && t.items.every((it, i) => {
+        if (!it.label || !Array.isArray(it.options) || it.options.length < 2) return false;
+        const ans = [].concat(a[i]);
+        return ans.length === (it.pick || 1) && ans.every(x => Number.isInteger(x) && x >= 0 && x < it.options.length);
+      });
+      if (!ok) err(f, `${w}: multi needs items (label, options, optional pick) and one answer per item (an index list when pick > 1)`);
+    }
+    if (t.type === "open" && !(t.scoring && Array.isArray(a) && a.length)) err(f, `${w}: open needs scoring and model answers`);
   }
 }
+// The app loads exactly the files listed in content/exams/index.json ("_" files are format examples).
+const indexPath = join(root, "content/exams/index.json");
+let listed = [];
+try { listed = JSON.parse(readFileSync(indexPath, "utf8")); } catch (e) { err(indexPath, "missing or invalid: " + e.message); }
+const real = files.map(f => f.slice(join(root, "content/exams").length + 1)).filter(f => !f.split("/").pop().startsWith("_"));
+for (const f of real) if (!listed.includes(f)) err(indexPath, `${f} is not listed, so the app will not load it`);
+for (const f of listed) if (!real.includes(f)) err(indexPath, `lists ${f}, which does not exist`);
+
 console.log(`${Object.keys(scope).length} scope file(s), ${files.length} exam file(s), ${tasks} task(s), ${errors} error(s)`);
 process.exit(errors ? 1 : 0);

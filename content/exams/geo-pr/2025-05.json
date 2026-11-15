@@ -1,0 +1,1555 @@
+{
+  "id": "geo-pr-2025-05",
+  "subject": "geo-pr",
+  "formula": "2023",
+  "year": 2025,
+  "session": "maj",
+  "source": {
+    "paper": "MGEP-R0-100-A-2505-arkusz.pdf (+ MGEP-R0-100-2505-mapa.pdf)",
+    "key": "MGEP-R0-100-2505-zasady.pdf"
+  },
+  "materials": [
+    {
+      "id": "mapa",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/mapa.webp",
+      "caption": "Mapa szczegółowa fragmentu Tatr (skala 1 : 55 000). Powiększ, aby odczytać pola, szlaki i poziomice.",
+      "w": 3396,
+      "h": 2400
+    },
+    {
+      "id": "giewont",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z01-giewont.webp",
+      "caption": "Masyw Giewontu (pole GH2)",
+      "w": 1001,
+      "h": 781
+    },
+    {
+      "id": "pietra",
+      "type": "table",
+      "file": "assets/geo-pr-2025-05/z03-pietra.webp",
+      "caption": "Piętra roślinne w Tatrach Wysokich i na obszarach X i Y",
+      "w": 1001,
+      "h": 470
+    },
+    {
+      "id": "geologia",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z04-geologia.webp",
+      "caption": "Mapa geologiczna polskiej części Tatr w zasięgu mapy szczegółowej",
+      "w": 1001,
+      "h": 1364
+    },
+    {
+      "id": "wycieczki",
+      "type": "text",
+      "text": "Trasy wycieczek (szlaki PTTK):\n1 – Kiry (pole D1) – schronisko PTTK na hali Ornak (pole C4) – Iwaniacka Przełęcz (pole B4) – Błyszcz (pole B6)\n2 – Kuźnice (pole J1) – Myślenickie Turnie (pole J2) – Kasprowy Wierch (pole J4)"
+    },
+    {
+      "id": "przekroj",
+      "type": "chart",
+      "file": "assets/geo-pr-2025-05/z05-przekroj.webp",
+      "caption": "Przekrój geologiczny fragmentu Tatr (pola EF3/5)",
+      "w": 1001,
+      "h": 713
+    },
+    {
+      "id": "lodowce",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z06-lodowce.webp",
+      "caption": "Wybrany obszar Tatr w plejstocenie (Val. Glacier, Val. Gl. – dolina lodowca)",
+      "w": 1001,
+      "h": 881
+    },
+    {
+      "id": "ksiezyc",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z07-ksiezyc.webp",
+      "caption": "Ziemia i Księżyc oświetlone przez Słońce w dniu równonocy (bez zachowania proporcji)",
+      "w": 1001,
+      "h": 528
+    },
+    {
+      "id": "skaly",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z08-skaly.webp",
+      "caption": "Okruchowe skały osadowe X i Y",
+      "w": 1001,
+      "h": 350
+    },
+    {
+      "id": "przeplywy",
+      "type": "chart",
+      "file": "assets/geo-pr-2025-05/z10-przeplywy.webp",
+      "caption": "Średnie miesięczne przepływy Amu-darii i Indusu. Górne odcinki obu rzek leżą na podobnej szerokości geograficznej, ujścia – w innych strefach klimatycznych; fragmenty dorzeczy leżą powyżej 7000 m n.p.m.",
+      "w": 1001,
+      "h": 429
+    },
+    {
+      "id": "rzeki",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z11-rzeki.webp",
+      "caption": "Na niebiesko: wybrane rzeki, m.in. Bug, Narew, Pilica, San i Warta",
+      "w": 1001,
+      "h": 958
+    },
+    {
+      "id": "omo",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z12-omo.webp",
+      "caption": "Dorzecze rzeki Omo i budowa tamy Gibe III",
+      "w": 1001,
+      "h": 939
+    },
+    {
+      "id": "omo-tekst",
+      "type": "text",
+      "text": "Jezioro Rudolfa – słonowodne – jest zasilane przez rzekę Omo. Woda z Omo stanowi też podstawę egzystencji plemion zajmujących się rybołówstwem, wypasem bydła oraz uprawą ziemi na sawannie. Miejscowa ludność korzystała do tej pory z wylewów tej rzeki użyźniających pola kukurydzy i innych roślin uprawnych.\n\nW XXI wieku w Etiopii przeprowadzono inwestycje, które zmieniły środowisko geograficzne regionu. Na rzece Omo powstała tama Gibe III, której funkcjonowanie jest częścią projektu wykorzystania dorzecza Omo pod uprawę m.in. trzciny cukrowej i bawełny. Mimo że część wody ze zbiornika jest kierowana na plantacje, to elektrownia wodna przy tamie może produkować dwa razy więcej energii elektrycznej, niż do tej pory zużywano w całej Etiopii.",
+      "caption": "Na podstawie: www.africangreatlakesinform.org; www.justpaste.it; www.rp.pl"
+    },
+    {
+      "id": "rio",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z13-rio.webp",
+      "caption": "Fragment Rio de Janeiro i okolic (23°S, 43°W)",
+      "w": 1001,
+      "h": 538
+    },
+    {
+      "id": "klimatogramy",
+      "type": "chart",
+      "file": "assets/geo-pr-2025-05/z13-klimatogramy.webp",
+      "caption": "Klimatogramy A–C: trzy stacje na wybrzeżu Ameryki Południowej (poniżej 100 m n.p.m.), wśród nich Rio de Janeiro",
+      "w": 1001,
+      "h": 682
+    },
+    {
+      "id": "synoptyczna",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z14-synoptyczna.webp",
+      "caption": "Mapa synoptyczna Europy, wybrany dzień kwietnia",
+      "w": 1001,
+      "h": 704
+    },
+    {
+      "id": "formy",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z15-formy.webp",
+      "caption": "Wypukłe formy terenu A i B z obszarów o podobnym klimacie",
+      "w": 1001,
+      "h": 500
+    },
+    {
+      "id": "gleba",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z16-gleba.webp",
+      "caption": "Profil jednej z gleb występujących w Polsce",
+      "w": 1001,
+      "h": 1488
+    },
+    {
+      "id": "kraje",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z17-kraje.webp",
+      "caption": "Na czerwono: Afganistan, Arabia Saudyjska, Chile, DR Konga, Madagaskar, Namibia i Somalia",
+      "w": 1001,
+      "h": 620
+    },
+    {
+      "id": "piramidy",
+      "type": "chart",
+      "file": "assets/geo-pr-2025-05/z18-piramidy.webp",
+      "caption": "Struktura ludności Polski według wieku i płci w 2011 i 2021 roku",
+      "w": 1001,
+      "h": 1380
+    },
+    {
+      "id": "mediana",
+      "type": "chart",
+      "file": "assets/geo-pr-2025-05/z19-mediana.webp",
+      "caption": "Mediana wieku mieszkańców Polski i krajów 1–4 w latach 1980, 2000 i 2020",
+      "w": 1001,
+      "h": 487
+    },
+    {
+      "id": "poznan",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z20-poznan.webp",
+      "caption": "Poznań: plan z 1935 roku (1) i współczesne ukośne zdjęcie lotnicze (2); X – ten sam obszar w pobliżu rzeki",
+      "w": 1001,
+      "h": 1294
+    },
+    {
+      "id": "gestosc",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z22-gestosc.webp",
+      "caption": "Gęstość zaludnienia Afryki i wybrane miasta",
+      "w": 1001,
+      "h": 1375
+    },
+    {
+      "id": "pszenica",
+      "type": "text",
+      "text": "Plony pszenicy z 1 ha w 2020 roku (dt):\nArgentyna – 29\nAustralia – 15\nBelgia – 90\nNiemcy – 78",
+      "caption": "Na podstawie: www.ourworldindata.org"
+    },
+    {
+      "id": "rolnictwo-pl",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z24-mapy.webp",
+      "caption": "Mapa 1: pracujący w rolnictwie według województw (2022). Mapa 2: udział w zbiorach zbóż i plony zbóż według województw (2022)",
+      "w": 1001,
+      "h": 1376
+    },
+    {
+      "id": "obszary",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z25-obszary.webp",
+      "caption": "Wybrane obszary rolnicze 1–3",
+      "w": 1001,
+      "h": 913
+    },
+    {
+      "id": "eksport",
+      "type": "chart",
+      "file": "assets/geo-pr-2025-05/z26-eksport.webp",
+      "caption": "Struktura towarowa eksportu Brazylii i Korei Południowej w 2018 roku",
+      "w": 1001,
+      "h": 755
+    },
+    {
+      "id": "zrodla",
+      "type": "image",
+      "file": "assets/geo-pr-2025-05/z27-zrodla.webp",
+      "caption": "1 – przekrój geologiczny przez obszar wydobycia miedzi i srebra; 2 – model terenu obszaru wydobycia węgla brunatnego (województwo dolnośląskie)",
+      "w": 1001,
+      "h": 1404
+    },
+    {
+      "id": "energia",
+      "type": "chart",
+      "file": "assets/geo-pr-2025-05/z28-energia.webp",
+      "caption": "Struktura produkcji energii elektrycznej w 2000 i 2021 roku: Polska, Hiszpania oraz państwa X i Y",
+      "w": 1001,
+      "h": 1195
+    },
+    {
+      "id": "przewozy",
+      "type": "table",
+      "file": "assets/geo-pr-2025-05/z30-przewozy.webp",
+      "caption": "Przewozy ładunków w Polsce według rodzajów transportu (mln ton)",
+      "w": 1001,
+      "h": 603
+    },
+    {
+      "id": "panstwa",
+      "type": "map",
+      "file": "assets/geo-pr-2025-05/z31-panstwa.webp",
+      "caption": "Na czerwono: trzy wybrane państwa",
+      "w": 1001,
+      "h": 910
+    }
+  ],
+  "tasks": [
+    {
+      "id": "geo-pr-2025-05-z01",
+      "no": "1",
+      "points": 2,
+      "type": "multi",
+      "topic": "geo-map",
+      "requirement": [
+        "R.I.7",
+        "P.I.3",
+        "P.XIV.7"
+      ],
+      "materials": [
+        "giewont",
+        "mapa"
+      ],
+      "prompt": "Na fotografii przedstawiono masyw Giewontu (pole GH2 mapy szczegółowej).\nUzupełnij zdania – wybierz właściwe określenia.",
+      "items": [
+        {
+          "label": "Między miejscem, z którego wykonano fotografię, a masywem Giewontu jest położona…",
+          "options": [
+            "Czerwona Przełęcz",
+            "Kondracka Przełęcz"
+          ]
+        },
+        {
+          "label": "Azymut grzbietu Długiego Giewontu, wyznaczony ze szczytu Giewontu, zawiera się w przedziale…",
+          "options": [
+            "0°–90°",
+            "180°–270°"
+          ]
+        },
+        {
+          "label": "Granica między zlewiskiem Morza Bałtyckiego a zlewiskiem Morza Czarnego … przez szczyty widoczne na fotografii.",
+          "options": [
+            "przebiega",
+            "nie przebiega"
+          ]
+        }
+      ],
+      "answer": [
+        1,
+        0,
+        1
+      ],
+      "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Między miejscem wykonania zdjęcia a Giewontem leży Kondracka Przełęcz. Długi Giewont ciągnie się od szczytu w kierunku wschodnim–północno-wschodnim (azymut 0°–90°). Granica zlewisk biegnie główną granią Tatr, a Giewont leży na północ od niej, w całości w zlewisku Bałtyku."
+    },
+    {
+      "id": "geo-pr-2025-05-z02",
+      "no": "2",
+      "points": 2,
+      "type": "num",
+      "topic": "geo-map",
+      "requirement": "P.I.3",
+      "materials": [
+        "mapa"
+      ],
+      "prompt": "Przyjmij, że długość trasy Kolei Goryczkowej (pole J3/4) na mapie szczegółowej Tatr (skala 1 : 55 000) wynosi 2,9 cm.\nOblicz długość trasy tej kolei na ortofotomapie wykonanej w skali 1 : 2 500.",
+      "answer": 63.8,
+      "tolerance": 0.06,
+      "unit": "cm",
+      "scoring": "2 pkt – poprawny sposób obliczenia i poprawny wynik; 1 pkt – poprawny sposób obliczenia.",
+      "explanation": "Długość w terenie: 2,9 cm · 55 000. Na ortofotomapie: 2,9 cm · 55 000 : 2 500 = 2,9 cm · 22 = 63,8 cm."
+    },
+    {
+      "id": "geo-pr-2025-05-z03",
+      "no": "3",
+      "points": 1,
+      "type": "tf",
+      "topic": "geo-gle",
+      "requirement": [
+        "R.XIII.3",
+        "P.I.3",
+        "P.VI.3"
+      ],
+      "materials": [
+        "pietra",
+        "mapa"
+      ],
+      "prompt": "W tabeli z wykazem pięter roślinnych literami X i Y oznaczono wybrane obszary w Polsce, wśród których są Bieszczady.\nOceń prawdziwość informacji.",
+      "statements": [
+        "W Bieszczadach górna granica lasu oddziela piętro regla górnego od piętra kosówki.",
+        "Na podstawie mapy szczegółowej Tatr można stwierdzić, że trasa Kolei Goryczkowej (pole J3/4) przecina górną granicę lasu."
+      ],
+      "answer": [
+        false,
+        true
+      ],
+      "scoring": "1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Bieszczady to obszar X: brak kosówki i regla górnego, nad reglem dolnym od razu połoniny (piętro halne). Kolej Goryczkowa zaczyna się w lesie i kończy powyżej jego granicy."
+    },
+    {
+      "id": "geo-pr-2025-05-z04.1",
+      "no": "4.1",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-ska",
+      "requirement": [
+        "R.V.1",
+        "R.V.3",
+        "P.I.3",
+        "P.V.4"
+      ],
+      "materials": [
+        "geologia",
+        "wycieczki",
+        "mapa"
+      ],
+      "prompt": "Na podstawie mapy geologicznej przedstaw jedną różnicę w budowie geologicznej między obszarem w polu D1 mapy szczegółowej a obszarem na północ od granicy Polski w polu B6, przecinanymi przez trasę wycieczki nr 1. Odnieś się do wieku skał występujących na tych obszarach.",
+      "answer": [
+        "W polu D1 występują młodsze skały niż w polu B6.",
+        "Skały trzonu krystalicznego w polu B6 są starsze niż skały osadowe w polu D1.",
+        "W polu B6 występują skały paleozoiczne, a w polu D1 – kenozoiczne (z oligocenu i eocenu)."
+      ],
+      "scoring": "1 pkt – poprawna różnica w budowie geologicznej obu obszarów."
+    },
+    {
+      "id": "geo-pr-2025-05-z04.2",
+      "no": "4.2",
+      "points": 1,
+      "type": "multi",
+      "topic": "geo-rze",
+      "requirement": [
+        "R.V.3",
+        "R.V.5",
+        "R.XIII.2",
+        "P.I.3",
+        "P.V.3"
+      ],
+      "materials": [
+        "geologia",
+        "wycieczki",
+        "mapa"
+      ],
+      "prompt": "Na mapie szczegółowej wzdłuż tras obu wycieczek przedstawiono formy krasowe.\nDokończ zdanie: Przez obszar charakteryzujący się występowaniem na mapie szczegółowej liczniejszych form krasu podziemnego przebiega trasa wycieczki oznaczonej…",
+      "items": [
+        {
+          "label": "Wycieczka",
+          "options": [
+            "A. numerem 1,",
+            "B. numerem 2,"
+          ]
+        },
+        {
+          "label": "…a do obecności tych form wzdłuż tras obu wycieczek przyczynia się występowanie skał",
+          "options": [
+            "1. okruchowych wieku mezozoicznego.",
+            "2. węglanowych wieku mezozoicznego.",
+            "3. węglanowych wieku kenozoicznego."
+          ]
+        }
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "scoring": "1 pkt – poprawna odpowiedź (A2).",
+      "explanation": "Wzdłuż trasy 1 (Dolina Kościeliska) jest dużo jaskiń. Kras rozwija się w skałach węglanowych – wapieniach i dolomitach z mezozoiku (trias, jura, kreda)."
+    },
+    {
+      "id": "geo-pr-2025-05-z05",
+      "no": "5",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-ska",
+      "requirement": [
+        "R.I.7",
+        "R.V.1",
+        "R.V.9",
+        "R.XIII.2"
+      ],
+      "materials": [
+        "przekroj"
+      ],
+      "prompt": "Skały paleozoiczne występujące na północno-zachodnim stoku Ciemniaka są starsze od skał, które pod nimi zalegają.\nWyjaśnij, dlaczego na północno-zachodnim stoku Ciemniaka skały paleozoiczne występują na skałach mezozoicznych. Odnieś się do przebiegu odpowiedniego procesu, o którym świadczy sytuacja przedstawiona na przekroju.",
+      "answer": [
+        "Procesy tektoniczne doprowadziły do oderwania skał paleozoicznych od podłoża i przemieszczenia ich z południa na północ.",
+        "Skały paleozoiczne zostały oderwane od trzonu krystalicznego i nasunięte na stok Ciemniaka (w wyniku ruchów fałdowych).",
+        "Skały paleozoiczne zostały odkłute od podłoża i przemieszczone na skutek nasuwania się płaszczowin."
+      ],
+      "scoring": "1 pkt – poprawne wyjaśnienie odnoszące się do przebiegu procesu. Nie uznaje się odpowiedzi odnoszących się wyłącznie do obecności fałdów (płaszczowin, nasunięć)."
+    },
+    {
+      "id": "geo-pr-2025-05-z06",
+      "no": "6",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-rze",
+      "requirement": [
+        "R.I.7",
+        "P.I.3",
+        "P.V.3"
+      ],
+      "materials": [
+        "lodowce"
+      ],
+      "prompt": "Wyjaśnij, dlaczego w sytuacji przedstawionej na rysunku dochodziło w plejstocenie do powstawania moren środkowych.",
+      "answer": [
+        "W miejscach, gdzie łączą się lodowce górskie, dochodzi do akumulacji materiału skalnego w postaci moreny środkowej.",
+        "Morena środkowa powstaje w wyniku połączenia się moren bocznych dwóch sąsiednich lodowców."
+      ],
+      "scoring": "1 pkt – poprawne wyjaśnienie odnoszące się do łączenia się lodowców."
+    },
+    {
+      "id": "geo-pr-2025-05-z07.1",
+      "no": "7.1",
+      "points": 1,
+      "type": "tf",
+      "topic": "geo-zie",
+      "requirement": [
+        "R.I.7",
+        "R.II.3",
+        "P.II.2"
+      ],
+      "materials": [
+        "ksiezyc"
+      ],
+      "prompt": "Rysunek przedstawia Ziemię i Księżyc oświetlone przez Słońce w wybranym momencie w dniu równonocy. A i B to punkty na Ziemi.\nOceń prawdziwość informacji.",
+      "statements": [
+        "W punkcie A, w momencie przedstawionym na rysunku, jest wschód Słońca.",
+        "Względem obserwatora znajdującego się w punkcie B Księżyc jest w pełni."
+      ],
+      "answer": [
+        true,
+        false
+      ],
+      "scoring": "1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Punkt A leży na granicy dnia i nocy po stronie, którą obrót Ziemi przenosi na stronę oświetloną – tam wschodzi Słońce. Księżyc leży między Ziemią a Słońcem, więc to nów, a nie pełnia."
+    },
+    {
+      "id": "geo-pr-2025-05-z07.2",
+      "no": "7.2",
+      "points": 1,
+      "type": "num",
+      "topic": "geo-zie",
+      "requirement": [
+        "R.II.2",
+        "P.II.2"
+      ],
+      "materials": [
+        "ksiezyc"
+      ],
+      "prompt": "W sytuacji przedstawionej na rysunku (dzień równonocy) Słońce góruje nad punktem B na wysokości 80°30′.\nOblicz szerokość geograficzną punktu B i wybierz półkulę.\n(Wpisz np. 12°15′ albo 12,25)",
+      "answer": 9.5,
+      "tolerance": 0.02,
+      "unit": "°",
+      "suffix": {
+        "label": "Półkula",
+        "options": [
+          "N",
+          "S"
+        ],
+        "answer": 1
+      },
+      "scoring": "1 pkt – poprawny sposób obliczenia i poprawne uzupełnienie zdania.",
+      "explanation": "W dniu równonocy h = 90° − φ, więc φ = 90° − 80°30′ = 9°30′. Na rysunku punkt B leży na półkuli południowej: 9°30′S."
+    },
+    {
+      "id": "geo-pr-2025-05-z08",
+      "no": "8",
+      "points": 1,
+      "type": "multi",
+      "topic": "geo-ska",
+      "requirement": [
+        "R.I.7",
+        "R.V.3",
+        "P.V.4"
+      ],
+      "materials": [
+        "skaly"
+      ],
+      "prompt": "Na fotografiach X i Y przedstawiono wybrane okruchowe skały osadowe.\nDokończ zdanie: Na fotografii oznaczonej literą Y przedstawiono…",
+      "items": [
+        {
+          "label": "Skała Y",
+          "options": [
+            "A. porfir,",
+            "B. zlepieniec,"
+          ]
+        },
+        {
+          "label": "…który powstaje ze skały przedstawionej na fotografii X na skutek procesu",
+          "options": [
+            "1. diagenezy.",
+            "2. metamorfizmu.",
+            "3. wietrzenia."
+          ]
+        }
+      ],
+      "answer": [
+        1,
+        0
+      ],
+      "scoring": "1 pkt – poprawna odpowiedź (B1).",
+      "explanation": "X to luźny żwir, Y to zlepieniec – ten sam materiał scementowany. Zamiana luźnego osadu w zwięzłą skałę to diageneza. Porfir jest skałą magmową."
+    },
+    {
+      "id": "geo-pr-2025-05-z09",
+      "no": "9",
+      "points": 2,
+      "type": "open",
+      "topic": "geo-ska",
+      "requirement": [
+        "R.I.7",
+        "R.V.8",
+        "P.V.1"
+      ],
+      "prompt": "Zachodnia krawędź Ameryki Południowej ma charakter aktywny tektonicznie, a wschodnia – pasywny. Na krawędzi aktywnej dochodzi m.in. do trzęsień ziemi, które mogą przyczyniać się do powstawania tsunami.\nPodaj trzy inne zjawiska lub procesy przyrodnicze, uwarunkowane tektoniką płyt, występujące u zachodnich wybrzeży Ameryki Południowej, a niewystępujące we wschodniej części kontynentu.",
+      "answer": [
+        "Zjawiska wulkaniczne.",
+        "Powstawanie gór.",
+        "Powstawanie rowu oceanicznego (tektonicznego).",
+        "Podsuwanie się oceanicznej płyty litosfery pod kontynentalną (subdukcja)."
+      ],
+      "scoring": "2 pkt – trzy poprawne zjawiska lub procesy; 1 pkt – dwa poprawne."
+    },
+    {
+      "id": "geo-pr-2025-05-z10.1",
+      "no": "10.1",
+      "points": 2,
+      "type": "open",
+      "topic": "geo-hyd",
+      "requirement": [
+        "R.I.7",
+        "R.IV.4",
+        "P.I.5",
+        "P.IV.4"
+      ],
+      "materials": [
+        "przeplywy"
+      ],
+      "prompt": "Indus jest rzeką o ustroju złożonym.\nPrzedstaw wspólne uwarunkowanie, które przyczynia się do wartości najwyższych przepływów Amu-darii i Indusu, oraz inne uwarunkowanie, które przyczynia się do wartości najwyższych przepływów tylko Indusu.",
+      "answer": [
+        "Wspólne: topnienie śniegów i lodowców górskich w źródłowych odcinkach każdej z rzek.",
+        "Tylko Indus: intensywne opady deszczu w okresie monsunu letniego."
+      ],
+      "scoring": "2 pkt – poprawne uwarunkowanie wspólne oraz inne poprawne uwarunkowanie dla Indusu; 1 pkt – jedno z nich."
+    },
+    {
+      "id": "geo-pr-2025-05-z10.2",
+      "no": "10.2",
+      "points": 1,
+      "type": "tf",
+      "topic": "geo-hyd",
+      "requirement": [
+        "R.I.7",
+        "P.IV.4"
+      ],
+      "materials": [
+        "przeplywy"
+      ],
+      "prompt": "Oceń prawdziwość informacji.",
+      "statements": [
+        "Ujścia obu rzek – Amu-darii i Indusu – są położone na obszarze bezodpływowym.",
+        "Gospodarcze wykorzystanie wód Amu-darii przyczyniło się do zmniejszenia powierzchni Jeziora Aralskiego."
+      ],
+      "answer": [
+        false,
+        true
+      ],
+      "scoring": "1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Indus uchodzi do Morza Arabskiego (ocean), tylko Amu-daria – do bezodpływowego Jeziora Aralskiego. Pobór wody do nawadniania bawełny osuszył Jezioro Aralskie."
+    },
+    {
+      "id": "geo-pr-2025-05-z11",
+      "no": "11",
+      "points": 2,
+      "type": "multi",
+      "topic": "geo-pol",
+      "requirement": [
+        "R.I.7",
+        "R.XIII.1",
+        "P.I.3",
+        "P.XIV.7"
+      ],
+      "materials": [
+        "rzeki"
+      ],
+      "prompt": "Obok każdego opisu wybierz nazwę rzeki spośród oznaczonych na mapie kolorem niebieskim.",
+      "items": [
+        {
+          "label": "Jest jedną z rzek wypływających z Wyżyny Krakowsko-Częstochowskiej. Na tej rzece utworzono zbiornik retencyjny m.in. w celu zaopatrywania Łodzi w wodę. Jej ujście jest położone na obszarze staroglacjalnym.",
+          "options": [
+            "Bug",
+            "Narew",
+            "Pilica",
+            "San",
+            "Warta"
+          ]
+        },
+        {
+          "label": "Źródła tej rzeki są położone poza granicami Polski. Jest rzeką nizinną, przecinającą wiele torfowisk. Krajobraz fragmentu jej doliny jest chroniony w parku narodowym. Jeden z jej dopływów jest rzeką od niej dłuższą.",
+          "options": [
+            "Bug",
+            "Narew",
+            "Pilica",
+            "San",
+            "Warta"
+          ]
+        },
+        {
+          "label": "Rzeka od źródeł często zmienia kierunek. Na niektórych odcinkach płynie pradolinami. Jej ujście jest położone na obszarze, który był objęty ostatnim zlodowaceniem. W pobliżu jej ujścia do rzeki głównej utworzono park narodowy.",
+          "options": [
+            "Bug",
+            "Narew",
+            "Pilica",
+            "San",
+            "Warta"
+          ]
+        }
+      ],
+      "answer": [
+        2,
+        1,
+        4
+      ],
+      "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Pilica – Zbiornik Sulejowski. Narew – źródła na Białorusi, Narwiański PN, dopływ Bug jest dłuższy od Narwi. Warta – kręty bieg pradolinami, ujście do Odry przy PN Ujście Warty."
+    },
+    {
+      "id": "geo-pr-2025-05-z12",
+      "no": "12",
+      "points": 3,
+      "type": "open",
+      "topic": "geo-sro",
+      "requirement": [
+        "R.I.7",
+        "P.I.3",
+        "P.XIII.2"
+      ],
+      "materials": [
+        "omo",
+        "omo-tekst"
+      ],
+      "prompt": "Duże inwestycje często mają pozytywny wpływ na gospodarkę państw, ale przewiduje się ich negatywne skutki dla środowiska w skali lokalnej.\nPrzedstaw dwa argumenty potwierdzające pozytywny wpływ inwestycji w dorzeczu Omo na gospodarkę Etiopii oraz po jednym argumencie potwierdzającym negatywny wpływ tej inwestycji na (a) środowisko przyrodnicze i (b) gospodarkę dorzecza Omo lub Jeziora Rudolfa. W każdym argumencie wykaż powiązanie przyczynowo-skutkowe.",
+      "answer": [
+        "Pozytywny: produkcja w elektrowni wodnej (taniej) energii elektrycznej zaspokoi potrzeby kraju lub da dochody z eksportu.",
+        "Pozytywny: nawadnianie upraw trzciny cukrowej zwiększy produkcję cukru na potrzeby kraju lub na eksport.",
+        "Pozytywny: woda dla upraw bawełny może przyczynić się do rozwoju przemysłu tekstylnego.",
+        "Negatywny – przyroda: mniejszy dopływ wody z Omo obniży poziom Jeziora Rudolfa i zwiększy jego zasolenie, co spowoduje wyginięcie części roślin lub zwierząt.",
+        "Negatywny – przyroda: intensywne nawożenie plantacji może zanieczyścić rzekę i jezioro.",
+        "Negatywny – gospodarka: ustanie wylewów użyźniających pola doprowadzi do upadku tradycyjnego rolnictwa.",
+        "Negatywny – gospodarka: zmniejszenie populacji ryb w Omo i Jeziorze Rudolfa ograniczy połowy."
+      ],
+      "scoring": "3 pkt – cztery poprawne argumenty z powiązaniami przyczynowo-skutkowymi; 2 pkt – trzy; 1 pkt – dwa takie argumenty albo cztery argumenty bez powiązań przyczynowo-skutkowych."
+    },
+    {
+      "id": "geo-pr-2025-05-z13.1",
+      "no": "13.1",
+      "points": 1,
+      "type": "multi",
+      "topic": "geo-kli",
+      "requirement": [
+        "R.I.7",
+        "R.III.6",
+        "R.III.7",
+        "P.I.5"
+      ],
+      "materials": [
+        "klimatogramy"
+      ],
+      "prompt": "Przyporządkuj klimatogram do współrzędnych stacji meteorologicznej.",
+      "items": [
+        {
+          "label": "11°N, 72°W",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "label": "33°S, 72°W",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ]
+        }
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "scoring": "1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "A: temperatura stale wysoka, opady głównie w drugiej połowie roku – stacja na półkuli północnej w strefie podrównikowej (11°N). B: najchłodniej i najwięcej opadów w czerwcu–sierpniu, czyli zimą półkuli południowej – klimat śródziemnomorski środkowego Chile (33°S). C to Rio de Janeiro."
+    },
+    {
+      "id": "geo-pr-2025-05-z13.2",
+      "no": "13.2",
+      "points": 1,
+      "type": "tf",
+      "topic": "geo-hyd",
+      "requirement": [
+        "R.I.7",
+        "P.IV.3"
+      ],
+      "prompt": "Oceń prawdziwość informacji o prądach morskich płynących wzdłuż wybrzeży Ameryki Południowej.",
+      "statements": [
+        "Prąd Brazylijski płynie w kierunku wysokich szerokości geograficznych położonych na półkuli południowej.",
+        "Prąd Brazylijski i prąd płynący w tych samych szerokościach geograficznych wzdłuż zachodniego wybrzeża Ameryki Południowej są prądami tego samego rodzaju pod względem warunków termicznych."
+      ],
+      "answer": [
+        true,
+        false
+      ],
+      "scoring": "1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Prąd Brazylijski to ciepły prąd płynący na południe. Wzdłuż zachodniego wybrzeża płynie zimny Prąd Peruwiański (Humboldta)."
+    },
+    {
+      "id": "geo-pr-2025-05-z13.3",
+      "no": "13.3",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-rze",
+      "requirement": [
+        "R.I.7",
+        "R.V.7"
+      ],
+      "materials": [
+        "rio"
+      ],
+      "prompt": "Akweny przedstawione na fotografii stanowią ograniczenie w zagospodarowaniu przestrzennym Rio de Janeiro.\nPrzedstaw dwa przyrodnicze uwarunkowania, które ograniczają zabudowę obszaru lądowego widocznego na fotografii, inne niż odnoszące się do wód powierzchniowych.",
+      "answer": [
+        "Obecność wzniesień terenu.",
+        "Znaczne deniwelacje terenu.",
+        "Zalesienie stoków.",
+        "Grawitacyjne ruchy masowe.",
+        "Płytkie występowanie wód podziemnych."
+      ],
+      "scoring": "1 pkt – dwa poprawne przyrodnicze ograniczenia, inne niż odnoszące się do wód powierzchniowych."
+    },
+    {
+      "id": "geo-pr-2025-05-z14",
+      "no": "14",
+      "points": 2,
+      "type": "open",
+      "topic": "geo-kli",
+      "requirement": [
+        "R.I.7",
+        "R.III.2",
+        "R.III.7",
+        "P.III.4"
+      ],
+      "materials": [
+        "synoptyczna"
+      ],
+      "prompt": "Front atmosferyczny, który znajdował się m.in. nad środkową Polską i krajami bałtyckimi, przyniósł tam zachmurzenie. W wyniku ruchów mas powietrza na tym froncie dochodziło m.in. do wypiętrzania się chmur takich jak Cumulonimbus.\nWyjaśnij, w jaki sposób na tego rodzaju froncie dochodzi do powstawania chmur rozbudowanych w pionie. Uwzględnij termikę i przemieszczanie się dwóch mas powietrza.",
+      "answer": [
+        "Chłodne (cięższe) powietrze wsuwa się pod zalegające wcześniej powietrze cieplejsze (rzadsze) i wypycha je do góry (wymuszona konwekcja). Ciepłe powietrze unosi się i ochładza, osiąga temperaturę punktu rosy, para wodna kondensuje i powstają chmury."
+      ],
+      "scoring": "2 pkt – wyjaśnienie uwzględniające termikę i przemieszczanie się dwóch mas powietrza; 1 pkt – tylko termika albo tylko przemieszczanie się mas (np. wypychanie jednej przez drugą)."
+    },
+    {
+      "id": "geo-pr-2025-05-z15",
+      "no": "15",
+      "points": 2,
+      "type": "open",
+      "topic": "geo-rze",
+      "requirement": [
+        "R.I.7",
+        "P.V.3"
+      ],
+      "materials": [
+        "formy"
+      ],
+      "prompt": "Podaj jedno podobieństwo i jedną różnicę w genezie wypukłych form terenu przedstawionych na fotografiach A i B.",
+      "answer": [
+        "Podobieństwo: czynnikiem rzeźbotwórczym jest wiatr (formy eoliczne); w powstawaniu obu bierze udział piasek; sprzyja im suchy klimat i uboga roślinność.",
+        "Różnica: wydmy (A) powstają w wyniku akumulacji (budującej działalności wiatru), a grzyb skalny (B) – w wyniku korazji (niszczącej działalności wiatru). Uznaje się też różną odporność warstw skalnych grzyba na niszczenie."
+      ],
+      "scoring": "2 pkt – poprawne podobieństwo oraz różnica; 1 pkt – jedno z nich."
+    },
+    {
+      "id": "geo-pr-2025-05-z16",
+      "no": "16",
+      "points": 1,
+      "type": "mc",
+      "topic": "geo-gle",
+      "requirement": [
+        "R.I.7",
+        "R.VI.1"
+      ],
+      "materials": [
+        "gleba"
+      ],
+      "prompt": "Zaznacz nazwę gleby, której profil przedstawiono na fotografii.",
+      "options": [
+        "mada",
+        "rędzina",
+        "gleba brunatna",
+        "gleba bielicowa"
+      ],
+      "answer": 3,
+      "scoring": "Część 1 z 2 zadania (za nazwę gleby 1 pkt).",
+      "explanation": "Pod cienką ciemną warstwą próchnicy widać jasny, wybielony poziom wymywania – cechę gleby bielicowej."
+    },
+    {
+      "id": "geo-pr-2025-05-z16-uz",
+      "no": "16",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-gle",
+      "requirement": [
+        "R.I.7",
+        "R.VI.1"
+      ],
+      "materials": [
+        "gleba"
+      ],
+      "prompt": "Gleba na fotografii to gleba bielicowa.\nWykaż, z czego wynika mała możliwość wykorzystania tej gleby pod uprawę buraka cukrowego. Odnieś się do odpowiedniej cechy widocznej na fotografii.",
+      "answer": [
+        "Z małej zawartości substancji organicznych w warstwie przypowierzchniowej (a burak cukrowy wymaga dużo próchnicy).",
+        "Z występowania poziomu bielicowania – wymywania związków organicznych przez wodę opadową.",
+        "Z obecności piasków o niskiej zdolności zatrzymywania wody (burak potrzebuje gleb dobrze magazynujących wodę)."
+      ],
+      "scoring": "Część 2 z 2 zadania: 1 pkt – poprawna odpowiedź odnosząca się do cechy gleby."
+    },
+    {
+      "id": "geo-pr-2025-05-z17",
+      "no": "17",
+      "points": 2,
+      "type": "multi",
+      "topic": "geo-pls",
+      "requirement": [
+        "R.I.7",
+        "R.XXIII.1",
+        "P.I.3",
+        "P.X.3"
+      ],
+      "materials": [
+        "kraje"
+      ],
+      "prompt": "Cztery z zaznaczonych krajów miały w 2022 roku PKB na osobę (wg PSN) poniżej 2500 USD. Obok każdego opisu wybierz taki kraj.",
+      "items": [
+        {
+          "label": "Warunki do życia w tym kraju, położonym w Afryce, są uznawane za jedne z najtrudniejszych na świecie z powodu suchego klimatu. Do klęsk głodu przyczyniają się też plagi szarańczy i wojna domowa, a niestabilna sytuacja polityczna zwiększa zagrożenie piractwem morskim.",
+          "options": [
+            "Afganistan",
+            "Arabia Saudyjska",
+            "Chile",
+            "DR Konga",
+            "Madagaskar",
+            "Namibia",
+            "Somalia"
+          ]
+        },
+        {
+          "label": "Do ubóstwa ludności w tym kraju, położonym poza Afryką, przyczyniła się długotrwała wojna. W strukturze PKB utrzymuje się wysoki udział rolnictwa nastawionego – ze względu na warunki przyrodnicze i wpływ islamu – na chów kóz i owiec.",
+          "options": [
+            "Afganistan",
+            "Arabia Saudyjska",
+            "Chile",
+            "DR Konga",
+            "Madagaskar",
+            "Namibia",
+            "Somalia"
+          ]
+        },
+        {
+          "label": "W tym kraju, przez który przebiega jeden ze zwrotników, uprawia się m.in. ryż, trzcinę cukrową, kawowiec i wanilię. Ubóstwo sprzyja gospodarowaniu szkodzącemu środowisku – szybkiemu wylesianiu i wyjałowieniu gleb.",
+          "options": [
+            "Afganistan",
+            "Arabia Saudyjska",
+            "Chile",
+            "DR Konga",
+            "Madagaskar",
+            "Namibia",
+            "Somalia"
+          ]
+        }
+      ],
+      "answer": [
+        6,
+        0,
+        4
+      ],
+      "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Somalia – Róg Afryki, susze i piractwo. Afganistan – wojna, pasterstwo kóz i owiec. Madagaskar – zwrotnik Koziorożca, wanilia, wylesianie."
+    },
+    {
+      "id": "geo-pr-2025-05-z18",
+      "no": "18",
+      "points": 2,
+      "type": "tf",
+      "topic": "geo-pol",
+      "requirement": [
+        "R.I.7",
+        "P.I.5",
+        "P.XV.2",
+        "R.XXI.1"
+      ],
+      "materials": [
+        "piramidy"
+      ],
+      "prompt": "Oceń prawdziwość informacji.",
+      "statements": [
+        "W 2011 roku współczynnik feminizacji w grupie ludności w wieku przedprodukcyjnym wynosił powyżej 100.",
+        "Liczebność roczników należących do powojennego wyżu kompensacyjnego była wyższa w 2021 roku niż w 2011 roku.",
+        "Liczba osób w wieku przedprodukcyjnym była większa w 2011 roku niż w 2021 roku."
+      ],
+      "answer": [
+        false,
+        false,
+        true
+      ],
+      "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Wśród dzieci jest więcej chłopców (rodzi się ich więcej), więc współczynnik feminizacji jest poniżej 100. Roczniki wyżu powojennego z upływem lat maleją (zgony). Grupa w wieku przedprodukcyjnym była liczniejsza w 2011 roku."
+    },
+    {
+      "id": "geo-pr-2025-05-z19",
+      "no": "19",
+      "points": 1,
+      "type": "mc",
+      "topic": "geo-lud",
+      "requirement": [
+        "R.I.7",
+        "R.XXI.1",
+        "R.XXI.2"
+      ],
+      "materials": [
+        "mediana"
+      ],
+      "prompt": "Wśród państw oznaczonych na wykresie numerami 1–4 są: Turcja, Etiopia, Japonia i Norwegia.\nKtóry kraj oznaczono numerem 4?",
+      "options": [
+        "Turcja",
+        "Etiopia",
+        "Japonia",
+        "Norwegia"
+      ],
+      "answer": 0,
+      "scoring": "1 pkt – poprawna odpowiedź.",
+      "explanation": "Kraj 4 ma niską medianę w 1980 roku (ok. 20 lat), która szybko rośnie (ok. 32 lata w 2020) – to kraj w trakcie przejścia demograficznego, Turcja. 1 – Etiopia (stale bardzo młoda), 3 – Japonia (najstarsza)."
+    },
+    {
+      "id": "geo-pr-2025-05-z20",
+      "no": "20",
+      "points": 2,
+      "type": "open",
+      "topic": "geo-pol",
+      "requirement": [
+        "R.I.7",
+        "R.XIV.3",
+        "R.XIV.4",
+        "P.I.3",
+        "P.X.5"
+      ],
+      "materials": [
+        "poznan"
+      ],
+      "prompt": "Uzasadnij trzema argumentami, że pozostawienie użytkowania terenu – takiego jak na planie z 1935 roku (las) – na obszarze oznaczonym literą X jest korzystne dla mieszkańców miasta.",
+      "answer": [
+        "Tereny leśne (zieleni, wokół zbiorników wodnych) są miejscem rekreacji mieszkańców.",
+        "Tereny leśne sprzyjają retencji wód.",
+        "W razie powodzi zalane zostaną tereny zieleni, a nie zabudowane.",
+        "Latem topoklimat terenów leśnych jest chłodniejszy niż terenów zabudowanych.",
+        "Las poprawia estetykę krajobrazu.",
+        "Las poprawia jakość powietrza (tlen, mniej zanieczyszczeń) i tłumi hałas.",
+        "Las i zbiorniki wodne sprzyjają bioróżnorodności. Uznaje się też edukację ekologiczną lub historyczną."
+      ],
+      "scoring": "2 pkt – trzy poprawne argumenty; 1 pkt – dwa poprawne argumenty."
+    },
+    {
+      "id": "geo-pr-2025-05-z21",
+      "no": "21",
+      "points": 1,
+      "type": "multi",
+      "topic": "geo-lud",
+      "requirement": [
+        "R.I.7",
+        "R.VIII.5",
+        "R.XV.6",
+        "R.XVI.5"
+      ],
+      "prompt": "W centrum Łodzi budynki pierwszej elektrowni miejskiej – czynnej do 2001 roku – zmodernizowano, ale zachowano ich wygląd i elementy instalacji przemysłowych. Obecnie stanowią przestrzeń dla artystów oraz instytucji organizujących imprezy kulturalno-edukacyjne dla mieszkańców i turystów.\nDokończ zdanie: W tekście opisano proces…",
+      "items": [
+        {
+          "label": "Proces",
+          "options": [
+            "A. industrializacji,",
+            "B. rewitalizacji,"
+          ]
+        },
+        {
+          "label": "…który polega na",
+          "options": [
+            "1. ożywieniu zdegradowanych obszarów miast i zmianie ich funkcji.",
+            "2. odbudowie i modernizacji przemysłu, z naciskiem na zaawansowane technologie.",
+            "3. lokalizowaniu przemysłu na obszarach położonych w centrach miast."
+          ]
+        }
+      ],
+      "answer": [
+        1,
+        0
+      ],
+      "scoring": "1 pkt – poprawna odpowiedź (B1).",
+      "explanation": "Dawna elektrownia (EC1) dostała nowe funkcje kulturalne – to rewitalizacja: ożywienie zdegradowanego obszaru i zmiana jego funkcji."
+    },
+    {
+      "id": "geo-pr-2025-05-z22",
+      "no": "22",
+      "points": 2,
+      "type": "multi",
+      "topic": "geo-lud",
+      "requirement": [
+        "R.I.7",
+        "P.VIII.1"
+      ],
+      "materials": [
+        "gestosc"
+      ],
+      "prompt": "Opisy gęstości zaludnienia w wybranych krajach Afryki:\nA. Do dużej gęstości zaludnienia na wybrzeżu przyczyniają się delta rzeki i bogate złoża ropy naftowej.\nB. Ograniczeniem dla gęstości zaludnienia na południe od stolicy są góry i obszary pustynne.\nC. Do dużej gęstości zaludnienia przyczynia się jedno z największych jezior Afryki.\nD. Zasoby węgla kamiennego, złota, diamentów i rud metali przyczyniają się do dużej gęstości zaludnienia w rejonach wydobycia.\nPrzyporządkuj każdemu krajowi właściwy opis.",
+      "items": [
+        {
+          "label": "Algieria",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "label": "Nigeria",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "label": "Republika Południowej Afryki",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "answer": [
+        1,
+        0,
+        3
+      ],
+      "scoring": "2 pkt – trzy poprawne przyporządkowania; 1 pkt – dwa poprawne.",
+      "explanation": "Algieria: na południe od Algieru Atlas i Sahara. Nigeria: delta Nigru i ropa naftowa. RPA: złoto i diamenty (Witwatersrand, Kimberley)."
+    },
+    {
+      "id": "geo-pr-2025-05-z23",
+      "no": "23",
+      "points": 2,
+      "type": "open",
+      "topic": "geo-gos",
+      "requirement": [
+        "R.I.7",
+        "R.X.1",
+        "P.I.5"
+      ],
+      "materials": [
+        "pszenica"
+      ],
+      "prompt": "Dlaczego spośród państw z tabeli Australię wyróżniają najmniejsze, a Belgię największe plony pszenicy? Przedstaw argument odnoszący się do uwarunkowania przyrodniczego (Australia) oraz argument odnoszący się do uwarunkowania pozaprzyrodniczego (Belgia).",
+      "answer": [
+        "Australia: duża część kraju ma deficyt wody / leży w suchym klimacie zwrotnikowym kontynentalnym z małymi opadami i silnym nasłonecznieniem (susze); niska żyzność gleb na obszarach pustynnych i półpustynnych.",
+        "Belgia: intensywne nawożenie; wysoka intensywność produkcji rolnej; wysoka mechanizacja."
+      ],
+      "scoring": "2 pkt – poprawne argumenty dla Australii i Belgii; 1 pkt – dla jednego z państw."
+    },
+    {
+      "id": "geo-pr-2025-05-z24.1",
+      "no": "24.1",
+      "points": 2,
+      "type": "multi",
+      "topic": "geo-pol",
+      "requirement": [
+        "R.I.7",
+        "R.XIX.1",
+        "P.I.3",
+        "P.XV.7"
+      ],
+      "materials": [
+        "rolnictwo-pl"
+      ],
+      "prompt": "Obok każdego opisu wybierz właściwe województwo.",
+      "items": [
+        {
+          "label": "Okres wegetacyjny jeden z najdłuższych w Polsce. Przeważają gleby brunatne i bielicowe, ale są też czarnoziemy. Mimo małej liczby pracujących w rolnictwie na 100 ha użytków rolnych plony zbóż należą do najwyższych w Polsce; przeważa produkcja roślinna.",
+          "options": [
+            "lubuskie",
+            "łódzkie",
+            "opolskie",
+            "świętokrzyskie"
+          ]
+        },
+        {
+          "label": "Okres wegetacyjny jeden z najdłuższych w Polsce. Przeważają gleby niskich klas bonitacyjnych. Mały udział użytków rolnych (duża lesistość), mała liczba pracujących w rolnictwie na 100 ha użytków rolnych i niski udział w krajowych zbiorach zbóż.",
+          "options": [
+            "lubuskie",
+            "łódzkie",
+            "opolskie",
+            "świętokrzyskie"
+          ]
+        }
+      ],
+      "answer": [
+        2,
+        0
+      ],
+      "scoring": "2 pkt – dwie poprawne odpowiedzi; 1 pkt – jedna poprawna.",
+      "explanation": "Opolskie – czarnoziemy koło Głubczyc, najwyższe plony zbóż. Lubuskie – najbardziej lesiste, słabe gleby piaszczyste."
+    },
+    {
+      "id": "geo-pr-2025-05-z24.2",
+      "no": "24.2",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-pol",
+      "requirement": [
+        "R.I.7",
+        "R.XIX.1",
+        "P.I.3",
+        "P.XV.7"
+      ],
+      "materials": [
+        "rolnictwo-pl"
+      ],
+      "prompt": "Przedstaw, z czego wynika różnica w wielkości plonów zbóż między województwem kujawsko-pomorskim a województwem podlaskim. Odnieś się do odpowiedniego uwarunkowania przyrodniczego.",
+      "answer": [
+        "W kujawsko-pomorskim wysokim plonom sprzyjają żyzne gleby (czarne ziemie).",
+        "W podlaskim duży udział gleb niskich klas (bielicowych, bagiennych) nie sprzyja wysokim plonom.",
+        "W kujawsko-pomorskim są lepsze warunki termiczne.",
+        "Podlaskie ma najkrótszy (poza górami) okres wegetacyjny w Polsce."
+      ],
+      "scoring": "1 pkt – poprawne wyjaśnienie odnoszące się do uwarunkowania przyrodniczego."
+    },
+    {
+      "id": "geo-pr-2025-05-z25.1",
+      "no": "25.1",
+      "points": 1,
+      "type": "mc",
+      "topic": "geo-gos",
+      "requirement": [
+        "R.X.1",
+        "P.I.3",
+        "P.X.1"
+      ],
+      "materials": [
+        "obszary"
+      ],
+      "prompt": "Które uwarunkowanie przyrodnicze jest charakterystyczne dla obszaru rolniczego oznaczonego numerem 1?",
+      "options": [
+        "Całoroczny okres wegetacyjny.",
+        "Średnia roczna amplituda temperatury powietrza <15 °C.",
+        "Obecność gleb strefowych o wysokich klasach bonitacyjnych.",
+        "Roczne sumy opadów atmosferycznych >1500 mm z przewagą w chłodnej porze roku."
+      ],
+      "answer": 2,
+      "scoring": "1 pkt – poprawna odpowiedź.",
+      "explanation": "Obszar 1 to Wielkie Równiny (prerie) w środkowej części USA – żyzne czarnoziemy. Klimat jest tam kontynentalny: duże roczne amplitudy temperatury i mroźna zima przerywająca okres wegetacyjny."
+    },
+    {
+      "id": "geo-pr-2025-05-z25.2",
+      "no": "25.2",
+      "points": 2,
+      "type": "multi",
+      "topic": "geo-gos",
+      "requirement": [
+        "R.I.7",
+        "R.X.1",
+        "P.I.3",
+        "P.X.1",
+        "P.X.3"
+      ],
+      "materials": [
+        "obszary"
+      ],
+      "prompt": "Przyporządkuj do każdego z obszarów 2 i 3 po dwie charakterystyczne dla nich rośliny uprawne.",
+      "items": [
+        {
+          "label": "Obszar 2 (wybierz dwie)",
+          "options": [
+            "bawełna",
+            "burak cukrowy",
+            "maniok",
+            "soja",
+            "trzcina cukrowa"
+          ],
+          "pick": 2
+        },
+        {
+          "label": "Obszar 3 (wybierz dwie)",
+          "options": [
+            "bawełna",
+            "burak cukrowy",
+            "maniok",
+            "soja",
+            "trzcina cukrowa"
+          ],
+          "pick": 2
+        }
+      ],
+      "answer": [
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "scoring": "2 pkt – dwa poprawne przyporządkowania w obu wierszach; 1 pkt – dwa poprawne w jednym wierszu albo po jednym poprawnym w obu.",
+      "explanation": "Obszar 2 – Środkowy Zachód USA (pas kukurydzy): soja i burak cukrowy. Obszar 3 – południe USA nad Zatoką Meksykańską: bawełna i trzcina cukrowa."
+    },
+    {
+      "id": "geo-pr-2025-05-z26",
+      "no": "26",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-gos",
+      "requirement": [
+        "R.I.7",
+        "R.XIX.2",
+        "P.I.5",
+        "P.IX.3"
+      ],
+      "materials": [
+        "eksport"
+      ],
+      "prompt": "Przedstaw, z czego wynika różnica w strukturze towarowej eksportu Brazylii i Korei Południowej. Odnieś się do innego uwarunkowania niż eksploatacja surowców mineralnych w tych krajach.",
+      "answer": [
+        "Korea Południowa ma większy udział przemysłu high-tech, więc eksportuje więcej produktów wysoko przetworzonych (maszyny, sprzęt transportowy, chemikalia).",
+        "Korea Południowa ma wyższy udział przemysłu w PKB.",
+        "W Brazylii występuje wysokotowarowe rolnictwo plantacyjne, którego produkty (np. kawa) idą na eksport.",
+        "Brazylia ma wyższy udział rolnictwa w PKB.",
+        "Korea Południowa to kraj nowo uprzemysłowiony, nastawiony na produkcję wyrobów przemysłowych na eksport."
+      ],
+      "scoring": "1 pkt – poprawne wyjaśnienie odnoszące się do innego uwarunkowania niż eksploatacja surowców mineralnych."
+    },
+    {
+      "id": "geo-pr-2025-05-z27.1",
+      "no": "27.1",
+      "points": 1,
+      "type": "tf",
+      "topic": "geo-pol",
+      "requirement": [
+        "R.V.1",
+        "R.V.2",
+        "P.XIV.2",
+        "P.XIV.3"
+      ],
+      "materials": [
+        "zrodla"
+      ],
+      "prompt": "Na przekroju geologicznym strzałką wskazano serię złożową z miedzią i srebrem – surowcami wydobywanymi i eksportowanymi przez Polskę.\nOceń prawdziwość informacji.",
+      "statements": [
+        "Na przekroju geologicznym przedstawiono fragment platformy wschodnioeuropejskiej.",
+        "Węgiel brunatny eksploatowany w miejscu przedstawionym na modelu terenu powstał później niż seria złożowa przedstawiona na przekroju."
+      ],
+      "answer": [
+        false,
+        true
+      ],
+      "scoring": "1 pkt – dwie poprawne odpowiedzi.",
+      "explanation": "Złoża miedzi (LGOM) leżą w obrębie monokliny przedsudeckiej, na platformie zachodnioeuropejskiej. Seria złożowa pochodzi z permu, a węgiel brunatny z neogenu – jest młodszy."
+    },
+    {
+      "id": "geo-pr-2025-05-z27.2",
+      "no": "27.2",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-sro",
+      "requirement": [
+        "R.I.7",
+        "R.XIV.3",
+        "R.XVI.1",
+        "P.I.3",
+        "P.XIII.4"
+      ],
+      "materials": [
+        "zrodla"
+      ],
+      "prompt": "Na modelu terenu formę wklęsłą oznaczono literą A (wyrobisko kopalni odkrywkowej).\nCzy dla współczesnej eksploatacji miedzi i srebra w Polsce są charakterystyczne antropogeniczne formy terenu o takiej genezie jak forma A? Odpowiedz tak albo nie i uzasadnij – odnieś się do metody wydobycia miedzi i srebra z serii złożowej wskazanej na przekroju.",
+      "answer": [
+        "Nie – rudy miedzi i srebro z serii złożowej są eksploatowane metodą głębinową (podziemną), a nie odkrywkową."
+      ],
+      "scoring": "1 pkt – odpowiedź „nie” z uzasadnieniem odnoszącym się do głębinowej metody eksploatacji."
+    },
+    {
+      "id": "geo-pr-2025-05-z27.3",
+      "no": "27.3",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-sro",
+      "requirement": [
+        "R.I.7",
+        "R.XIV.3",
+        "R.XVI.1",
+        "P.I.3",
+        "P.XIII.4"
+      ],
+      "materials": [
+        "zrodla"
+      ],
+      "prompt": "Na modelu terenu zwałowisko oznaczono literą B.\nPodaj dwa przykłady – stosowanych w Polsce – sposobów rekultywacji lub zagospodarowania form terenu takich jak forma B.",
+      "answer": [
+        "Zalesienie (pokrycie roślinnością).",
+        "Obszar rekreacyjny (wyciągi narciarskie, trasy rowerowe lub piesze, start paralotni).",
+        "Farma wiatrowa lub fotowoltaiczna."
+      ],
+      "scoring": "Klucz CKE: 1 pkt – podanie sposobu rekultywacji lub zagospodarowania (polecenie prosi o dwa przykłady)."
+    },
+    {
+      "id": "geo-pr-2025-05-z28.1",
+      "no": "28.1",
+      "points": 1,
+      "type": "open",
+      "topic": "geo-gos",
+      "requirement": [
+        "R.I.7",
+        "P.I.5",
+        "P.XI.5"
+      ],
+      "materials": [
+        "energia"
+      ],
+      "prompt": "Przedstaw dwie zmiany, wspólne dla Polski i Hiszpanii, które zaszły między 2000 a 2021 rokiem w strukturze produkcji energii elektrycznej tych krajów i są korzystne dla środowiska przyrodniczego.",
+      "answer": [
+        "Zmniejszenie udziału węgla kamiennego i brunatnego.",
+        "Wzrost udziału gazu ziemnego, relatywnie ekologicznego.",
+        "Zwiększenie udziału źródeł odnawialnych.",
+        "Zwiększenie udziału energii wiatru."
+      ],
+      "scoring": "1 pkt – dwie poprawne zmiany."
+    },
+    {
+      "id": "geo-pr-2025-05-z28.2",
+      "no": "28.2",
+      "points": 1,
+      "type": "multi",
+      "topic": "geo-gos",
+      "requirement": [
+        "R.I.7",
+        "P.I.5",
+        "P.XI.4"
+      ],
+      "materials": [
+        "energia"
+      ],
+      "prompt": "Dokończ zdanie: Strukturze produkcji energii elektrycznej w Szwajcarii, oznaczonej na wykresach…",
+      "items": [
+        {
+          "label": "Szwajcaria to",
+          "options": [
+            "A. literą X,",
+            "B. literą Y,"
+          ]
+        },
+        {
+          "label": "…sprzyja występowanie w tym kraju",
+          "options": [
+            "1. bogatych zasobów nieodnawialnych surowców energetycznych.",
+            "2. odpowiednich warunków przyrodniczych lub pozaprzyrodniczych dla hydroenergetyki i energetyki jądrowej.",
+            "3. korzystnych warunków klimatycznych dla energetyki wiatrowej."
+          ]
+        }
+      ],
+      "answer": [
+        1,
+        1
+      ],
+      "scoring": "1 pkt – poprawna odpowiedź (B2).",
+      "explanation": "Szwajcaria (Y) produkuje prąd prawie wyłącznie w elektrowniach wodnych (Alpy) i jądrowych; nie ma własnych paliw kopalnych."
+    },
+    {
+      "id": "geo-pr-2025-05-z29",
+      "no": "29",
+      "points": 1,
+      "type": "mc",
+      "topic": "geo-gos",
+      "requirement": [
+        "R.I.7",
+        "P.XII.2"
+      ],
+      "prompt": "Są ładunki przesyłane Kanałem Sueskim w kierunku Morza Śródziemnego i takie, które przesyła się w kierunku Morza Czerwonego.\nKtóra grupa towarów podczas wymiany handlowej Europy z innymi regionami świata jest przesyłana Kanałem Sueskim od strony Morza Śródziemnego w kierunku Morza Czerwonego?",
+      "options": [
+        "Rudy żelaza i boksyty z zagłębia Damodar.",
+        "Produkty high-tech z Singapuru i z Hongkongu.",
+        "Pszenica i kukurydza z portu w Konstancy, w Rumunii.",
+        "Ropa naftowa i skroplony gaz ziemny z państw nad Zatoką Perską."
+      ],
+      "answer": 2,
+      "scoring": "1 pkt – poprawna odpowiedź.",
+      "explanation": "Z Morza Śródziemnego w stronę Morza Czerwonego płyną towary z Europy do Azji i Afryki Wschodniej – np. zboże z Konstancy (Morze Czarne). Pozostałe ładunki płyną w przeciwną stronę, do Europy."
+    },
+    {
+      "id": "geo-pr-2025-05-z30",
+      "no": "30",
+      "points": 2,
+      "type": "open",
+      "topic": "geo-pol",
+      "requirement": [
+        "R.I.7",
+        "P.XV.10",
+        "P.I.3",
+        "P.I.5",
+        "P.XII.1",
+        "P.XII.3"
+      ],
+      "materials": [
+        "przewozy"
+      ],
+      "prompt": "Podaj przyczynę przyrodniczą i przyczynę gospodarczą niskiego udziału żeglugi śródlądowej w przewozach ładunków w Polsce.",
+      "answer": [
+        "Przyrodnicze: nieduża głębokość rzek; duże wahania poziomu wód w ciągu roku; niżówki; nieuregulowany bieg rzek; zlodzenie rzek.",
+        "Gospodarcze: konkurencja transportu samochodowego („od drzwi do drzwi”); wysokie koszty utrzymania szlaków rzecznych; długi czas przewozu; niski eksport węgla kamiennego."
+      ],
+      "scoring": "2 pkt – poprawna przyczyna przyrodnicza i gospodarcza; 1 pkt – jedna z nich."
+    },
+    {
+      "id": "geo-pr-2025-05-z31",
+      "no": "31",
+      "points": 2,
+      "type": "multi",
+      "topic": "geo-pls",
+      "requirement": [
+        "R.I.7",
+        "P.VII.1",
+        "P.VII.4",
+        "P.VII.5"
+      ],
+      "materials": [
+        "panstwa"
+      ],
+      "prompt": "Rozpoznaj trzy państwa zaznaczone na mapie na czerwono i uszereguj je według podanych kryteriów.\n(Na egzaminie nazwy państw trzeba wpisać samodzielnie; tutaj wybierasz je z listy.)",
+      "items": [
+        {
+          "label": "PKB na 1 mieszkańca (PSN, 2023) – wartość najniższa",
+          "options": [
+            "Indie",
+            "Japonia",
+            "Turcja"
+          ]
+        },
+        {
+          "label": "PKB na 1 mieszkańca – wartość środkowa",
+          "options": [
+            "Indie",
+            "Japonia",
+            "Turcja"
+          ]
+        },
+        {
+          "label": "PKB na 1 mieszkańca – wartość najwyższa",
+          "options": [
+            "Indie",
+            "Japonia",
+            "Turcja"
+          ]
+        },
+        {
+          "label": "Udział rolnictwa w PKB (2023) – najniższy",
+          "options": [
+            "Indie",
+            "Japonia",
+            "Turcja"
+          ]
+        },
+        {
+          "label": "Udział rolnictwa w PKB – środkowy",
+          "options": [
+            "Indie",
+            "Japonia",
+            "Turcja"
+          ]
+        },
+        {
+          "label": "Udział rolnictwa w PKB – najwyższy",
+          "options": [
+            "Indie",
+            "Japonia",
+            "Turcja"
+          ]
+        }
+      ],
+      "answer": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        0
+      ],
+      "scoring": "2 pkt – poprawne uszeregowanie według dwóch kryteriów; 1 pkt – według jednego kryterium.",
+      "explanation": "PKB na mieszkańca: Indie < Turcja < Japonia. Udział rolnictwa w PKB – odwrotnie: Japonia < Turcja < Indie."
+    }
+  ]
+}

@@ -5,6 +5,7 @@ every task is diffable, reviewable and works offline inside the app.
 
 ```
 content/
+  exams/index.json                                list of exam files the app loads
   exams/<subject>-<level>/<year>-<session>.json   one file per exam paper
   assets/<exam id>/<file>.webp                    cropped maps, charts, source texts
   scope/<subject>.json                            exam requirements, mapped to topics
@@ -50,7 +51,7 @@ tasks whose requirement is no longer in scope.
 | `subject`, `level` | subject id used by the app (`geo-pr`, `mat-pp`, ...) |
 | `formula` | `"2023"` (current format) or `"2015"` |
 | `source` | file names of the paper and the marking scheme in `raw/` |
-| `materials[]` | shared visuals/texts: `id`, `type` (`map`, `chart`, `table`, `image`, `text`), `file` or `text`, `caption` |
+| `materials[]` | shared visuals/texts: `id`, `type` (`map`, `chart`, `table`, `image`, `text`), `file` (path under `content/`) or `text`, `caption`, and `w`/`h` (image size in px, so the page does not jump while it loads) |
 | `tasks[]` | the questions, see below |
 
 ## One task
@@ -60,16 +61,30 @@ tasks whose requirement is no longer in scope.
 | `id` | `<exam id>-z<number>`, e.g. `geo-pr-2024-05-z03.1` |
 | `no` | task number as printed (`"3.1"`) |
 | `points` | max points from the marking scheme |
-| `type` | `mc`, `tf`, `match`, `num`, `text` (auto-graded) or `open` (graded against `scoring`) |
+| `type` | `mc`, `tf`, `match`, `num`, `text`, `multi` (auto-graded) or `open` (she compares her answer with the key and rates herself) |
 | `topic` | app topic id (`geo-kli`) — drives the progress map |
 | `requirement` | code (or list of codes) from `scope/<subject>.json`, e.g. `"P.I.3"` |
 | `materials` | ids of materials shown with the task |
 | `prompt` | task text |
 | `options` / `statements` / `pairs` | answer choices, depending on `type` |
-| `answer` | correct answer: index (`mc`), booleans (`tf`), number (`num`), accepted strings (`text`) |
-| `tolerance`, `unit` | for `num` |
+| `items` | `multi`: one choice per row, `{label, options, pick?}`. Covers CKE "uzupełnij zdania", "uzupełnij tabelę", "przyporządkuj", ordering, and "Dokończ zdanie: A/B + 1/2/3" (two rows) |
+| `answer` | correct answer: index (`mc`), booleans (`tf`), number (`num`), accepted strings (`text`), one index per row (`multi`; a list when `pick` > 1), model answers from the key (`open`) |
+| `tolerance`, `unit`, `suffix` | for `num`; `suffix` is an extra choice such as the hemisphere: `{label, options, answer}` |
+| `difficulty` | optional 1–3; default 3 for open tasks and tasks worth 3+ points, else 2 |
 | `explanation` | short "why" shown after answering |
 | `scoring` | marking-scheme text, for `open` tasks |
+
+A CKE task that mixes a closed and an open part (e.g. "choose the soil, then justify") is split
+into two tasks with the same `no`: the closed part auto-graded, the justification `open`.
+
+## Importing a paper
+
+1. Put the PDFs in `raw/exams/<subject>/` (git-ignored).
+2. Add crop boxes for its maps, photos and charts to `tools/crop_exam.py` and run
+   `python3 -I tools/crop_exam.py <exam id>` (writes `content/assets/<exam id>/`).
+3. Write `content/exams/<subject>/<year>-<session>.json` from the paper and the marking scheme
+   (`zasady`): answers, scoring and model answers come from the scheme, requirement codes too.
+4. Add the file to `content/exams/index.json`.
 
 Check everything with `node tools/validate.mjs`: it also checks every `topic` exists in the
 app and every `requirement` exists in the subject's scope file.

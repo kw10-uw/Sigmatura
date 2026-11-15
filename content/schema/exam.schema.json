@@ -33,9 +33,10 @@
           "id": { "type": "string" },
           "no": { "type": "string" },
           "points": { "type": "number" },
-          "type": { "enum": ["mc", "tf", "match", "num", "text", "open"] },
+          "type": { "enum": ["mc", "tf", "match", "num", "text", "multi", "open"] },
           "topic": { "type": "string" },
-          "requirement": { "type": "string" },
+          "requirement": { "oneOf": [{ "type": "string" }, { "type": "array", "items": { "type": "string" } }] },
+          "difficulty": { "enum": [1, 2, 3] },
           "materials": { "type": "array", "items": { "type": "string" } },
           "prompt": { "type": "string" },
           "options": { "type": "array", "items": { "type": "string" } },
@@ -44,6 +45,15 @@
           "answer": {},
           "tolerance": { "type": "number" },
           "unit": { "type": "string" },
+          "suffix": { "type": "object", "properties": { "label": { "type": "string" }, "options": { "type": "array", "items": { "type": "string" } }, "answer": { "type": "integer" } } },
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["label", "options"],
+              "properties": { "label": { "type": "string" }, "options": { "type": "array", "items": { "type": "string" } }, "pick": { "type": "integer", "minimum": 1 } }
+            }
+          },
           "explanation": { "type": "string" },
           "scoring": { "type": "string" }
         }
