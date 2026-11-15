@@ -62,7 +62,8 @@ for (const f of files) {
     const cs = codesFor(ex.subject);
     for (const rq of [].concat(t.requirement || [])) if (cs && !cs.has(rq)) err(f, `${w}: requirement "${rq}" is not in content/scope/${ex.subject}.json`);
     if (!t.prompt) err(f, `${w}: empty prompt`);
-    if (typeof t.points !== "number") err(f, `${w}: points must be a number`);
+    if (typeof t.points !== "number" && !ex.authored) err(f, `${w}: points must be a number`);
+    if (ex.authored && !t.explanation) err(f, `${w}: authored questions need an explanation`);
     for (const m of t.materials || []) if (!mats.has(m)) err(f, `${w}: unknown material "${m}"`);
     const a = t.answer;
     if (t.type === "mc" && !(Array.isArray(t.options) && Number.isInteger(a) && a >= 0 && a < t.options.length)) err(f, `${w}: mc needs options and answer index`);

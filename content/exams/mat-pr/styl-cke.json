@@ -1,0 +1,458 @@
+{
+ "id": "mat-pr-styl-cke",
+ "subject": "mat-pr",
+ "authored": true,
+ "note": "Pytania autorskie w stylu CKE, napisane dla wymagań z podstawy 2024, których nie sprawdzało żadne zaimportowane zadanie CKE. To nie są zadania z arkuszy.",
+ "tasks": [
+  {
+   "id": "mat-pr-s-iir1-1",
+   "requirement": "II.R1",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "num",
+   "prompt": "Reszta z dzielenia wielomianu W(x) = x³ − 2x² + 4x − 5 przez dwumian (x − 2) jest równa:",
+   "explanation": "Z twierdzenia o reszcie: R = W(2) = 8 − 8 + 8 − 5 = 3.",
+   "answer": 3,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iir1-2",
+   "requirement": "II.R1",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Iloraz z dzielenia wielomianu x³ − 1 przez (x − 1) jest równy:",
+   "explanation": "x³ − 1 = (x − 1)(x² + x + 1) – wzór na różnicę sześcianów.",
+   "options": [
+    "x² + x + 1",
+    "x² − x + 1",
+    "x² + 1",
+    "x² − 1"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iir2-1",
+   "requirement": "II.R2",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wielomian x³ − 3x² − 4x + 12 rozłożony na czynniki to:",
+   "explanation": "Grupowanie: x²(x − 3) − 4(x − 3) = (x − 3)(x² − 4) = (x − 3)(x − 2)(x + 2).",
+   "options": [
+    "(x − 3)(x − 2)(x + 2)",
+    "(x + 3)(x − 2)(x + 2)",
+    "(x − 3)(x² + 4)",
+    "(x − 3)²(x + 4)"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iir3-1",
+   "requirement": "II.R3",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który zbiór zawiera wszystkie możliwe pierwiastki całkowite wielomianu W(x) = x³ + 2x² − 5x − 6?",
+   "explanation": "Pierwiastki całkowite wielomianu o współczynnikach całkowitych są dzielnikami wyrazu wolnego (−6).",
+   "options": [
+    "{−6, −3, −2, −1, 1, 2, 3, 6}",
+    "{−5, −1, 1, 5}",
+    "{1, 2, 3}",
+    "{−2, −1, 0, 1, 2}"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iir3-2",
+   "requirement": "II.R3",
+   "topic": "matr-nie",
+   "difficulty": 3,
+   "type": "num",
+   "prompt": "Wielomian W(x) = x³ + 2x² − 5x − 6 ma trzy pierwiastki całkowite. Podaj największy z nich.",
+   "explanation": "W(−1) = −1 + 2 + 5 − 6 = 0, więc W(x) = (x + 1)(x² + x − 6) = (x + 1)(x + 3)(x − 2). Pierwiastki: −3, −1, 2.",
+   "answer": 2,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iir4-1",
+   "requirement": "II.R4",
+   "topic": "matr-kom",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość równości.",
+   "explanation": "C(n, k) = C(n, n − k); wzór Pascala: C(n, k) + C(n, k + 1) = C(n + 1, k + 1); C(n, 0) = 1.",
+   "statements": [
+    "C(7, 2) = C(7, 5)",
+    "C(5, 2) + C(5, 3) = C(6, 3)",
+    "C(6, 0) = 0"
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iir4-2",
+   "requirement": "II.R4",
+   "topic": "matr-kom",
+   "difficulty": 2,
+   "type": "num",
+   "prompt": "Oblicz sumę C(10, 3) + C(10, 4), korzystając z własności trójkąta Pascala.",
+   "explanation": "C(10, 3) + C(10, 4) = C(11, 4) = 330.",
+   "answer": 330,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iir6-1",
+   "requirement": "II.R6",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Dla x ≠ 0 i x ≠ −1 wyrażenie 1/x − 1/(x + 1) jest równe:",
+   "explanation": "Wspólny mianownik x(x + 1): (x + 1 − x)/(x(x + 1)) = 1/(x(x + 1)).",
+   "options": [
+    "1/(x(x + 1))",
+    "1/(x + 1)",
+    "−1/(x(x + 1))",
+    "2/(x(x + 1))"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iiir1-1",
+   "requirement": "III.R1",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Zbiorem rozwiązań nierówności (x − 1)(x + 2)(x − 4) > 0 jest:",
+   "explanation": "Pierwiastki −2, 1, 4; współczynnik przy x³ dodatni – wykres przychodzi z dołu: ujemny dla x < −2, dodatni na (−2, 1), ujemny na (1, 4), dodatni dla x > 4.",
+   "options": [
+    "(−2, 1) ∪ (4, +∞)",
+    "(−∞, −2) ∪ (1, 4)",
+    "(1, 4)",
+    "(−2, 4)"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iiir1-2",
+   "requirement": "III.R1",
+   "topic": "matr-nie",
+   "difficulty": 1,
+   "type": "num",
+   "prompt": "Ile rozwiązań ma równanie x³ − 4x = 0?",
+   "explanation": "x(x² − 4) = x(x − 2)(x + 2) = 0, więc x ∈ {−2, 0, 2}.",
+   "answer": 3,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iiir2-1",
+   "requirement": "III.R2",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Zbiorem rozwiązań nierówności (x − 3)/(x + 1) ≤ 0 jest:",
+   "explanation": "Iloraz ≤ 0 ⇔ (x − 3)(x + 1) ≤ 0 i x ≠ −1, więc x ∈ (−1, 3].",
+   "options": [
+    "(−1, 3]",
+    "[−1, 3]",
+    "(−∞, −1) ∪ [3, +∞)",
+    "(−1, 3)"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iiir6-1",
+   "requirement": "III.R6",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Równanie x⁴ − 5x² + 4 = 0 ma rozwiązania:",
+   "explanation": "Podstawienie t = x² ≥ 0: t² − 5t + 4 = 0, t = 1 lub t = 4, więc x = ±1 lub x = ±2.",
+   "options": [
+    "−2, −1, 1, 2",
+    "1, 4",
+    "−4, −1, 1, 4",
+    "1, 2"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-iiir7-1",
+   "requirement": "III.R7",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "num",
+   "prompt": "Rozwiąż równanie (x² − 9)/(x + 3) = 0. Podaj rozwiązanie.",
+   "explanation": "Licznik = 0 dla x = ±3, ale x = −3 zeruje mianownik. Jedyne rozwiązanie: x = 3.",
+   "answer": 3,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-ivr1-1",
+   "requirement": "IV.R1",
+   "topic": "matr-nie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Układ równań y = x² i y = x + 2 ma rozwiązania:",
+   "explanation": "x² = x + 2 ⇔ x² − x − 2 = 0 ⇔ x = −1 lub x = 2; y = x + 2 daje 1 i 4.",
+   "options": [
+    "(−1, 1) i (2, 4)",
+    "(1, 1) i (−2, 4)",
+    "(−1, 1) i (−2, 4)",
+    "brak rozwiązań"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-vr1-1",
+   "requirement": "V.R1",
+   "topic": "matr-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wykres funkcji y = f(−x) powstaje z wykresu y = f(x) przez:",
+   "explanation": "Punkt (a, b) przechodzi na (−a, b) – to odbicie względem osi OY. y = −f(x) to odbicie względem OX.",
+   "options": [
+    "symetrię względem osi OY",
+    "symetrię względem osi OX",
+    "symetrię względem początku układu",
+    "przesunięcie o wektor [−1, 0]"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-vr1-2",
+   "requirement": "V.R1",
+   "topic": "matr-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Funkcja f ma miejsce zerowe 3. Miejscem zerowym funkcji g(x) = f(−x) jest:",
+   "explanation": "g(−3) = f(3) = 0.",
+   "options": [
+    "−3",
+    "3",
+    "0",
+    "1/3"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-vr2-1",
+   "requirement": "V.R2",
+   "topic": "matr-fun",
+   "difficulty": 2,
+   "type": "num",
+   "prompt": "Dane są f(x) = 2x + 1 i g(x) = x². Oblicz (f ∘ g)(3) = f(g(3)).",
+   "explanation": "g(3) = 9, f(9) = 2·9 + 1 = 19.",
+   "answer": 19,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-vr2-2",
+   "requirement": "V.R2",
+   "topic": "matr-fun",
+   "difficulty": 2,
+   "type": "num",
+   "prompt": "Dane są f(x) = 2x + 1 i g(x) = x². Oblicz (g ∘ f)(3) = g(f(3)).",
+   "explanation": "f(3) = 7, g(7) = 49. Złożenie nie jest przemienne.",
+   "answer": 49,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-vr3-1",
+   "requirement": "V.R3",
+   "topic": "matr-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Aby wykazać, że funkcja f(x) = (x − 1)/(x + 2) jest rosnąca w przedziale (−2, +∞), wystarczy pokazać, że dla x₁ < x₂ z tego przedziału:",
+   "explanation": "Funkcja rosnąca: większy argument → większa wartość. Tu f(x₂) − f(x₁) = 3(x₂ − x₁)/((x₁ + 2)(x₂ + 2)) > 0.",
+   "options": [
+    "f(x₂) − f(x₁) > 0",
+    "f(x₂) − f(x₁) < 0",
+    "f(x₁) = f(x₂)",
+    "f(x₁) · f(x₂) > 0"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viir1-1",
+   "requirement": "VII.R1",
+   "topic": "matr-try",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Kąt 135° wyrażony w radianach to:",
+   "explanation": "135° · π/180° = 3π/4.",
+   "options": [
+    "3π/4",
+    "2π/3",
+    "5π/6",
+    "π/4"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viir1-2",
+   "requirement": "VII.R1",
+   "topic": "matr-try",
+   "difficulty": 1,
+   "type": "num",
+   "prompt": "Kąt 5π/6 radianów wyrażony w stopniach ma miarę:",
+   "explanation": "5π/6 · 180°/π = 150°.",
+   "answer": 150,
+   "unit": "°",
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viir2-1",
+   "requirement": "VII.R2",
+   "topic": "matr-try",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Zbiorem wartości funkcji f(x) = 3sin x jest:",
+   "explanation": "sin x ∈ [−1, 1], więc 3sin x ∈ [−3, 3].",
+   "options": [
+    "[−3, 3]",
+    "[−1, 1]",
+    "[0, 3]",
+    "ℝ"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viir3-1",
+   "requirement": "VII.R3",
+   "topic": "matr-try",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Okres podstawowy funkcji f(x) = sin 2x jest równy:",
+   "explanation": "Okres funkcji sin(kx) to 2π/|k| = 2π/2 = π.",
+   "options": [
+    "π",
+    "2π",
+    "π/2",
+    "4π"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viir3-2",
+   "requirement": "VII.R3",
+   "topic": "matr-try",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wartość sin(780°) jest równa:",
+   "explanation": "780° = 2·360° + 60°, więc sin 780° = sin 60° = √3/2.",
+   "options": [
+    "√3/2",
+    "1/2",
+    "−√3/2",
+    "0"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viir4-1",
+   "requirement": "VII.R4",
+   "topic": "matr-try",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wartość cos 150° jest równa:",
+   "explanation": "cos(180° − 30°) = −cos 30° = −√3/2.",
+   "options": [
+    "−√3/2",
+    "√3/2",
+    "−1/2",
+    "1/2"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viir4-2",
+   "requirement": "VII.R4",
+   "topic": "matr-try",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wyrażenie sin(π − α) jest równe:",
+   "explanation": "Wzór redukcyjny: sin(π − α) = sin α.",
+   "options": [
+    "sin α",
+    "−sin α",
+    "cos α",
+    "−cos α"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-viiir2-1",
+   "requirement": "VIII.R2",
+   "topic": "matr-pla",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Ramiona kąta przecięto prostymi k i l. Na jednym ramieniu odcinki od wierzchołka mają długości 4 i 6, a na drugim – odpowiednio 6 i 9. Oceń prawdziwość informacji.",
+   "explanation": "Twierdzenie odwrotne do twierdzenia Talesa: proste są równoległe, gdy 4/6 = 6/9. Dla 6 i 8: 4/6 ≠ 6/8.",
+   "statements": [
+    "Proste k i l są równoległe.",
+    "Gdyby na drugim ramieniu odcinki miały długości 6 i 8, proste byłyby równoległe."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-xr1-1",
+   "requirement": "X.R1",
+   "topic": "matr-ste",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Prosta l jest prostopadła do płaszczyzny π. Wynika z tego, że prosta l jest prostopadła do:",
+   "explanation": "Z definicji prosta prostopadła do płaszczyzny jest prostopadła do wszystkich prostych tej płaszczyzny.",
+   "options": [
+    "każdej prostej leżącej w płaszczyźnie π",
+    "tylko jednej prostej w płaszczyźnie π",
+    "żadnej prostej w płaszczyźnie π",
+    "tylko prostych równoległych do l"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pr-s-xiiir2-1",
+   "requirement": "XIII.R2",
+   "topic": "matr-gra",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Funkcja f(x) = x³ + x − 1 jest ciągła i f(0) = −1, f(1) = 1. Na mocy własności Darboux:",
+   "explanation": "Funkcja ciągła, która na końcach przedziału ma wartości przeciwnych znaków, przyjmuje w nim wartość 0.",
+   "options": [
+    "f ma co najmniej jedno miejsce zerowe w przedziale (0, 1)",
+    "f nie ma miejsc zerowych w (0, 1)",
+    "f ma dokładnie dwa miejsca zerowe w (0, 1)",
+    "f(0,5) = 0"
+   ],
+   "answer": 0,
+   "no": "–"
+  }
+ ]
+}

@@ -1,0 +1,2030 @@
+{
+ "id": "geo-pr-styl-cke",
+ "subject": "geo-pr",
+ "authored": true,
+ "note": "Pytania autorskie w stylu CKE, napisane dla wymagań z podstawy 2024, których nie sprawdzało żadne zaimportowane zadanie CKE. To nie są zadania z arkuszy.",
+ "tasks": [
+  {
+   "id": "geo-pr-s-pi1-1",
+   "requirement": "P.I.1",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które źródło informacji geograficznej jest źródłem wtórnym (opracowanym na podstawie innych danych)?",
+   "explanation": "Rocznik statystyczny zestawia dane zebrane wcześniej przez innych – to źródło wtórne. Pomiar, wywiad i obserwacja to źródła pierwotne.",
+   "options": [
+    "Rocznik statystyczny GUS",
+    "Pomiar temperatury wykonany na stacji meteorologicznej",
+    "Wywiad z mieszkańcem gminy",
+    "Obserwacja przepływu rzeki w terenie"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pi2-1",
+   "requirement": "P.I.2",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Przyporządkuj zjawisko do metody kartograficznej, którą najlepiej je przedstawić na mapie.",
+   "explanation": "Kartogram – wartości względne (np. na km²) w jednostkach administracyjnych; kartodiagram – diagramy wartości bezwzględnych; izolinie – zjawiska ciągłe; sygnatury – obiekty punktowe.",
+   "items": [
+    {
+     "label": "Gęstość zaludnienia w powiatach",
+     "options": [
+      "kartogram",
+      "kartodiagram",
+      "izolinie",
+      "metoda sygnaturowa"
+     ]
+    },
+    {
+     "label": "Wielkość produkcji zbóż w województwach (wykresy słupkowe na mapie)",
+     "options": [
+      "kartogram",
+      "kartodiagram",
+      "izolinie",
+      "metoda sygnaturowa"
+     ]
+    },
+    {
+     "label": "Rozkład średniej rocznej temperatury powietrza",
+     "options": [
+      "kartogram",
+      "kartodiagram",
+      "izolinie",
+      "metoda sygnaturowa"
+     ]
+    },
+    {
+     "label": "Rozmieszczenie elektrowni jądrowych w Europie",
+     "options": [
+      "kartogram",
+      "kartodiagram",
+      "izolinie",
+      "metoda sygnaturowa"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pi4-1",
+   "requirement": "P.I.4",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń, czy podane informacje można uzyskać bezpośrednio podczas obserwacji i pomiarów w terenie.",
+   "explanation": "Wiatr i szerokość koryta zmierzysz w terenie. Średnia z wielolecia wymaga danych z wielu lat i stacji – to opracowanie statystyczne.",
+   "statements": [
+    "Kierunek i prędkość wiatru w danej chwili.",
+    "Średnia roczna suma opadów w Polsce z wielolecia.",
+    "Szerokość koryta rzeki w wybranym miejscu."
+   ],
+   "answer": [
+    true,
+    false,
+    true
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pi6-1",
+   "requirement": "P.I.6",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Do czego zdjęcia satelitarne są szczególnie przydatne?",
+   "explanation": "Satelity obrazują duże obszary regularnie, więc łatwo porównać zasięg lasów, lodowców czy powodzi w czasie.",
+   "options": [
+    "Do śledzenia zmian zasięgu lasów deszczowych w kolejnych latach",
+    "Do określenia składu chemicznego wody w studni",
+    "Do pomiaru temperatury gleby na głębokości 1 m",
+    "Do ustalenia liczby mieszkańców jednego budynku"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pi7-1",
+   "requirement": "P.I.7",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Odbiornik GPS pokazuje 50°03′N, 19°56′E. Co oznacza ten zapis?",
+   "explanation": "N – szerokość północna, E – długość wschodnia. To okolice Krakowa.",
+   "options": [
+    "Punkt leży na półkuli północnej i wschodniej",
+    "Punkt leży na półkuli północnej i zachodniej",
+    "Punkt leży na półkuli południowej i wschodniej",
+    "Punkt leży na równiku"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pi8-1",
+   "requirement": "P.I.8",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zadanie jest typowym przykładem analizy z użyciem narzędzi GIS?",
+   "explanation": "GIS łączy warstwy danych przestrzennych i pozwala je analizować razem, np. wskazać budynki w strefie zalewowej.",
+   "options": [
+    "Nałożenie warstwy zasięgu powodzi na warstwę zabudowy, aby wskazać zagrożone budynki",
+    "Odczytanie godziny wschodu Słońca z kalendarza",
+    "Narysowanie odręcznego szkicu okolicy szkoły",
+    "Zważenie próbki gleby"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-ri1-1",
+   "requirement": "R.I.1",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która metoda badań geograficznych jest metodą jakościową?",
+   "explanation": "Metody jakościowe opisują opinie, motywy, doświadczenia (wywiad pogłębiony). Pozostałe dają liczby – to metody ilościowe.",
+   "options": [
+    "Wywiad pogłębiony z mieszkańcami o ocenie ich dzielnicy",
+    "Obliczenie średniego dobowego natężenia ruchu",
+    "Pomiar przepływu rzeki",
+    "Policzenie budynków na planie miasta"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-ri2-1",
+   "requirement": "R.I.2",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o tworzeniu ankiety.",
+   "explanation": "Pytania sugerujące zniekształcają wyniki. W pytaniu zamkniętym wybiera się z gotowych odpowiedzi. Pilotaż wychwytuje niejasne pytania.",
+   "statements": [
+    "Pytanie „Czy nie uważasz, że nowe centrum handlowe szkodzi miastu?” jest pytaniem sugerującym odpowiedź.",
+    "W pytaniu zamkniętym respondent sam formułuje odpowiedź.",
+    "Przed właściwym badaniem warto sprawdzić ankietę na małej grupie osób (pilotaż)."
+   ],
+   "answer": [
+    true,
+    false,
+    true
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-ri3-1",
+   "requirement": "R.I.3",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Udział lasów w powierzchni gmin przedstawiono, zabarwiając gminy tym intensywniej, im wyższy jest wskaźnik. To metoda:",
+   "explanation": "Kartogram przedstawia wartości względne (%, na km²) w granicach jednostek odniesienia za pomocą natężenia barwy.",
+   "options": [
+    "kartogramu",
+    "kartodiagramu",
+    "zasięgów",
+    "izolinii"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-ri6-1",
+   "requirement": "R.I.6",
+   "topic": "geo-map",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Na mapie topograficznej w skali 1:25 000 odległość między dwoma punktami wynosi 6 cm. Ile czasu zajmie przejście tej trasy po płaskim terenie z prędkością 4 km/h?",
+   "explanation": "6 cm × 250 m = 1,5 km; 1,5 km : 4 km/h = 0,375 h = 22,5 min.",
+   "options": [
+    "22,5 minuty",
+    "15 minut",
+    "36 minut",
+    "1,5 godziny"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pii5-1",
+   "requirement": "P.II.5",
+   "topic": "geo-zie",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który gwiazdozbiór nieba północnego zawiera Gwiazdę Polarną?",
+   "explanation": "Gwiazda Polarna to najjaśniejsza gwiazda Małej Niedźwiedzicy. Wielki Wóz (Wielka Niedźwiedzica) pomaga ją odnaleźć.",
+   "options": [
+    "Mała Niedźwiedzica",
+    "Wielka Niedźwiedzica",
+    "Kasjopeja",
+    "Orion"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rii1-1",
+   "requirement": "R.II.1",
+   "topic": "geo-zie",
+   "difficulty": 2,
+   "type": "num",
+   "prompt": "Oblicz wysokość górowania Słońca 22 grudnia na szerokości 50°N.",
+   "explanation": "h = 90° − φ − 23°27′ = 90° − 50° − 23°27′ = 16°33′.",
+   "answer": 16.55,
+   "unit": "°",
+   "tolerance": 0.06,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rii1-2",
+   "requirement": "R.II.1",
+   "topic": "geo-zie",
+   "difficulty": 1,
+   "type": "num",
+   "prompt": "Oblicz wysokość górowania Słońca 21 marca na szerokości 20°S.",
+   "explanation": "W dniu równonocy h = 90° − φ = 90° − 20° = 70°.",
+   "answer": 70,
+   "unit": "°",
+   "tolerance": 0.06,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-piii2-1",
+   "requirement": "P.III.2",
+   "topic": "geo-kli",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o rozkładzie temperatury i ciśnienia na Ziemi.",
+   "explanation": "Silnie nagrzane powietrze na równiku unosi się (niż), opada ok. 30° (wyże zwrotnikowe). Temperatura maleje ku biegunom.",
+   "statements": [
+    "Nad równikiem występuje pas obniżonego ciśnienia.",
+    "Wyże zwrotnikowe powstają w strefie ok. 30° szerokości geograficznej.",
+    "Średnia roczna temperatura powietrza rośnie od równika w kierunku biegunów."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-piii5-1",
+   "requirement": "P.III.5",
+   "topic": "geo-kli",
+   "difficulty": 2,
+   "type": "match",
+   "prompt": "Przyporządkuj typ klimatu do jego cechy.",
+   "explanation": "Klimaty różnią się przebiegiem temperatury i opadów w roku – to klucz do rozpoznawania ich na klimatogramach.",
+   "pairs": [
+    [
+     "równikowy wilgotny",
+     "wysoka temperatura i obfite opady przez cały rok"
+    ],
+    [
+     "zwrotnikowy suchy",
+     "bardzo małe opady i duże dobowe amplitudy temperatury"
+    ],
+    [
+     "śródziemnomorski",
+     "suche gorące lato i łagodna wilgotna zima"
+    ],
+    [
+     "umiarkowany chłodny kontynentalny",
+     "mroźna długa zima i duża roczna amplituda temperatury"
+    ]
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-piii6-1",
+   "requirement": "P.III.6",
+   "topic": "geo-kli",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o współczesnych zmianach klimatu.",
+   "explanation": "Ocieplenie skraca zaleganie śniegu w Polsce. Poziom morza rośnie przez topnienie lodowców i rozszerzalność cieplną wody.",
+   "statements": [
+    "Główną przyczyną współczesnego ocieplenia jest wzrost stężenia gazów cieplarnianych, m.in. CO₂ z paliw kopalnych.",
+    "Skutkiem ocieplenia jest podnoszenie się poziomu oceanu światowego.",
+    "W Polsce ocieplenie klimatu powoduje wydłużanie się okresu zalegania pokrywy śnieżnej."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-riii1-1",
+   "requirement": "R.III.1",
+   "topic": "geo-kli",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "W której warstwie atmosfery zachodzi większość zjawisk pogodowych (chmury, opady, burze)?",
+   "explanation": "Troposfera zawiera prawie całą parę wodną atmosfery, a temperatura maleje w niej z wysokością – sprzyja to konwekcji i powstawaniu chmur.",
+   "options": [
+    "troposferze",
+    "stratosferze",
+    "mezosferze",
+    "termosferze"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-riii3-1",
+   "requirement": "R.III.3",
+   "topic": "geo-kli",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Przyporządkuj wiatr do jego rodzaju.",
+   "explanation": "Pasaty wieją cały rok od wyżów zwrotnikowych ku równikowi. Monsuny zmieniają kierunek sezonowo. Halny i bryza obejmują małe obszary.",
+   "items": [
+    {
+     "label": "pasaty",
+     "options": [
+      "stały",
+      "okresowy",
+      "lokalny"
+     ]
+    },
+    {
+     "label": "monsuny",
+     "options": [
+      "stały",
+      "okresowy",
+      "lokalny"
+     ]
+    },
+    {
+     "label": "halny (fen)",
+     "options": [
+      "stały",
+      "okresowy",
+      "lokalny"
+     ]
+    },
+    {
+     "label": "bryza morska",
+     "options": [
+      "stały",
+      "okresowy",
+      "lokalny"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    2
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-riii4-1",
+   "requirement": "R.III.4",
+   "topic": "geo-kli",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Co jest główną przyczyną powstania klimatu astrefowego – górskiego?",
+   "explanation": "Temperatura spada średnio o ok. 0,6°C na 100 m, więc w górach klimat zmienia się piętrowo, niezależnie od strefy.",
+   "options": [
+    "Spadek temperatury powietrza wraz z wysokością",
+    "Bliskość ciepłych prądów morskich",
+    "Położenie w strefie wyżów zwrotnikowych",
+    "Duża odległość od równika"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-riii5-1",
+   "requirement": "R.III.5",
+   "topic": "geo-kli",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o klimacie Polski.",
+   "explanation": "Latem dominują opady konwekcyjne. Na wschodzie klimat jest bardziej kontynentalny. Najcieplej jest zwykle w lipcu.",
+   "statements": [
+    "Najwyższe miesięczne sumy opadów występują w Polsce zwykle latem (VI–VIII).",
+    "Roczna amplituda temperatury powietrza rośnie w Polsce z zachodu na wschód.",
+    "Najcieplejszym miesiącem na nizinach Polski jest zazwyczaj czerwiec."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-piv1-1",
+   "requirement": "P.IV.1",
+   "topic": "geo-hyd",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Ile w przybliżeniu wynosi udział wód słodkich w ogólnej ilości wody na Ziemi?",
+   "explanation": "Ok. 97,5% wody to wody słone mórz i oceanów. Z 2,5% wód słodkich większość jest uwięziona w lodowcach.",
+   "options": [
+    "ok. 2,5%",
+    "ok. 25%",
+    "ok. 50%",
+    "ok. 97%"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-piv2-1",
+   "requirement": "P.IV.2",
+   "topic": "geo-hyd",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o wodach morskich.",
+   "explanation": "Bałtyk ma małe zasolenie (ok. 7‰) – dużo wody słodkiej z rzek, mała wymiana z oceanem. Morze Czerwone ma ok. 40‰.",
+   "statements": [
+    "Średnie zasolenie wód oceanicznych wynosi ok. 35‰.",
+    "Zasolenie Bałtyku jest wyższe od średniego zasolenia oceanów.",
+    "Duże parowanie i małe opady sprzyjają wysokiemu zasoleniu (np. Morze Czerwone)."
+   ],
+   "answer": [
+    true,
+    false,
+    true
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-piv5-1",
+   "requirement": "P.IV.5",
+   "topic": "geo-hyd",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który warunek jest konieczny do powstania lodowca?",
+   "explanation": "Lodowiec tworzy się powyżej granicy wiecznego śniegu, gdzie śnieg się gromadzi, ulega przemianie w firn i lód lodowcowy.",
+   "options": [
+    "Ilość śniegu spadającego w roku przewyższa ilość śniegu, który topnieje i paruje",
+    "Średnia roczna temperatura powyżej 0°C",
+    "Brak opadów atmosferycznych",
+    "Położenie na nizinie w pobliżu morza"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-piv6-1",
+   "requirement": "P.IV.6",
+   "topic": "geo-hyd",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń skutki zanikania pokrywy lodowej w obszarach okołobiegunowych.",
+   "explanation": "Ciemna woda pochłania więcej promieniowania niż lód. Lądolód leży na lądzie, więc jego woda podnosi poziom morza. Mniej lodu ułatwia żeglugę w Arktyce.",
+   "statements": [
+    "Topnienie lodu morskiego Arktyki zmniejsza albedo i przyspiesza ocieplenie.",
+    "Topnienie lądolodu Grenlandii przyczynia się do wzrostu poziomu morza.",
+    "Zanik lodu morskiego utrudnia żeglugę Przejściem Północno-Wschodnim."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-riv2-1",
+   "requirement": "R.IV.2",
+   "topic": "geo-hyd",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wody artezyjskie to wody podziemne, które:",
+   "explanation": "Warstwa wodonośna jest zamknięta od góry i dołu warstwami nieprzepuszczalnymi (niecka), więc woda jest pod ciśnieniem.",
+   "options": [
+    "znajdują się pod ciśnieniem między dwiema warstwami nieprzepuszczalnymi i mogą samoczynnie wypływać",
+    "występują tuż pod powierzchnią w warstwie gleby",
+    "powstają tylko z topniejących lodowców",
+    "nie są zasilane przez opady"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pv2-1",
+   "requirement": "P.V.2",
+   "topic": "geo-ska",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Przyporządkuj proces wewnętrzny do jego przejawu.",
+   "explanation": "Orogeneza tworzy góry fałdowe, wulkanizm wydobywa magmę na powierzchnię, ruchy epejrogeniczne to powolne ruchy pionowe dużych obszarów.",
+   "items": [
+    {
+     "label": "Ruchy górotwórcze (orogeneza)",
+     "options": [
+      "fałdowanie warstw skalnych",
+      "wylewy lawy",
+      "pionowe wypiętrzanie lub obniżanie dużych obszarów"
+     ]
+    },
+    {
+     "label": "Wulkanizm",
+     "options": [
+      "fałdowanie warstw skalnych",
+      "wylewy lawy",
+      "pionowe wypiętrzanie lub obniżanie dużych obszarów"
+     ]
+    },
+    {
+     "label": "Ruchy epejrogeniczne",
+     "options": [
+      "fałdowanie warstw skalnych",
+      "wylewy lawy",
+      "pionowe wypiętrzanie lub obniżanie dużych obszarów"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pvi1-1",
+   "requirement": "P.VI.1",
+   "topic": "geo-gle",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o procesach glebotwórczych.",
+   "explanation": "Próchnicowanie to rozkład i przetwarzanie materii organicznej – im jej więcej (np. step), tym grubszy poziom próchniczny.",
+   "statements": [
+    "Bielicowanie zachodzi w klimacie chłodnym i wilgotnym pod lasami iglastymi.",
+    "Laterytyzacja jest typowa dla wilgotnych obszarów strefy równikowej.",
+    "Próchnicowanie nie zależy od ilości materii organicznej dostarczanej do gleby."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pvi2-1",
+   "requirement": "P.VI.2",
+   "topic": "geo-gle",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Przyporządkuj typ gleby do strefy, w której przeważa.",
+   "explanation": "To gleby strefowe – ich rozmieszczenie zależy od klimatu i roślinności. Mady czy rędziny są astrefowe (zależą od podłoża lub wody).",
+   "items": [
+    {
+     "label": "czarnoziem",
+     "options": [
+      "step",
+      "tajga",
+      "las równikowy",
+      "tundra"
+     ]
+    },
+    {
+     "label": "gleba bielicowa",
+     "options": [
+      "step",
+      "tajga",
+      "las równikowy",
+      "tundra"
+     ]
+    },
+    {
+     "label": "gleba laterytowa",
+     "options": [
+      "step",
+      "tajga",
+      "las równikowy",
+      "tundra"
+     ]
+    },
+    {
+     "label": "gleba glejowa tundrowa",
+     "options": [
+      "step",
+      "tajga",
+      "las równikowy",
+      "tundra"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rvi2-1",
+   "requirement": "R.VI.2",
+   "topic": "geo-gle",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Która gleba ma najwyższą przydatność rolniczą?",
+   "explanation": "Czarnoziem ma gruby poziom próchniczny i dobrą strukturę – to najżyźniejsze gleby świata (Ukraina, prerie).",
+   "options": [
+    "czarnoziem",
+    "gleba bielicowa",
+    "gleba laterytowa",
+    "gleba tundrowa"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pvii2-1",
+   "requirement": "P.VII.2",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który element jest przejawem integracji gospodarczej w Unii Europejskiej?",
+   "explanation": "Jednolity rynek z „czterema swobodami” to fundament integracji gospodarczej UE.",
+   "options": [
+    "Swobodny przepływ towarów, usług, kapitału i osób na jednolitym rynku",
+    "Wspólna armia wszystkich państw świata",
+    "Obowiązek wprowadzenia euro przez wszystkie państwa Europy",
+    "Zakaz handlu z państwami spoza UE"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rvii1-1",
+   "requirement": "R.VII.1",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który przykład pokazuje wpływ dawnych systemów kolonialnych na współczesny świat?",
+   "explanation": "Języki urzędowe, granice wytyczone „pod linijkę” i powiązania handlowe z dawnymi metropoliami to pozostałości kolonializmu.",
+   "options": [
+    "Język francuski jest językiem urzędowym w wielu państwach Afryki Zachodniej",
+    "W Japonii używa się pisma kanji",
+    "W Polsce obowiązuje złoty",
+    "Rosja graniczy z Chinami"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rvii2-1",
+   "requirement": "R.VII.2",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Przyporządkuj organizację międzynarodową do jej głównego celu.",
+   "explanation": "NATO – sojusz obronny; UNICEF – fundusz ONZ na rzecz dzieci; WTO – zasady handlu; WHO – Światowa Organizacja Zdrowia.",
+   "items": [
+    {
+     "label": "NATO",
+     "options": [
+      "obrona zbiorowa",
+      "pomoc dzieciom",
+      "handel światowy",
+      "zdrowie publiczne"
+     ]
+    },
+    {
+     "label": "UNICEF",
+     "options": [
+      "obrona zbiorowa",
+      "pomoc dzieciom",
+      "handel światowy",
+      "zdrowie publiczne"
+     ]
+    },
+    {
+     "label": "WTO",
+     "options": [
+      "obrona zbiorowa",
+      "pomoc dzieciom",
+      "handel światowy",
+      "zdrowie publiczne"
+     ]
+    },
+    {
+     "label": "WHO",
+     "options": [
+      "obrona zbiorowa",
+      "pomoc dzieciom",
+      "handel światowy",
+      "zdrowie publiczne"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rvii3-1",
+   "requirement": "R.VII.3",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która przyczyna jest typowa dla wielu konfliktów zbrojnych w Afryce?",
+   "explanation": "Sztuczne granice łączyły w jednym państwie skłócone grupy etniczne albo dzieliły jeden naród – to częste źródło konfliktów.",
+   "options": [
+    "Granice państw wytyczone przez kolonizatorów bez uwzględnienia podziałów etnicznych",
+    "Nadmiar wody pitnej",
+    "Wysoki poziom urbanizacji",
+    "Członkostwo w Unii Europejskiej"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxx1-1",
+   "requirement": "R.XX.1",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które państwo powstało najpóźniej (w XXI wieku)?",
+   "explanation": "Sudan Południowy ogłosił niepodległość w 2011 r. Czechy i Słowacja – 1993, Erytrea – 1993.",
+   "options": [
+    "Sudan Południowy",
+    "Czechy",
+    "Słowacja",
+    "Erytrea"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxx4-1",
+   "requirement": "R.XX.4",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o terroryzmie.",
+   "explanation": "Zamachy zdarzały się także w USA i Europie (np. 11 września 2001 r., Madryt 2004, Paryż 2015).",
+   "statements": [
+    "Celem terroryzmu jest wywołanie strachu, aby wymusić określone działania polityczne.",
+    "Terroryzm dotyczy wyłącznie państw słabo rozwiniętych."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxii2-1",
+   "requirement": "R.XXII.2",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który wskaźnik najlepiej pokazuje poziom zaspokojenia potrzeb żywnościowych ludności?",
+   "explanation": "Niedożywienie (oraz spożycie kalorii na osobę) bezpośrednio mierzy dostęp do żywności.",
+   "options": [
+    "Odsetek osób niedożywionych",
+    "Liczba lotnisk w kraju",
+    "Udział usług w PKB",
+    "Długość autostrad"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxii3-1",
+   "requirement": "R.XXII.3",
+   "topic": "geo-pls",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który wskaźnik wykorzystasz, oceniając poczucie bezpieczeństwa mieszkańców regionu?",
+   "explanation": "Wskaźnik przestępczości (np. zabójstw) i zagrożenie konfliktami najlepiej opisują bezpieczeństwo.",
+   "options": [
+    "Liczba zabójstw na 100 tys. mieszkańców",
+    "Średnia roczna temperatura",
+    "Wysokość nad poziomem morza",
+    "Liczba szkół wyższych"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pviii4-1",
+   "requirement": "P.VIII.4",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o dzietności.",
+   "explanation": "W Polsce dzietność to ok. 1,2–1,3 – znacznie poniżej 2,1. Edukacja kobiet i praca zawodowa obniżają liczbę dzieci.",
+   "statements": [
+    "W wielu krajach Afryki Subsaharyjskiej współczynnik dzietności przekracza 4.",
+    "Upowszechnienie edukacji kobiet sprzyja spadkowi dzietności.",
+    "Współczynnik dzietności w Polsce przekracza poziom zastępowalności pokoleń (2,1)."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pviii5-1",
+   "requirement": "P.VIII.5",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o starzeniu się społeczeństw.",
+   "explanation": "Najstarsze społeczeństwa ma Japonia i kraje Europy. Afryka ma najmłodszą ludność świata.",
+   "statements": [
+    "Starzenie się społeczeństwa wynika m.in. z niskiej dzietności i wydłużania się życia.",
+    "Skutkiem starzenia się ludności jest wzrost wydatków na emerytury i opiekę zdrowotną.",
+    "Najbardziej zaawansowane starzenie się ludności występuje w krajach Afryki."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pviii7-1",
+   "requirement": "P.VIII.7",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który skutek napływu imigrantów zarobkowych jest typowy dla kraju przyjmującego?",
+   "explanation": "Imigranci zwykle są w wieku produkcyjnym i uzupełniają braki pracowników. Przekazy pieniężne płyną do kraju pochodzenia.",
+   "options": [
+    "Uzupełnienie niedoborów na rynku pracy",
+    "Spadek liczby ludności w wieku produkcyjnym",
+    "Wzrost przekazów pieniężnych do tego kraju z zagranicy",
+    "Starzenie się społeczeństwa"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pviii8-1",
+   "requirement": "P.VIII.8",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który przypadek opisuje uchodźcę, a nie migranta ekonomicznego?",
+   "explanation": "Uchodźca opuszcza kraj z obawy przed prześladowaniem lub wojną i podlega ochronie międzynarodowej.",
+   "options": [
+    "Osoba uciekająca przed wojną i prześladowaniami w swoim kraju",
+    "Osoba wyjeżdżająca do pracy sezonowej przy zbiorach",
+    "Osoba przeprowadzająca się za lepiej płatną pracą",
+    "Student wyjeżdżający na stypendium"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pviii10-1",
+   "requirement": "P.VIII.10",
+   "topic": "geo-lud",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Który krąg kulturowy dominuje na Półwyspie Arabskim?",
+   "explanation": "Półwysep Arabski to kolebka islamu (Mekka, Medyna).",
+   "options": [
+    "islamski",
+    "chiński",
+    "indyjski",
+    "zachodni"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pviii12-1",
+   "requirement": "P.VIII.12",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który czynnik najbardziej sprzyja rozwojowi obszarów wiejskich?",
+   "explanation": "Dostępność komunikacyjna i praca poza rolnictwem zatrzymują mieszkańców na wsi.",
+   "options": [
+    "Rozwój infrastruktury (drogi, internet) i pozarolnicze miejsca pracy",
+    "Odpływ młodych ludzi do miast",
+    "Likwidacja szkół wiejskich",
+    "Rozdrobnienie gospodarstw"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rviii1-1",
+   "requirement": "R.VIII.1",
+   "topic": "geo-lud",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Która mniejszość narodowa jest jedną z najliczniejszych w Polsce?",
+   "explanation": "Największe mniejszości narodowe w Polsce to niemiecka i ukraińska; Niemców najwięcej jest na Opolszczyźnie.",
+   "options": [
+    "niemiecka",
+    "japońska",
+    "portugalska",
+    "fińska"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rviii3-1",
+   "requirement": "R.VIII.3",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Jaki związek występuje zwykle między poziomem wykształcenia ludności a poziomem rozwoju państwa?",
+   "explanation": "Wykształcona ludność to kapitał ludzki – sprzyja innowacjom i wyższej produktywności.",
+   "options": [
+    "Im wyższy odsetek osób z wyższym wykształceniem, tym wyższy poziom rozwoju gospodarczego",
+    "Nie ma żadnego związku",
+    "Im niższy poziom wykształcenia, tym wyższy PKB na osobę",
+    "Wykształcenie wpływa tylko na rolnictwo"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rviii4-1",
+   "requirement": "R.VIII.4",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które państwo jest przykładem kraju o bardzo dużym zróżnicowaniu etnicznym?",
+   "explanation": "Indie mają setki grup etnicznych i języków. Polska, Islandia i Japonia są bardzo jednolite etnicznie.",
+   "options": [
+    "Indie",
+    "Polska",
+    "Islandia",
+    "Japonia"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rviii6-1",
+   "requirement": "R.VIII.6",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Przyporządkuj formę zespołu miejskiego do opisu.",
+   "explanation": "Np. Warszawa – aglomeracja monocentryczna, Górny Śląsk – konurbacja, BosWash – megalopolis.",
+   "items": [
+    {
+     "label": "Aglomeracja monocentryczna",
+     "options": [
+      "jedno duże miasto z otaczającymi je mniejszymi",
+      "kilka równorzędnych miast połączonych zabudową",
+      "pas połączonych aglomeracji"
+     ]
+    },
+    {
+     "label": "Konurbacja",
+     "options": [
+      "jedno duże miasto z otaczającymi je mniejszymi",
+      "kilka równorzędnych miast połączonych zabudową",
+      "pas połączonych aglomeracji"
+     ]
+    },
+    {
+     "label": "Megalopolis",
+     "options": [
+      "jedno duże miasto z otaczającymi je mniejszymi",
+      "kilka równorzędnych miast połączonych zabudową",
+      "pas połączonych aglomeracji"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxi3-1",
+   "requirement": "R.XXI.3",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o migracjach.",
+   "explanation": "Drenaż mózgów pozbawia kraj specjalistów, w których kształcenie zainwestował.",
+   "statements": [
+    "Przyczyną migracji przymusowych mogą być konflikty zbrojne i klęski żywiołowe.",
+    "Masowy odpływ młodych wykształconych ludzi (drenaż mózgów) jest korzystny dla kraju emigracji."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxi4-1",
+   "requirement": "R.XXI.4",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "match",
+   "prompt": "Przyporządkuj falę migracji do jej kierunku.",
+   "explanation": "Historyczne i współczesne fale migracji mają głównie przyczyny ekonomiczne lub przymusowe.",
+   "pairs": [
+    [
+     "Wielkie migracje XIX w. z Europy",
+     "do Ameryki Północnej"
+    ],
+    [
+     "Migracje zarobkowe Polaków po 2004 r.",
+     "do Wielkiej Brytanii i Irlandii"
+    ],
+    [
+     "Handel niewolnikami w XVI–XIX w.",
+     "z Afryki do Ameryki"
+    ],
+    [
+     "Migracje z Meksyku",
+     "do USA"
+    ]
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxi5-1",
+   "requirement": "R.XXI.5",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o pracy dzieci.",
+   "explanation": "Praca odbiera dzieciom czas na naukę, co utrwala ubóstwo. Najwięcej pracujących dzieci jest w Afryce Subsaharyjskiej.",
+   "statements": [
+    "Praca dzieci jest najczęstsza w rolnictwie krajów o niskich dochodach.",
+    "Praca dzieci sprzyja ich edukacji i ogranicza ubóstwo w przyszłości."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxi6-1",
+   "requirement": "R.XXI.6",
+   "topic": "geo-lud",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która przyczyna bezrobocia jest typowa dla regionów wysoko rozwiniętych?",
+   "explanation": "W krajach rozwiniętych bezrobocie strukturalne wynika z upadku tradycyjnych branż i zastępowania pracy maszynami.",
+   "options": [
+    "Automatyzacja i restrukturyzacja przemysłu",
+    "Brak jakiejkolwiek infrastruktury",
+    "Klęski głodu",
+    "Bardzo wysoki przyrost naturalny"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxi7-1",
+   "requirement": "R.XXI.7",
+   "topic": "geo-lud",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które działanie przeciwdziała ksenofobii?",
+   "explanation": "Poznanie innych kultur zmniejsza lęk przed obcymi i uprzedzenia.",
+   "options": [
+    "Edukacja międzykulturowa i kontakty z osobami z innych kultur",
+    "Utrwalanie stereotypów w mediach",
+    "Segregacja w szkołach",
+    "Ograniczanie dostępu do informacji"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pix1-1",
+   "requirement": "P.IX.1",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o zmianach struktury zatrudnienia.",
+   "explanation": "W krajach słabo rozwiniętych dominuje rolnictwo. Rozwój przesuwa pracę do przemysłu, a potem do usług.",
+   "statements": [
+    "Wraz z rozwojem gospodarczym maleje udział zatrudnionych w rolnictwie.",
+    "W krajach wysoko rozwiniętych największy udział w zatrudnieniu ma sektor usług.",
+    "W krajach najsłabiej rozwiniętych dominuje zatrudnienie w przemyśle zaawansowanych technologii."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pix2-1",
+   "requirement": "P.IX.2",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który przykład jest przejawem globalizacji gospodarczej?",
+   "explanation": "Globalizacja to łączenie gospodarek w sieci produkcji, handlu i przepływów kapitału.",
+   "options": [
+    "Produkcja jednego smartfona z części wytwarzanych w kilkunastu krajach",
+    "Uprawa warzyw na własne potrzeby",
+    "Lokalny targ w małej wsi",
+    "Tradycyjne rzemiosło regionalne"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pix4-1",
+   "requirement": "P.IX.4",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która cecha jest charakterystyczna dla gospodarki opartej na wiedzy?",
+   "explanation": "W gospodarce opartej na wiedzy źródłem przewagi są innowacje, a więc B+R i wykształceni pracownicy.",
+   "options": [
+    "Wysokie nakłady na badania i rozwój (B+R)",
+    "Dominacja rolnictwa w PKB",
+    "Oparcie gospodarki na wydobyciu węgla",
+    "Niski poziom wykształcenia pracowników"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pix5-1",
+   "requirement": "P.IX.5",
+   "topic": "geo-gos",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Kapitał ludzki to przede wszystkim:",
+   "explanation": "Kapitał ludzki tworzą wykształcenie, kwalifikacje, doświadczenie i zdrowie.",
+   "options": [
+    "wiedza, umiejętności i zdrowie ludzi, które wpływają na ich produktywność",
+    "liczba maszyn w fabrykach",
+    "zasoby surowców mineralnych",
+    "długość sieci dróg"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pix6-1",
+   "requirement": "P.IX.6",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o społeczeństwie informacyjnym.",
+   "explanation": "Informacja i jej przetwarzanie stają się w nim głównym zasobem gospodarki.",
+   "statements": [
+    "Przejawem społeczeństwa informacyjnego jest powszechny dostęp do internetu i e-usług.",
+    "Wykluczenie cyfrowe dotyczy głównie osób starszych i mieszkańców obszarów słabo rozwiniętych.",
+    "W społeczeństwie informacyjnym maleje znaczenie przetwarzania informacji."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-px2-1",
+   "requirement": "P.X.2",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "W którym z państw udział łąk i pastwisk w strukturze użytków rolnych jest największy?",
+   "explanation": "W Mongolii przeważają rozległe stepowe pastwiska (chów koczowniczy). W Polsce dominują grunty orne.",
+   "options": [
+    "Mongolia",
+    "Polska",
+    "Dania",
+    "Bangladesz"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-px6-1",
+   "requirement": "P.X.6",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Dlaczego wody szelfowe i strefy prądów zimnych należą do najzasobniejszych łowisk?",
+   "explanation": "Płytkie wody szelfu i upwelling przy prądach zimnych (np. u wybrzeży Peru) wynoszą składniki odżywcze – rozwija się plankton i ryby.",
+   "options": [
+    "Są bogate w składniki pokarmowe i plankton",
+    "Mają najwyższą temperaturę wody",
+    "Są najgłębsze",
+    "Nie docierają do nich promienie słoneczne"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxi2-1",
+   "requirement": "P.XI.2",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Przyporządkuj cechę do rodzaju przemysłu.",
+   "explanation": "Przemysł tradycyjny (hutnictwo, wydobycie) ciąży do surowców; high-tech – do kadr i wiedzy (technopolie).",
+   "items": [
+    {
+     "label": "Duże zużycie surowców i energii",
+     "options": [
+      "tradycyjny",
+      "zaawansowanych technologii"
+     ]
+    },
+    {
+     "label": "Wysokie nakłady na badania i rozwój",
+     "options": [
+      "tradycyjny",
+      "zaawansowanych technologii"
+     ]
+    },
+    {
+     "label": "Lokalizacja w pobliżu złóż surowców",
+     "options": [
+      "tradycyjny",
+      "zaawansowanych technologii"
+     ]
+    },
+    {
+     "label": "Lokalizacja w pobliżu uczelni i ośrodków badawczych",
+     "options": [
+      "tradycyjny",
+      "zaawansowanych technologii"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxi7-1",
+   "requirement": "P.XI.7",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o energetyce jądrowej.",
+   "explanation": "Odpady promieniotwórcze trzeba przechowywać bardzo długo – to wciąż główny problem energetyki jądrowej.",
+   "statements": [
+    "Elektrownie jądrowe podczas pracy nie emitują CO₂.",
+    "Francja wytwarza w elektrowniach jądrowych największą część swojej energii elektrycznej spośród państw UE.",
+    "Problem składowania odpadów promieniotwórczych został już całkowicie rozwiązany."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rix1-1",
+   "requirement": "R.IX.1",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Do którego sektora gospodarki (wg PKD) należy produkcja mebli?",
+   "explanation": "Produkcja mebli to sekcja C PKD – przetwórstwo przemysłowe (sektor II).",
+   "options": [
+    "przetwórstwo przemysłowe",
+    "rolnictwo, leśnictwo i rybactwo",
+    "handel",
+    "górnictwo i wydobywanie"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rix2-1",
+   "requirement": "R.IX.2",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który przykład pokazuje współzależność przemysłu i usług?",
+   "explanation": "Przemysł potrzebuje usług (transport, banki, IT), a usługi – produktów przemysłu.",
+   "options": [
+    "Fabryka samochodów korzysta z usług logistycznych, projektowych i finansowych",
+    "Rolnik uprawia zboże na własne potrzeby",
+    "Las rośnie w parku narodowym",
+    "Rzeka płynie przez miasto"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rx2-1",
+   "requirement": "R.X.2",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o rolnictwie ekologicznym.",
+   "explanation": "Plony ekologiczne są zwykle niższe, a żywność droższa – za to produkcja mniej szkodzi środowisku.",
+   "statements": [
+    "W rolnictwie ekologicznym nie stosuje się syntetycznych nawozów i pestycydów.",
+    "Rolnictwo ekologiczne daje zwykle wyższe plony z hektara niż rolnictwo uprzemysłowione.",
+    "Żywność ekologiczna musi mieć certyfikat potwierdzający metodę produkcji."
+   ],
+   "answer": [
+    true,
+    false,
+    true
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rx3-1",
+   "requirement": "R.X.3",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o roślinach uprawnych zmodyfikowanych genetycznie (GMO).",
+   "explanation": "W UE uprawy GMO są bardzo ograniczone, a wiele państw (w tym Polska) zakazuje uprawy kukurydzy MON810.",
+   "statements": [
+    "Modyfikacje mogą zwiększać odporność roślin na szkodniki lub suszę.",
+    "Uprawa GMO budzi obawy m.in. o wpływ na bioróżnorodność.",
+    "Wszystkie państwa UE prowadzą rozległe uprawy roślin GMO."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxi3-1",
+   "requirement": "R.XI.3",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która zmiana jest typowa dla przemysłu tradycyjnego w krajach wysoko rozwiniętych?",
+   "explanation": "Delokalizacja do Azji i restrukturyzacja okręgów tradycyjnych (np. Zagłębie Ruhry) zmieniły mapę przemysłu.",
+   "options": [
+    "Przenoszenie produkcji do krajów o niższych kosztach pracy",
+    "Budowa nowych hut w centrach miast",
+    "Wzrost zatrudnienia w górnictwie węgla",
+    "Zwiększanie emisji zanieczyszczeń"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxi5-1",
+   "requirement": "R.XI.5",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który argument przemawia za harmonizowaniem stylu nowych budynków z krajobrazem?",
+   "explanation": "Budynki zgodne z regionalną architekturą nie niszczą krajobrazu, który jest wartością dla mieszkańców i turystów.",
+   "options": [
+    "Zachowanie walorów krajobrazu kulturowego i atrakcyjności turystycznej regionu",
+    "Obniżenie kosztów ogrzewania o połowę",
+    "Zwiększenie liczby mieszkańców",
+    "Przyspieszenie budowy"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxii2-1",
+   "requirement": "R.XII.2",
+   "topic": "geo-gos",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Jaką rolę odgrywa telekomunikacja w rozwoju społeczeństwa informacyjnego?",
+   "explanation": "Sieci telekomunikacyjne (internet, telefonia) to „krwiobieg” społeczeństwa informacyjnego.",
+   "options": [
+    "Umożliwia szybki przepływ informacji, pracę zdalną i e-usługi",
+    "Zwiększa zużycie węgla",
+    "Ogranicza handel międzynarodowy",
+    "Zastępuje transport kolejowy towarów"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxii4-1",
+   "requirement": "R.XII.4",
+   "topic": "geo-gos",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które miasto jest jednym z głównych światowych centrów finansowych?",
+   "explanation": "Do światowych centrów finansowych należą m.in. Nowy Jork, Londyn, Tokio, Hongkong, Singapur.",
+   "options": [
+    "Londyn",
+    "Kraków",
+    "Lagos",
+    "Ułan Bator"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxii5-1",
+   "requirement": "R.XII.5",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń skutki szybkiego rozwoju turystyki.",
+   "explanation": "Masowa turystyka może prowadzić do komercjalizacji kultury i wypierania mieszkańców (np. Wenecja, Barcelona).",
+   "statements": [
+    "Turystyka tworzy miejsca pracy i zwiększa dochody regionów.",
+    "Nadmierny ruch turystyczny (overtourism) może podnosić ceny mieszkań dla mieszkańców.",
+    "Rozwój turystyki nigdy nie wpływa na kulturę lokalnych społeczności."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxii6-1",
+   "requirement": "R.XII.6",
+   "topic": "geo-gos",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Który kraj należy do światowej czołówki pod względem liczby przyjazdów turystów zagranicznych?",
+   "explanation": "Francja od lat przyjmuje najwięcej turystów zagranicznych na świecie.",
+   "options": [
+    "Francja",
+    "Mongolia",
+    "Czad",
+    "Bhutan"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxix4-1",
+   "requirement": "R.XIX.4",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Jak zmieniało się znaczenie czynników przyrodniczych w rozwoju gospodarczym regionów?",
+   "explanation": "Dziś o rozwoju częściej decydują kadry, innowacje i dostępność komunikacyjna niż same surowce czy gleby.",
+   "options": [
+    "Maleje, bo rośnie rola wiedzy, kapitału i technologii",
+    "Rośnie, bo rolnictwo staje się głównym sektorem gospodarki",
+    "Nie zmienia się od XIX wieku",
+    "Decydują wyłącznie złoża surowców"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxiii3-1",
+   "requirement": "R.XXIII.3",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o działaniach na rzecz zmniejszania dysproporcji w rozwoju.",
+   "explanation": "Umorzenie długów uwalnia środki, które można wydać np. na zdrowie i edukację.",
+   "statements": [
+    "Fundusze spójności UE mają zmniejszać różnice w rozwoju regionów.",
+    "Pomoc rozwojowa może obejmować budowę szkół i ujęć wody.",
+    "Umorzenie długów krajom najbiedniejszym zawsze pogłębia ich ubóstwo."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxxiii4-1",
+   "requirement": "R.XXIII.4",
+   "topic": "geo-gos",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń wpływ korporacji transnarodowych.",
+   "explanation": "Inwestycje korporacji tworzą miejsca pracy, ale mogą też wykorzystywać niskie płace i słabe przepisy.",
+   "statements": [
+    "Korporacje transnarodowe przenoszą do krajów przyjmujących kapitał i technologie.",
+    "Korporacje mogą przenosić produkcję tam, gdzie normy ochrony środowiska są łagodniejsze.",
+    "Działalność korporacji nie ma wpływu na rynki pracy."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiii1-1",
+   "requirement": "P.XIII.1",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który zestaw warunków sprzyja powstawaniu smogu w polskich miastach zimą?",
+   "explanation": "Przy inwersji chłodne powietrze zalega przy ziemi, a brak wiatru nie rozprasza zanieczyszczeń (np. Kraków w kotlinie).",
+   "options": [
+    "Spalanie węgla w domach, bezwietrzna pogoda i inwersja temperatury",
+    "Silny wiatr i opady deszczu",
+    "Wysoka temperatura i burze",
+    "Mała liczba samochodów i lasy wokół miasta"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiii5-1",
+   "requirement": "P.XIII.5",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które działanie ogranicza negatywny wpływ turystyki na Tatry?",
+   "explanation": "Ruch tylko szlakami chroni roślinność i glebę przed erozją; limity zmniejszają presję na przyrodę.",
+   "options": [
+    "Limitowanie liczby turystów i pozostawanie na wyznaczonych szlakach",
+    "Budowa nowych dróg na szczyty",
+    "Wprowadzenie ruchu samochodowego do Doliny Pięciu Stawów",
+    "Zwiększenie liczby hoteli w parku narodowym"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiii7-1",
+   "requirement": "P.XIII.7",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który przykład jest przejawem degradacji krajobrazu kulturowego?",
+   "explanation": "Chaos reklamowy i przypadkowa zabudowa niszczą ład przestrzenny i wartość krajobrazu.",
+   "options": [
+    "Chaotyczna zabudowa i reklamy wielkoformatowe zasłaniające zabytkowe fasady",
+    "Odnowienie zabytkowego rynku",
+    "Utworzenie parku kulturowego",
+    "Rewitalizacja starego browaru"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiii9-1",
+   "requirement": "P.XIII.9",
+   "topic": "geo-sro",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które rozwiązanie jest przykładem proekologicznego rozwiązania w mieście?",
+   "explanation": "Zieleń zatrzymuje wodę, chłodzi miasto latem i poprawia jakość powietrza.",
+   "options": [
+    "Zielone dachy i ogrody deszczowe zatrzymujące wodę opadową",
+    "Betonowanie placów",
+    "Wycinka drzew przy ulicach",
+    "Odprowadzanie całej wody deszczowej do kanalizacji"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxiii6-1",
+   "requirement": "R.XIII.6",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o Żuławach Wiślanych.",
+   "explanation": "Żuławy to depresja – najniższy punkt Polski (ok. 2 m p.p.m.) leży w Raczkach Elbląskich. Bez wałów i pomp teren zostałby zalany.",
+   "statements": [
+    "Część Żuław leży poniżej poziomu morza.",
+    "Żuławy powstały w wyniku akumulacji materiału w delcie Wisły.",
+    "Na Żuławach nie są potrzebne wały przeciwpowodziowe ani przepompownie."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxviii1-1",
+   "requirement": "R.XVIII.1",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Gdzie powstają cyklony tropikalne (huragany, tajfuny)?",
+   "explanation": "Cyklony tropikalne czerpią energię z parowania ciepłej wody (powyżej ok. 26–27°C).",
+   "options": [
+    "Nad ciepłymi wodami oceanów w strefie międzyzwrotnikowej",
+    "Nad lądolodem Antarktydy",
+    "Nad pustyniami",
+    "Nad zimnymi prądami morskimi"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxviii3-1",
+   "requirement": "R.XVIII.3",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Co jest najczęstszą przyczyną powstawania tsunami?",
+   "explanation": "Nagłe przesunięcie dna morskiego podczas trzęsienia ziemi (np. w strefie subdukcji) wypycha masę wody.",
+   "options": [
+    "Podmorskie trzęsienie ziemi",
+    "Silny wiatr nad oceanem",
+    "Przypływ morza",
+    "Topnienie lodowców"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxviii5-1",
+   "requirement": "R.XVIII.5",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który sposób ogranicza erozję gleb na stokach?",
+   "explanation": "Bruzdy w poprzek stoku i tarasy spowalniają spływ wody, więc mniej gleby jest zmywane.",
+   "options": [
+    "Uprawa w poprzek stoku i tarasowanie",
+    "Orka wzdłuż spadku stoku",
+    "Usuwanie zadrzewień śródpolnych",
+    "Pozostawianie pól bez okrywy roślinnej zimą"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxviii6-1",
+   "requirement": "R.XVIII.6",
+   "topic": "geo-sro",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Do czego można wykorzystać porównanie zdjęć satelitarnych tego samego obszaru wykonanych przed i po powodzi?",
+   "explanation": "Zdjęcia satelitarne pozwalają szybko ocenić zasięg klęski i planować pomoc.",
+   "options": [
+    "Do wyznaczenia zasięgu zalanego terenu",
+    "Do pomiaru zasolenia wody",
+    "Do określenia wieku skał",
+    "Do pomiaru ciśnienia atmosferycznego"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxviii8-1",
+   "requirement": "R.XVIII.8",
+   "topic": "geo-sro",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Na którym obszarze występuje współcześnie lądolód?",
+   "explanation": "Lądolody istnieją dziś tylko na Antarktydzie i Grenlandii.",
+   "options": [
+    "Grenlandia",
+    "Islandia w całości",
+    "Półwysep Skandynawski",
+    "Alaska w całości"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxviii10-1",
+   "requirement": "R.XVIII.10",
+   "topic": "geo-sro",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o różnorodności przyrody.",
+   "explanation": "Gatunki inwazyjne często wypierają rodzime – bioróżnorodność maleje.",
+   "statements": [
+    "Georóżnorodność to zróżnicowanie skał, form rzeźby, gleb i wód danego obszaru.",
+    "Tworzenie obszarów chronionych sprzyja zachowaniu bioróżnorodności.",
+    "Wprowadzanie gatunków obcych zawsze zwiększa bioróżnorodność ekosystemu."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiv4-1",
+   "requirement": "P.XIV.4",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który związek między budową geologiczną a rzeźbą Polski jest prawdziwy?",
+   "explanation": "Sudety zostały wypiętrzone ponownie w kenozoiku jako zręby. Karpaty powstały w orogenezie alpejskiej. Góry Świętokrzyskie są bardzo stare.",
+   "options": [
+    "Sudety to stare góry zrębowe, a Karpaty – młode góry fałdowe",
+    "Karpaty to góry zrębowe powstałe w orogenezie kaledońskiej",
+    "Niż Polski powstał w wyniku fałdowań alpejskich",
+    "Góry Świętokrzyskie to najmłodsze góry Polski"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiv8-1",
+   "requirement": "P.XIV.8",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o jeziorach i zbiornikach w Polsce.",
+   "explanation": "Śniardwy to największe naturalne jezioro. Największy zbiornik sztuczny to Zalew Włocławski (pow.), największy pojemnością – Solina.",
+   "statements": [
+    "Najwięcej jezior w Polsce występuje na pojezierzach w zasięgu ostatniego zlodowacenia.",
+    "Sztuczne zbiorniki wodne pełnią m.in. funkcję przeciwpowodziową i energetyczną.",
+    "Największym sztucznym zbiornikiem w Polsce jest Jezioro Śniardwy."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiv9-1",
+   "requirement": "P.XIV.9",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która przyczyna niedoboru wody w Wielkopolsce i na Kujawach jest przyczyną przyrodniczą?",
+   "explanation": "Wielkopolska i Kujawy leżą w „cieniu opadowym” – opady poniżej 550 mm rocznie. Pozostałe przyczyny są antropogeniczne.",
+   "options": [
+    "Małe roczne sumy opadów i duże parowanie",
+    "Odwadnianie terenów przez kopalnie odkrywkowe",
+    "Duże zużycie wody przez przemysł",
+    "Melioracje odwadniające"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiv10-1",
+   "requirement": "P.XIV.10",
+   "topic": "geo-pol",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Który wskaźnik najlepiej opisuje stan powietrza w mieście?",
+   "explanation": "Stężenia pyłów PM10/PM2,5 są mierzone przez stacje monitoringu jakości powietrza.",
+   "options": [
+    "Stężenie pyłów zawieszonych PM10 i PM2,5",
+    "Liczba mieszkańców",
+    "Długość ścieżek rowerowych",
+    "Wysokość budynków"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxiv11-1",
+   "requirement": "P.XIV.11",
+   "topic": "geo-pol",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Która forma ochrony przyrody w Polsce ma najwyższą rangę?",
+   "explanation": "Parki narodowe chronią najcenniejsze obszary przyrodnicze w całości – to najwyższa forma ochrony obszarowej w Polsce.",
+   "options": [
+    "park narodowy",
+    "park krajobrazowy",
+    "obszar chronionego krajobrazu",
+    "pomnik przyrody"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxv6-1",
+   "requirement": "P.XV.6",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o urbanizacji w Polsce.",
+   "explanation": "Wiele miast (np. Łódź, Bytom) traci mieszkańców – przez niską dzietność, emigrację i suburbanizację.",
+   "statements": [
+    "Wokół dużych miast rozwija się suburbanizacja – przenoszenie się mieszkańców na przedmieścia.",
+    "Odsetek ludności miejskiej w Polsce wynosi ok. 60%.",
+    "Po 1989 r. liczba mieszkańców wszystkich polskich miast szybko rosła."
+   ],
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxv8-1",
+   "requirement": "P.XV.8",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o rolnictwie ekologicznym w Polsce.",
+   "explanation": "Uprawy ekologiczne zajmują w Polsce tylko kilka procent użytków rolnych.",
+   "statements": [
+    "Certyfikat ekologiczny potwierdza, że żywność wyprodukowano bez syntetycznych nawozów i pestycydów.",
+    "Udział upraw ekologicznych w Polsce jest wyższy niż udział upraw konwencjonalnych."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxv9-1",
+   "requirement": "P.XV.9",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która zmiana w przemyśle Polski nastąpiła po 1989 r.?",
+   "explanation": "Restrukturyzacja zamknęła wiele kopalń i hut; rozwinęły się m.in. przemysł motoryzacyjny i elektroniczny z kapitałem zagranicznym.",
+   "options": [
+    "Spadek zatrudnienia w górnictwie węgla kamiennego i hutnictwie",
+    "Wzrost liczby kopalń węgla kamiennego",
+    "Nacjonalizacja zakładów przemysłowych",
+    "Zamknięcie wszystkich fabryk samochodów"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxv11-1",
+   "requirement": "P.XV.11",
+   "topic": "geo-pol",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Który obiekt w Polsce znajduje się na Liście światowego dziedzictwa UNESCO?",
+   "explanation": "Wieliczka była na pierwszej liście UNESCO (1978) – razem ze Starym Miastem w Krakowie.",
+   "options": [
+    "Kopalnia soli w Wieliczce",
+    "Pałac Kultury i Nauki w Warszawie",
+    "Stadion Narodowy",
+    "Zalew Zegrzyński"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-pxvi2-1",
+   "requirement": "P.XVI.2",
+   "topic": "geo-pol",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Który port jest największym portem morskim Polski pod względem przeładunków?",
+   "explanation": "Port Gdańsk (z terminalem kontenerowym) przeładowuje najwięcej ładunków w Polsce.",
+   "options": [
+    "Gdańsk",
+    "Kołobrzeg",
+    "Elbląg",
+    "Ustka"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxv1-1",
+   "requirement": "R.XV.1",
+   "topic": "geo-pol",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Która grupa etnograficzna zamieszkuje Podhale?",
+   "explanation": "Górale podhalańscy mają własną gwarę, strój i budownictwo. Kaszubi mieszkają na Pomorzu, Kurpie na Mazowszu.",
+   "options": [
+    "Górale",
+    "Kaszubi",
+    "Kurpie",
+    "Łemkowie wyłącznie nad Bałtykiem"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxv4-1",
+   "requirement": "R.XV.4",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która przyczyna depopulacji wsi w Polsce jest najważniejsza?",
+   "explanation": "Wyludniają się zwłaszcza wsie peryferyjne (np. w Polsce wschodniej), daleko od dużych miast.",
+   "options": [
+    "Odpływ młodych ludzi do miast i za granicę w poszukiwaniu pracy",
+    "Wysoki przyrost naturalny",
+    "Napływ ludności z miast",
+    "Budowa nowych szkół"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxv7-1",
+   "requirement": "R.XV.7",
+   "topic": "geo-pol",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które narzędzie najlepiej nadaje się do analizy przestrzennego zróżnicowania wyników wyborów?",
+   "explanation": "Mapy w GIS (kartogramy wyników w gminach) pokazują przestrzenne wzory preferencji wyborczych.",
+   "options": [
+    "Mapa wyników w gminach wykonana w programie GIS",
+    "Kalendarz",
+    "Klimatogram",
+    "Profil glebowy"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxv8-1",
+   "requirement": "R.XV.8",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który przykład jest formą partycypacji społecznej w rozwoju lokalnym?",
+   "explanation": "Partycypacja to aktywny udział mieszkańców w podejmowaniu decyzji – np. budżet obywatelski, konsultacje społeczne.",
+   "options": [
+    "Budżet obywatelski, w którym mieszkańcy wybierają projekty do realizacji",
+    "Płacenie podatków",
+    "Korzystanie z komunikacji miejskiej",
+    "Zakupy w lokalnym sklepie"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxv9-1",
+   "requirement": "R.XV.9",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która hipoteza wyjaśnia wyższy zasięg ubóstwa w województwach Polski wschodniej?",
+   "explanation": "Polska wschodnia ma rozdrobnione rolnictwo i mniej dobrze płatnych miejsc pracy.",
+   "options": [
+    "Większy udział mało dochodowego rolnictwa i słabiej rozwinięty przemysł i usługi",
+    "Najwyższe wynagrodzenia w kraju",
+    "Najwyższy poziom urbanizacji",
+    "Bliskość dużych portów morskich"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "geo-pr-s-rxvi2-1",
+   "requirement": "R.XVI.2",
+   "topic": "geo-pol",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który wskaźnik pozwala porównać dostępność usług zdrowotnych w gminach?",
+   "explanation": "Im mniej osób na lekarza (i krótszy dojazd do przychodni), tym lepsza dostępność usług zdrowotnych.",
+   "options": [
+    "Liczba ludności przypadająca na jednego lekarza",
+    "Liczba sklepów",
+    "Gęstość dróg rowerowych",
+    "Udział lasów"
+   ],
+   "answer": 0,
+   "no": "–"
+  }
+ ]
+}

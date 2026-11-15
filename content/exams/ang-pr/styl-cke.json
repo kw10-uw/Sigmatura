@@ -1,0 +1,1009 @@
+{
+ "id": "ang-pr-styl-cke",
+ "subject": "ang-pr",
+ "authored": true,
+ "note": "Pytania autorskie w stylu CKE, napisane dla wymagań z podstawy 2024, których nie sprawdzało żadne zaimportowane zadanie CKE. To nie są zadania z arkuszy.",
+ "tasks": [
+  {
+   "id": "ang-pr-s-i1-1",
+   "requirement": "I.1",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nShe's so ______ – she never changes her mind, even when she's clearly wrong.",
+   "explanation": "Stubborn – uparty. Reliable – godny zaufania, outgoing – towarzyski, modest – skromny.",
+   "options": [
+    "stubborn",
+    "reliable",
+    "outgoing",
+    "modest"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i2-1",
+   "requirement": "I.2",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe landlord agreed to ______ the leaking roof before winter.",
+   "explanation": "Repair – naprawić (konkretną usterkę). Renovate – odnowić całość.",
+   "options": [
+    "repair",
+    "renovate",
+    "rent",
+    "refurnish"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i3-1",
+   "requirement": "I.3",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nHe dropped ______ of university in his second year to start a business.",
+   "explanation": "Drop out of university – rzucić studia.",
+   "options": [
+    "out",
+    "off",
+    "behind",
+    "over"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i4-1",
+   "requirement": "I.4",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nAfter thirty years in the company, she finally decided to ______.",
+   "explanation": "Retire – przejść na emeryturę. Dismiss – zwolnić kogoś.",
+   "options": [
+    "retire",
+    "resign from",
+    "dismiss",
+    "hire"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i4-2",
+   "requirement": "I.4",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe company had to ______ 200 workers because of falling sales.",
+   "explanation": "Lay off – zwolnić (z powodów ekonomicznych). Take on – zatrudnić.",
+   "options": [
+    "lay off",
+    "take on",
+    "put up",
+    "give in"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i5-1",
+   "requirement": "I.5",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nI was brought ______ by my grandparents in a small village.",
+   "explanation": "Bring up – wychować.",
+   "options": [
+    "up",
+    "out",
+    "about",
+    "round"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i6-1",
+   "requirement": "I.6",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThis dish is ______ with fresh herbs and lemon juice.",
+   "explanation": "Season – doprawiać.",
+   "options": [
+    "seasoned",
+    "spoiled",
+    "starved",
+    "stirred up"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i7-1",
+   "requirement": "I.7",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nIf the product is faulty, you are ______ to a full refund.",
+   "explanation": "Be entitled to sth – mieć prawo do czegoś.",
+   "options": [
+    "entitled",
+    "allowed",
+    "obliged",
+    "capable"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i7-2",
+   "requirement": "I.7",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nI took out a ______ from the bank to buy a car.",
+   "explanation": "Take out a loan – wziąć kredyt/pożyczkę.",
+   "options": [
+    "loan",
+    "debt",
+    "deposit",
+    "receipt"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i8-1",
+   "requirement": "I.8",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nOur flight was delayed, so we missed our ______ flight to Lisbon.",
+   "explanation": "Connecting flight – lot przesiadkowy.",
+   "options": [
+    "connecting",
+    "joining",
+    "linking",
+    "transferring"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i9-1",
+   "requirement": "I.9",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe novel received rave ______ from critics.",
+   "explanation": "Rave reviews – entuzjastyczne recenzje (kolokacja).",
+   "options": [
+    "reviews",
+    "opinions",
+    "comments",
+    "rates"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i10-1",
+   "requirement": "I.10",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe referee ______ the player off for a dangerous tackle.",
+   "explanation": "Send sb off – usunąć z boiska.",
+   "options": [
+    "sent",
+    "kicked",
+    "threw",
+    "put"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i11-1",
+   "requirement": "I.11",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nHe's been off work for weeks, but he's slowly ______ from the operation.",
+   "explanation": "Recover from – wracać do zdrowia po czymś.",
+   "options": [
+    "recovering",
+    "curing",
+    "healing up",
+    "treating"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i12-1",
+   "requirement": "I.12",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nScientists have made a major ______ in cancer research.",
+   "explanation": "Breakthrough – przełom. Outbreak – wybuch (np. epidemii).",
+   "options": [
+    "breakthrough",
+    "breakdown",
+    "outbreak",
+    "breakout"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i13-1",
+   "requirement": "I.13",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMany species are on the ______ of extinction.",
+   "explanation": "On the verge of extinction – na skraju wyginięcia.",
+   "options": [
+    "verge",
+    "border",
+    "line",
+    "side"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-i14-1",
+   "requirement": "I.14",
+   "topic": "angr-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe government has introduced new measures to ______ unemployment.",
+   "explanation": "Tackle a problem – stawić czoła problemowi. Deal i cope wymagają with.",
+   "options": [
+    "tackle",
+    "handle with",
+    "deal",
+    "cope"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-ii1-1",
+   "requirement": "II.1",
+   "topic": "angr-lis",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Usłyszysz komunikat: „Passengers are kindly requested to keep their luggage with them at all times.” Czego się od Ciebie oczekuje?",
+   "explanation": "Keep luggage with you at all times – miej bagaż cały czas przy sobie.",
+   "options": [
+    "Pilnowania własnego bagażu",
+    "Oddania bagażu do przechowalni",
+    "Zostawienia bagażu w samolocie",
+    "Zgłoszenia zgubionego bagażu"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-ii6-1",
+   "requirement": "II.6",
+   "topic": "angr-lis",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Ułóż wydarzenia z relacji w kolejności chronologicznej.",
+   "explanation": "W zadaniach na kolejność szukaj znaczników czasu: first, before that, eventually.",
+   "items": [
+    {
+     "label": "1.",
+     "options": [
+      "I booked the tickets online.",
+      "We arrived at the airport.",
+      "The plane took off.",
+      "We landed in Rome."
+     ]
+    },
+    {
+     "label": "2.",
+     "options": [
+      "I booked the tickets online.",
+      "We arrived at the airport.",
+      "The plane took off.",
+      "We landed in Rome."
+     ]
+    },
+    {
+     "label": "3.",
+     "options": [
+      "I booked the tickets online.",
+      "We arrived at the airport.",
+      "The plane took off.",
+      "We landed in Rome."
+     ]
+    },
+    {
+     "label": "4.",
+     "options": [
+      "I booked the tickets online.",
+      "We arrived at the airport.",
+      "The plane took off.",
+      "We landed in Rome."
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-ii8-1",
+   "requirement": "II.8",
+   "topic": "angr-lis",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Fakt czy opinia?",
+   "explanation": "Opinie zawierają oceny i stopień najwyższy (the most fascinating).",
+   "items": [
+    {
+     "label": "„The museum opens at 10 a.m.”",
+     "options": [
+      "fakt",
+      "opinia"
+     ]
+    },
+    {
+     "label": "„It's by far the most fascinating exhibition I've ever seen.”",
+     "options": [
+      "fakt",
+      "opinia"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-ii10-1",
+   "requirement": "II.10",
+   "topic": "angr-lis",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Styl formalny czy nieformalny?",
+   "explanation": "Draw sb's attention to – zwrot formalny. Guess what? – potoczny.",
+   "items": [
+    {
+     "label": "„I'd like to draw your attention to the following issue.”",
+     "options": [
+      "formalny",
+      "nieformalny"
+     ]
+    },
+    {
+     "label": "„Guess what? You won't believe it!”",
+     "options": [
+      "formalny",
+      "nieformalny"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-iii2-1",
+   "requirement": "III.2",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Fragment: „Once again, the council has ignored residents' complaints. How many more accidents must happen before they act?” Jakie jest nastawienie autora?",
+   "explanation": "Once again… ignored i pytanie retoryczne wyrażają krytykę władz.",
+   "options": [
+    "krytyczne",
+    "obojętne",
+    "entuzjastyczne",
+    "żartobliwe"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-iii3-1",
+   "requirement": "III.3",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Fragment: „Please remember to bring your swimming kit on Friday. Lessons will start at 9 sharp.” Kto jest najprawdopodobniej nadawcą?",
+   "explanation": "Lekcje + strój pływacki → nauczyciel WF piszący do uczniów.",
+   "options": [
+    "nauczyciel wychowania fizycznego",
+    "lekarz",
+    "sprzedawca w sklepie",
+    "pilot samolotu"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-iii6-1",
+   "requirement": "III.6",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Ułóż akapity listu motywacyjnego w logicznej kolejności.",
+   "explanation": "Cel listu → kwalifikacje → dostępność → formuła końcowa.",
+   "items": [
+    {
+     "label": "1.",
+     "options": [
+      "I am writing to apply for…",
+      "I have two years of experience in…",
+      "I would be available for an interview…",
+      "Yours sincerely,"
+     ]
+    },
+    {
+     "label": "2.",
+     "options": [
+      "I am writing to apply for…",
+      "I have two years of experience in…",
+      "I would be available for an interview…",
+      "Yours sincerely,"
+     ]
+    },
+    {
+     "label": "3.",
+     "options": [
+      "I am writing to apply for…",
+      "I have two years of experience in…",
+      "I would be available for an interview…",
+      "Yours sincerely,"
+     ]
+    },
+    {
+     "label": "4.",
+     "options": [
+      "I am writing to apply for…",
+      "I have two years of experience in…",
+      "I would be available for an interview…",
+      "Yours sincerely,"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-iii10-1",
+   "requirement": "III.10",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który fragment pochodzi z tekstu formalnego?",
+   "explanation": "We regret to inform you – typowa formuła urzędowa.",
+   "options": [
+    "We regret to inform you that your application has been unsuccessful.",
+    "Sorry mate, you didn't get the job.",
+    "No luck this time, huh?",
+    "Bad news, I'm afraid – too bad!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-v1-1",
+   "requirement": "V.1",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie najlepiej opisuje miejsce w wypracowaniu?",
+   "explanation": "Opis zyskuje dzięki precyzyjnym przymiotnikom i bogatemu słownictwu.",
+   "options": [
+    "Nestled between rolling hills, the village boasts narrow cobbled streets and a medieval castle.",
+    "The village is nice.",
+    "I went to the village.",
+    "Villages are places."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-v3-1",
+   "requirement": "V.3",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie poprawnie przedstawia fakt z przeszłości, poprzedzający inne wydarzenie?",
+   "explanation": "Past perfect (had started) – czynność wcześniejsza niż inna przeszła.",
+   "options": [
+    "By the time we arrived, the film had already started.",
+    "By the time we arrived, the film already starts.",
+    "By the time we arrive, the film had started.",
+    "When we have arrived, the film started."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-v5-1",
+   "requirement": "V.5",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie poprawnie opisuje upodobanie?",
+   "explanation": "Be into + -ing; be interested (nie interesting) in; like sth very much.",
+   "options": [
+    "I'm really into hiking and spending time outdoors.",
+    "I'm really into hike.",
+    "I'm interesting in hiking.",
+    "I like very much hiking."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-v7-1",
+   "requirement": "V.7",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie wyraża zdenerwowanie?",
+   "explanation": "Furious – wściekły; delighted, thrilled – zachwycony; relieved – czujący ulgę.",
+   "options": [
+    "I was absolutely furious when they cancelled the trip.",
+    "I was delighted when they cancelled the trip.",
+    "I was relieved to hear the news.",
+    "I was thrilled with the result."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-v10-1",
+   "requirement": "V.10",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie poprawnie rozważa sytuację hipotetyczną dotyczącą przeszłości?",
+   "explanation": "Trzeci tryb warunkowy: If + past perfect, would have + III forma.",
+   "options": [
+    "If I had known about the strike, I would have taken a taxi.",
+    "If I knew about the strike, I would take a taxi yesterday.",
+    "If I had known about the strike, I would take a taxi.",
+    "If I would know about the strike, I had taken a taxi."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-v11-1",
+   "requirement": "V.11",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie udziela instrukcji w sposób poprawny i jasny?",
+   "explanation": "Make sure you… – upewnij się, że…",
+   "options": [
+    "Make sure you switch off the lights before leaving the lab.",
+    "Making sure switch off lights before leave lab.",
+    "You switching off the lights.",
+    "Lights switch off you make sure."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii1-1",
+   "requirement": "VII.1",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPrzedstawiasz się na początku rozmowy kwalifikacyjnej:",
+   "explanation": "W sytuacji formalnej: Good morning + pełne imię i nazwisko + cel.",
+   "options": [
+    "Good morning. My name is Anna Nowak and I'm applying for the internship.",
+    "Hiya, I'm Ania, what's up?",
+    "Who are you?",
+    "Nice to meet you too."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii2-1",
+   "requirement": "VII.2",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nChcesz włączyć się do rozmowy grupy osób na konferencji:",
+   "explanation": "Sorry to interrupt, but… – grzeczne włączenie się do rozmowy.",
+   "options": [
+    "Sorry to interrupt, but may I join you?",
+    "Move over, I'm here.",
+    "Stop talking, please.",
+    "What are you looking at?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii4-1",
+   "requirement": "VII.4",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nCzęściowo zgadzasz się z opinią rozmówcy:",
+   "explanation": "I see your point, but… – zgoda częściowa. I couldn't agree more – pełna zgoda.",
+   "options": [
+    "I see your point, but I'm not entirely convinced.",
+    "You're totally wrong.",
+    "Whatever.",
+    "I couldn't agree more."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii5-1",
+   "requirement": "VII.5",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nWyrażasz preferencję:",
+   "explanation": "Would rather + bezokolicznik bez to … than…",
+   "options": [
+    "I'd rather stay in than go out tonight.",
+    "I'd rather to stay in tonight.",
+    "I prefer stay in than go out.",
+    "I'd better staying in."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii6-1",
+   "requirement": "VII.6",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPrzyjaciel awansował w pracy. Gratulujesz:",
+   "explanation": "Congratulations on + rzeczownik/-ing.",
+   "options": [
+    "Congratulations on your promotion! You really deserve it.",
+    "Congratulations for promote!",
+    "Cheer up!",
+    "Better luck next time."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii7-1",
+   "requirement": "VII.7",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nOdrzucasz zaproszenie na ślub, wyrażając żal:",
+   "explanation": "Grzeczna odmowa: I'm terribly sorry, but I won't be able to…",
+   "options": [
+    "I'm terribly sorry, but I won't be able to attend.",
+    "No, thanks, I don't want to.",
+    "I'll be there for sure!",
+    "Why did you invite me?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii9-1",
+   "requirement": "VII.9",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nUdzielasz rady koledze, który ciągle jest zmęczony:",
+   "explanation": "If I were you, I'd… / You should + bezokolicznik bez to / You'd better + bezokolicznik.",
+   "options": [
+    "If I were you, I'd cut down on screen time before bed.",
+    "If I am you, I cut down screen time.",
+    "You had better to sleep.",
+    "You should to go to bed earlier."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii10-1",
+   "requirement": "VII.10",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nOdmawiasz pozwolenia na korzystanie z Twojego laptopa:",
+   "explanation": "I'm afraid you can't… – uprzejma odmowa.",
+   "options": [
+    "I'm afraid you can't – I need it for work right now.",
+    "Of course, go ahead.",
+    "Help yourself.",
+    "Sure, why not?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii11-1",
+   "requirement": "VII.11",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nZakazujesz dzieciom pływania w rzece:",
+   "explanation": "Mustn't – zakaz. Don't have to / needn't – brak konieczności.",
+   "options": [
+    "You mustn't swim in the river – it's dangerous.",
+    "You don't have to swim in the river.",
+    "You needn't swim in the river.",
+    "You might swim in the river."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii12-1",
+   "requirement": "VII.12",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nProsisz sąsiada o przysługę w sposób bardzo uprzejmy:",
+   "explanation": "I was wondering if you could… – bardzo uprzejma prośba.",
+   "options": [
+    "I was wondering if you could water my plants while I'm away.",
+    "Water my plants.",
+    "You will water my plants.",
+    "Can you to water my plants?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii13-1",
+   "requirement": "VII.13",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nWyrażasz ulgę po zdaniu trudnego egzaminu:",
+   "explanation": "What a relief! – co za ulga!",
+   "options": [
+    "What a relief! I thought I'd failed.",
+    "What a pity! I passed.",
+    "How annoying!",
+    "I'm so jealous."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii14-1",
+   "requirement": "VII.14",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPrzepraszasz za spóźnienie w sytuacji formalnej:",
+   "explanation": "I apologise for + -ing – formalne przeprosiny.",
+   "options": [
+    "I apologise for being late.",
+    "Sorry, my bad.",
+    "Oops!",
+    "Whatever, I'm here now."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-vii15-1",
+   "requirement": "VII.15",
+   "topic": "angr-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPiszesz e-mail z reklamacją do sklepu internetowego. Który zwrot jest odpowiedni?",
+   "explanation": "Reklamacja wymaga stylu formalnego i rzeczowego.",
+   "options": [
+    "I am writing to complain about the condition of the item I received.",
+    "Your shop is rubbish!",
+    "Hey guys, the thing's broken lol.",
+    "What's wrong with you?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-viii1-1",
+   "requirement": "VIII.1",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wykres: liczba użytkowników aplikacji wzrosła z 2 mln w 2020 r. do 8 mln w 2024 r. Które zdanie poprawnie to opisuje?",
+   "explanation": "Z 2 do 8 mln – czterokrotny wzrost (quadrupled).",
+   "options": [
+    "The number of users quadrupled between 2020 and 2024.",
+    "The number of users doubled between 2020 and 2024.",
+    "The number of users fell sharply.",
+    "The number of users remained stable."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-viii3-1",
+   "requirement": "VIII.3",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz najlepsze tłumaczenie fragmentu: „Mimo że padało, poszliśmy na spacer.”",
+   "explanation": "Although + zdanie; despite + rzeczownik/-ing (despite the rain).",
+   "options": [
+    "Although it was raining, we went for a walk.",
+    "Despite it was raining, we went for a walk.",
+    "Even it was raining, we went for a walk.",
+    "However it was raining, we went for a walk."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-viii3-2",
+   "requirement": "VIII.3",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz najlepsze tłumaczenie: „Gdybym miał więcej czasu, nauczyłbym się grać na gitarze.”",
+   "explanation": "Drugi tryb warunkowy: If + past simple, would + bezokolicznik.",
+   "options": [
+    "If I had more time, I would learn to play the guitar.",
+    "If I have more time, I would learn to play the guitar.",
+    "If I would have more time, I learn the guitar.",
+    "If I had more time, I will learn to play the guitar."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-viii5-1",
+   "requirement": "VIII.5",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie najlepiej streszcza tekst: „Cities are planting more trees. Trees lower temperatures in summer, absorb pollution and improve residents' mood.”?",
+   "explanation": "Streszczenie uogólnia: chłodzenie i czyste powietrze (środowisko) + nastrój (społeczeństwo).",
+   "options": [
+    "Urban trees bring environmental and social benefits.",
+    "Trees are expensive to plant.",
+    "Summer is hot in cities.",
+    "Residents are often in a bad mood."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-viii6-1",
+   "requirement": "VIII.6",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Przekształć nieformalne zdanie „Can you get back to me ASAP?” na styl formalny:",
+   "explanation": "I would appreciate a prompt reply – formalny odpowiednik.",
+   "options": [
+    "I would appreciate a prompt reply.",
+    "Get back to me now!",
+    "Reply quick, pls.",
+    "Answer me ASAP, OK?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-ix1-1",
+   "requirement": "IX.1",
+   "topic": "angr-rea",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które państwo NIE jest państwem anglojęzycznym (z angielskim jako głównym językiem)?",
+   "explanation": "W Brazylii mówi się po portugalsku.",
+   "options": [
+    "Brazylia",
+    "Australia",
+    "Nowa Zelandia",
+    "Irlandia"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-ix1-2",
+   "requirement": "IX.1",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Co oznacza skrót NHS w Wielkiej Brytanii?",
+   "explanation": "National Health Service – brytyjska publiczna służba zdrowia. Telewizja publiczna to BBC.",
+   "options": [
+    "publiczną służbę zdrowia",
+    "system kolei",
+    "parlament",
+    "telewizję publiczną"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-ix2-1",
+   "requirement": "IX.2",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Amerykański znajomy pyta „How are you?” na powitanie. Jaka reakcja jest kulturowo oczekiwana?",
+   "explanation": "How are you? to często formuła powitalna – oczekuje się krótkiej, grzecznej odpowiedzi.",
+   "options": [
+    "Krótka odpowiedź, np. „Good, thanks. You?”",
+    "Szczegółowa opowieść o swoim zdrowiu",
+    "Brak odpowiedzi",
+    "Pytanie, dlaczego o to pyta"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-xiii1-1",
+   "requirement": "XIII.1",
+   "topic": "angr-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Domyśl się znaczenia: „The film was so dull that half the audience dozed off.” Słowo dull oznacza:",
+   "explanation": "Widzowie przysypiali (dozed off) → film był nudny.",
+   "options": [
+    "nudny",
+    "straszny",
+    "zabawny",
+    "długi"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pr-s-xiv1-1",
+   "requirement": "XIV.1",
+   "topic": "angr-gra",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Polacy często mówią błędnie „I am here since Monday.” Która forma jest poprawna?",
+   "explanation": "Sytuacja trwająca od przeszłości do teraz – present perfect, a nie present simple jak w polskim „jestem tu od poniedziałku”.",
+   "options": [
+    "I have been here since Monday.",
+    "I am here from Monday.",
+    "I was here since Monday.",
+    "I be here since Monday."
+   ],
+   "answer": 0,
+   "no": "–"
+  }
+ ]
+}

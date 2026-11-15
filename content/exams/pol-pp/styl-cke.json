@@ -1,0 +1,668 @@
+{
+ "id": "pol-pp-styl-cke",
+ "subject": "pol-pp",
+ "authored": true,
+ "note": "Pytania autorskie w stylu CKE, napisane dla wymagań z podstawy 2024, których nie sprawdzało żadne zaimportowane zadanie CKE. To nie są zadania z arkuszy.",
+ "tasks": [
+  {
+   "id": "pol-pp-s-i13-1",
+   "requirement": "I.1.3",
+   "topic": "pol-epo",
+   "difficulty": 2,
+   "type": "match",
+   "prompt": "Przyporządkuj utwór do rodzaju literackiego.",
+   "explanation": "Ballada łączy cechy liryki, epiki i dramatu – to gatunek synkretyczny.",
+   "pairs": [
+    [
+     "„Lalka” Bolesława Prusa",
+     "epika"
+    ],
+    [
+     "„Antygona” Sofoklesa",
+     "dramat"
+    ],
+    [
+     "„Pieśń IX” Jana Kochanowskiego",
+     "liryka"
+    ],
+    [
+     "„Romantyczność” Adama Mickiewicza",
+     "utwór synkretyczny (ballada)"
+    ]
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-i13-2",
+   "requirement": "I.1.3",
+   "topic": "pol-epo",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "„Potop” Henryka Sienkiewicza to przykład gatunku:",
+   "explanation": "Akcja „Potopu” rozgrywa się w czasie potopu szwedzkiego (1655–1660) – to powieść historyczna, część Trylogii.",
+   "options": [
+    "powieść historyczna",
+    "tragedia antyczna",
+    "epos rycerski",
+    "nowela"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-i111-1",
+   "requirement": "I.1.11",
+   "topic": "pol-epo",
+   "difficulty": 3,
+   "type": "mc",
+   "prompt": "Motyw ofiary w imię wartości wyższych łączy „Antygonę” z utworem Adama Mickiewicza poznanym w szkole podstawowej. Z którym?",
+   "explanation": "W „Reducie Ordona” obrońcy giną za ojczyznę – podobnie Antygona przedkłada prawo boskie nad życie.",
+   "options": [
+    "„Reduta Ordona”",
+    "„Pani Twardowska”",
+    "„Świtezianka”",
+    "„Lilije”"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-i26-1",
+   "requirement": "I.2.6",
+   "topic": "pol-tek",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń, czy podany tekst należy do kultury popularnej.",
+   "explanation": "Kultura popularna jest masowa, rozrywkowa i schematyczna; kultura wysoka – wymagająca, nowatorska, o złożonych znaczeniach.",
+   "statements": [
+    "Serial kryminalny emitowany w telewizji dla szerokiej widowni.",
+    "„Wesele” Stanisława Wyspiańskiego.",
+    "Przebój muzyki pop z listy przebojów."
+   ],
+   "answer": [
+    true,
+    false,
+    true
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii13-1",
+   "requirement": "II.1.3",
+   "topic": "pol-jez",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która konstrukcja składniowa najwyraźniej wprowadza argument w wypowiedzi?",
+   "explanation": "Zdanie złożone podrzędnie przyczynowe („ponieważ…”) uzasadnia tezę – ma charakter argumentacyjny.",
+   "options": [
+    "Uważam, że należy chronić lasy, ponieważ produkują tlen.",
+    "Las jest zielony.",
+    "Wczoraj byłam w lesie.",
+    "Czy pójdziesz do lasu?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii14-1",
+   "requirement": "II.1.4",
+   "topic": "pol-jez",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "W zdaniu „Wolność – tylko o nią walczyli” zmiana szyku wyrazów służy przede wszystkim:",
+   "explanation": "Przestawny szyk (inwersja) i wysunięcie słowa na początek podkreślają jego wagę.",
+   "options": [
+    "wyeksponowaniu najważniejszego słowa",
+    "ukryciu znaczenia zdania",
+    "nadaniu wypowiedzi charakteru urzędowego",
+    "skróceniu wypowiedzi"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii21-1",
+   "requirement": "II.2.1",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Stylizacja to:",
+   "explanation": "Styl to sposób ukształtowania wypowiedzi; stylizacja – świadome nadanie tekstowi cech innego stylu.",
+   "options": [
+    "celowe naśladowanie w tekście cech innego stylu (np. dawnego języka, gwary)",
+    "błąd stylistyczny polegający na powtórzeniach",
+    "indywidualny sposób pisania autora",
+    "użycie słów obcych bez potrzeby"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii23-1",
+   "requirement": "II.2.3",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "match",
+   "prompt": "Przyporządkuj rodzaj stylizacji do przykładu.",
+   "explanation": "Archaizacja – dawny język; dialektyzacja – gwara (mazurzenie: „juz”); kolokwializacja – język potoczny.",
+   "pairs": [
+    [
+     "archaizacja",
+     "„Rzekł tedy rycerz onemu chłopu…”"
+    ],
+    [
+     "dialektyzacja",
+     "„Pódźcie, ludzie, juz wiecór”"
+    ],
+    [
+     "kolokwializacja",
+     "„No i wiesz, ogólnie spoko było”"
+    ],
+    [
+     "stylizacja biblijna",
+     "„I rzekł Pan do ludu swego…”"
+    ]
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii24-1",
+   "requirement": "II.2.4",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji o modzie językowej.",
+   "explanation": "Modne słowa wypierają synonimy i rozmywają znaczenie – zubażają wypowiedź.",
+   "statements": [
+    "Nadużywanie słowa „generalnie” w wielu kontekstach jest przejawem mody językowej.",
+    "Moda językowa zawsze wzbogaca język precyzyjnymi określeniami."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii25-1",
+   "requirement": "II.2.5",
+   "topic": "pol-kul",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które słowo jest zapożyczeniem z języka angielskiego?",
+   "explanation": "„Weekend” (ang. week + end) to zapożyczenie właściwe; pozostałe wyrazy są rodzime.",
+   "options": [
+    "weekend",
+    "chleb",
+    "okno",
+    "rzeka"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii25-2",
+   "requirement": "II.2.5",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Jaką funkcję pełnią zapożyczenia typu „marketing”, „smartfon”?",
+   "explanation": "Zapożyczenia uzasadnione wypełniają luki w słownictwie.",
+   "options": [
+    "nazywają nowe zjawiska i przedmioty, dla których brakowało polskich nazw",
+    "zastępują wszystkie polskie wyrazy",
+    "są zawsze błędem językowym",
+    "służą wyłącznie archaizacji"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii31-1",
+   "requirement": "II.3.1",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Znak językowy to:",
+   "explanation": "Znak językowy ma dwie strony: znaczący (forma) i znaczony (treść).",
+   "options": [
+    "połączenie formy (brzmienia lub zapisu) i znaczenia",
+    "wyłącznie litera alfabetu",
+    "dowolny dźwięk przyrody",
+    "znak interpunkcyjny"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii32-1",
+   "requirement": "II.3.2",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "match",
+   "prompt": "Przyporządkuj element aktu komunikacji do przykładu z sytuacji: uczennica pisze SMS do koleżanki po polsku.",
+   "explanation": "Akt komunikacji: nadawca, odbiorca, komunikat, kod, kanał i kontekst.",
+   "pairs": [
+    [
+     "nadawca",
+     "uczennica"
+    ],
+    [
+     "odbiorca",
+     "koleżanka"
+    ],
+    [
+     "kod",
+     "język polski"
+    ],
+    [
+     "kanał",
+     "telefon komórkowy (SMS)"
+    ]
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii33-1",
+   "requirement": "II.3.3",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "match",
+   "prompt": "Przyporządkuj tekst do jego dominującej funkcji.",
+   "explanation": "Funkcja informatywna przekazuje wiadomości, impresywna wpływa na odbiorcę, ekspresywna wyraża emocje nadawcy, poetycka eksponuje formę.",
+   "pairs": [
+    [
+     "„Pociąg odjeżdża o 8.15 z peronu 2.”",
+     "informatywna"
+    ],
+    [
+     "„Kup teraz, zanim będzie za późno!”",
+     "impresywna (perswazyjna)"
+    ],
+    [
+     "„Ach, jak cudownie!”",
+     "ekspresywna"
+    ],
+    [
+     "wiersz z rytmem i metaforami",
+     "poetycka"
+    ]
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii35-1",
+   "requirement": "II.3.5",
+   "topic": "pol-kul",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które zdanie jest właściwe w oficjalnym e-mailu do dyrektora szkoły?",
+   "explanation": "W sytuacji oficjalnej używa się odmiany oficjalnej polszczyzny i zwrotów grzecznościowych.",
+   "options": [
+    "Szanowny Panie Dyrektorze, zwracam się z prośbą o…",
+    "Cześć, mam sprawę…",
+    "Siema, czy mogę…",
+    "Hej, Panie Dyrektorze!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii36-1",
+   "requirement": "II.3.6",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń prawdziwość informacji.",
+   "explanation": "Innowacja jest celowa i pełni funkcję (np. artystyczną); błąd to nieświadome naruszenie normy.",
+   "statements": [
+    "Neologizm artystyczny w wierszu jest zamierzoną innowacją językową.",
+    "Każde odstępstwo od normy językowej jest innowacją."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii37-1",
+   "requirement": "II.3.7",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która wypowiedź narusza zasady etyki słowa?",
+   "explanation": "Etyka słowa wymaga prawdomówności i rzetelności – oskarżanie bez dowodów ją narusza.",
+   "options": [
+    "„Nie mam dowodów, ale na pewno to on ukradł”",
+    "„Nie zgadzam się, bo dane pokazują coś innego”",
+    "„Proszę o wyjaśnienie tej decyzji”",
+    "„Szanuję twoje zdanie, choć mam inne”"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii38-1",
+   "requirement": "II.3.8",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która wypowiedź zawiera stereotyp językowy?",
+   "explanation": "Stereotyp to uproszczony, uogólniony sąd o grupie ludzi, utrwalony w języku.",
+   "options": [
+    "„Wszyscy Szkoci są skąpi.”",
+    "„Szkocja leży na północy Wielkiej Brytanii.”",
+    "„W Edynburgu odbywa się festiwal teatralny.”",
+    "„Szkoci mają własny parlament.”"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii38-2",
+   "requirement": "II.3.8",
+   "topic": "pol-kul",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń, czy podany zabieg jest przykładem manipulacji językowej.",
+   "explanation": "Eufemizm ukrywający niekorzystną treść to typowy zabieg manipulacyjny.",
+   "statements": [
+    "Nazywanie podwyżki cen „dostosowaniem cen do realiów rynkowych”.",
+    "Podanie źródła danych statystycznych."
+   ],
+   "answer": [
+    true,
+    false
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii39-1",
+   "requirement": "II.3.9",
+   "topic": "pol-kul",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Która forma zakończenia jest właściwa w oficjalnym piśmie?",
+   "explanation": "„Z poważaniem” to zwrot grzecznościowy stosowany w korespondencji oficjalnej.",
+   "options": [
+    "Z poważaniem",
+    "Buziaki",
+    "Nara",
+    "Pozdro"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-ii43-1",
+   "requirement": "II.4.3",
+   "topic": "pol-jez",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Celowy błąd ortograficzny w wypowiedzi bohatera powieści służy najczęściej:",
+   "explanation": "Zamierzony błąd w tekście artystycznym to środek stylistyczny – np. charakteryzuje mówiącego.",
+   "options": [
+    "charakterystyce postaci (np. jej wykształcenia lub pochodzenia)",
+    "pomyłce drukarskiej",
+    "uproszczeniu tekstu",
+    "nadaniu tekstowi charakteru naukowego"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii12-1",
+   "requirement": "III.1.2",
+   "topic": "pol-wyp",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Jaki cel perswazyjny ma hasło „Tylko teraz – druga para gratis!”?",
+   "explanation": "Ograniczenie czasowe i „gratis” mają wywołać natychmiastowe działanie odbiorcy.",
+   "options": [
+    "nakłonić odbiorcę do szybkiego zakupu",
+    "poinformować o historii firmy",
+    "wyrazić smutek nadawcy",
+    "opisać wygląd butów"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii13-1",
+   "requirement": "III.1.3",
+   "topic": "pol-wyp",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Która kolejność elementów jest typowa dla kompozycji tekstu retorycznego?",
+   "explanation": "Klasyczna kompozycja: teza we wstępie, argumentacja w rozwinięciu, wnioski lub apel w zakończeniu.",
+   "options": [
+    "wstęp z tezą – argumenty – zakończenie (podsumowanie, apel)",
+    "argumenty – teza – wstęp",
+    "zakończenie – wstęp – teza",
+    "tylko lista przykładów"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii14-1",
+   "requirement": "III.1.4",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "match",
+   "prompt": "Przyporządkuj środek retoryczny do jego funkcji w przemówieniu.",
+   "explanation": "Środki retoryczne służą przekonaniu i poruszeniu odbiorcy.",
+   "pairs": [
+    [
+     "pytanie retoryczne",
+     "skłania słuchacza do refleksji, sugerując oczywistą odpowiedź"
+    ],
+    [
+     "wyliczenie",
+     "nagromadza argumenty i wzmacnia ich siłę"
+    ],
+    [
+     "wykrzyknienie",
+     "wyraża emocje i podkreśla wagę słów"
+    ],
+    [
+     "paralelizm składniowy",
+     "rytmizuje wypowiedź i ułatwia zapamiętanie"
+    ]
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii15-1",
+   "requirement": "III.1.5",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Określ rodzaj argumentu.",
+   "explanation": "Argumenty pozamerytoryczne odwołują się do emocji, litości, autorytetu tłumu – nie do rzeczy.",
+   "items": [
+    {
+     "label": "„Badania WHO pokazują, że ruch zmniejsza ryzyko chorób serca.”",
+     "options": [
+      "merytoryczny",
+      "pozamerytoryczny"
+     ]
+    },
+    {
+     "label": "„Zrób to dla mnie, przecież jestem twoją przyjaciółką.”",
+     "options": [
+      "merytoryczny",
+      "pozamerytoryczny"
+     ]
+    },
+    {
+     "label": "„Wszyscy tak robią, więc ty też powinieneś.”",
+     "options": [
+      "merytoryczny",
+      "pozamerytoryczny"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    1
+   ],
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii17-1",
+   "requirement": "III.1.7",
+   "topic": "pol-wyp",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Czym dyskusja różni się od kłótni?",
+   "explanation": "Dyskusja to rzeczowa wymiana poglądów; kłótnia – emocjonalny konflikt, często z atakami osobistymi.",
+   "options": [
+    "W dyskusji strony rzeczowo wymieniają argumenty, szanując się nawzajem",
+    "W dyskusji nie wolno mieć innego zdania",
+    "Kłótnia zawsze prowadzi do porozumienia",
+    "Dyskusja polega na obrażaniu przeciwnika"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii18-1",
+   "requirement": "III.1.8",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Hasło reklamowe „Z nami poczujesz się szczęśliwy” składa obietnicę, która:",
+   "explanation": "Obietnica emocjonalna nie ma wymiaru pragmatycznego – nie da się jej zweryfikować.",
+   "options": [
+    "odwołuje się do emocji i jest niemożliwa do sprawdzenia",
+    "opisuje mierzalne cechy produktu",
+    "jest gwarancją prawną",
+    "informuje o cenie"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii19-1",
+   "requirement": "III.1.9",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który zabieg jest chwytem erystycznym?",
+   "explanation": "Argument ad personam – atak na osobę zamiast na jej argumenty – to chwyt erystyczny, nieetyczny.",
+   "options": [
+    "„Nie słuchajcie go, przecież oblał maturę z matematyki.”",
+    "„Przedstawię trzy argumenty na poparcie tezy.”",
+    "„Proszę o doprecyzowanie twojego stanowiska.”",
+    "„Zgadzam się z częścią twoich uwag.”"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii23-1",
+   "requirement": "III.2.3",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która reakcja na agresję językową w dyskusji jest najwłaściwsza?",
+   "explanation": "Pytania o uzasadnienie przywracają rzeczowy charakter rozmowy i nie eskalują konfliktu.",
+   "options": [
+    "„Co dokładnie masz na myśli? Uzasadnij, proszę, swoje zdanie.”",
+    "„Sam jesteś głupi!”",
+    "Milczące wyjście z sali bez słowa",
+    "Podniesienie głosu i przerwanie rozmówcy"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii24-1",
+   "requirement": "III.2.4",
+   "topic": "pol-wyp",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które zdanie jest poprawnie zredagowanym uzasadnieniem?",
+   "explanation": "Uzasadnienie łączy stanowisko z rzeczowym argumentem w poprawnie zbudowanym zdaniu.",
+   "options": [
+    "Popieram projekt, ponieważ zmniejszy korki w centrum miasta.",
+    "Popieram projekt, bo tak.",
+    "Projekt, ponieważ korki, popieram.",
+    "Bo korki – popieram – projekt."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii26-1",
+   "requirement": "III.2.6",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Czym parafraza różni się od streszczenia?",
+   "explanation": "Streszczenie wybiera najważniejsze treści; parafraza przekształca tekst, zachowując jego sens.",
+   "options": [
+    "Parafraza oddaje treść tekstu innymi słowami w podobnej długości, streszczenie skraca tekst do najważniejszych informacji",
+    "Parafraza jest zawsze krótsza od streszczenia",
+    "Streszczenie zawiera opinię autora streszczenia",
+    "Nie ma żadnej różnicy"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii28-1",
+   "requirement": "III.2.8",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która część przemówienia służy zjednaniu sobie słuchaczy?",
+   "explanation": "Wstęp (exordium) ma pozyskać uwagę i życzliwość słuchaczy.",
+   "options": [
+    "wstęp (np. zwrot do słuchaczy, anegdota)",
+    "rozwinięcie argumentów",
+    "zakończenie z podsumowaniem",
+    "przypisy"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii29-1",
+   "requirement": "III.2.9",
+   "topic": "pol-wyp",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Co powinno znaleźć się w interpretacji utworu?",
+   "explanation": "Interpretacja to hipoteza o sensie utworu uzasadniona odwołaniami do tekstu i kontekstów.",
+   "options": [
+    "propozycja odczytania sensu utworu poparta argumentami z tekstu i kontekstów",
+    "wyłącznie streszczenie fabuły",
+    "biografia autora bez odniesień do tekstu",
+    "lista środków stylistycznych bez wyjaśnienia ich funkcji"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "pol-pp-s-iii210-1",
+   "requirement": "III.2.10",
+   "topic": "pol-wyp",
+   "difficulty": 3,
+   "type": "mc",
+   "prompt": "Które zdanie wymaga poprawienia podczas redakcji tekstu?",
+   "explanation": "Imiesłów na -ąc wymaga tego samego podmiotu co orzeczenie. Deszcz nie „wracał do domu”.",
+   "options": [
+    "„Wracając do domu, zaczął padać deszcz.”",
+    "„Wracając do domu, zmokłem.”",
+    "„Gdy wracałem do domu, zaczął padać deszcz.”",
+    "„Zaczął padać deszcz, kiedy wracałem do domu.”"
+   ],
+   "answer": 0,
+   "no": "–"
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "id": "mat-pp-styl-cke",
+ "subject": "mat-pp",
+ "authored": true,
+ "note": "Pytania autorskie w stylu CKE, napisane dla wymagań z podstawy 2024, których nie sprawdzało żadne zaimportowane zadanie CKE. To nie są zadania z arkuszy.",
+ "tasks": [
+  {
+   "id": "mat-pp-s-i5-1",
+   "requirement": "I.5",
+   "topic": "matp-lic",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Która nierówność jest prawdziwa?",
+   "explanation": "Dla podstawy z przedziału (0, 1) potęga maleje, gdy wykładnik rośnie: (0,5)³ = 0,125 < 0,25 = (0,5)². Dla podstawy > 1 rośnie.",
+   "options": [
+    "(0,5)³ < (0,5)²",
+    "2⁻³ > 2⁻²",
+    "3⁰ > 3¹",
+    "(1/4)⁵ > (1/4)⁴"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-i5-2",
+   "requirement": "I.5",
+   "topic": "matp-lic",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Liczby a = 2^0,5, b = 2^1,5, c = 2^−1 uporządkowane rosnąco to:",
+   "explanation": "Podstawa 2 > 1, więc większy wykładnik daje większą potęgę: −1 < 0,5 < 1,5.",
+   "options": [
+    "c, a, b",
+    "a, b, c",
+    "b, a, c",
+    "c, b, a"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-ii3-1",
+   "requirement": "II.3",
+   "topic": "matp-wyr",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wyrażenie 6x³ − 9x² + 3x po wyłączeniu wspólnego czynnika przed nawias ma postać:",
+   "explanation": "Największy wspólny czynnik to 3x. Pozostałe postaci są albo niepełne (można wyłączyć więcej), albo błędne.",
+   "options": [
+    "3x(2x² − 3x + 1)",
+    "3(2x³ − 3x² + x)",
+    "x(6x² − 9x + 3)",
+    "3x²(2x − 3 + x)"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-ii3-2",
+   "requirement": "II.3",
+   "topic": "matp-wyr",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wyrażenie 4a²b − 8ab² jest równe:",
+   "explanation": "Wspólny czynnik 4ab: 4a²b : 4ab = a, 8ab² : 4ab = 2b.",
+   "options": [
+    "4ab(a − 2b)",
+    "4a(ab − 2b)",
+    "4ab(a − 8b)",
+    "8ab(a − b)"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-iii2-1",
+   "requirement": "III.2",
+   "topic": "matp-row",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Równanie 2(x − 3) = 2x − 6:",
+   "explanation": "2x − 6 = 2x − 6 jest prawdziwe dla każdego x – to równanie tożsamościowe.",
+   "options": [
+    "ma nieskończenie wiele rozwiązań",
+    "nie ma rozwiązań",
+    "ma dokładnie jedno rozwiązanie x = 3",
+    "ma dokładnie jedno rozwiązanie x = 0"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-iii2-2",
+   "requirement": "III.2",
+   "topic": "matp-row",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Zbiorem rozwiązań nierówności 3x + 1 > 3(x + 1) jest:",
+   "explanation": "3x + 1 > 3x + 3 ⇔ 1 > 3 – fałsz dla każdego x. Nierówność jest sprzeczna.",
+   "options": [
+    "zbiór pusty",
+    "ℝ",
+    "(1, +∞)",
+    "(−∞, 1)"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-v1-1",
+   "requirement": "V.1",
+   "topic": "matp-flin",
+   "difficulty": 2,
+   "type": "tf",
+   "prompt": "Oceń, czy podane przyporządkowanie jest funkcją.",
+   "explanation": "Funkcja przypisuje każdemu argumentowi dokładnie jedną wartość. Dla y² = x są dwie wartości (np. x = 4 → y = 2 lub −2).",
+   "statements": [
+    "Każdemu uczniowi klasy przyporządkowujemy jego datę urodzenia.",
+    "Każdej dodatniej liczbie x przyporządkowujemy liczbę y taką, że y² = x.",
+    "Każdej liczbie rzeczywistej x przyporządkowujemy liczbę x² + 1."
+   ],
+   "answer": [
+    true,
+    false,
+    true
+   ],
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-v8-1",
+   "requirement": "V.8",
+   "topic": "matp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wykresem funkcji f(x) = −2(x − 3)² + 5 jest parabola, która:",
+   "explanation": "W postaci kanonicznej a(x − p)² + q: a = −2 < 0 (ramiona w dół), wierzchołek (p, q) = (3, 5).",
+   "options": [
+    "ma ramiona skierowane w dół i wierzchołek w punkcie (3, 5)",
+    "ma ramiona skierowane w górę i wierzchołek w punkcie (3, 5)",
+    "ma ramiona skierowane w dół i wierzchołek w punkcie (−3, 5)",
+    "ma ramiona skierowane w górę i wierzchołek w punkcie (−3, −5)"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-v8-2",
+   "requirement": "V.8",
+   "topic": "matp-fun",
+   "difficulty": 2,
+   "type": "num",
+   "prompt": "Funkcja kwadratowa f(x) = x² + bx + 4 ma wierzchołek o pierwszej współrzędnej p = 3. Oblicz b.",
+   "explanation": "p = −b/(2a) = −b/2 = 3, więc b = −6.",
+   "answer": -6,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-v8-3",
+   "requirement": "V.8",
+   "topic": "matp-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Funkcja f(x) = (x − 1)(x + 5) ma miejsca zerowe:",
+   "explanation": "Postać iloczynowa a(x − x₁)(x − x₂): x₁ = 1, x₂ = −5.",
+   "options": [
+    "1 i −5",
+    "−1 i 5",
+    "1 i 5",
+    "−1 i −5"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-viii2-1",
+   "requirement": "VIII.2",
+   "topic": "matp-geo",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Trójkąt o bokach 5, 6 i 8 jest:",
+   "explanation": "Porównaj kwadrat najdłuższego boku z sumą kwadratów pozostałych: 64 > 25 + 36 = 61, więc kąt naprzeciw boku 8 jest rozwarty.",
+   "options": [
+    "rozwartokątny",
+    "prostokątny",
+    "ostrokątny",
+    "nie istnieje"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "mat-pp-s-viii2-2",
+   "requirement": "VIII.2",
+   "topic": "matp-geo",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Trójkąt o bokach 7, 24 i 25 jest:",
+   "explanation": "49 + 576 = 625 = 25² – z twierdzenia odwrotnego do twierdzenia Pitagorasa trójkąt jest prostokątny.",
+   "options": [
+    "prostokątny",
+    "rozwartokątny",
+    "ostrokątny",
+    "równoramienny"
+   ],
+   "answer": 0,
+   "no": "–"
+  }
+ ]
+}

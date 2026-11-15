@@ -1,0 +1,979 @@
+{
+ "id": "hisz-pp-styl-cke",
+ "subject": "hisz-pp",
+ "authored": true,
+ "note": "Pytania autorskie w stylu CKE, napisane dla wymagań z podstawy 2024, których nie sprawdzało żadne zaimportowane zadanie CKE. To nie są zadania z arkuszy.",
+ "tasks": [
+  {
+   "id": "hisz-pp-s-i1-1",
+   "requirement": "I.1",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMi hermana es muy ______: siempre ayuda a los demás.",
+   "explanation": "Generosa – hojna, pomocna. Perezosa – leniwa, egoísta – samolubna.",
+   "options": [
+    "generosa",
+    "perezosa",
+    "antipática",
+    "egoísta"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i1-2",
+   "requirement": "I.1",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMi abuelo tiene el pelo ______ y lleva gafas.",
+   "explanation": "Pelo canoso – siwe włosy.",
+   "options": [
+    "canoso",
+    "alto",
+    "delgado",
+    "joven"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i2-1",
+   "requirement": "I.2",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nGuardamos la leche en la ______.",
+   "explanation": "Nevera – lodówka. Lavadora – pralka.",
+   "options": [
+    "nevera",
+    "ducha",
+    "estantería",
+    "lavadora"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i2-2",
+   "requirement": "I.2",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nVivimos en un piso en la tercera ______.",
+   "explanation": "Planta (también piso) – piętro.",
+   "options": [
+    "planta",
+    "escalera",
+    "pared",
+    "ventana"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i3-1",
+   "requirement": "I.3",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMañana tengo un examen de matemáticas y tengo que ______ mucho.",
+   "explanation": "Estudiar – uczyć się. Aprobar – zdać, suspender – oblać.",
+   "options": [
+    "estudiar",
+    "aprobar",
+    "suspender",
+    "enseñar"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i3-2",
+   "requirement": "I.3",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nSi no entiendes una palabra, búscala en el ______.",
+   "explanation": "Diccionario – słownik.",
+   "options": [
+    "diccionario",
+    "horario",
+    "recreo",
+    "pupitre"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i4-1",
+   "requirement": "I.4",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nUn ______ trabaja en un hospital y cuida a los enfermos.",
+   "explanation": "Enfermero – pielęgniarz.",
+   "options": [
+    "enfermero",
+    "abogado",
+    "fontanero",
+    "cocinero"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i4-2",
+   "requirement": "I.4",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nBusco un trabajo a tiempo ______ para las vacaciones.",
+   "explanation": "Trabajo a tiempo parcial – praca na część etatu.",
+   "options": [
+    "parcial",
+    "libre",
+    "completo de",
+    "corto"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i5-1",
+   "requirement": "I.5",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nLos sábados ______ tarde porque no tengo clases.",
+   "explanation": "Levantarse tarde – wstawać późno (w sobotę bez lekcji).",
+   "options": [
+    "me levanto",
+    "me acuesto pronto",
+    "me ducho de prisa",
+    "me visto el uniforme"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i6-1",
+   "requirement": "I.6",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\n¿Me pones un ______ de agua, por favor?",
+   "explanation": "Un vaso de agua – szklanka wody.",
+   "options": [
+    "vaso",
+    "plato",
+    "tenedor",
+    "cuchillo"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i6-2",
+   "requirement": "I.6",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nEsta sopa está muy ______: le has puesto demasiada sal.",
+   "explanation": "Salada – słona.",
+   "options": [
+    "salada",
+    "dulce",
+    "fría",
+    "picante"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i7-1",
+   "requirement": "I.7",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\n¿Puedo pagar con ______?",
+   "explanation": "Pagar con tarjeta – płacić kartą. Talla – rozmiar.",
+   "options": [
+    "tarjeta",
+    "talla",
+    "caja",
+    "rebaja"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i7-2",
+   "requirement": "I.7",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nEstos zapatos me quedan pequeños. ¿Tiene una ______ más grande?",
+   "explanation": "Talla / número – rozmiar.",
+   "options": [
+    "talla",
+    "tienda",
+    "moneda",
+    "cuenta"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i8-1",
+   "requirement": "I.8",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nNuestro vuelo ha sido ______ por la tormenta.",
+   "explanation": "Cancelado – odwołany.",
+   "options": [
+    "cancelado",
+    "reservado",
+    "aterrizado",
+    "facturado"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i8-2",
+   "requirement": "I.8",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nHemos reservado una habitación ______ con vistas al mar.",
+   "explanation": "Habitación doble – pokój dwuosobowy.",
+   "options": [
+    "doble",
+    "billete",
+    "maleta",
+    "andén"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i9-1",
+   "requirement": "I.9",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nEl ______ aplaudió al final de la obra de teatro.",
+   "explanation": "Público – publiczność. Escenario – scena.",
+   "options": [
+    "público",
+    "escenario",
+    "actor",
+    "guion"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i10-1",
+   "requirement": "I.10",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nEl partido terminó en ______: dos a dos.",
+   "explanation": "Empate – remis.",
+   "options": [
+    "empate",
+    "victoria",
+    "gol",
+    "árbitro"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i11-1",
+   "requirement": "I.11",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMe duele mucho la ______; creo que tengo gripe.",
+   "explanation": "Me duele la garganta – boli mnie gardło (objaw grypy).",
+   "options": [
+    "garganta",
+    "rodilla",
+    "uña",
+    "pierna rota"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i11-2",
+   "requirement": "I.11",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nEl médico me ha dado una ______ para comprar las pastillas.",
+   "explanation": "Receta – recepta.",
+   "options": [
+    "receta",
+    "farmacia",
+    "herida",
+    "fiebre"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i12-1",
+   "requirement": "I.12",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMi móvil no tiene ______. Tengo que cargarlo.",
+   "explanation": "Batería – bateria; cargar – ładować.",
+   "options": [
+    "batería",
+    "pantalla",
+    "teclado",
+    "ratón"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i13-1",
+   "requirement": "I.13",
+   "topic": "hisz-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nHoy hace ______: lleva el paraguas.",
+   "explanation": "Parasol bierzemy przy złej pogodzie: hace mal tiempo.",
+   "options": [
+    "mal tiempo",
+    "sol",
+    "calor",
+    "buen tiempo"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i13-2",
+   "requirement": "I.13",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMuchos animales están en peligro de ______.",
+   "explanation": "En peligro de extinción – zagrożony wyginięciem.",
+   "options": [
+    "extinción",
+    "contaminación",
+    "reciclaje",
+    "selva"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i14-1",
+   "requirement": "I.14",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nLa policía ha detenido al ______ que robó el banco.",
+   "explanation": "Ladrón – złodziej. Testigo – świadek.",
+   "options": [
+    "ladrón",
+    "testigo",
+    "juez",
+    "víctima"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-i14-2",
+   "requirement": "I.14",
+   "topic": "hisz-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMiles de personas participaron en una ______ contra la nueva ley.",
+   "explanation": "Manifestación – demonstracja.",
+   "options": [
+    "manifestación",
+    "elección",
+    "multa",
+    "ONG"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-ii1-1",
+   "requirement": "II.1",
+   "topic": "hisz-lis",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Słyszysz polecenie: „Abrid el libro en la página treinta y haced el ejercicio dos.” Co należy zrobić?",
+   "explanation": "Abrid – otwórzcie; página treinta – strona 30; ejercicio dos – ćwiczenie 2.",
+   "options": [
+    "Otworzyć książkę na stronie 30 i zrobić ćwiczenie 2",
+    "Otworzyć książkę na stronie 2 i zrobić ćwiczenie 30",
+    "Zamknąć książkę na stronie 30",
+    "Napisać 32 ćwiczenia"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-ii6-1",
+   "requirement": "II.6",
+   "topic": "hisz-lis",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Ułóż wydarzenia z relacji w kolejności.",
+   "explanation": "Kolejność wskazują słowa primero, después, luego, al final.",
+   "items": [
+    {
+     "label": "1.",
+     "options": [
+      "Compré los billetes por internet.",
+      "Llegué a la estación.",
+      "Subí al tren.",
+      "Llegué a Madrid."
+     ]
+    },
+    {
+     "label": "2.",
+     "options": [
+      "Compré los billetes por internet.",
+      "Llegué a la estación.",
+      "Subí al tren.",
+      "Llegué a Madrid."
+     ]
+    },
+    {
+     "label": "3.",
+     "options": [
+      "Compré los billetes por internet.",
+      "Llegué a la estación.",
+      "Subí al tren.",
+      "Llegué a Madrid."
+     ]
+    },
+    {
+     "label": "4.",
+     "options": [
+      "Compré los billetes por internet.",
+      "Llegué a la estación.",
+      "Subí al tren.",
+      "Llegué a Madrid."
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-ii8-1",
+   "requirement": "II.8",
+   "topic": "hisz-lis",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Styl formalny czy nieformalny?",
+   "explanation": "Tío, ¿qué tal? – potocznie. Señora + forma usted (ayudarla) – formalnie.",
+   "items": [
+    {
+     "label": "„¡Hola, tío! ¿Qué tal?”",
+     "options": [
+      "formalny",
+      "nieformalny"
+     ]
+    },
+    {
+     "label": "„Buenos días, señora. ¿En qué puedo ayudarla?”",
+     "options": [
+      "formalny",
+      "nieformalny"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0
+   ],
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-iii6-1",
+   "requirement": "III.6",
+   "topic": "hisz-rea",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Ułóż kroki przepisu na tortillę w odpowiedniej kolejności.",
+   "explanation": "Obierz i pokrój → usmaż ziemniaki → wymieszaj z jajkami → zetnij tortillę na patelni.",
+   "items": [
+    {
+     "label": "1.",
+     "options": [
+      "Pela y corta las patatas.",
+      "Fríe las patatas en aceite.",
+      "Mezcla las patatas con los huevos batidos.",
+      "Cuaja la tortilla en la sartén."
+     ]
+    },
+    {
+     "label": "2.",
+     "options": [
+      "Pela y corta las patatas.",
+      "Fríe las patatas en aceite.",
+      "Mezcla las patatas con los huevos batidos.",
+      "Cuaja la tortilla en la sartén."
+     ]
+    },
+    {
+     "label": "3.",
+     "options": [
+      "Pela y corta las patatas.",
+      "Fríe las patatas en aceite.",
+      "Mezcla las patatas con los huevos batidos.",
+      "Cuaja la tortilla en la sartén."
+     ]
+    },
+    {
+     "label": "4.",
+     "options": [
+      "Pela y corta las patatas.",
+      "Fríe las patatas en aceite.",
+      "Mezcla las patatas con los huevos batidos.",
+      "Cuaja la tortilla en la sartén."
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-iii9-1",
+   "requirement": "III.9",
+   "topic": "hisz-rea",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Który fragment pochodzi z listu formalnego?",
+   "explanation": "Estimado señor + forma usted (Le escribo) – styl formalny.",
+   "options": [
+    "Estimado señor: Le escribo para solicitar información sobre el curso.",
+    "¡Hola, Marta! ¿Qué tal todo?",
+    "Un abrazo muy fuerte, guapa.",
+    "¡Nos vemos, chao!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-v4-1",
+   "requirement": "V.4",
+   "topic": "hisz-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Którym zdaniem wyrazisz plany na przyszłość?",
+   "explanation": "Ir a + bezokolicznik – plan na przyszłość.",
+   "options": [
+    "El año que viene voy a estudiar en Barcelona.",
+    "El año pasado estudié en Barcelona.",
+    "Estudio en Barcelona desde 2020.",
+    "Estudiaba en Barcelona de niña."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-v5-1",
+   "requirement": "V.5",
+   "topic": "hisz-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zdanie poprawnie opisuje upodobanie?",
+   "explanation": "Me encanta + bezokolicznik (czasownik w 3. os. lp.).",
+   "options": [
+    "Me encanta leer novelas de misterio.",
+    "Yo encanto leer novelas.",
+    "Me encantan leer novelas.",
+    "Me gusto leer novelas."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-v10-1",
+   "requirement": "V.10",
+   "topic": "hisz-wri",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które zdanie udziela wskazówki, jak dojść do celu?",
+   "explanation": "Instrukcje – tryb rozkazujący: sigue, gira.",
+   "options": [
+    "Sigue todo recto y gira a la derecha en el semáforo.",
+    "Seguí todo recto ayer.",
+    "El semáforo está rojo.",
+    "Girar es difícil."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-v11-1",
+   "requirement": "V.11",
+   "topic": "hisz-wri",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które zdanie najlepiej rozpoczyna e-mail do przyjaciółki?",
+   "explanation": "Do przyjaciółki – nieformalne powitanie.",
+   "options": [
+    "¡Hola, Lucía! ¿Cómo estás?",
+    "Muy señora mía:",
+    "Estimados señores:",
+    "Atentamente,"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-v12-1",
+   "requirement": "V.12",
+   "topic": "hisz-wri",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które zakończenie pasuje do listu formalnego?",
+   "explanation": "Atentamente – z poważaniem.",
+   "options": [
+    "Atentamente,",
+    "Besos,",
+    "¡Chao!",
+    "Un abrazo,"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii1-1",
+   "requirement": "VII.1",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPrzedstawiasz koleżance swojego brata. Mówisz:",
+   "explanation": "Te presento a… – przedstawiam ci…",
+   "options": [
+    "Te presento a mi hermano Pablo.",
+    "Encantado de conocerte también.",
+    "¿Cómo te llamas tú?",
+    "Está bien, gracias."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii2-1",
+   "requirement": "VII.2",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKończysz rozmowę, bo musisz już iść:",
+   "explanation": "Tengo que irme, hasta luego – muszę iść, do zobaczenia.",
+   "options": [
+    "Lo siento, tengo que irme. ¡Hasta luego!",
+    "¿Qué tal estás?",
+    "Mucho gusto.",
+    "¿Te puedo ayudar?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii4-1",
+   "requirement": "VII.4",
+   "topic": "hisz-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nZgadzasz się z opinią kolegi:",
+   "explanation": "Tienes razón, estoy de acuerdo – masz rację, zgadzam się.",
+   "options": [
+    "Tienes razón, estoy de acuerdo.",
+    "No estoy de acuerdo contigo.",
+    "¡Qué va!",
+    "No tienes razón."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii5-1",
+   "requirement": "VII.5",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nMówisz, co wolisz:",
+   "explanation": "Preferir A a B – woleć A od B.",
+   "options": [
+    "Prefiero el mar a la montaña.",
+    "Prefiero mar que montaña de.",
+    "Me prefiero el mar.",
+    "Yo gusto el mar."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii6-1",
+   "requirement": "VII.6",
+   "topic": "hisz-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKoleżanka mówi, że zdała egzamin. Gratulujesz:",
+   "explanation": "¡Enhorabuena! – gratulacje. ¡Que te mejores! – wracaj do zdrowia.",
+   "options": [
+    "¡Enhorabuena!",
+    "¡Que te mejores!",
+    "¡Salud!",
+    "¡Buen provecho!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii7-1",
+   "requirement": "VII.7",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nZapraszasz kolegę do kina:",
+   "explanation": "¿Te apetece…? – masz ochotę…?",
+   "options": [
+    "¿Te apetece ir al cine el sábado?",
+    "¿Fuiste al cine el sábado?",
+    "Voy al cine siempre.",
+    "El cine está cerrado."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii8-1",
+   "requirement": "VII.8",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nProponujesz wspólne wyjście:",
+   "explanation": "¿Por qué no…? – może byśmy…?",
+   "options": [
+    "¿Por qué no vamos a dar un paseo?",
+    "¿Por qué fuimos a dar un paseo?",
+    "Porque damos un paseo.",
+    "Dimos un paseo ayer."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii9-1",
+   "requirement": "VII.9",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nUdzielasz rady zmęczonemu koledze:",
+   "explanation": "Deberías + bezokolicznik – powinieneś.",
+   "options": [
+    "Deberías acostarte más temprano.",
+    "Debiste acostarte ayer.",
+    "Te acuestas temprano siempre.",
+    "Acostarse es aburrido."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii10-1",
+   "requirement": "VII.10",
+   "topic": "hisz-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPytasz nauczycielkę o pozwolenie na otwarcie okna:",
+   "explanation": "¿Puedo + bezokolicznik? – czy mogę…?",
+   "options": [
+    "¿Puedo abrir la ventana, por favor?",
+    "¡Abre la ventana!",
+    "¿Abriste la ventana?",
+    "La ventana está abierta."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii11-1",
+   "requirement": "VII.11",
+   "topic": "hisz-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nOstrzegasz kolegę przed śliską podłogą:",
+   "explanation": "¡Cuidado! – uważaj!",
+   "options": [
+    "¡Cuidado! El suelo está mojado.",
+    "No te preocupes, está seco.",
+    "Vamos a limpiar el suelo.",
+    "¡Que te diviertas!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii12-1",
+   "requirement": "VII.12",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nProsisz o pożyczenie długopisu:",
+   "explanation": "Prestar – pożyczać komuś; ¿me prestas…? – pożyczysz mi…?",
+   "options": [
+    "¿Me prestas un bolígrafo, por favor?",
+    "¿Te presto un bolígrafo?",
+    "Dame tu bolígrafo ahora.",
+    "Tengo un bolígrafo."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii14-1",
+   "requirement": "VII.14",
+   "topic": "hisz-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKtoś Ci dziękuje. Odpowiadasz:",
+   "explanation": "De nada – nie ma za co.",
+   "options": [
+    "De nada.",
+    "Perdón.",
+    "¡Salud!",
+    "Aquí tienes."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-vii15-1",
+   "requirement": "VII.15",
+   "topic": "hisz-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPiszesz e-mail do nieznanej osoby w szkole językowej. Rozpoczynasz:",
+   "explanation": "Do nieznanego adresata – formalnie: Estimada señora / Estimado señor.",
+   "options": [
+    "Estimada señora:",
+    "¡Hola, guapa!",
+    "¿Qué pasa, tía?",
+    "¡Ey!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-ix1-1",
+   "requirement": "IX.1",
+   "topic": "hisz-rea",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Kiedy w Hiszpanii tradycyjnie je się 12 winogron (las doce uvas)?",
+   "explanation": "O północy 31 grudnia je się po jednym winogronie przy każdym uderzeniu zegara.",
+   "options": [
+    "w noc sylwestrową, o północy",
+    "w Wigilię",
+    "w Wielkanoc",
+    "w dzień urodzin"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-ix1-2",
+   "requirement": "IX.1",
+   "topic": "hisz-rea",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które państwo NIE jest hiszpańskojęzyczne?",
+   "explanation": "W Brazylii mówi się po portugalsku.",
+   "options": [
+    "Brazylia",
+    "Meksyk",
+    "Argentyna",
+    "Kolumbia"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-ix2-1",
+   "requirement": "IX.2",
+   "topic": "hisz-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "W Hiszpanii obiad (la comida) je się zwykle:",
+   "explanation": "Pory posiłków w Hiszpanii są późniejsze niż w Polsce: comida ok. 14–15, cena ok. 21–22.",
+   "options": [
+    "ok. 14.00–15.00",
+    "ok. 11.00",
+    "ok. 17.00",
+    "ok. 22.00"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-xiii1-1",
+   "requirement": "XIII.1",
+   "topic": "hisz-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Domyśl się znaczenia z kontekstu: „Después de correr diez kilómetros estaba agotado y me senté a descansar.” Słowo agotado oznacza:",
+   "explanation": "Po biegu na 10 km usiadł, by odpocząć → był wyczerpany.",
+   "options": [
+    "wyczerpany",
+    "szczęśliwy",
+    "spóźniony",
+    "głodny"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "hisz-pp-s-xiv1-1",
+   "requirement": "XIV.1",
+   "topic": "hisz-gra",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Który zwrot to tzw. „fałszywy przyjaciel” dla Polaka?",
+   "explanation": "Cena po hiszpańsku to el precio; la cena – kolacja.",
+   "options": [
+    "„la cena” znaczy kolacja, a nie cena",
+    "„la casa” znaczy dom",
+    "„el libro” znaczy książka",
+    "„la mesa” znaczy stół"
+   ],
+   "answer": 0,
+   "no": "–"
+  }
+ ]
+}

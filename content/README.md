@@ -77,6 +77,14 @@ tasks whose requirement is no longer in scope.
 A CKE task that mixes a closed and an open part (e.g. "choose the soil, then justify") is split
 into two tasks with the same `no`: the closed part auto-graded, the justification `open`.
 
+## Authored questions (`exams/<subject>/styl-cke.json`)
+
+Questions written for requirements of the 2027 scope that no imported CKE task tests. Same task
+format, but the file has `"authored": true` and no year/session; tasks need no `points` but must
+have an `explanation`. The app labels them "✍️ Pytanie w stylu CKE" and never as exam tasks.
+The only written-exam requirements left without any question are fieldwork and presentation
+skills (geo-pr P.VIII.13, P.XV.12, R.I.4, R.V.4, R.XVI.3/4/6; languages VIII.4).
+
 ## Importing a paper
 
 Most papers are imported automatically:

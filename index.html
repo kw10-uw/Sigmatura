@@ -157,6 +157,7 @@ body.wz-open{overflow:hidden}
 #wz.z2 .wzpages img{width:160%}
 #wz.z3 .wzpages img{width:220%}
 /* zadania z arkuszy CKE: materiały, wiele wyborów, zadania otwarte */
+.tag.sty{margin-left:4px}
 .tag.cke{background:var(--t-geo);color:var(--c-geo);margin-left:4px}
 .mat{margin:0 0 14px}
 .mat img{display:block;width:100%;height:auto;background:#fff;border:2px solid var(--line);border-radius:var(--r);cursor:zoom-in}
@@ -434,8 +435,9 @@ const CKE_SESSION={maj:"maj",czerwiec:"czerwiec",sierpien:"sierpień",probna:"pr
 function examToQ(ex){
   const mats=Object.fromEntries((ex.materials||[]).map(m=>[m.id,m]));
   return ex.tasks.map(t=>{
-    const q={id:t.id, t:t.topic, s:ex.subject, type:t.type, q:t.prompt, e:t.explanation||"", cke:true, pts:t.points,
-      d:t.difficulty||(t.type==="open"||t.points>=3?3:2), src:`CKE ${ex.year} ${CKE_SESSION[ex.session]||ex.session}, zad. ${t.no}`,
+    // ex.authored: pytania autorskie wzorowane na CKE (luki w zakresie bez prawdziwego zadania) – nigdy nie udają arkusza
+    const q={id:t.id, t:t.topic, s:ex.subject, type:t.type, q:t.prompt, e:t.explanation||"", cke:!ex.authored, pts:t.points||1,
+      d:t.difficulty||(t.type==="open"||t.points>=3?3:2), src:ex.authored?"styl CKE":`CKE ${ex.year} ${CKE_SESSION[ex.session]||ex.session}, zad. ${t.no}`,
       mats:(t.materials||[]).map(id=>mats[id]).filter(Boolean), scoring:t.scoring||"", key:t.key||null};
     if(t.type==="mc"){ q.o=t.options; q.a=t.answer; }
     else if(t.type==="tf") q.st=t.statements.map((s,i)=>[s,t.answer[i]]);
@@ -967,6 +969,7 @@ function renderLesson(){
   let h=`<div class="lhead"><button class="x" data-act="quit" aria-label="Zakończ">✕</button><div class="bar"><i style="width:${prog*100}%"></i></div>${isMath(q.s)?`<button class="pill wzbtn" data-act="wzory" data-id="${q.t}" aria-label="Pokaż wybrane wzory">📐 Wzory</button>`:""}</div>`;
   h+=`<span class="tag">${it.retry?"↩️ Jeszcze raz":REASON[it.reason]||""} · ${GRP_OF[q.s].name} · ${esc(TOPICS[q.t].name)}</span>`;
   if(q.cke) h+=`<span class="tag cke">📝 Matura ${esc(q.src.replace(/^CKE /,""))} · ${ptsLabel(q.pts)}</span>`;
+  else h+=`<span class="tag sty">✍️ Pytanie w stylu CKE</span>`;   // autorskie – nie z arkusza
   h+=`<div class="qtext">${esc(q.q)}</div>`;
   h+=renderVis(q.img)+renderMats(q);
   if(q.type==="mc"){

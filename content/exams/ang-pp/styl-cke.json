@@ -1,0 +1,980 @@
+{
+ "id": "ang-pp-styl-cke",
+ "subject": "ang-pp",
+ "authored": true,
+ "note": "Pytania autorskie w stylu CKE, napisane dla wymagań z podstawy 2024, których nie sprawdzało żadne zaimportowane zadanie CKE. To nie są zadania z arkuszy.",
+ "tasks": [
+  {
+   "id": "ang-pp-s-i1-1",
+   "requirement": "I.1",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMy brother is very ______ – he always helps other people.",
+   "explanation": "Generous – hojny, chętny do pomocy. Lazy – leniwy, rude – niegrzeczny, selfish – samolubny.",
+   "options": [
+    "generous",
+    "lazy",
+    "rude",
+    "selfish"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i1-2",
+   "requirement": "I.1",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nShe has long, ______ hair and blue eyes.",
+   "explanation": "O włosach mówimy curly (kręcone). Tall i slim opisują sylwetkę, elderly – wiek.",
+   "options": [
+    "curly",
+    "tall",
+    "slim",
+    "elderly"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i2-1",
+   "requirement": "I.2",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nWe keep our food cold in the ______.",
+   "explanation": "Fridge – lodówka. Oven – piekarnik, cupboard – szafka, sink – zlew.",
+   "options": [
+    "fridge",
+    "oven",
+    "cupboard",
+    "sink"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i2-2",
+   "requirement": "I.2",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nI live in a small flat on the third ______ of an old building.",
+   "explanation": "Piętro w budynku to floor.",
+   "options": [
+    "floor",
+    "stage",
+    "level",
+    "roof"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i3-1",
+   "requirement": "I.3",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nIf you don't understand the word, look it up in a ______.",
+   "explanation": "Słowa sprawdza się w słowniku (dictionary).",
+   "options": [
+    "dictionary",
+    "timetable",
+    "uniform",
+    "canteen"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i3-2",
+   "requirement": "I.3",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nShe ______ all her exams and got into university.",
+   "explanation": "Pass an exam – zdać egzamin. Fail – oblać.",
+   "options": [
+    "passed",
+    "took off",
+    "failed",
+    "missed"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i4-1",
+   "requirement": "I.4",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nA ______ is a person who looks after patients in a hospital.",
+   "explanation": "Nurse – pielęgniarka/pielęgniarz.",
+   "options": [
+    "nurse",
+    "lawyer",
+    "plumber",
+    "librarian"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i4-2",
+   "requirement": "I.4",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nHe works part-time and earns a small ______.",
+   "explanation": "Salary – pensja. Fare – opłata za przejazd, fee – opłata za usługę.",
+   "options": [
+    "salary",
+    "fee",
+    "fare",
+    "price"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i5-1",
+   "requirement": "I.5",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMy parents got ______ ten years ago.",
+   "explanation": "Get married – pobrać się.",
+   "options": [
+    "married",
+    "engaged to",
+    "marry",
+    "wedding"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i6-1",
+   "requirement": "I.6",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nCould you pass me a ______ of bread, please?",
+   "explanation": "A slice of bread – kromka chleba. Bar of chocolate, can of cola, bottle of water.",
+   "options": [
+    "slice",
+    "bottle",
+    "can",
+    "bar"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i6-2",
+   "requirement": "I.6",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThis soup is too ______. You put too much salt in it.",
+   "explanation": "Za dużo soli → salty (słony).",
+   "options": [
+    "salty",
+    "sweet",
+    "sour",
+    "spicy"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i7-1",
+   "requirement": "I.7",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThese shoes don't fit me. Can I get a ______?",
+   "explanation": "Refund – zwrot pieniędzy. Receipt – paragon.",
+   "options": [
+    "refund",
+    "receipt",
+    "discount",
+    "bill"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i7-2",
+   "requirement": "I.7",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nYou can ______ by card or in cash.",
+   "explanation": "Pay by card / in cash – płacić kartą / gotówką.",
+   "options": [
+    "pay",
+    "spend",
+    "buy",
+    "cost"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i8-1",
+   "requirement": "I.8",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nOur flight was ______ because of the storm.",
+   "explanation": "Cancelled – odwołany.",
+   "options": [
+    "cancelled",
+    "booked",
+    "landed",
+    "checked"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i8-2",
+   "requirement": "I.8",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nWe stayed at a campsite and slept in a ______.",
+   "explanation": "Tent – namiot.",
+   "options": [
+    "tent",
+    "cabin crew",
+    "luggage",
+    "platform"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i9-1",
+   "requirement": "I.9",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe ______ clapped loudly at the end of the concert.",
+   "explanation": "Audience – publiczność. Cast – obsada.",
+   "options": [
+    "audience",
+    "cast",
+    "crew",
+    "audition"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i10-1",
+   "requirement": "I.10",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe match ended in a ______: 2–2.",
+   "explanation": "Draw – remis.",
+   "options": [
+    "draw",
+    "win",
+    "score",
+    "goal"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i11-1",
+   "requirement": "I.11",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nI've got a terrible ______. I think I need to see a dentist.",
+   "explanation": "Ból zęba – toothache; do dentysty idzie się z bólem zęba.",
+   "options": [
+    "toothache",
+    "stomachache",
+    "sore throat",
+    "backache"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i11-2",
+   "requirement": "I.11",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nYou should take this ______ three times a day after meals.",
+   "explanation": "Medicine – lekarstwo. Prescription – recepta.",
+   "options": [
+    "medicine",
+    "prescription",
+    "surgery",
+    "injury"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i12-1",
+   "requirement": "I.12",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMy phone's ______ is dead. I need to charge it.",
+   "explanation": "Battery – bateria; charge – ładować.",
+   "options": [
+    "battery",
+    "screen",
+    "keyboard",
+    "app"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i12-2",
+   "requirement": "I.12",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nYou need to ______ the app before you can use it.",
+   "explanation": "Download – pobrać.",
+   "options": [
+    "download",
+    "upload",
+    "delete",
+    "print"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i13-1",
+   "requirement": "I.13",
+   "topic": "angp-voc",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nIt's very ______ today – take an umbrella.",
+   "explanation": "Parasol jest potrzebny, gdy pada – rainy.",
+   "options": [
+    "rainy",
+    "sunny",
+    "dry",
+    "hot"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i13-2",
+   "requirement": "I.13",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nMany animals are in danger because their natural ______ is being destroyed.",
+   "explanation": "Habitat – siedlisko, środowisko życia.",
+   "options": [
+    "habitat",
+    "climate",
+    "species",
+    "pollution"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i14-1",
+   "requirement": "I.14",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThe police arrested the ______ who stole the paintings.",
+   "explanation": "Thief – złodziej. Witness – świadek, victim – ofiara.",
+   "options": [
+    "thief",
+    "witness",
+    "victim",
+    "judge"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-i14-2",
+   "requirement": "I.14",
+   "topic": "angp-voc",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz słowo, które poprawnie uzupełnia zdanie.\nThousands of people took part in a peaceful ______ against the new law.",
+   "explanation": "Protest – protest, demonstracja.",
+   "options": [
+    "protest",
+    "election",
+    "crime",
+    "charity"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-ii1-1",
+   "requirement": "II.1",
+   "topic": "angp-lis",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Usłyszysz (przeczytaj) polecenie nauczyciela: „Please turn to page twenty and do exercise three.” Co należy zrobić?",
+   "explanation": "Turn to page twenty – otwórz na stronie 20; do exercise three – zrób ćwiczenie 3.",
+   "options": [
+    "Otworzyć książkę na stronie 20 i wykonać ćwiczenie 3",
+    "Otworzyć książkę na stronie 3 i wykonać ćwiczenie 20",
+    "Zamknąć książkę",
+    "Przepisać stronę 20"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-ii8-1",
+   "requirement": "II.8",
+   "topic": "angp-lis",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Określ styl wypowiedzi.",
+   "explanation": "Mate, what's up, fancy – język potoczny. Ladies and gentlemen, annual conference – styl oficjalny.",
+   "items": [
+    {
+     "label": "„Hey mate, what's up? Fancy a pizza tonight?”",
+     "options": [
+      "formalny",
+      "nieformalny"
+     ]
+    },
+    {
+     "label": "„Good evening, ladies and gentlemen. Welcome to our annual conference.”",
+     "options": [
+      "formalny",
+      "nieformalny"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0
+   ],
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-iii6-1",
+   "requirement": "III.6",
+   "topic": "angp-rea",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Ułóż kroki przepisu na naleśniki w odpowiedniej kolejności.",
+   "explanation": "Kolejność wskazują logika czynności i słowa jak first, then, finally w tekście.",
+   "items": [
+    {
+     "label": "Krok 1",
+     "options": [
+      "Mix flour, eggs and milk.",
+      "Pour some batter into a hot pan.",
+      "Turn the pancake over.",
+      "Serve with jam."
+     ]
+    },
+    {
+     "label": "Krok 2",
+     "options": [
+      "Mix flour, eggs and milk.",
+      "Pour some batter into a hot pan.",
+      "Turn the pancake over.",
+      "Serve with jam."
+     ]
+    },
+    {
+     "label": "Krok 3",
+     "options": [
+      "Mix flour, eggs and milk.",
+      "Pour some batter into a hot pan.",
+      "Turn the pancake over.",
+      "Serve with jam."
+     ]
+    },
+    {
+     "label": "Krok 4",
+     "options": [
+      "Mix flour, eggs and milk.",
+      "Pour some batter into a hot pan.",
+      "Turn the pancake over.",
+      "Serve with jam."
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-iii8-1",
+   "requirement": "III.8",
+   "topic": "angp-rea",
+   "difficulty": 2,
+   "type": "multi",
+   "prompt": "Określ, czy zdanie jest faktem czy opinią.",
+   "explanation": "Opinię zdradzają oceny (most exciting, too expensive) i zwroty jak in my view, I think.",
+   "items": [
+    {
+     "label": "„The Thames flows through London.”",
+     "options": [
+      "fakt",
+      "opinia"
+     ]
+    },
+    {
+     "label": "„London is the most exciting city in Europe.”",
+     "options": [
+      "fakt",
+      "opinia"
+     ]
+    },
+    {
+     "label": "„In my view, the museum tickets are too expensive.”",
+     "options": [
+      "fakt",
+      "opinia"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    1
+   ],
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-iii9-1",
+   "requirement": "III.9",
+   "topic": "angp-rea",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Który fragment pochodzi z listu formalnego?",
+   "explanation": "I am writing to… to typowy formalny początek listu.",
+   "options": [
+    "I am writing to apply for the position of summer camp assistant.",
+    "Hi Tom! Guess what happened yesterday!",
+    "Thanks a lot, see you soon!",
+    "Gotta go, bye!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-v9-1",
+   "requirement": "V.9",
+   "topic": "angp-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Którym zdaniem wyrazisz przypuszczenie dotyczące przyszłości?",
+   "explanation": "Might + bezokolicznik wyraża możliwość lub przypuszczenie.",
+   "options": [
+    "It might rain tomorrow, so take a jacket.",
+    "It rained yesterday.",
+    "It is raining now.",
+    "It has rained for two hours."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-v10-1",
+   "requirement": "V.10",
+   "topic": "angp-wri",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które zdanie udziela wskazówki, jak dojść do celu?",
+   "explanation": "Instrukcję podaje się w trybie rozkazującym: Go…, turn…",
+   "options": [
+    "Go straight on and turn left at the traffic lights.",
+    "I went straight on yesterday.",
+    "The traffic lights are red.",
+    "Turning left is difficult."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-v11-1",
+   "requirement": "V.11",
+   "topic": "angp-wri",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które zdanie najlepiej rozpoczyna e-mail do przyjaciela?",
+   "explanation": "W e-mailu do przyjaciela używamy nieformalnego powitania (Hi/Dear Kate).",
+   "options": [
+    "Hi Kate, thanks for your last message!",
+    "Dear Sir or Madam,",
+    "To whom it may concern,",
+    "Yours faithfully,"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-v12-1",
+   "requirement": "V.12",
+   "topic": "angp-wri",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które zakończenie pasuje do formalnego listu do dyrektora hotelu?",
+   "explanation": "W liście formalnym: I look forward to hearing from you + Yours faithfully/sincerely.",
+   "options": [
+    "I look forward to hearing from you. Yours faithfully,",
+    "Write soon! Love,",
+    "Cheers, see ya!",
+    "Bye for now!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii1-1",
+   "requirement": "VII.1",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPrzedstawiasz koledze swoją kuzynkę. Mówisz:",
+   "explanation": "This is… to standardowy sposób przedstawienia kogoś.",
+   "options": [
+    "This is my cousin, Ania.",
+    "Nice to meet you too.",
+    "How do you do it?",
+    "She's fine, thanks."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii2-1",
+   "requirement": "VII.2",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKończysz rozmowę ze znajomym, bo musisz już iść. Mówisz:",
+   "explanation": "I have to go now, see you later – grzeczne zakończenie rozmowy.",
+   "options": [
+    "Sorry, I have to go now. See you later!",
+    "How are you doing?",
+    "Nice to meet you.",
+    "Can I help you?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii6-1",
+   "requirement": "VII.6",
+   "topic": "angp-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKoleżanka mówi, że zdała prawo jazdy. Reagujesz:",
+   "explanation": "Congratulations – gratulacje. Never mind – nie szkodzi.",
+   "options": [
+    "Congratulations! Well done!",
+    "Never mind.",
+    "Bless you!",
+    "Get well soon!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii6-2",
+   "requirement": "VII.6",
+   "topic": "angp-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKtoś życzy Ci: „Happy birthday!”. Odpowiadasz:",
+   "explanation": "Na życzenia urodzinowe po prostu dziękujemy.",
+   "options": [
+    "Thank you so much!",
+    "You too!",
+    "Same to you, happy birthday!",
+    "Congratulations!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii7-1",
+   "requirement": "VII.7",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nZapraszasz kolegę do kina w sobotę. Mówisz:",
+   "explanation": "Would you like to…? – uprzejme zaproszenie.",
+   "options": [
+    "Would you like to go to the cinema on Saturday?",
+    "Did you go to the cinema on Saturday?",
+    "Do you go to the cinema?",
+    "I went to the cinema."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii7-2",
+   "requirement": "VII.7",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKolega zaprasza Cię na imprezę, ale nie możesz przyjść. Odpowiadasz:",
+   "explanation": "I'm afraid I can't make it – grzeczna odmowa.",
+   "options": [
+    "Thanks, but I'm afraid I can't make it.",
+    "Yes, of course I can't.",
+    "I'm happy to come.",
+    "Never mind, it's OK."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii10-1",
+   "requirement": "VII.10",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nChcesz otworzyć okno w pokoju, w którym jest nauczycielka. Pytasz:",
+   "explanation": "Do you mind if I…? – uprzejma prośba o pozwolenie.",
+   "options": [
+    "Do you mind if I open the window?",
+    "Open the window!",
+    "Must I open the window?",
+    "Did you open the window?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii11-1",
+   "requirement": "VII.11",
+   "topic": "angp-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nOstrzegasz kolegę, że podłoga jest mokra. Mówisz:",
+   "explanation": "Be careful! – uważaj!",
+   "options": [
+    "Be careful! The floor is wet.",
+    "Don't worry, it's dry.",
+    "Let's wash the floor.",
+    "Have a nice day!"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii12-1",
+   "requirement": "VII.12",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nProsisz kolegę o pożyczenie długopisu. Mówisz:",
+   "explanation": "Lend – pożyczyć komuś; borrow – pożyczyć od kogoś.",
+   "options": [
+    "Could you lend me a pen, please?",
+    "Could you borrow me a pen?",
+    "I lend you a pen.",
+    "Give me your pen now."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii12-2",
+   "requirement": "VII.12",
+   "topic": "angp-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKoleżanka prosi Cię o pomoc w lekcjach. Zgadzasz się:",
+   "explanation": "Sure, no problem – oczywiście, nie ma sprawy.",
+   "options": [
+    "Sure, no problem.",
+    "No way!",
+    "I'm afraid not.",
+    "Help yourself."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii13-1",
+   "requirement": "VII.13",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nDowiadujesz się, że Twój ulubiony zespół odwołał koncert. Wyrażasz rozczarowanie:",
+   "explanation": "What a shame! – jaka szkoda!",
+   "options": [
+    "Oh no, what a shame!",
+    "That's great news!",
+    "Lucky you!",
+    "Fair enough, I'm glad."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii14-1",
+   "requirement": "VII.14",
+   "topic": "angp-fun",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nKtoś Ci podziękował za pomoc. Odpowiadasz:",
+   "explanation": "You're welcome – proszę bardzo (w odpowiedzi na dziękuję).",
+   "options": [
+    "You're welcome.",
+    "Excuse me.",
+    "Bless you.",
+    "Here you are."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-vii15-1",
+   "requirement": "VII.15",
+   "topic": "angp-fun",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Wybierz właściwą reakcję.\nPiszesz e-mail do nieznanej Ci osoby z biura podróży. Rozpoczynasz:",
+   "explanation": "Do nieznanego adresata: Dear Sir or Madam.",
+   "options": [
+    "Dear Sir or Madam,",
+    "Hi there, buddy!",
+    "Hey you!",
+    "What's up?"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-viii1-1",
+   "requirement": "VIII.1",
+   "topic": "angp-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Na wykresie: 60% uczniów dojeżdża do szkoły autobusem, 25% przychodzi pieszo, 15% przyjeżdża rowerem. Które zdanie poprawnie opisuje wykres?",
+   "explanation": "60% to większość – most students. Pieszo (25%) chodzi więcej osób niż jeździ rowerem (15%).",
+   "options": [
+    "Most students go to school by bus.",
+    "Most students walk to school.",
+    "Fewer students walk than cycle.",
+    "Half of the students cycle to school."
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-ix1-1",
+   "requirement": "IX.1",
+   "topic": "angp-rea",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Które święto obchodzi się w USA w czwarty czwartek listopada?",
+   "explanation": "Thanksgiving – Święto Dziękczynienia. Boxing Day i Bonfire Night obchodzi się w Wielkiej Brytanii.",
+   "options": [
+    "Thanksgiving",
+    "Independence Day",
+    "Boxing Day",
+    "Bonfire Night"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-ix1-2",
+   "requirement": "IX.1",
+   "topic": "angp-rea",
+   "difficulty": 1,
+   "type": "mc",
+   "prompt": "Jak nazywa się parlament Wielkiej Brytanii?",
+   "explanation": "Congress – USA, Sejm – Polska, Bundestag – Niemcy.",
+   "options": [
+    "Houses of Parliament (Westminster)",
+    "Congress",
+    "Sejm",
+    "Bundestag"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-ix2-1",
+   "requirement": "IX.2",
+   "topic": "angp-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Brytyjski kolega mówi „Cheers!” przy kasie, gdy dostaje resztę. Co to oznacza?",
+   "explanation": "W brytyjskiej angielszczyźnie „cheers” często znaczy po prostu „dzięki”.",
+   "options": [
+    "Dziękuję",
+    "Na zdrowie (toast)",
+    "Do widzenia na zawsze",
+    "Przepraszam"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-xiii1-1",
+   "requirement": "XIII.1",
+   "topic": "angp-rea",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Domyśl się znaczenia wyrazu z kontekstu: „The road was so slippery after the frost that many cars skidded.” Słowo slippery oznacza:",
+   "explanation": "Mróz + samochody wpadały w poślizg → droga była śliska.",
+   "options": [
+    "śliski",
+    "suchy",
+    "zatłoczony",
+    "wąski"
+   ],
+   "answer": 0,
+   "no": "–"
+  },
+  {
+   "id": "ang-pp-s-xiv1-1",
+   "requirement": "XIV.1",
+   "topic": "angp-gra",
+   "difficulty": 2,
+   "type": "mc",
+   "prompt": "Które polskie zdanie dobrze oddaje sens zdania „I've lived here for five years.”?",
+   "explanation": "Present perfect + for opisuje sytuację trwającą do teraz – po polsku używamy czasu teraźniejszego.",
+   "options": [
+    "Mieszkam tu od pięciu lat.",
+    "Mieszkałem tu pięć lat temu.",
+    "Zamieszkam tu za pięć lat.",
+    "Mieszkałem tu przez pięć lat, ale się wyprowadziłem."
+   ],
+   "answer": 0,
+   "no": "–"
+  }
+ ]
+}
