@@ -1,0 +1,699 @@
+{
+ "id": "ang-pr-2025-05",
+ "subject": "ang-pr",
+ "formula": "2023",
+ "year": 2025,
+ "session": "maj",
+ "source": {
+  "paper": "MJAP-R0-100-A-2505-arkusz.pdf",
+  "key": "MJAP-R0-100-200-660-2505-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2025/Jezyk_angielski/poziom_rozszerzony/MJAP-R-100-2505_MJAU-R-100-2505.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z1.webp",
+   "w": 991,
+   "h": 1354,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "txt1",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 1. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1.\n\n1.1. The speaker argues that A. more and more people are doing proper workouts in outdoor gyms. B. more public money should be spent on outdoor gyms. C. outdoor gyms have a significant weakness. Tekst 2. 1.2. It can be concluded from the text that A. key holders can never be sure how long they will have the car for. B. each key holder decides when to pass the car on to another driver. C. there is a set time limit within which key holders have to find the car. W zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 3. (do zadań 1.3.–1.6.) 1.3. Ben’s present occupation does NOT involve A. searching for clues. B. analyzing evidence. C. interviewing witnesses. D. establishing the circumstances of a disaster. 1.4. Ben found the discovery of HMAS Sydney most exciting because A. the shipwreck was discovered on Christmas morning. B. it was made without the use of modern technology.\n\nC. it happened during his first major expedition. D. success came more quickly than expected. 1.5. The USS San Diego\n\nA. no longer lies on the seabed. B. is a military ship which sank in 1962. C. was saved from being cut into pieces. D. stopped being protected by law in 2006. 1.6. When answering the last question, Ben aims to A. express his admiration for shipwreck hunters. B. encourage a spirit of exploration in his listeners. C. inspire geography teachers to follow in his footsteps. D. broaden listeners’ knowledge of the story of a certain shipwreck."
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z2.webp",
+   "w": 1100,
+   "h": 545,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z3.webp",
+   "w": 1020,
+   "h": 379,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–4) Usłyszysz dwukrotnie informacje dotyczące zasad obowiązujących w bibliotece akademickiej. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w poniższej notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.\n\nMobile phones • limited use allowed\n\n• have to be 3.1. ____________________________________________\n\nif you are in the red zone\n\nFood & drink • food cannot be consumed after you go through 3.2. _______________\n\n• drinks allowed only in non-spill containers\n\nLibrary card • can be ordered online – apply at least 3.3. ______________________\n\n• paper application form also available at the reception desk\n\nLockers • mustn’t be used for storing non-library items\n\n• students with disabilities are not required to 3.4. __________________"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z4.webp",
+   "w": 1020,
+   "h": 1663,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–5) Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author mention\n\n4.1. an incident that could have had disastrous consequences for the building which housed the observatory?\n\n4.2. a physically demanding solution to a problem faced by the meteorologists?\n\n4.3. the length of time needed to convert data to make it more widely available?\n\n4.4. a large contribution made in response to a call for donations?\n\n4.5. the reason for the closure of the observatory?\n\nSNOWED UNDER A. The observatory on the summit of Ben Nevis, the highest mountain in the United Kingdom, was set up by the Scottish Meteorological Society. A public appeal was launched to fund its construction. Queen Victoria is known to have given a generous sum, but there were also other sponsors. Between 1883, when the observatory opened, and 1904, when its closure was announced, meteorologists at the site undertook detailed weather observations. They gathered comprehensive information about atmospheric phenomena. B. The observations were published in the Transactions of the Royal Society of Edinburgh and they are some of the most detailed records of the weather in the Victorian era. But what was it like to live and work on Ben Nevis? The weather conditions were severe: 100 mph winds were common, the temperature would sometimes drop to –15oC, and the weathermen lived “inside a cloud” for most of the year. One winter, heavy blizzards left the summit covered in a 5 ft (1.5 m) layer of snow and they found themselves snowed in, so they had no other choice but to undertake the exhausting task of digging tunnels to leave the observatory. Despite the harsh conditions on Ben Nevis, the meteorologists carried on with their work.\n\nC. Sometimes they had to develop unusual solutions in order to perform their duties, and they always had to be prepared for the unexpected. Once, the observatory was struck by lightning, which came down the chimney and set the wooden panels of the interior on fire. Fortunately, the blaze was speedily and fairly effortlessly extinguished. Due to a lack of public funding and private donations, the weather station ceased operating in October 1904, though the outcome of the meteorologists’ work lives on. D. The ambition of the meteorologists was to make the data they collected accessible to aid weather forecasting and mountain meteorology. Following the closure of the observatory, the data lay hidden in dusty archives for a long time. However, they were recently republished in digital form. More than 3,500 volunteers accomplished the digitization in less than three months. This success may result from the fact that the story of the meteorologists living in such a remote observatory and hostile environment was a wonderful inspiration. The undertaking received extensive media coverage. Social media were most helpful in spreading information about the digitization and providing regular updates on its progress.\n\nNa podstawie: rmets.onlinelibrary.wiley.com; www.bbc.com PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z5.webp",
+   "w": 1019,
+   "h": 1947,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–5) Przeczytaj tekst, z którego usunięto pięć fragmentów. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujący fragment (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jeden fragment został podany dodatkowo i nie pasuje do żadnej luki.\n\nCHALKING DAY It’s early morning and I am standing in the valley near the village of Uffington in Oxfordshire, England, looking up at the high curve of grassland above me. One thing dominates the view. Across the side of the hill runs an enormous white stick figure, a horse cut from the chalk. It has a thin body, a curiously long tail and a round eye set in a square head. This is the Uffington White Horse, the oldest of the English hill figures, the size of a football field and visible from 20 miles away. 5.1. _____ They are volunteers who are coming to clean it.\n\nIt’s chalking day, a cleaning ritual that has happened here regularly for three millennia. Hammers, buckets of chalk and kneepads are handed out, and then everyone is allocated an area. 5.2. _____ Commenting on the job they are doing, one of the participants jokes: “It’s the world’s largest colouring book.”\n\n“Chalking” the horse was already an ancient custom when the historian Francis Wise wrote about it in 1736. 5.3. _____ These days, it’s a quieter event. The only sounds are the wind,\n\ndistant birdsong and the thumping of hammers on the chalk. Still, the tradition of maintaining the horse’s elegant lines and clearing it of weeds is continued. The volunteers of today are following in the footsteps of the ancients, caring for the horse in much the same way as it was done 3,000 years ago.\n\nIt might seem strange that the horse has such an unstable form, which tends to disappear slowly with the passing of time. 5.4. _____ The need to maintain it might have been the horse’s original function – to gather people to do a common task. Today’s cleaning is thus an echo of an early ritual.\n\nUp on the hill, it’s not possible to view the whole horse at once; the curve of the slope gets in the way and the sheer scale of it confuses the eye. It is only from the valley below that the whole picture can be taken in. 5.5. _____ Reportedly, they even arrange their rooms so that they sit facing the horse.\n\nNa podstawie: www.smithsonianmag.com Źródła: kottke.org; www.nationaltrust.org.uk\n\nA. Back then, thousands of people used to come for the chalking every four years, after which they held a fair, with dancing and singing, in the circle of a prehistoric fort nearby.\n\nB. Looking at the lower part of the slope, I notice the small figures of people climbing slowly towards the hillside where the chalk horse is.\n\nC. To the people who live there, the white figure of a horse springing timelessly across the side of the hill is part of the background of their daily life.\n\nD. For example, during World War II, it was covered over with grass and leaves so that Luftwaffe bombers couldn’t use it for navigation.\n\nE. Archaeologists, however, believe this could have been intentional, as from the start\n\nthe horse required regular upkeep to stay visible.\n\nF. The cleaners, commonly called “chalkers”, kneel and whiten the stony pathways with chalk inch by inch."
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z6.webp",
+   "w": 1017,
+   "h": 1968,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–8) Przeczytaj dwa teksty związane ze szkoleniem psów. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1. BUSTER “Will, if you’re looking for a great dog, Buster is the one you want,” Nick assured me. The next morning, I woke up with schoolboy excitement. I was going to meet my new dog soon. I felt as though it was Christmas morning and presents were waiting for me under the tree. Whether Buster would be equally delighted to meet me remained to be seen. He was three years old and I was about to become his third handler. As a military working dog, he could still have three or four other people to call master, before his retirement.\n\nWhen I reached Buster’s accommodation, he was pacing around, every now and again looking up to see who was coming. He gave me a very cool glance and his face expressed something that I could only describe as annoyed disapproval. I got the distinct feeling that he was decidedly unimpressed with me. Not to worry, I had some dog treats that were bound to break that ice.\n\n“Sit. Wait. Go!” I was right. The first treat disappeared without a trace. I’m not sure if it was the treat that made the difference, but whatever it was, Buster was soon a very changed dog. He was round my legs as if they were covered in juicy steaks. He was so bouncy, happy and ready for his walk, his breakfast and a bit of fun. Nick was right, this dog really knew all the ropes and all the tricks, and he was only three years old! I wondered how many others he had fooled with his “I’m so upset” act before he managed to get his tasty treat. A part of me admired Buster for seeing right through me and reaching for the food.\n\nBuster was the dog I wanted to spend the next six months with; who I could imagine sharing my most intimate and fearful moments with. Running cheerfully at my heels, he looked confident, and I was pleased, but this was the moment of truth: if I released him from his lead, would he stay with me or would he run like the wind? Waddo, like most airfields, is home to a million wild rabbits, and so far that morning they must have wondered why the new recruit wasn’t trying to chase them. Even when I let him off the lead, Buster paid no attention to them and for me that was very promising. If free-running rabbits didn’t bother him, he was less likely to get distracted from his future job in the place to which we were about to be sent.\n\nNa podstawie: Will Barrow, Buster. The Dog Who Saved a Thousand Lives, London 2015.\n\nW zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. From the first paragraph, we learn that A. Will became Buster’s owner at Christmas. B. Buster had just finished his military career.\n\nC. Will was uncertain how Buster would react to him. D. Buster had worked with three different people before Will got him. 6.2. When Will met Buster for the first time, he A. had a plan for how to make the dog like him. B. noticed the dog respected him right from the start. C. was worried that the dog might unexpectedly attack him. D. saw the dog was too scared to leave his accommodation. 6.3. What do we learn from the third paragraph? A. Will was impressed with the dog’s cleverness. B. Will tried to win Buster over by feeding him a steak. C. The dog quickly managed to learn how to pull a rope. D. Despite getting treats, the dog disobeyed Will’s commands. 6.4. From the last paragraph, we can conclude that Will A. thought the dog required additional training. B. believed he and Buster could make a good team. C. found the dog too nervous for the job they were about to do. D. realized he shouldn’t have used treats to train a military dog. PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 6.1. DO 6.4. NA KARTĘ ODPOWIEDZI!\n\nTekst 2.\n\nThe Academy for Dog Trainers encourages those wishing to develop their dog-handling skills\n\nto apply for this award-winning course.\n\nWHAT WE EXPECT\n\nSince our course is provided online, you must be competent at navigating websites, as well as at recording and uploading videos. You must also have a good Internet connection and a phone or digital camera to make films.\n\nWHAT YOU WILL LEARN\n\nA major component of the program involves obedience1 training for fearful and unsociable dogs. You’ll learn about genetics, dog breeds and how to market a dog training business. Our course also covers managing aggression in dogs, a skill which is typically ignored in other courses.\n\nHOW YOU PROGRESS\n\nOur program usually takes two years and is divided into four levels. You’ll have six months to complete each of them. If you find you’re flying through the material and we are satisfied with your training skills, you can advance to the next level sooner. You must demonstrate you’ve achieved the required standard before you progress to the next level.\n\nWHAT WE REQUIRE\n\nYou must submit videos that demonstrate your skills in training specific behaviours and pass the knowledge test for each level. In the event that you fail the test, you will not be able to continue in the program. If this happens before the third level, 50% of the course fee is refundable. Otherwise, the full amount you have paid for the course is kept by the Academy.\n\nHOW MUCH WE CHARGE\n\nTo be considered for the course, you must pay a $75 non-refundable application fee. The standard course fee is $8,500, made up of an initial payment of $3,500 upon registration, followed by $5,000 to be paid after two months. The course fee is lowered to $7,500 if the whole sum is pre-paid before the course starts.\n\nNa podstawie: www.academyfordogtrainers.com Źródło: connectbehaviour.co.uk 1 Obedience – posłuszeństwo.\n\nUzupełnij luki 6.5.–6.8. zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę możesz wpisać maksymalnie sześć wyrazów. TO APPLY OR NOT TO APPLY FOR THE COURSE?\n\nPROS\n\nThe course content includes working with 6.5. ____________________________\n\nIf you fulfil the requirements for a given level, you will be able to 6.6. __________\n\nCONS\n\nIf you don’t 6.7. ____________________________________________ at the end\n\nof the third or fourth level, the Academy won’t refund any money.\n\nIf you can’t afford to pay the entire amount in advance, the course will\n\n6.8. ____________________________________________________."
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z7.webp",
+   "w": 1018,
+   "h": 1160,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–6) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D. WOULD YOU FANCY HAVING A BITE? When you’re hungry, sometimes a sandwich is exactly what you need. Sandwiches are nutritious and appetizing, so it’s no 7.1. _____ that they are one of the most popular lunch choices today.\n\nAs the story goes, the sandwich we are 7.2. _____ with and love today was created in 1762\n\nin England. Most food historians agree that the name ‘sandwich’ is connected to John Montagu, the 4th Earl of Sandwich, who spent many hours at the card table. During one of his long days of gambling, he requested something from the kitchen that he could eat with his hands, without needing to leave his seat. He 7.3. _____ two pieces of bread with meat in the middle. From that day forward, the sandwich began making its way throughout England.\n\nHowever, it took a long time for the sandwich to make it to America. The first sandwich was featured in an American cookbook in 1815, 7.4. _____ it wasn’t exactly the same type of sandwich as in England. In America, different varieties of sandwiches were created. One of them was 7.5. _____ to as the ‘hoggie’. The owner of a grocery shop on Hog Island, Philadelphia, is believed to 7.6. _____ the ‘hoggie’ about 50 years ago. Apparently, one day a police officer came to the shop complaining that his wife hadn’t packed him his lunch, so they offered him a loaf of bread cut in half and filled with meat, olives, onions, lettuce, tomatoes and sauce. And in this way the ‘hoggie’ was born.\n\nNa podstawie: cellones.com 7.1. A. chance B. reason C. wonder D. possibility\n\n7.2. A. known B. familiar C. famous D. common\n\n7.3. A. brought B. has brought C. was brought D. has been brought\n\n7.4. A. besides B. despite C. instead D. though\n\n7.5. A. referred B. called C. promoted D. considered\n\n7.6. A. being popularized B. have popularized C. be popularized D. popularize PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z8.webp",
+   "w": 1100,
+   "h": 866,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–4) Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem z ramki, przekształcając go w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. Uwaga: dwa wyrazy zostały podane dodatkowo i nie pasują do żadnej luki.\n\nclear concern follow harm important prepare\n\nWHY DO POLAR BEARS HAVE BLACK SKIN? Pictures of polar bears often show white bears in white surroundings. In some languages,\n\nthey are even known as ‘ice bears’ or ‘white bears’. However, the truth 8.1. _____________\n\nthe colours of a polar bear is more complex than most people think.\n\nNew-born polar bear cubs fit within the palm of your hand; they are blind and toothless, with\n\npink skin showing through a short white fuzz. Even their little noses and foot pads are pink!\n\nBut at the age of 3–4 months, their pink skin turns black. Because of their thickening coat\n\nof fur, the now black skin is 8.2. ____________________ seen only on their nose, lips, and\n\nfoot pads. Having black skin is of great 8.3. ____________________ to the bears. First,\n\ndarker colours are better at absorbing heat from the sun, which is an advantage to a polar\n\nbear trying to stay warm in the Arctic. Second, dark colours give better protection against\n\n8.4. ____________________ UV radiation from the sun. The sunlight polar bears are\n\nexposed to is intensified when it is reflected off the snow, ice and water that make up\n\nthe bears’ environment.\n\nNa podstawie: polarbearsinternational.org"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z9.webp",
+   "w": 1019,
+   "h": 399,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) Uzupełnij zdania 9.1.–9.4., wykorzystując podane w nawiasach wyrazy w odpowiedniej formie. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów. Uwaga: w każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając w to wyrazy już podane. 9.1. Since we (be / not / inform) ________________________________________________\n\nthe change of location yesterday, we won’t be able to get there on time.\n\n9.2. It is common knowledge that rising temperatures have been responsible for melting\n\npolar ice caps for quite some time, and the process (be / like / continue) _____________\n\n9.3. I think we should stop (talk / Peter / idea) _____________________________________\n\nLet’s see what other people have suggested.\n\n9.4. If I were one of the organizers, I (deal / problem) _______________________________"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pr-2025-05/z10.webp",
+   "w": 1013,
+   "h": 360,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–13) Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Zaznacz temat wybrany przez Ciebie. Zakreśl jego numer. 1. W dobie nowoczesnych technologii pojawił się pomysł, aby zajęcia na uczelniach odbywały się wyłącznie w trybie online. Napisz rozprawkę, w której przedstawisz dobre i złe strony tego rozwiązania. 2. Obecnie większość ludzi nie zna bliżej swoich sąsiadów. Napisz list do gazety anglojęzycznej, w którym omówisz korzyści płynące z budowania relacji z sąsiadami, oraz przedstawisz swój pomysł na akcję, która byłaby okazją do sąsiedzkich spotkań. CZYSTOPIS ....................................................................................................................................................\n\nZgodność z poleceniem Spójność i logika\n\nZakres środków językowych\n\nPoprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2-3\n\nElementy treści (0-1-2) Elementy formy (0-1) 1 2 3 4 5 1 2 3 4\n\nJĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pr-2025-05-z01",
+   "no": "1",
+   "points": 6,
+   "materials": [
+    "t1",
+    "audio",
+    "txt1"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1. 1.1. The speaker argues that Tekst 2. 1.2. It can be concluded from the text that W zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 3. (do zadań 1.3.–1.6.) 1.3. Ben’s present occupation does NOT involve 1.4. Ben found the discovery of HMAS Sydney most exciting because 1.5. The USS San Diego 1.6. When answering the last question, Ben aims to",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.2",
+    "II.7",
+    "II.5",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k1.webp",
+    "w": 1082,
+    "h": 662
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    2,
+    3,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pr-2025-05-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat biur. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k2.webp",
+    "w": 1101,
+    "h": 617
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    0,
+    1,
+    5,
+    2
+   ]
+  },
+  {
+   "id": "ang-pr-2025-05-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie informacje dotyczące zasad obowiązujących w bibliotece akademickiej. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w poniższej notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angr-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k3.webp",
+    "w": 1082,
+    "h": 5723
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2025-05-z04",
+   "no": "4",
+   "points": 5,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author mention",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.7",
+    "III.4"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k4.webp",
+    "w": 1082,
+    "h": 559
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    3,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pr-2025-05-z05",
+   "no": "5",
+   "points": 5,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto pięć fragmentów. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujący fragment (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jeden fragment został podany dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k5.webp",
+    "w": 1101,
+    "h": 617
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "5.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    5,
+    0,
+    4,
+    2
+   ]
+  },
+  {
+   "id": "ang-pr-2025-05-z06",
+   "no": "6",
+   "points": 8,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj dwa teksty związane ze szkoleniem psów. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1. W zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. From the first paragraph, we learn that 6.2. When Will met Buster for the first time, he 6.3. What do we learn from the third paragraph? 6.4. From the last paragraph, we can conclude that Will Tekst 2. The Academy for Dog Trainers WHAT YOU WILL LEARN HOW MUCH WE CHARGE Uzupełnij luki 6.5.–6.8. zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę możesz wpisać maksymalnie sześć wyrazów.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.4",
+    "III.7",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k6.webp",
+    "w": 1083,
+    "h": 6986
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2025-05-z07",
+   "no": "7",
+   "points": 6,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k7.webp",
+    "w": 1082,
+    "h": 604
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    2,
+    3,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "ang-pr-2025-05-z08",
+   "no": "8",
+   "points": 4,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem z ramki, przekształcając go w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. Uwaga: dwa wyrazy zostały podane dodatkowo i nie pasują do żadnej luki.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k8.webp",
+    "w": 1082,
+    "h": 707
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Akceptowane są wszystkie odpowiedzi nieujęte w zasadach oceniania, które są merytorycznie poprawne i spełniają wszystkie warunki zadania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2025-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "Uzupełnij zdania 9.1.–9.4., wykorzystując podane w nawiasach wyrazy w odpowiedniej formie. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów. Uwaga: w każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając w to wyrazy już podane.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k9.webp",
+    "w": 1082,
+    "h": 2714
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Akceptowane są wszystkie odpowiedzi nieujęte w zasadach oceniania, które są merytorycznie poprawne i spełniają wszystkie warunki zadania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2025-05-z10",
+   "no": "10",
+   "points": 13,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Zaznacz temat wybrany przez Ciebie. Zakreśl jego numer.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2025-05/k10.webp",
+    "w": 1090,
+    "h": 3697
+   },
+   "scoring": "0–13 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

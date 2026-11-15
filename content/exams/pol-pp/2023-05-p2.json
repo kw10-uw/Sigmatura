@@ -1,0 +1,49 @@
+{
+ "id": "pol-pp-2023-05-p2",
+ "subject": "pol-pp",
+ "formula": "2023",
+ "year": 2023,
+ "session": "maj",
+ "source": {
+  "paper": "MPOP-P2-100-2305.pdf",
+  "key": "MPOP-P2-100-2305-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "t18",
+   "type": "image",
+   "file": "assets/pol-pp-2023-05-p2/z18.webp",
+   "w": 1087,
+   "h": 923,
+   "caption": "Zadanie 18 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "pol-pp-2023-05-p2-z18",
+   "no": "18",
+   "points": 35,
+   "materials": [
+    "t18"
+   ],
+   "prompt": "Człowiek – istota pełna sprzeczności. W pracy odwołaj się do: wybranej lektury obowiązkowej – utworu epickiego albo dramatycznego innego utworu literackiego – może to być również utwór poetycki wybranych kontekstów. Co sprawia, że człowiek staje się dla drugiego człowieka bohaterem? W pracy odwołaj się do: wybranej lektury obowiązkowej – utworu epickiego albo dramatycznego innego utworu literackiego – może to być również utwór poetycki wybranych kontekstów. na temat nr ............ Uzasadnienie oceny: Łączna liczba punktów: ........................",
+   "topic": "pol-wyp",
+   "requirement": [
+    "III.2.5",
+    "III.1.1",
+    "III.1.6",
+    "III.2.1",
+    "III.2.7"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2023-05-p2/k18.webp",
+    "w": 1087,
+    "h": 4042
+   },
+   "scoring": "0–35 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

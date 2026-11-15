@@ -1,0 +1,791 @@
+{
+ "id": "hisz-pp-2024-12",
+ "subject": "hisz-pp",
+ "formula": "2023",
+ "year": 2024,
+ "session": "probna",
+ "source": {
+  "paper": "MJHP-P0-100-A-2412-arkusz.pdf",
+  "key": "MJHP-P0-100-200-2412-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Probny/2024/Jezyk_hiszpanski/poziom_podstawowy/MJH-P-100-2412.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z1.webp",
+   "w": 980,
+   "h": 596,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z2.webp",
+   "w": 1100,
+   "h": 1124,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 2.1. i 2.2.) 2.1. La palabra que mejor define al panda rojo es\n\nA. sociable. B. agresivo. C. dormilón. 2.2. El panda rojo y el panda gigante\n\nA. se parecen en tamaño. B. tienen una dieta similar. C. son iguales en el color del pelaje. Tekst 2. (do zadań 2.3. i 2.4.) 2.3. Según el texto, los ladrones\n\nA. destruyeron una parte de un glaciar.\n\nB. fueron detenidos en el momento en que vendían el hielo.\n\nC. disponían de un vehículo adecuado para transportar el hielo. 2.4. El hielo recuperado por la policía servirá para\n\nA. regar los campos.\n\nB. llenar las fuentes de la capital. C. refrescar bebidas en bares y restaurantes. Tekst 3. (do zadań 2.5. i 2.6.) 2.5. La mujer entrevistada es\n\nA. entrenadora. B. profesora. C. abogada. 2.6. Del texto se deduce que la hablante\n\nA. está indecisa. B. es segura de sí misma. C. se siente avergonzada."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z3.webp",
+   "w": 1011,
+   "h": 213,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z4.webp",
+   "w": 1019,
+   "h": 1436,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. ¿En qué consistió el experimento? B. ¿Cuándo se inventaron las camas? C. ¿Por qué la pausa nocturna se llamaba “el reloj”? D. ¿Cómo se dividía el descanso nocturno en el pasado? E. ¿En qué condiciones se dormía en la época medieval? F. ¿Por qué desapareció la costumbre de interrumpir el sueño?\n\n¿CÓMO DORMÍA LA GENTE EN EL PASADO?\n\n4.1.\n\nEn la Edad Media las camas eran cajas de madera con colchones. Los afortunados se acostaban en colchones rellenos de paja, trapos o —si eran muy ricos— de plumas. Los más pobres solían acostarse sobre el suelo o sobre la vegetación seca, sin soñar ni siquiera con las almohadas de hoy. Lo que les acompañaba era el miedo a dormir con insectos y a pasar frío.\n\n4.2.\n\nHasta el siglo XIX, una noche de sueño constaba de dos partes: la primera, desde la puesta del sol hasta la medianoche, más o menos, y la segunda, aproximadamente desde la una hasta las seis de la mañana. Entre ambas partes había una pausa nocturna conocida como “el reloj”. Era un tiempo útil para hablar, cuidar los animales de la granja o realizar tareas domésticas.\n\n4.3.\n\nPara investigar sobre el fenómeno de “el reloj”, en 2015 los científicos hicieron una prueba de diez días con voluntarios de Madagascar. Reprodujeron, en parte, las condiciones medievales, escogiendo un pueblo sin electricidad. Por la noche, los investigadores observaron en los participantes un período de actividad después de las doce de la noche hasta la una de la madrugada y luego otro período de sueño hasta las seis, cuando salía el sol.\n\n4.4.\n\nJunto con la Revolución Industrial a principios del siglo XIX, la luz artificial se hizo predominante. Eso cambió los ritmos cotidianos de la gente y le permitió quedarse despierta hasta más tarde y mejorar sus condiciones de sueño. En la actualidad, lo habitual es dormir toda la noche sin dividir el sueño en dos fases. Incluso parece raro despertarse en medio de la noche.\n\nNa podstawie: www.bbc.com; www.cope.es PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z5.webp",
+   "w": 1026,
+   "h": 3246,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nNa podstawie: www.directoalpaladar.com Tekst B\n\nNa podstawie: recetasderechupete.com\n\n6%\n\n50%\n\n31%\n\n13%\n\nno cocino\n\nconsulto recetas culinarias, pero siempre\n\nlas adapto a mis necesidades\n\nuso recetas y generalmente me salen bien\n\nsigo las recetas paso a paso, pero no\n\nsiempre me salen bien\n\nTU NIVEL DE COCINA\n\n12 de julio de 2023. Actualizado: 4 de agosto de 2024, 14:55 ¡Queridos lectores! Ya ha llegado el verano y las altas temperaturas que nos hacen pensar en comer algo rico, pero ligero, y sin tener que pasar horas en la cocina. Por eso, os traigo una receta que lleva verduras frescas de temporada, ideal para esta época del año. Tan solo hay que pelarlas, cortarlas y batirlas. Estoy hablando del tradicional gazpacho andaluz, uno de los platos estrella de la cocina española, tan popular que cada familia tiene su forma única de prepararlo. Como siempre, os dejo la receta base para que la modifiquéis según os apetezca. Intentadlo y ya veréis que os saldrá un gazpacho fabuloso.\n\nDejad vuestras opiniones en los comentarios.\n\nTekst C\n\nNa podstawie: Vázquez Montalbán, El barco fantasma, thefoodiestudies.com Tekst D\n\nTekst własny\n\nMuy bien. Y habla con Juan, a lo mejor viene con nosotros.\n\nPues sí. Pasé por allí una vez a mediodía y estaba lleno. ¡Imagínate los fines de semana!\n\nTú sí que sabes convencer. Vale, vamos este sábado. ¿Crees que deberíamos hacer una reserva?\n\nBueno, en general se quejan de no poder encontrar sitio para aparcar el coche por allí, pero todos dicen que la comida está muy rica, sobre todo las especialidades de la casa: las sabrosísimas chuletas de cerdo y el cochinillo asado. ¡Tenemos que probarlas! Y si te apetece algo más ligero, tienen platos vegetarianos. ¡Y unos postres deliciosos!\n\n¿El de la calle Segovia?¿Y qué opina la gente en la red?\n\n¿Al final cómo quedamos el fin de semana? ¿Vamos a ese restaurante nuevo del que nos habló Juan?\n\nSE ME HACE LA BOCA AGUA\n\n–¿Dónde puedo comer algo típico? –Es un poco difícil porque hay muchos locales gastronómicos dirigidos por extranjeros. Los productos locales y las recetas antiguas se olvidan. Cuando yo era niño, las cosas eran diferentes... Pero pruebe en la “Caseta de Madera”, allí tienen buen pescado de por aquí. Estas aguas son muy ricas, porque las hay frías y calientes, según las corrientes. Hay peces como el alfonsino, la sama o el cherne.\n\n–No siga, amigo. Se me hace la boca agua. Llego al restaurante. Pido la sama. No está en el menú. Pregunto por el cherne. Tampoco tienen. Ni vinos ni quesos canarios. Por suerte, el alfonsino sí lo tienen.\n\nPienso que es un síntoma de que las islas se desconocen a sí mismas. Un pueblo que no bebe su vino ni come su queso tiene un grave problema de identidad.\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. En este texto alguien aprecia la variedad de los platos en un menú.\n\n5.2. El autor de este texto anima a adaptar una receta al gusto de cada uno.\n\n5.3. De este texto se deduce que los cambios que se han dado\n\nen una gastronomía regional son negativos.\n\nUzupełnij luki w zdaniach 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać sens podanych informacji. Luki należy uzupełnić w języku hiszpańskim. 5.4. El gazpacho es un plato muy popular y su preparación es bastante\n\n5.5. Todos los encuestados que cocinan suelen __________________________________\n\n5.6. Uno de los usuarios del chat dice que a muchos clientes de un restaurante les molesta\n\nla falta de ________________________________________ cerca del establecimiento.\n\n5.7. De los platos de pescado que el narrador quería probar en un restaurante, solo pudo"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z6.webp",
+   "w": 1019,
+   "h": 2188,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D.\n\nMATILDE MONTOYA LAFRAGUA 1. Matilde Montoya Lafragua nació en México en 1859. Desde que era muy pequeña\n\nempezó a demostrar interés por el estudio y su madre no tardó en darse cuenta de que la niña tenía una inteligencia excepcional. Gracias a su apoyo y a las enseñanzas que le dio, la niña a los cuatro años ya sabía leer y escribir, y a los once ya estaba preparada para cursar el bachillerato. Matilde terminó su educación escolar a los 12 años, pero era demasiado joven para empezar estudios superiores. Por eso, animada por su familia, se formó como enfermera, aunque no era esa la profesión a la que aspiraba. Tenía sueños más ambiciosos. Quería ser médica y cuando cumplió 24 años entró en la Escuela Nacional de Medicina, siendo la única estudiante mujer. 2. La decisión del entonces director, el doctor Francisco Ortega, de aceptarla en la carrera\n\nfue criticada tanto por una gran parte de la comunidad médica como por gente de la sociedad. Aparecieron publicaciones en su contra, entre ellas un artículo en el que se cuestionaban sus capacidades para ser médica. Matilde no solo tuvo que luchar con las críticas de la sociedad, sino también soportar las burlas de muchos de sus compañeros de la universidad al ser la única mujer presente. Y solo pudo contar con ayuda de unos cuantos amigos íntimos. 3. Tanta presión ejercieron sus enemigos que al final del primer año la universidad intentó\n\nexpulsarla. En su desesperación, Matilde decidió escribirle una carta al presidente de México para pedirle ayuda y gracias a su apoyo pudo seguir estudiando. La mujer logró realizar los estudios con buenas calificaciones, pero entonces la universidad le impidió presentarse al examen final ya que en las actas oficiales decía alumnos no alumnas. Una vez más, Matilde le escribió al presidente para que interviniera de nuevo. Esta vez se aprobó una ley que les permitía a las mujeres estudiar Medicina y ser doctoras. El presidente fue en persona a la universidad para ver a Matilde hacer su examen final el 24 de agosto de 1887. Fue un momento histórico. Al día siguiente, los periódicos de todo el país contaban la historia de la señorita Matilde Montoya, la primera médica mexicana. 4. A pesar de que muchos dijeron que se había titulado por decreto presidencial, Montoya\n\ndedicó su vida a su pasión y atendió a todo tipo de pacientes. Tenía dos consultorios a su cargo, uno de pago y otro gratuito para facilitar la asistencia médica a los más pobres. Fue una médica destacada y formó parte de muchas asociaciones de mujeres. En 1925 fundó la Asociación de Médicas Mexicanas. Desgraciadamente, Matilde nunca fue invitada a ninguna asociación o academia médica oficial, ya que estas todavía no aceptaban mujeres.\n\nNa podstawie: mxcity.mx\n\n6.1. Según el primer párrafo, Matilde\n\nA. tenía relaciones difíciles con su madre. B. siempre había soñado con ser enfermera. C. se matriculó en una facultad creada para las mujeres. D. destacaba por ser una niña con mucho talento para estudiar. 6.2. El artículo que se menciona en el segundo párrafo fue escrito por\n\nA. Matilde. B. Francisco Ortega. C. los opositores de la futura médica. D. las personas que apoyaban a Matilde. 6.3. El presidente de México\n\nA. ayudó a Matilde a conseguir el título de médica. B. ignoró la primera carta que Matilde le había mandado. C. se negó a intervenir a favor de Matilde por segunda vez. D. asistió al examen de ingreso a la universidad de Matilde. 6.4. Por el último párrafo nos enteramos de que Matilde\n\nA. fue admitida en las asociaciones médicas oficiales. B. creó una organización profesional de mujeres. C. decidió dedicarse a la vida familiar. D. tuvo que abandonar sus ideales. 6.5. Matilde se dio a conocer como una mujer\n\nA. conservadora. B. materialista. C. insegura. D. pionera. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z7.webp",
+   "w": 1018,
+   "h": 917,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.\n\nDÉFICIT DE TIEMPO Y DE SILENCIO La mayoría de la gente que reconoce no leer dice que es por falta de tiempo. 7.1. _____ Probablemente al estilo de vida que hemos elegido: estamos rodeados de pantallas y ruidos y siempre vamos con prisa. Y para leer son necesarios el tiempo y el silencio.\n\nUna de las razones por las que siempre he adorado leer es porque los libros me permiten dejar de ser yo durante un rato. 7.2. _____ Sentir y vivir como ella. Un astronauta, un multimillonario, un pobre empleado o una bruja. Quisiera ser durante un rato uno de ellos. Por eso leo novelas. Algunas veces les cuento este secreto mío a mis alumnos. 7.3. _____ Lo bueno y también lo malo, todo lo que al ser humano le asusta o le fascina, porque leer es un viaje a lo desconocido.\n\nPara despertar el interés de los jóvenes por la lectura, propongo un ejercicio para toda la familia: la lectura compartida en voz alta. Conviene buscar un rato al día y un lugar tranquilo. Se lee por turnos. Los adolescentes nos agradecerán poder participar activamente. 7.4. _____ Pero vale la pena encontrarla. La lectura compartida en voz alta es un ejercicio que nos recuerda el siglo XIX. Hoy en día es un acto casi revolucionario, como la lectura misma.\n\nNa podstawie: www.elperiodico.com A. A través de las páginas de una buena novela puedo convertirme en otra persona. B. ¿A qué se debe este fenómeno? C. En cambio, los más pequeños seguramente exigirán muchísima paciencia. D. Además, les digo que en los libros está todo lo que necesitan saber. E. Sin embargo, aprender a leer es lo más importante que me ha pasado en la vida. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z8.webp",
+   "w": 1010,
+   "h": 790,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z9.webp",
+   "w": 1000,
+   "h": 714,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z10.webp",
+   "w": 1100,
+   "h": 623,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.\n\nDÍA MUNDIAL SIN COMPRAS La idea de esta celebración nació en Canadá y en la actualidad está presente en más de\n\n65 países. Tiene lugar el 10.1. ____________________ día que el Viernes Negro (Black\n\nFriday), y es una forma de protesta contra el consumo excesivo.\n\nHay estudios que demuestran que hasta el 80% de nuestras compras del Viernes Negro\n\nacaban en la basura después de muy poco uso. Y aunque tanto los consumidores como\n\nlas empresas son 10.2. ____________________ vez más conscientes de su impacto\n\nnegativo en el medio ambiente, todavía quedan muchas cosas por hacer. Por este motivo\n\nlos organizadores del Día Mundial sin Compras nos invitan a disfrutar de la naturaleza y dar\n\nun 10.3. ____________________ por el parque en vez de ir al centro comercial en busca de\n\nofertas de productos innecesarios.\n\nNa podstawie: www.abc.es"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z11.webp",
+   "w": 1100,
+   "h": 572,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). Wymagana jest pełna poprawność ortograficzna i gramatyczna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów. W każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyraz już podany. 11.1. Dice que uno de sus amigos lo ha invitado a Mallorca.\n\nSUYO\n\nDice que _________________________________________ lo ha invitado a Mallorca.\n\n11.2. Mercedes lee un libro desde hace cuatro horas.\n\nLLEVA\n\nMercedes ______________________________________________________ un libro.\n\n11.3. Paco, la sopa está fría, caliéntala, por favor.\n\nPUEDES\n\nPaco, la sopa está fría, ¿________________________________________, por favor?"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-12/z12.webp",
+   "w": 1016,
+   "h": 569,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) W ubiegłym miesiącu Twoja klasa wraz z nauczycielem zorganizowała pieszą wycieczkę. W e-mailu do kolegi z Hiszpanii:\n\n• wyjaśnij, dlaczego zdecydowaliście się na wycieczkę pieszą • opisz najciekawsze miejsce na trasie wycieczki • poinformuj o tym, jak zmieniła się pogoda podczas wycieczki • napisz, jaką decyzję podjął Wasz nauczyciel w związku ze zmianą pogody. Napisz swoją wypowiedź w języku hiszpańskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 100 do 150 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty).\n\nCZYSTOPIS Hola, Javier: Hace un mes mis compañeros de clase y yo hicimos una excursión a pie.\n\nTreść Spójność\n\ni logika\n\nZakres środków\n\njęzykowych\n\nPoprawność środków\n\njęzykowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "hisz-pp-2024-12-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi dotyczących lokali gastronomicznych. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.4",
+    "II.2",
+    "II.3",
+    "II.7"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k1.webp",
+    "w": 1082,
+    "h": 519
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    3,
+    0,
+    5
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-12-z02",
+   "no": "2",
+   "points": 6,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 2.1. i 2.2.) 2.1. La palabra que mejor define al panda rojo es 2.2. El panda rojo y el panda gigante Tekst 2. (do zadań 2.3. i 2.4.) 2.3. Según el texto, los ladrones 2.4. El hielo recuperado por la policía servirá para Tekst 3. (do zadań 2.5. i 2.6.) 2.5. La mujer entrevistada es 2.6. Del texto se deduce que la hablante",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.5",
+    "II.4",
+    "II.7"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k2.webp",
+    "w": 1101,
+    "h": 674
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.6.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    2,
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-12-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wypowiedź osoby podróżującej po świecie kamperem (autocaravana). Na podstawie informacji zawartych w nagraniu odpowiedz krótko na pytania 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Na pytania należy odpowiedzieć w języku hiszpańskim.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k3.webp",
+    "w": 1082,
+    "h": 3783
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-12-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k4.webp",
+    "w": 1082,
+    "h": 414
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    3,
+    0,
+    5
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-12-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. TU NIVEL DE COCINA Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Uzupełnij luki w zdaniach 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać sens podanych informacji. Luki należy uzupełnić w języku hiszpańskim.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.2",
+    "III.7",
+    "VIII.1",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k5.webp",
+    "w": 1082,
+    "h": 3881
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-12-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Según el primer párrafo, Matilde 6.2. El artículo que se menciona en el segundo párrafo fue escrito por 6.3. El presidente de México 6.4. Por el último párrafo nos enteramos de que Matilde 6.5. Matilde se dio a conocer como una mujer",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.7"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k6.webp",
+    "w": 1082,
+    "h": 491
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    2,
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-12-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k7.webp",
+    "w": 1082,
+    "h": 448
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    3,
+    2
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-12-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k8.webp",
+    "w": 1082,
+    "h": 380
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-12-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens wyróżnionego fragmentu zdania. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k9.webp",
+    "w": 1082,
+    "h": 415
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    1,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-12-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k10.webp",
+    "w": 1101,
+    "h": 461
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-12-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). Wymagana jest pełna poprawność ortograficzna i gramatyczna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów. W każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyraz już podany.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k11.webp",
+    "w": 1082,
+    "h": 991
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-12-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "W ubiegłym miesiącu Twoja klasa wraz z nauczycielem zorganizowała pieszą wycieczkę. W e-mailu do kolegi z Hiszpanii: • wyjaśnij, dlaczego zdecydowaliście się na wycieczkę pieszą • opisz najciekawsze miejsce na trasie wycieczki • poinformuj o tym, jak zmieniła się pogoda podczas wycieczki • napisz, jaką decyzję podjął Wasz nauczyciel w związku ze zmianą pogody. Hola, Javier: Hace un mes mis compañeros de clase y yo hicimos una excursión a pie.",
+   "topic": "hisz-wri",
+   "requirement": [
+    "V.1",
+    "V.6",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-12/k12.webp",
+    "w": 1079,
+    "h": 3215
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

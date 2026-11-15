@@ -1,0 +1,791 @@
+{
+ "id": "hisz-pp-2023-12",
+ "subject": "hisz-pp",
+ "formula": "2023",
+ "year": 2023,
+ "session": "probna",
+ "source": {
+  "paper": "MJHP-P0-100-A-2312-arkusz.pdf",
+  "key": "MJHP-P0-100-400-660-Q00-K00-2312-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/materialy_dodatkowe/diagnostyczne_12_23/hiszpanski/MJHP-P0-100-2312.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z1.webp",
+   "w": 1016,
+   "h": 532,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z2.webp",
+   "w": 981,
+   "h": 556,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z3.webp",
+   "w": 957,
+   "h": 963,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–5) Usłyszysz dwukrotnie cztery teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. De la conversación se deduce que el chico está preparando una charla sobre A. el valor de las películas de ciencia ficción. B. las nuevas aficiones de los jóvenes. C. fuentes alternativas de energía. Tekst 2. 3.2. El texto trata de A. los inicios de la matriculación de coches. B. los requisitos actuales para matricular coches. C. la historia de una colección de matrículas de coches. Tekst 3. 3.3. La hablante cita un ejemplo para demostrar A. el ingenio de los cuervos. B. la mala fama de los cuervos.\n\nC. las relaciones entre los cuervos. Tekst 4. (do zadań 3.4. i 3.5.)\n\n3.4. El hombre afirma que A. ha recibido una maleta nueva como compensación. B. ya se ha puesto en contacto con la compañía aérea. C. dispone de los documentos necesarios para reclamar el daño. 3.5. Al enterarse de lo ocurrido, la mujer A. le ofrece ayuda a su amigo. B. critica a su amigo por ser despistado. C. le desaconseja a su amigo hacer una reclamación. PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 1. DO 3. NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z4.webp",
+   "w": 1017,
+   "h": 1338,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. Tipos de beneficios B. Control de los inversores C. Recurso de larga tradición D. Nuevo modelo de mecenazgo E. Riesgo de perder la financiación F. Pasos a seguir para lograr el objetivo MICROMECENAZGO EN LA RED\n\n4.1.\n\nImagina que eres un artista que está comenzando su carrera como pintor. Sabes que tienes mucho talento y pasión, has estudiado en las mejores academias, tu técnica es buena... pero no tienes dinero. Antes de abandonar tus planes, quizás es hora de seguir una de las estrategias que utilizaron grandes artistas como Leonardo da Vinci o Sandro Botticelli: buscar a alguien que te apoye, un mecenas.\n\n4.2.\n\nTambién hoy es posible optar por esta solución, aunque en la actualidad en vez de tener un mecenas para lograr tus objetivos de negocio, puedes tener cientos de ellos por medio de micromecenazgo llamado crowdfunding. La idea es bastante sencilla: muchas personas deciden apoyarte económicamente para que puedas crear tu proyecto. Este método permite reunir muchos fondos sin poner en riesgo una suma importante de dinero por inversor.\n\n4.3.\n\nPero ¿cómo convencerlos de que tu idea vale la pena? Para ello, primero debes apoyarte en plataformas de crowdfunding donde cualquiera puede publicar y crear un perfil, y luego presentar su prototipo de producto o idea, con fotos, descripciones y vídeos. Deberás indicar cuánto dinero necesitas, para qué utilizarás los fondos recaudados y qué beneficios tendrán los inversores.\n\n4.4.\n\nHay que señalar que en este método de financiación las inversiones no siempre deben ser remuneradas económicamente. Algunos proyectos de carácter medioambiental o cultural buscan convencer a los inversores ofreciéndoles solo gratificación moral o social.\n\nNa podstawie: blog.hubspot.es; www.miguelangelalonsopulido.com PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z5.webp",
+   "w": 1026,
+   "h": 2882,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nEstimada Comunidad:\n\nCada 23 de abril los libros toman las calles y se convierten en protagonistas. El Día Internacional del Libro se convierte en Cataluña en una jornada festiva, especialmente romántica debido a la leyenda de San Jorge y el dragón.\n\nEl dragón, que vivía en Montblanc, horrorizaba a la población y quería devorar también a la hija del rey. Sin embargo, apareció Sant Jordi, un caballero que mató al dragón con su espada y salvó a la princesa. De la sangre del dragón nacieron rosas rojas. El caballero Jordi cogió una de ellas y se la entregó a la princesa. Ella, en agradecimiento, le regaló un libro. De ahí la tradición de regalar rosas y libros el día de Sant Jordi.\n\nOs proponemos celebrar el Día del Libro con un concurso de cuentos y relatos cortos.\n\n¡Animaos a participar!\n\nEl ganador recibirá un LECTOR DE LIBROS ELECTRÓNICOS y, cómo no, UNA ROSA. En breve os daremos más detalles de este concurso en\n\nwww.santjordi.com\n\nNa podstawie: community.goodgamestudios.com Tekst B\n\nCAMPAÑA RECOLECCIÓN DE LIBROS\n\nEn el marco de las Acciones de Red Verde, realizamos la campaña de recolección\n\nde libros usados para entregarlos a diez fundaciones diferentes.\n\nEn todos los campus se dispondrán contenedores para que dejes los libros que no usas\n\ny que estén en buen estado.\n\n¡¡¡Participa!!!\n\nSe aceptan todo tipo de libros y textos escolares.\n\nNo se recogerán revistas ni periódicos.\n\nNa podstawie: edit.org\n\nDURANTE TODO SEPTIEMBRE\n\nTekst C\n\nNa podstawie: www.federacioneditores.org Tekst D\n\nJUANA LA LOCA Historias de hadas para adultos es un libro que me regalaron mis padres por mi cumpleaños y me encantó desde el primer momento. Cuenta tres historias muy diferentes que te atraen enseguida. La primera historia me hizo llorar, la segunda me impresionó y, con la tercera, la del dragón, temblé de miedo. Son historias con personajes bien definidos y su lectura es muy entretenida. Empecé a leer el libro por la mañana al levantarme y lo terminé antes de cenar. Me gustó mucho la atmósfera en la que se desarrollan estas tres historias: una mezcla de cuentos de hadas, ciencia ficción y magia.\n\nNa podstawie: www.forocoches.com\n\nSí 54%\n\nNo 46%\n\n¿LE HAN REGALADO ALGÚN LIBRO?\n\nTodos 58% Alguno, pero no todos 24%\n\nNinguno 18%\n\n¿Y CUÁNTOS DE ESOS LIBROS HA LEÍDO?\n\nPrzeczytaj pytania 5.1.–5.3. Dopasuj do każdego pytania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego pytania. ¿En qué texto\n\n5.1. se demuestra que algunos libros regalados no se leen?\n\n5.2. se anima a darles una segunda vida a los libros?\n\n5.3. el autor se dirige a los interesados en demostrar su talento literario?\n\nOdpowiedz krótko na pytania 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać ich sens. Na pytania należy odpowiedzieć w języku hiszpańskim. 5.4. ¿Cuál es la costumbre catalana relacionada con el Día de Sant Jordi?\n\n5.5. ¿Qué tipo de publicaciones no se debe depositar en los contenedores?\n\n5.6. ¿Cuánto tiempo tardó la autora de un blog literario en leer el libro que comenta?\n\n5.7. ¿Qué animal mítico se menciona en dos textos?"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z6.webp",
+   "w": 1019,
+   "h": 2090,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. EL AEROPUERTO 1. Cuando terminé los estudios, pasé algún tiempo buscando trabajo, hasta que advertí que no lo encontraría. No obstante, para no preocupar a mis padres, que tenían pánico a la inactividad, salía todos los días de casa y me pasaba la mañana dando vueltas por ahí. Disfrutaba observando a la gente, lo que nunca me cansa. Si pagaran por observar, sería millonario. He observado a las personas en el interior de los autobuses o del metro, en los museos, incluso en el cine. 2. En una ocasión se me ocurrió ir al aeropuerto. Me coloqué en Llegadas, como si hubiera ido a recoger a alguien, y pasé varias horas observando a la muchedumbre. Me llamaban mucho la atención las personas que mostraban un pequeño cartel con el nombre de la persona a la que esperaban. Desde aquel día, yo también empecé a poner nombres en una cuartilla que desplegaba cada vez que llegaba un vuelo. Ponía nombres raros o extranjeros. Un día que había escrito “Señora Kurtz”, al abrirse las puertas que comunicaban con la aduana, apareció una mujer que vio mi cartel y sin vacilar se dirigió a mí, ofreciéndome su mano al tiempo que pronunciaba unas frases en alemán. Tras estrecharle la mano, le pregunté en inglés si había tenido buen viaje y me respondió en el mismo idioma con cierta dificultad. Tendría unos cincuenta años muy bien llevados y vestía con elegancia. Me preguntó si iríamos directamente a la cita y le dije que sí. –A menos que prefiera pasar antes por el hotel –dije al ver su equipaje. –Primero a la cita y luego al hotel –respondió. 3. Mientras nos dirigíamos a mi coche mi cabeza funcionaba a cien por hora, imaginándome los problemas antes de que aparecieran. Su paso era más enérgico que el mío, más decidido. Además, yo llevaba su equipaje, lo que aumentaba mi torpeza al caminar. Decidí decirle que el lugar elegido para la cita era una cafetería del centro. 4. Ya en el coche mantuve con la señora Kurtz una conversación hecha a base de lugares comunes. Me dio la impresión de que conocía la ciudad. 5. Una vez que llegamos al centro, detuve el coche junto a la puerta de una cafetería y le pedí que entrara en ella mientras yo iba a aparcar. La señora Kurtz bajó del automóvil y desapareció en el interior del establecimiento. Yo arranqué y volví a casa, donde pasé un día muy triste, como si hubiera perdido a una persona que estaba destinada a mí desde el principio de los tiempos. [...]\n\nNa podstawie: J.J. Millás, Articuentos\n\n6.1. Por el primer párrafo nos enteramos de que al protagonista A. le irritaba la postura de sus padres. B. le daba pánico no encontrar trabajo. C. le gustaba dedicarse a una actividad. D. le cansaba recorrer las calles sin motivo. 6.2. En el aeropuerto el protagonista solía A. acompañar a sus amigos. B. simular esperar a alguien. C. llevar un cartel con su propio apellido. D. ofrecer transporte a turistas extranjeros. 6.3. Al salir de la aduana, la señora Kurtz A. tenía un aspecto descuidado. B. daba la impresión de estar perdida.\n\nC. dio a entender que tenía acordado un encuentro. D. inició la conversación con el protagonista en inglés. 6.4. Al final de la historia A. el protagonista desapareció sin despedirse. B. el protagonista confesó la verdad a la señora Kurtz. C. la señora Kurtz y el protagonista se hicieron amigos. D. la señora Kurtz manifestó su falta de confianza hacia el protagonista. 6.5. El texto habla de A. una cita de socios. B. un favor interesado. C. un engaño improvisado. D. una relación sentimental. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z7.webp",
+   "w": 1017,
+   "h": 981,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki. BONITA PROFESIÓN Hacía mucho tiempo que Andrés estaba en paro. Un día decidió entrar en un circo ambulante que estaba entonces en Buenos Aires. 7.1. _____ Le explicó que en el circo se había muerto uno de Bengala y por eso Andrés tendría que sustituirlo en los espectáculos. 7.2. _____ Lo hizo porque necesitaba dinero. El día del espectáculo los operarios colocaron en la arena dos jaulas, una encima de la otra. Cuando empezó la función, Andrés entró en la jaula de abajo disfrazado de tigre. El público lo aplaudió con entusiasmo. Sin embargo, Andrés no se sentía nada seguro y todo su cuerpo temblaba. 7.3. _____ Los separaba solo un techo de madera hecho de tablas muy finas. En su imaginación, Andrés ya veía cómo se rompían y el león se le caía encima. Desafortunadamente, sus temores se cumplieron. 7.4. _____ Aunque el intruso se limitaba a dar vueltas por la jaula sin tocar al pobre tigre, este se puso a gritar como un loco. Finalmente, el rey de la jungla se paró delante del tigre, abrió su enorme boca y dijo furioso: –Si no te callas, idiota, el director nos echará a la calle a los dos.\n\nNa podstawie: window.edu.ru A. Por suerte, Andrés tenía mucha experiencia en domar animales salvajes y no le daban miedo. B. De pronto, el león dio un salto y se encontró en la jaula de abajo. C. El director lo recibió enseguida y le dijo que podría ganar tres pesos al día si hacía de tigre. D. La razón de su miedo era que encima de él se estaba paseando un enorme león que\n\nrugía terriblemente. E. A Andrés el trabajo le pareció raro, pero aceptó la oferta. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z8.webp",
+   "w": 1000,
+   "h": 790,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z9.webp",
+   "w": 1016,
+   "h": 1004,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która jest tłumaczeniem fragmentu podanego w nawiasie, poprawnie uzupełniającym lukę. Zakreśl jedną z liter: A, B albo C. 9.1. –¿Quieres algo de comer? –No, gracias. (Przed chwilą zjadłem śniadanie.) _____\n\nA. Enseguida termino de desayunar. B. Acabo de desayunar. C. Acostumbro a desayunar temprano. 9.2. Desde aquel incidente, mis padres (nie mają dobrych relacji) _____ con sus vecinos.\n\nA. no se llevan bien B. no se conocen bien C. no se comportan bien 9.3. –Le presento a Aurelia Gómez Ortega, mi nueva secretaria. –(Miło mi.) _____ –Igualmente.\n\nA. Con mucho gusto.\n\nB. Me gusta mucho. C. Mucho gusto. 9.4. Si tienes calor, ¿(dlaczego nie zdejmiesz) _____ el abrigo?\n\nA. por qué no te pones B. por qué no te quitas C. por qué no te dejas PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z10.webp",
+   "w": 1100,
+   "h": 586,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem. Przekształć wyraz podany w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. TECNOFOBIA La tecnofobia no es un fenómeno nuevo. Cuando en Gran Bretaña abrieron al público\n\nla primera línea de ferrocarril, los trenes alcanzaban velocidades de unos 35 kilómetros\n\npor hora. Muchos afirmaban entonces que la fisiología humana no estaba (adaptar)\n\n10.1. _________________________ a tan grandes velocidades y que eso podría causar\n\nmucho daño tanto a corto como a largo plazo.\n\nCon la electrificación de las ciudades (pasar) 10.2. _________________________ algo\n\nparecido. Se dijo que los cables eléctricos eran una forma de propagar enfermedades.\n\nEste mito renació en el siglo XXI con la introducción de la red de 5G. Parece que el avance\n\nde la ciencia sigue (despertar) 10.3. _________________________ miedo.\n\nNa podstawie: El País Semanal"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z11.webp",
+   "w": 1100,
+   "h": 500,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie dwa wyrazy. 11.1. A lo mejor mi hermano mayor viene esta tarde.\n\nEs posible que mi hermano mayor ________________________________ esta tarde. 11.2. Usted se ha equivocado. Por favor, rellene este formulario otra vez.\n\nUsted se ha equivocado. Por favor, _________________________________ rellenar este formulario otra vez. 11.3. Pedro primero fue al mercado a comprar fruta y verdura y luego pasó por una panadería.\n\nPedro, __________________________________________ pasar por una panadería, fue al mercado a comprar fruta y verdura."
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-12/z12.webp",
+   "w": 1005,
+   "h": 600,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Od niedawna uczestniczysz w kursie na przewodnika turystycznego. W e-mailu do kolegi z Hiszpanii: • napisz, dlaczego warto być przewodnikiem turystycznym • wyjaśnij, w jaki sposób zdobyłeś(-aś) pieniądze na opłacenie tego kursu • przedstaw program kursu • wyraź swoją opinię o osobie prowadzącej ten kurs. Napisz swoją wypowiedź w języku hiszpańskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 80 do 130 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hola, Emilio: Tengo que contarte una novedad: estoy haciendo un curso de guía turístico.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "hisz-pp-2023-12-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wywiad z autorką książki poświęconej kobietom szpiegom. Zaznacz znakiem X, które zdania są zgodne z treścią nagrania (V – Verdadero), a które nie (F – Falso).",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k1.webp",
+    "w": 1059,
+    "h": 487
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-12-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat pracy. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.7",
+    "II.3",
+    "II.4",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k2.webp",
+    "w": 1101,
+    "h": 600
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    3,
+    5,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-12-z03",
+   "no": "3",
+   "points": 5,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie cztery teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. De la conversación se deduce que el chico está preparando una charla sobre Tekst 2. 3.2. El texto trata de Tekst 3. 3.3. La hablante cita un ejemplo para demostrar Tekst 4. (do zadań 3.4. i 3.5.) 3.4. El hombre afirma que 3.5. Al enterarse de lo ocurrido, la mujer",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.7",
+    "II.2",
+    "II.3",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k3.webp",
+    "w": 1058,
+    "h": 587
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "3.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    0,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-12-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k4.webp",
+    "w": 1058,
+    "h": 411
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    3,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-12-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. CAMPAÑA RECOLECCIÓN DE LIBROS ¿Y CUÁNTOS DE ESOS ALGÚN LIBRO? LIBROS HA LEÍDO? Przeczytaj pytania 5.1.–5.3. Dopasuj do każdego pytania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego pytania. Odpowiedz krótko na pytania 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać ich sens. Na pytania należy odpowiedzieć w języku hiszpańskim.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.2",
+    "III.3",
+    "VIII.2",
+    "III.7"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k5.webp",
+    "w": 1101,
+    "h": 5263
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-12-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Por el primer párrafo nos enteramos de que al protagonista 6.2. En el aeropuerto el protagonista solía 6.3. Al salir de la aduana, la señora Kurtz 6.4. Al final de la historia 6.5. El texto habla de",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k6.webp",
+    "w": 1058,
+    "h": 485
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    2,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-12-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k7.webp",
+    "w": 1058,
+    "h": 454
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    4,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-12-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k8.webp",
+    "w": 1101,
+    "h": 462
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-12-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która jest tłumaczeniem fragmentu podanego w nawiasie, poprawnie uzupełniającym lukę. Zakreśl jedną z liter: A, B albo C. –No, gracias. (Przed chwilą zjadłem śniadanie.) _____",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k9.webp",
+    "w": 1059,
+    "h": 410
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-12-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem. Przekształć wyraz podany w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k10.webp",
+    "w": 1059,
+    "h": 374
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-12-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie dwa wyrazy.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k11.webp",
+    "w": 1059,
+    "h": 771
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-12-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Od niedawna uczestniczysz w kursie na przewodnika turystycznego. W e-mailu do kolegi z Hiszpanii: • napisz, dlaczego warto być przewodnikiem turystycznym • wyjaśnij, w jaki sposób zdobyłeś(-aś) pieniądze na opłacenie tego kursu • przedstaw program kursu • wyraź swoją opinię o osobie prowadzącej ten kurs. Hola, Emilio: Tengo que contarte una novedad: estoy haciendo un curso de guía turístico.",
+   "topic": "hisz-wri",
+   "requirement": [
+    "V.2",
+    "V.6",
+    "V.8",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-12/k12.webp",
+    "w": 1057,
+    "h": 3199
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

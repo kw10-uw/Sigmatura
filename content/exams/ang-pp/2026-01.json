@@ -1,0 +1,815 @@
+{
+ "id": "ang-pp-2026-01",
+ "subject": "ang-pp",
+ "formula": "2023",
+ "year": 2026,
+ "session": "probna",
+ "source": {
+  "paper": "MJAP-P0-100-A-2601-arkusz.pdf",
+  "key": "MJAP-P0-100-2601-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/materialy_dodatkowe/probny_egzamin/2026_marzec/Jezyk_angielski/MJAP-P-100-2601.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z1.webp",
+   "w": 980,
+   "h": 592,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z2.webp",
+   "w": 1100,
+   "h": 1166,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–6) Usłyszysz dwukrotnie dwa teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 2.1.–2.3.) 2.1. What happened on the highway?\n\nA. The police stopped some bank robbers. B. A truck driver caused a car crash. C. Some money was lost.\n\n2.2. According to the police spokesperson\n\nA. if people return the money, they won’t have any problems with the law. B. the people who found the money will be allowed to keep some of it. C. nobody has returned any money yet.\n\n2.3. The speaker is\n\nA. one of the people who found the money on the highway. B. the manager of the bank whose truck had an accident. C. a reporter talking about what happened near Atlanta.\n\nTekst 2. (do zadań 2.4.–2.6.) 2.4. Why did Sean decide to change his career?\n\nA. He was dissatisfied with the money he was earning. B. He spent too much time travelling to and from work. C. He didn’t like the type of work he was doing.\n\n2.5. What is the first thing Sean does on a typical day?\n\nA. He talks to the other guides. B. He searches for tracks left by animals. C. He tells his clients about the plan for the day.\n\n2.6. Between October and April, in Kruger National Park\n\nA. there is very little rain. B. mosquitoes are not a problem. C. visitors can see baby animals."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z3.webp",
+   "w": 1019,
+   "h": 666,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–4) Usłyszysz dwukrotnie fragment audycji radiowej o nadawaniu imion. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.\n\nINTERESTING FACTS ABOUT GIVING NAMES TO CHILDREN\n\n• In New Zealand you cannot give children names which start with\n\n3.1. ___________________________________________.\n\n• In Britain you can give your child almost any name you like as long as it\n\n3.2. ___________________________________________.\n\n• In some countries, like 3.3. _____________________ and\n\nchildren.\n\n• The fact that foreign names cannot be used in Iceland shows that\n\n3.4. __________________________ is important for people living there."
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z4.webp",
+   "w": 1017,
+   "h": 1475,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. DIFFERENT IMAGES ON THE MEDALS B. KINDNESS REWARDED WITH A MEDAL C. THE HIDDEN MEANING OF THE MEDALS D. THE CHANGING SHAPE OF THE MEDALS E. MEDALS USED TO HELP PEOPLE IN NEED F. DIFFERENT METALS USED TO MAKE THE MEDALS\n\nLITTLE-KNOWN FACTS ABOUT OLYMPIC MEDALS\n\n4.1.\n\nThe modern Olympic Games have been held since 1896 but the first gold medals were given to athletes in 1904. Interestingly, both the gold and silver medals awarded at the Olympic Games nowadays are actually made of silver. The only difference between them is that in the gold medals the silver is hidden under a thin layer of gold. The bronze medals contain mainly copper and a very small amount of zinc.\n\n4.2.\n\nOther features of the medals have also changed over the years. For example, the first ones showed Zeus holding the goddess Nike. Then there was just Nike. Next there were two athletes. In 1928, Nike appeared again, with the Roman Colosseum in the background. In 2004, the Greeks protested against this background because the Colosseum was not the birthplace of the Olympics. Nowadays, Nike and the Greek Panathenaic Stadium are shown on Olympic medals.\n\n4.3.\n\nSome sports fans are willing to pay a lot of money for Olympic medals at auctions, especially if they have been won by famous sportspeople. The javelin thrower Maria Andrejczyk put her Tokyo 2020 silver medal up for auction to raise money for a seriously ill child. Anthony Ervin, who won gold at the 2000 Olympic Games in Sydney, put the medal on eBay in 2004. He gave all the money he got for it to people who lost their homes in the Indian Ocean tsunami of that year.\n\n4.4.\n\nIt is not only winning that counts in sport. At the 1988 Olympic Games, a Canadian sailor, Lawrence Lemieux, was in the lead in a boat race, but he stopped to help two other sailors who had fallen out of their boats into the rough sea. He didn’t win the race but received a special medal for sportsmanship. His generous act showed the true spirit of the Olympics.\n\nNa podstawie: www.howtheyplay.com, www.mentalfloss.com, www.en.wikipedia.org PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z5.webp",
+   "w": 1019,
+   "h": 2607,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nALEX’S BLOG\n\nTHE DAY EVERYTHING WENT WRONG\n\nWhen I woke up I realized I was already late for school! I rushed to the bathroom, and then to the kitchen. I needed to have a quick breakfast, so I grabbed some milk and cereal. Then I got dressed quickly, picked up my school bag and ran to the bus stop. I was the only one there, and no bus came. I wondered why. On Fridays the buses run every 10 minutes.\n\nI had to get to school, so I started walking as fast as I could. I looked behind me and saw a dog running after me. It was getting closer and closer and finally caught hold of my uniform with its teeth. I stood still, and fortunately it ran away.\n\nI started to hurry. Along the way my bag suddenly became lighter. I realized I’d left the zip open, and my books had fallen out. I quickly picked them up. Finally, I got to the school building, but the doors were locked. I looked around and noticed Mr Gold, the school caretaker. I asked him why I couldn’t go in. His answer was: “It’s Saturday!” I sat on the school steps and laughed out loud.\n\nNa podstawie: www.write4fun.net Tekst B\n\nAt the University of Birmingham we care about cyclists and encourage all staff, students, and visitors to travel to the university by bike instead of by car or bus, if possible. The main campus is at the centre of a network of safe cycle routes which are many kilometres long. We can provide you with a map that shows where these routes are. Also, the university offers safe, comfortable cycle parking, and there are shower facilities available on campus.\n\nCycling is a great way to get around when studying at the University of Birmingham, and it helps you take care of the environment. If you do not have your own bike, you can hire one from us for £70 for the academic year.\n\nNa podstawie: www.intranet.birmingham.ac.uk\n\nTekst C\n\nWell done to everyone who entered our Walk to School poster competition last week – we had a lot of fantastic entries! The results were announced yesterday. The winner and runners-up will receive prizes at an official ceremony planned for next week. A big thank you to Mrs Goodwin and the School Council for judging the contest. All the posters are displayed on the ground floor. You can see one of them on the left.\n\nNa podstawie: www.stjohnswallingford.org.uk Tekst D\n\nI’ve noticed a huge increase in the number of school buses over the last few years. This makes no sense because we have the same number of schools we have always had. Nearly every neighbourhood has an elementary and secondary school within walking distance. Why then are so many children being transported to schools outside their neighbourhoods? All these buses create unnecessary pollution. No wonder many local residents have started to say that this should change.\n\nNa podstawie: www.usa.streetsblog.org\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. The author of this text mentions a negative environmental consequence of\n\nusing public transport.\n\n5.2. From this text we learn why someone went to school on foot.\n\n5.3. This text promotes the use of an eco-friendly means of transport.\n\nPrzeczytaj e-mail. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie pięć wyrazów.\n\nE-mail \n\nFrom: Alex\n\nTo: Paweł\n\nSubject: School journey\n\nHi Paweł,\n\nDo you know what happened to me last week? One day when I woke up, I thought it\n\nwas 5.4. ____________________________________________ and I was late for\n\nschool, so I started to panic. Then a series of unexpected events happened while\n\nI was walking to school. You won’t believe it but on the way 5.5. ________________\n\nI nearly lost all my books. It may seem strange to you, but in spite of this terrible day\n\nI have decided not to take the bus to school anymore. What’s more, I’m going to\n\nencourage my friends to walk to school, too. I know that one of the schools in my\n\narea recently organized a 5.6. _________________________________ to promote\n\nwalking.\n\nNow, I’m reading various articles and blog posts on the subject. I have learnt that\n\nthere are a lot of people who don’t like the idea of children going to school outside of\n\ntheir local area and having to 5.7. _______________________________________.\n\nI wonder how school children in Poland usually get to school. Please, let me know.\n\nBest wishes!\n\nAlex"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z6.webp",
+   "w": 1017,
+   "h": 2373,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D.\n\n----- “Can I help you with anything, Max?” the sales assistant asked, reading my name printed on the hoodie I was wearing.\n\n“Well,” I said, looking at the sweaters, “I need a present for my brother. Something nice that he will actually wear. And it mustn’t be too heavy, because I’m sending it overseas. It’s the first time he’s not going to be at home for Christmas.”\n\nSoon I was shown a number of sweaters in different sizes and colours. I finally chose a plain blue one although the assistant suggested a red, blue and green one. And even though the sweater I bought was one of the most expensive sweaters in the shop, I was happy because I knew it would suit my brother and he’d love it. He was probably expecting something boring, like a pair of socks, so this sweater would be a nice surprise.\n\nYou should know that my brother Tom and I are not very similar. He is tall, blonde, quite slim, and athletic. I am none of those things. On the other hand, I am very open with people: if you ask me how I’m doing, you’ll learn all about my work, who I met the night before, and my latest hobby. My brother is a much more private person and the only thing he seems to like discussing with me are problems, whether his or mine. And one more thing... We talk using sentences from our favourite films. However strange it may seem to other people, we have been communicating this way for years!\n\nOK, I admit it, I miss him and wish he wasn’t so far away. But I was the one who started that trend. A few years ago, I moved to Ireland after I finished my university education in Toronto, my hometown. As I knew no one in Dublin, I had to find an apartment and a job all by myself. Once I started working, I made some friends, but I just wasn’t able to fit in there. I got more and more homesick, so I was on Skype with my parents every week. Now, I’m back in Toronto and my little brother is across the Atlantic for the first time, going to a teachertraining college in Glasgow, Scotland. I know via Facebook he’s happy going sightseeing at weekends with his girlfriend, taking lots of pictures and hanging out with mates.\n\nWhen I brought the sweater home, I talked to my father about taking it to the post office along with the other presents for Tom.\n\n“Dad, how can we make it so he doesn’t know that the parcel’s full of Christmas presents?”\n\n“Well, he’ll probably just open it when it arrives.”\n\n“But that’s what I mean. Shouldn’t we write on it, ‘Do not open until the 25th’, or something?”\n\n“He can open it whenever he wants, Max.”\n\n“I don’t want him to know that the parcel contains Christmas presents when it arrives. He has to open it on Christmas Day, when he might be feeling a little bit lonely, and a little bit homesick. Then he’ll be really happy he has gifts from us.”\n\nNa podstawie: Max Mosher, A Family by Any Other Name, Toronto 2014.\n\n6.1. Which is TRUE about the sweater?\n\nA. Tom wanted Max to buy it for him. B. It was the only one Max could afford. C. It was recommended by the sales assistant. D. Max believed his brother would be pleased with it. 6.2. From the text we learn that Tom and Max\n\nA. have completely different personalities. B. enjoy communicating without words. C. avoid talking about their problems. D. look very similar to each other. 6.3. When he lived in Ireland, Max\n\nA. sent photos to Tom using social media. B. stayed in touch with his parents. C. felt very much at home there. D. graduated from university. 6.4. Max was worried that\n\nA. Tom might feel more homesick after getting the parcel. B. the parcel would be delivered after Christmas Day. C. Tom would see what was in the parcel too soon. D. the parcel didn’t contain enough presents. 6.5. The best title for the text would be\n\nA. COMING HOME FOR CHRISTMAS B. A BOX OF GIFTS FROM TORONTO C. A FUNNY PRESENT UNDER THE TREE D. A SOUVENIR FROM A HOLIDAY ABROAD PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z7.webp",
+   "w": 1017,
+   "h": 1407,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.\n\nTUTANKHAMUN’S TOMB1\n\nIn 1917, British archaeologist Howard Carter and the wealthy aristocrat, Lord Carnarvon,\n\nstarted searching for Pharaoh Tutankhamun’s tomb in Egypt. Years passed without them\n\nmaking any progress and Carnarvon wanted to give up. But Carter asked him to keep going\n\nfor a few more months. 7.1. ____ They tried to pick it up, but it did not move. They realized it\n\nwas, in fact, a step. They continued digging and discovered more steps which led them to\n\na doorway with a name over it: Tutankhamun.\n\nBut the explorers weren’t sure if there would be anything valuable inside. Almost all the\n\nancient tombs had been found and robbed. Also, the door in front of which they were\n\nstanding showed signs of damage. 7.2. ____ Carter later wrote: “Details of the room showed\n\nup slowly in the dark – strange animals, statues, and lots of shiny gold ornaments.”\n\nThe ancient Egyptians believed in life after death, so they put everything they thought that\n\na pharaoh might need into the tomb with him. 7.3. ____ They also thought that the pharaoh\n\nwould want his throne, statues, and jewellery, so they put them in the tomb as well.\n\nIt turned out that the tomb had been broken into at least twice. Luckily, the thieves hadn’t\n\ntaken much out of the tomb thanks to the guards who had protected it. Carter and Carnarvon\n\nspent over two months cataloguing more than 600 objects in the tomb. But there was no sign\n\nof Pharaoh Tutankhamun. So, they began looking around the tomb for a second\n\ndoor. 7.4. ____ Inside, there were three golden coffins and the mummy of Tutankhamun.\n\nCarter and Carnarvon’s long search was finally over.\n\nNa podstawie: www.kids.nationalgeographic.com 1 Tomb – grobowiec.\n\nA. But when they looked through a small hole in the door, they saw that the tomb was full of\n\nfascinating objects.\n\nB. Carnarvon agreed and just three days later they found a large flat stone in the sand.\n\nC. Unfortunately, most of the items had been broken into small pieces and it was hard to put\n\nthem together.\n\nD. After some time, they found it and went in full of excitement, hoping that they would now\n\ndiscover the pharaoh himself.\n\nE. This included items like clothing, food, beds, and even games."
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z8.webp",
+   "w": 1016,
+   "h": 976,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub fragment wypowiedzi, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1.\n\nX: A return to Glasgow for tomorrow, please.\n\nY: _____\n\nX: I’d like to take the earliest train possible, please.\n\nA. First or second class?\n\nB. Are you returning tomorrow?\n\nC. What time do you want to leave?\n\n8.2.\n\nX: We have to hurry up or we’ll be late.\n\nY: No, we don’t. The match starts _____.\n\nX: Great! We’ll have time to get a snack on our way.\n\nA. in an hour\n\nB. for an hour\n\nC. an hour long\n\n8.3.\n\nX: How long has Robert been playing in a jazz band?\n\nY: _____\n\nX: Wow! He’s got a lot of experience.\n\nA. Not for a while.\n\nB. It was years ago.\n\nC. Since he left school."
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z9.webp",
+   "w": 943,
+   "h": 781,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji (A–C) wybierz tę, która jest tłumaczeniem fragmentu podanego w nawiasie, poprawnie uzupełniającym lukę. Zakreśl jedną z liter: A, B albo C. 9.1. The weather is really beautiful today. (Pójdziemy) _____ for a walk?\n\nA. Shall we go\n\nB. Are you going\n\nC. Do you want me to go\n\n9.2. If your shoes are clean, you (nie musisz) _____ take them off.\n\nA. don’t have to\n\nB. mustn’t\n\nC. can’t\n\n9.3. Megan (sprzedała) _____ her flat in Melbourne and now lives in Sydney.\n\nA. was selling\n\nB. will sell\n\nC. sold\n\n9.4. If the sauce is too sour for you, (dlaczego nie dodasz) _____ some sugar?\n\nA. why hadn’t you added\n\nB. why didn’t you add\n\nC. why don’t you add"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z10.webp",
+   "w": 1100,
+   "h": 705,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.\n\nCASH MACHINES IN ANTARCTICA\n\nCash machines are one of the most useful innovations in banking. That’s why you can find\n\nthem nearly everywhere, including Antarctica. Actually, there are two cash machines there.\n\nBoth are located at McMurdo Station. Depending on the season, the population of McMurdo\n\nStation changes 10.1. _____________________ 250 people to about 1000. McMurdo\n\nStation has cafés, shops, bars and a post office. Some of them only accept cash, but others\n\nhave minimum payment for credit cards, which is not easy to reach when you want to buy\n\nonly a 10.2. _____________________ items. That’s why a cash machine is needed.\n\nBut why do they have two cash machines? Well, one of them functions as a backup.\n\nIt 10.3. _____________________ only used for spare parts to keep the other one working.\n\nWhen you think about it, that’s very sensible, given how far McMurdo Station is from the rest\n\nof the world!\n\nNa podstawie: www.weather.com"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z11.webp",
+   "w": 1011,
+   "h": 358,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Uzupełnij zdania 11.1.–11.3. Wykorzystaj w odpowiedniej formie wyrazy podane w nawiasach. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeśli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane.\n\n11.1. It’s a pity that you (keep / talk) ____________________________________________\n\nto us while the trainer was giving the instructions. Now we don’t know what to do.\n\n11.2. I really loved Tom’s party yesterday evening! I’m so glad (I / invite) _______________\n\n11.3. I’m really exhausted, my shoes are dirty and I just want to rest because (I / run) ____"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/ang-pp-2026-01/z12.webp",
+   "w": 1005,
+   "h": 603,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Chcesz przekazać część swoich ubrań na cele charytatywne. Na blogu prowadzonym przez Ciebie:\n\n• zrelacjonuj sytuację, która skłoniła Cię do podjęcia decyzji o przekazaniu części\n\nswoich ubrań na cele charytatywne • przedstaw reakcję Twojej rodziny na decyzję podjętą przez Ciebie • napisz, którego ubrania na pewno nie chcesz przekazać, i wyjaśnij dlaczego • poinformuj czytelników, w jaki sposób zamierzasz ograniczyć kupowanie ubrań. Napisz swoją wypowiedź w języku angielskim. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 100 do 150 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty).\n\nCZYSTOPIS Hello everyone, Two days ago I decided to give some of my clothes to charity.\n\nTreść Spójność\n\ni logika\n\nZakres środków\n\njęzykowych\n\nPoprawność środków\n\njęzykowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pp-2026-01-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi związanych z bieganiem. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.3",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k1.webp",
+    "w": 1059,
+    "h": 521
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    4,
+    5,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "ang-pp-2026-01-z02",
+   "no": "2",
+   "points": 6,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie dwa teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 2.1.–2.3.) 2.1. What happened on the highway? 2.2. According to the police spokesperson 2.3. The speaker is Tekst 2. (do zadań 2.4.–2.6.) 2.4. Why did Sean decide to change his career? 2.5. What is the first thing Sean does on a typical day? 2.6. Between October and April, in Kruger National Park",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.2",
+    "II.5",
+    "II.4",
+    "II.6"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k2.webp",
+    "w": 1101,
+    "h": 628
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.6.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    2,
+    1,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2026-01-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie fragment audycji radiowej o nadawaniu imion. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angp-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k3.webp",
+    "w": 1059,
+    "h": 2062
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-01-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k4.webp",
+    "w": 1101,
+    "h": 464
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    0,
+    4,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2026-01-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj e-mail. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie pięć wyrazów. From: To: Subject:",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.1",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k5.webp",
+    "w": 1059,
+    "h": 2323
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-01-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Which is TRUE about the sweater? 6.2. From the text we learn that Tom and Max 6.3. When he lived in Ireland, Max 6.4. Max was worried that 6.5. The best title for the text would be",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.7",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k6.webp",
+    "w": 1057,
+    "h": 495
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    0,
+    1,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2026-01-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k7.webp",
+    "w": 1057,
+    "h": 481
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    4,
+    3
+   ]
+  },
+  {
+   "id": "ang-pp-2026-01-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub fragment wypowiedzi, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k8.webp",
+    "w": 1059,
+    "h": 364
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2026-01-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji (A–C) wybierz tę, która jest tłumaczeniem fragmentu podanego w nawiasie, poprawnie uzupełniającym lukę. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k9.webp",
+    "w": 1059,
+    "h": 399
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    0,
+    2,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2026-01-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k10.webp",
+    "w": 1059,
+    "h": 671
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-01-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Uzupełnij zdania 11.1.–11.3. Wykorzystaj w odpowiedniej formie wyrazy podane w nawiasach. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeśli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k11.webp",
+    "w": 1057,
+    "h": 684
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-01-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Chcesz przekazać część swoich ubrań na cele charytatywne. Na blogu prowadzonym przez Ciebie: • zrelacjonuj sytuację, która skłoniła Cię do podjęcia decyzji o przekazaniu części swoich ubrań na cele charytatywne • przedstaw reakcję Twojej rodziny na decyzję podjętą przez Ciebie • napisz, którego ubrania na pewno nie chcesz przekazać, i wyjaśnij dlaczego • poinformuj czytelników, w jaki sposób zamierzasz ograniczyć kupowanie ubrań. Two days ago I decided to give some of my clothes to charity.",
+   "topic": "angp-wri",
+   "requirement": [
+    "V.2",
+    "V.4",
+    "V.6",
+    "V.7",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-01/k12.webp",
+    "w": 1056,
+    "h": 3191
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

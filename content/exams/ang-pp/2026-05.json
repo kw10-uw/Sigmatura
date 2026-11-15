@@ -1,0 +1,806 @@
+{
+ "id": "ang-pp-2026-05",
+ "subject": "ang-pp",
+ "formula": "2023",
+ "year": 2026,
+ "session": "maj",
+ "source": {
+  "paper": "MJAP-P0-100-A-2605-arkusz.pdf",
+  "key": "MJAP-P0-100-200-660-2605-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2026/Jezyk_angielski/poziom_podstawowy/MJAP-P-100-2605.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z1.webp",
+   "w": 1008,
+   "h": 556,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z2.webp",
+   "w": 1100,
+   "h": 1164,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. The woman is talking about\n\nA. a mystery which has been solved. B. a statue widely believed to have magical powers. C. an object which will soon be moved to another place. Tekst 2. (do zadań 2.2. i 2.3.) 2.2. Why is John so excited?\n\nA. He is meeting a group of famous footballers. B. He is going on a tour of a newly-built football stadium. C. He is visiting a place which is important to football fans. 2.3. Where is John at the moment?\n\nA. in a flat B. in a tunnel C. in a garden Tekst 3. (do zadań 2.4.–2.6.) 2.4. Jess decided to do a new thing every day because she\n\nA. had been inspired by her co-workers. B. had missed having face-to-face contact with others. C. had recently lost her job. 2.5. What did Jess not do during her 100-day challenge?\n\nA. go sailing B. play chess C. travel by plane 2.6. When answering the last question, Jess\n\nA. describes how she will prepare for her mountain challenge. B. gives an example of a challenge she is certainly not going to try. C. suggests she is not sure what specific challenge she will choose next."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z3.webp",
+   "w": 1022,
+   "h": 1021,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–4) Usłyszysz dwukrotnie rozmowę na temat warsztatów tworzenia biżuterii. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w ulotce reklamowej, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.\n\nCome to our fun workshop\n\nand learn the art of making jewellery!\n\nDate: Saturday, 20th June\n\nTime: 10 a.m. – 2 p.m.\n\nNumber of participants – up to 3.1. ________________________________.\n\nCost: £50 per person\n\n3.2. ________________________________ used for protection NOT INCLUDED.\n\nDon’t miss this chance to create a silver bracelet and matching\n\n3.3. ________________________________.\n\nLocation: The Shine Studio on Magnolia Street – opposite the\n\n3.4. ________________________________.\n\nContact Patricia Whylie, phone number: 012 345 678\n\nBook now, and let your creativity shine!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z4.webp",
+   "w": 1018,
+   "h": 1396,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. HOW DID THE SHIP BECOME A TOURIST ATTRACTION? B. WHY WAS THE SHIP CALLED THE CUTTY SARK? C. WHAT CONTEST DID THE SHIP TAKE PART IN? D. WHY DID THE SHIP STOP CARRYING TEA? E. WHICH RECORDS DID THE SHIP BREAK? F. WHY WERE CLIPPERS BUILT?\n\nTHE CUTTY SARK – A FAMOUS SHIP\n\n4.1.\n\nIn the 19th century, tea from China became so popular in England that most families drank it at least twice a day. To be on regular sale in English shops, it had to be transported quickly from China, and in huge quantities. To achieve this aim, special ships, called clippers, were constructed. These were very fast sailing ships, and one of them was the Cutty Sark.\n\n4.2.\n\nThe Cutty Sark was famous for its speed, and every year it competed in the “tea race”. This was a challenge to see which clipper could transport a cargo of fresh tea from China to England in the shortest time. The British public was fascinated by these races, so the newspapers gave daily reports on the ships’ progress. The Cutty Sark was never the first to cross the finishing line, but it was always among the leaders.\n\n4.3.\n\nIn 1869, the same year that the Cutty Sark was built, the Suez Canal, connecting the Mediterranean Sea and the Red Sea, was opened. It created a much shorter route to the Far East. However, clippers, such as the Cutty Sark, could not use it as they depended on strong ocean winds. Around the same time, a new type of ship, the steamship, began to transport tea and by the late 1870s, the Cutty Sark, along with the other clippers, had been pushed out of the tea business.\n\n4.4.\n\nA Portuguese company bought the Cutty Sark. They used it as a cargo ship which sailed between Portugal and Africa. After some time, the ship was unable to continue sailing, and it seemed that its life was over. However, in 1923, a retired ship’s captain, Wilfred Dowman, bought the old clipper. And some years later, in 1951, the National Maritime Museum in Greenwich provided funds to renovate the ship. Now it is a museum visited by people from all around the world.\n\nNa podstawie: www.rmg.co.uk"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z5.webp",
+   "w": 1041,
+   "h": 3284,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nJohn’s Blog\n\nThe summer holidays are approaching fast, and I’m going to get my first job. You can do the same. Check out the options below and let me know in the comments which one you prefer.\n\n What could be more fun than summer festivals? These events are held in towns\n\nacross the country every summer, and with them come some great summer jobs for teenagers. As a festival worker, you might sell tickets, work at a registration table, or provide information to visitors.  Summer is the most popular holiday season, which means a lot of house-sitters are\n\nneeded. The work mainly involves visiting a neighbour’s home while they are away so their house doesn’t appear empty. Additionally, you may be asked to take care of their plants, or to keep an eye on the post. It’s an easy job, and it won’t take you much time.  If you love video games, being a video game tester may be your ideal summer job.\n\nYou can even work from your own room! Video game companies depend on testers to discover problems before their games go onto the market. You’ll need to have your own gaming equipment, but sometimes the company sends you everything you need. You’ll have to report any problems you run into while playing the game.\n\nNa podstawie: www.lovetoknow.com, www.blog.expresspros.com, www.snagajob.com Tekst B\n\nNa podstawie: www.jacolorado.org, www.dontwasteyourmoney.com\n\nSURVEY The results of a survey carried out among secondary school students reveal that they often plan to get a job during the summer months to earn some cash. But working over the summer break can benefit teens in many other ways, too. They can gain valuable life skills, because having a job often makes them more confident and teaches them how to manage their time and work in a team. It would be interesting to know if the same survey conducted among university students would give similar results.\n\nTekst C\n\nAlex 16.04. 2:15 p.m.\n\nPaul 16.04. 3:44 p.m.\n\nMark 16.04. 4:10 p.m.\n\nNa podstawie: www.quora.com Tekst D\n\nNa podstawie: www.bronxvillelibrary.org\n\nI worked as a library assistant. I loved it because there was always something to do and I also enjoyed learning about new books. However, the summer that year was really hot and the library didn’t have air conditioning, so at times I found working there uncomfortable.\n\nMy first holiday job was helping my elderly neighbours in their garden. The problem was that they didn’t pay me in cash, but just gave me some vegetables to take home. Although I liked working outdoors, I was not very happy about this arrangement, because at that time I was saving up to buy a smartwatch.\n\nGetting a summer job wasn’t easy. I applied at a pizza place and at a café, but I wasn’t old enough to do most of the duties. With my neighbour’s help, however, I got a job as a “standardized patient” at the local hospital. My job was to play the role of a patient so that medical students could practise their communication skills on me. The money was good, but I sometimes found it hard to understand their questions.\n\nA free virtual workshop during which experts will offer\n\nadvice to secondary school students. This will cover\n\nthe following:\n\nwhat types of jobs are available for teens where to look for jobs how to answer questions on job application forms what information to provide and ask about during\n\nan interview.\n\nTEEN JOB SEARCH:\n\nTips, Applications & More\n\nJune 16 @ 7 p.m. on our platform\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. This text is about an event which is related to finding a job.\n\n5.2. From this text we learn about both the pros and cons of some summer jobs.\n\n5.3. This text includes information about a job which can be done without leaving your home.\n\nPrzeczytaj wiadomość Roberta do Anny. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie sześć wyrazów. Hi Anna,\n\nI’ve finally made up my mind to get a job this summer. Last week I saw the results of\n\na survey which say that only 5.4. ______________________________________________\n\nare definitely not going to work during the summer holidays. I don’t want to be one of them.\n\nThe commentary to this survey confirms that having a job can be beneficial. Apart from\n\nthe money you earn, you become more sure of yourself and also learn\n\n5.5. _______________________________, for example how to improve your time\n\nmanagement, but I must admit that cash is also important to me.\n\nI would like to become a video game tester. If that doesn’t work out, I have another option.\n\nI could be a 5.6. ___________________________________________ when my neighbours\n\ngo on holiday.\n\nI hope I’ll earn enough this summer to buy some new games. I’ve read that one teenager\n\n5.7. ______________________________________________ instead of money for his work.\n\nI wouldn’t want anything like that to happen to me!\n\nHow about your holidays?\n\nWrite soon!\n\nRobert"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z6.webp",
+   "w": 1017,
+   "h": 2207,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D.\n\n--------------------\n\nI landed in Memphis, Tennessee. You may wonder why I was there. There are people who have no homes. And I wanted to help. That’s the reason that convinced my dad to allow me to go. He even made a donation to the Homes from the Heart Summer Program for Teens.\n\nSomewhere near baggage reclaim, I started looking for a sign with my name on it. I collected my suitcase, but there was no sign.\n\nInstinctively, I reached into my backpack, looking for the little compartment designed to hold my cell phone. It was empty.\n\nIt’s one of the rules for all teen volunteers: no cell phones. But even if I’d taken my cell phone to Tennessee, who would I call to ask for help? I was standing in the middle of the huge arrivals hall and I didn’t know anybody. Finally, I saw it: H. EVANS.\n\nThe man holding the sign was tall with red hair and a red beard. I walked towards him and introduced myself. “I’m Harper Evans.”\n\n“Nice to meet you. I’m Linus.” He stuck out his hand, and I shook it. “Welcome to Memphis. I’m your group leader for the summer,” he said.\n\nI knew this already. I had read the short paragraph about him that had come with the paperwork. Linus Devereaux. I learned that he’d built homes in Alaska, Mississippi, the Florida Gulf Coast, South Dakota, Haiti, and the Congo.\n\nWe walked through the terminal until we reached the baggage reclaim area for another airline, and then Linus took out a sign that said F. GREGORY.\n\n“We’ve got lots of city kids coming. Kids from all over the world,” he told me. “There’s plenty to learn, but we’ll help you at any stage. We’ll be on the road soon, but we’ve just got to wait for two more volunteers.”\n\nDad and I have an arrangement. Whenever I go somewhere, I call to tell him that I arrived safely. I sat down on my suitcase and grabbed my backpack. And again I reached for the phone that wasn’t there. It was a reflex. An addiction.\n\nLinus noticed what I’d done and pulled out a cell phone from the leather case attached to his belt, and threw it to me. I caught it one-handed.\n\n“Call your father,” he said. That was impressive! I hadn’t said a word about it. I was just thinking about how I needed to call dad.\n\nI stepped outside into the Tennessee heat. Dad answered straight away and sounded relieved when he heard my voice.\n\nNa podstawie: Dana Reinhardt, How to Build a House, New York 2008.\n\n6.1. Harper Evans went to Tennessee\n\nA. to find some teen volunteers to join her group. B. to look for new summer accommodation. C. to do something good for people in need. D. to help her father with his program. 6.2. At the airport, it took Harper some time to find\n\nA. the sign with the group leader’s name. B. the person who was sent to meet her. C. the suitcase she had taken with her. D. the phone she had in her backpack. 6.3. From the text we learn that\n\nA. Harper was aware of who Linus was. B. Linus was surprised when he saw Harper. C. Harper was expecting another person to meet her. D. Linus had no experience of working with volunteers. 6.4. Linus gave Harper his phone\n\nA. as soon as she told him she wanted to make a call. B. before he asked her to walk away for a while. C. after he realized she wanted to call her dad. D. when they saw another volunteer. 6.5. Which is the best title for the story?\n\nA. VOLUNTEERS MEET EACH OTHER AGAIN B. SEARCHING FOR A MISSING FRIEND C. A PHONE LOST AT THE AIRPORT D. A SUMMER OF VOLUNTEERING BEGINS PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z7.webp",
+   "w": 1018,
+   "h": 1015,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.\n\nMISTAKEN MICHELIN STAR\n\nEvery year, the well-known Michelin company publishes a guide to restaurants that have\n\nbeen awarded the highly respected Michelin stars. 7.1. ____ She didn’t own a large and\n\nexpensive restaurant. Her bistro in Bourges, a small town in France, is a cosy place with\n\n20 tables, which mostly serves inexpensive lunches to local workers. The chef works\n\npart-time, and Mrs Jacquet is the only other member of staff, so getting a Michelin star\n\nseemed impossible. The mystery was quickly solved. 7.2. ____ But that one was in Paris.\n\nAfter the guide was published, both restaurants received many calls from confused\n\ncustomers. One of them asked the owner of the Parisian restaurant, Aymeric Dreux, if he\n\nhad opened a second restaurant in Bourges. He had no idea what the caller was talking\n\nabout. 7.3. ____ They had a good laugh together about what had happened. He invited\n\nMrs Jacquet and her chef to have dinner at his restaurant in Paris. The following month, they\n\ntravelled to Paris and enjoyed a luxurious meal as honoured guests of Aymeric Dreux.\n\n7.4. ____ It is not known if he has ever taken up the offer!\n\nNa podstawie: www.nytimes.com A. But minutes later Michelin contacted him to explain the mistake, and the same day\n\nMr Dreux phoned Mrs Jacquet. B. It turned out that the award was meant for another restaurant with the same name. C. Finally, Véronique Jacquet remembered a strange visit from a restaurant critic two\n\nmonths before. D. In return, they promised Mr Dreux a free lunch at the bistro in Bourges. E. When Véronique Jacquet heard on the local radio that her restaurant had just got one,\n\nshe laughed. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z8.webp",
+   "w": 1010,
+   "h": 825,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1. X: Would you like to go cycling with me tomorrow? Y: Sure! When exactly? X: _____ I’m free all day.\n\nA. For as long as you wish. B. Whenever you want. C. Every now and then. 8.2. X: I’ve found these two dresses that suit me, but I can’t afford to buy both of them. _____ Y: In my opinion, the blue one is much better.\n\nA. Which one do you have to choose? B. Which one would you choose? C. Which one was chosen? 8.3. X: How many chairs do we have in the living room for the guests? Y: _____ X: So I’ll bring some more from the garage.\n\nA. Plenty, in my opinion. B. Enough, I think. C. Too few, I’m afraid. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z9.webp",
+   "w": 1000,
+   "h": 694,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z10.webp",
+   "w": 1100,
+   "h": 1151,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij go, wpisując w każdą lukę (10.1.–10.3.) jeden wyraz z ramki w odpowiedniej formie, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. Uwaga: jeden wyraz został podany dodatkowo i nie pasuje do żadnej luki.\n\nactual eat give leaf\n\nMIRACLE BERRY\n\nHave you ever heard of a fruit called the “miracle berry”? Miracle berry plants come from\n\nAfrica. They have shiny green 10.1. __________________________ and small red berries\n\nwhich are about the size of a cranberry and have a slightly sweet taste. Does that sound a bit\n\nboring? Well, you experience the real magic of miracle berries after\n\n10.2. __________________________ them. Because of a chemical that the berries contain,\n\nall other food tastes sweet for some time. What may seem to be just a cool trick might\n\n10.3. __________________________ be very useful. For example, people who are ill often\n\nlose their appetite, but miracle berries help them enjoy food again.\n\nNa podstawie: www.eureka-farms.com\n\nŹródło: www.wikipedia.org"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z11.webp",
+   "w": 1100,
+   "h": 722,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów. 11.1. I’m free today, so if you want to meet for lunch, please tell me.\n\nLET\n\nI’m free today so _______________________________________________________\n\nif you want to meet for lunch.\n\n11.2. He found the weather in Berlin surprising. It was December, but the temperature was\n\nquite high.\n\nBY\n\nHe __________________________________________________________________\n\nthe weather in Berlin. It was December, but the temperature was quite high.\n\n11.3. All the seats were taken, so we had to stand for the whole journey.\n\nFREE\n\nThere __________________________________________________________ seats,\n\nso we had to stand for the whole journey."
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/ang-pp-2026-05/z12.webp",
+   "w": 1017,
+   "h": 591,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) W zeszłym tygodniu odwiedziłeś/odwiedziłaś miejsce, w którym ostatni raz byłeś/byłaś jako dziecko. W e-mailu do koleżanki z Anglii:\n\n poinformuj, dlaczego odwiedziłeś/odwiedziłaś to miejsce ponownie  napisz, co się zmieniło w tym miejscu od Twojej wizyty w dzieciństwie  zrelacjonuj, co wydarzyło się podczas Twojej wizyty w tym miejscu w zeszłym\n\ntygodniu  zaproponuj koleżance odwiedzenie tego miejsca i wyjaśnij, jak do niego dotrzeć. Napisz swoją wypowiedź w języku angielskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 100 do 150 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty).\n\nCZYSTOPIS Dear Kate, Last week I visited a place which I hadn’t been to since I was little.\n\nTreść Spójność\n\ni logika\n\nZakres środków\n\njęzykowych\n\nPoprawność środków\n\njęzykowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pp-2026-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi związanych z papierem. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.3",
+    "II.4",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k1.webp",
+    "w": 1082,
+    "h": 503
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    3,
+    2,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2026-05-z02",
+   "no": "2",
+   "points": 6,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. The woman is talking about Tekst 2. (do zadań 2.2. i 2.3.) 2.2. Why is John so excited? 2.3. Where is John at the moment? Tekst 3. (do zadań 2.4.–2.6.) 2.4. Jess decided to do a new thing every day because she 2.5. What did Jess not do during her 100-day challenge? 2.6. When answering the last question, Jess",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.2",
+    "II.7",
+    "II.5",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k2.webp",
+    "w": 1101,
+    "h": 689
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.6.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    1,
+    1,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2026-05-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie rozmowę na temat warsztatów tworzenia biżuterii. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w ulotce reklamowej, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim. Come to our fun workshop learn the art of making jewellery! Book now, and let your creativity shine!",
+   "topic": "angp-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k3.webp",
+    "w": 1082,
+    "h": 5255
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k4.webp",
+    "w": 1081,
+    "h": 433
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    2,
+    3,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2026-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. 2:15 p.m. 3:44 p.m. 4:10 p.m. TEEN JOB SEARCH: Tips, Applications & More June 16 @ 7 p.m. on our platform Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj wiadomość Roberta do Anny. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie sześć wyrazów.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1",
+    "III.4",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k5.webp",
+    "w": 1101,
+    "h": 7490
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Harper Evans went to Tennessee 6.2. At the airport, it took Harper some time to find 6.3. From the text we learn that 6.4. Linus gave Harper his phone 6.5. Which is the best title for the story?",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k6.webp",
+    "w": 1082,
+    "h": 498
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "ang-pp-2026-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k7.webp",
+    "w": 1082,
+    "h": 511
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    1,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "ang-pp-2026-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k8.webp",
+    "w": 1082,
+    "h": 380
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2026-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens wyróżnionego fragmentu zdania. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k9.webp",
+    "w": 1082,
+    "h": 429
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2026-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij go, wpisując w każdą lukę (10.1.–10.3.) jeden wyraz z ramki w odpowiedniej formie, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. Uwaga: jeden wyraz został podany dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k10.webp",
+    "w": 1082,
+    "h": 210
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k11.webp",
+    "w": 1082,
+    "h": 3469
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Wymagania określone w podstawie programowej.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2026-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "W zeszłym tygodniu odwiedziłeś/odwiedziłaś miejsce, w którym ostatni raz byłeś/byłaś jako dziecko. W e-mailu do koleżanki z Anglii:  poinformuj, dlaczego odwiedziłeś/odwiedziłaś to miejsce ponownie  napisz, co się zmieniło w tym miejscu od Twojej wizyty w dzieciństwie  zrelacjonuj, co wydarzyło się podczas Twojej wizyty w tym miejscu w zeszłym  zaproponuj koleżance odwiedzenie tego miejsca i wyjaśnij, jak do niego dotrzeć. Last week I visited a place which I hadn’t been to since I was little.",
+   "topic": "angp-wri",
+   "requirement": [
+    "V.1",
+    "V.2",
+    "VII.3",
+    "VII.8",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2026-05/k12.webp",
+    "w": 1074,
+    "h": 3231
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

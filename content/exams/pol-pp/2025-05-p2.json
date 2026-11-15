@@ -1,0 +1,49 @@
+{
+ "id": "pol-pp-2025-05-p2",
+ "subject": "pol-pp",
+ "formula": "2023",
+ "year": 2025,
+ "session": "maj",
+ "source": {
+  "paper": "MPOP-P2-100-A-2505-arkusz.pdf",
+  "key": "MPOP-P2-100-2505-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "t15",
+   "type": "image",
+   "file": "assets/pol-pp-2025-05-p2/z15.webp",
+   "w": 1087,
+   "h": 987,
+   "caption": "Zadanie 15 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "pol-pp-2025-05-p2-z15",
+   "no": "15",
+   "points": 35,
+   "materials": [
+    "t15"
+   ],
+   "prompt": "zdanie i je uzasadnij. Źródło nadziei w czasach trudnych dla człowieka. W pracy odwołaj się do: lektury obowiązkowej – wybranej spośród lektur wymienionych na stronach 3 i 4 innego utworu literackiego – może to być również utwór poetycki wybranych kontekstów. Jak błędna ocena sytuacji wpływa na życie człowieka? W pracy odwołaj się do: lektury obowiązkowej – wybranej spośród lektur wymienionych na stronach 3 i 4 innego utworu literackiego – może to być również utwór poetycki wybranych kontekstów. na temat nr ............",
+   "topic": "pol-wyp",
+   "requirement": [
+    "III.2.5",
+    "III.1.1",
+    "III.1.6",
+    "III.2.1",
+    "III.2.7"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2025-05-p2/k15.webp",
+    "w": 1087,
+    "h": 4147
+   },
+   "scoring": "0–35 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

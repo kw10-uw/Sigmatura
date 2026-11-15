@@ -1,0 +1,792 @@
+{
+ "id": "ang-pp-2023-05",
+ "subject": "ang-pp",
+ "formula": "2023",
+ "year": 2023,
+ "session": "maj",
+ "source": {
+  "paper": "MJAP-P0-100-2305.pdf",
+  "key": "MJAP-P0-100-2305-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Jezyk_angielski/poziom_podstawowy/MJAP-P0-100-2305.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z1.webp",
+   "w": 1020,
+   "h": 476,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z2.webp",
+   "w": 1100,
+   "h": 547,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z3.webp",
+   "w": 991,
+   "h": 965,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–5) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. Which is the correct order of the events? A. calling his wife – offering a reward to the cyclist – getting the car keys\n\nB. offering a reward to the cyclist – getting the car keys – calling his wife C. calling his wife – getting the car keys – offering a reward to the cyclist Tekst 2. 3.2. The speaker tells this story in order to A. warn listeners to keep their food away from bears. B. amuse listeners with a joke about a bear in a shop. C. advise listeners what to take with them when camping in bear territory. Tekst 3. (do zadań 3.3.–3.5.) 3.3. Which sunglasses suit the woman best? A. round ones B. triangular ones C. rectangular ones 3.4. The difference between the two pairs of sunglasses which the woman buys is in their A. shape. B. brand.\n\nC. size. 3.5. The woman is talking with\n\nA. a doctor. B. a shop assistant. C. a member of her family. PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 1. DO 3. NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z4.webp",
+   "w": 1017,
+   "h": 1399,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. LACK OF SATISFACTION LEADING TO A NEW BUSINESS IDEA B. A DISAPPOINTMENT CAUSED BY A SKATING COSTUME C. DESIGNS WHICH GAINED WORLDWIDE POPULARITY D. LOSING CONTROL OVER A SKATING BUSINESS E. AN UNEXPECTED OFFER OF EMPLOYMENT F. A DREAM WHICH DID NOT COME TRUE VERA WANG: A SUCCESSFUL AMERICAN FASHION DESIGNER\n\n4.1.\n\nAs a young girl, Vera Wang was passionate about figure skating. She competed professionally throughout her teens. Her ambition was to become a member of the USA national figure skating team and take part in the Olympics. Unfortunately, when she was 16, she failed to qualify for the Olympics. After this disappointment, Vera decided to stop skating.\n\n4.2.\n\nShe began studying art history at Sara Lawrence College and spent her summers working at the Yves Saint Laurent store in her home city. One day at the store, she met a man who worked for Vogue – a famous fashion magazine. To her surprise, he invited her to work for the magazine as an assistant to the fashion director. Within a year, Wang was promoted and became one of the magazine’s youngest ever senior fashion editors.\n\n4.3.\n\nIn 1987, Vera Wang left Vogue to take a job as a design director at Ralph Lauren. A short time later, she began planning her wedding. Because she was unable to find a wedding dress that satisfied her, she designed one herself. This made her realize that she had the talent and passion necessary to become a professional dress designer. In 1990, Wang quit her job at Ralph Lauren and opened her own clothing boutique with the plan to design and sell her own collections.\n\n4.4.\n\nAt first, her shop offered clothes only from well-known designers. Then, she gradually started adding her own designs. She first received international attention during the 1994 Winter Olympics. She had designed a costume that figure skater Nancy Kerrigan wore while skating. Soon, celebrities from many countries were wearing her dresses at various events and her designs were a popular topic of discussion on top TV shows.\n\nNa podstawie: hbr.org PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z5.webp",
+   "w": 1030,
+   "h": 2812,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nWhen planning a plane trip...\n\nAvoid direct flights, book connecting flights instead. Book your flight at least three weeks in advance.\n\nBe flexible with the dates of your flight! Wednesdays are the best days to fly and Sundays are the worst.\n\nTo get the cheapest tickets, book your flight on a Sunday. This is the day when most airlines announce their special offers.\n\nThis way, you’ll have more money in your pocket!\n\nNa podstawie: www.quora.com Tekst B\n\nNa podstawie: www.nytimes.com\n\nWALK MORE, WAIT LESS Some years ago, Houston airport received a large number of complaints from passengers who had to wait for their suitcases in the arrivals terminal. The airport administration made a careful analysis. They found that passengers spent just one minute walking from the arrival gate to the baggage pick-up area, and then seven minutes on average waiting for their bags. The airport administration moved the arrival gate further away, so passengers now have to walk six minutes instead of one, before they can pick up their luggage. Complaints have dropped to nearly zero since then. It seems that people prefer walking to just standing and waiting.\n\nTekst C\n\nYou won’t believe what happened! Last Monday, on my return journey to New York, I had to spend almost 10 hours at Istanbul Airport. But I wasn’t unhappy. Instead of just sitting there and getting bored I bought some souvenirs, tried some local Turkish dishes and relaxed at one of the airport cafés. And guess what! While exploring the airport and its attractions, I came across an art gallery with an exhibition of 20 amazing portraits. They were not painted but made from recycled rubbish such as leaflets, tickets and plastic bags thrown away by passengers at Istanbul Airport.\n\nNa podstawie: internationalairportreview.com Tekst D\n\nNa podstawie: www.wakefieldpress.com.au\n\nI really loved\n\nthis picture!\n\nThe First World War is over and Wally Shiers, an airplane mechanic, has promised his girlfriend, Helena, that he will return home and marry her. But fighter pilot Ross Smith asks Wally to join him to compete in a dangerous air race. A £10,000 prize has been offered for the first airmen to fly from England to Australia. Ross is a talented and brave pilot. Who could say “no” to his request? Wally writes to Helena to say he won’t be home for another year. The drama of that year is excitingly told by Lainie Anderson right from the first page. She uses real diaries and letters to describe one of the most important chapters in aviation history.\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. This text describes how an airport solved the problem of annoyed passengers.\n\n5.2. This text may be useful to people who are looking for travel bargains.\n\n5.3. This text is a review of a book which is based on a true story.\n\nPrzeczytaj wiadomość Michaela do Alice. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie trzy wyrazy. Hi Alice,\n\nI’m so happy that you are coming to Australia for your summer holiday. I’m looking forward\n\nto showing you round Sydney, my hometown.\n\nIf you want to save money on airline tickets, choose connecting flights instead of direct\n\nones. I suggest going via Istanbul. The airport is truly amazing there. There is even\n\n5.4. _____________________________________________________, where you can enjoy\n\nan exhibition of twenty fantastic portraits. The most unusual thing about the pictures is that\n\nthe materials used to make them were collected at 5.5. _____________________________\n\nAnother useful tip is to buy your tickets online a few weeks before you fly. I read that\n\nit’s important not only what day of the week you actually fly, but also when you make\n\nthe booking. To have a chance of getting the best price you should book your ticket on\n\n5.6. _________________________________________.\n\nYour journey will be a long one, so take a good book with you. I’ve recently read a wonderful\n\nhistorical novel. The main character, who worked during the war as 5.7. ________________\n\nto Australia while his girlfriend waits for him at home. It’s a story full of romance and\n\nadventure. I’m sure you’ll love it!\n\nI can’t wait to see you in Sydney!\n\nBye for now, Michael"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z6.webp",
+   "w": 1018,
+   "h": 2300,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. _ _ _ “Can I help you, Miss?” – I heard a strong male voice behind me. “I’m going up to deck A. Isn’t this the right way?” I replied. And then I added: “I’ve just received an invitation from Oona Sheehan to visit her in her first-class cabin.” I quickly showed him the message I had got from Oona. “Very good, Miss. Allow me to go with you,” the man said. He led me up to Oona’s cabin, knocked on the door and we entered. “If you please, madam, there’s a young lady to see you – her name is Molly Murphy.” “How good of you to come, Molly,” Oona said. “Miss Sheehan, why exactly did you invite me?” I asked a moment after the steward had left the cabin. “You hardly know me!” Oona said: “Molly, I know that you are a lady detective, so you must be the kind of woman who likes a challenge and perhaps you would like to earn some extra money on this trip. I have a small proposition for you. It’s not always easy being me. I can never be alone, never have a chance to be myself. Even now, on this ship, in the middle of the ocean. People follow me like puppy dogs. It can become very tiring. I’m taking this trip home because my doctor has ordered me to slow down and rest. I would like some peace and quiet during the voyage.” “You said you had a proposition for me,” I said. “Yes. I want to change places with you on this voyage,” Oona said to my surprise. “You want what?” I asked. “Exactly what I said. For this voyage I want to become Molly Murphy, and I want you to stay in this cabin and become Oona Sheehan.” “But that’s absurd,” I said. “I’ve thought it all out. I’ll announce that I am feeling ill and I am staying in my cabin. If anyone knocks on the door and tries to talk to you, tell them that you have a terrible sore throat,” Oona said. “Let me get this right. You’ll take my second-class cabin, down on E deck?” I asked. “Yes. Say you’ll agree, and I’ll pay you straight away,” Oona said. I thought for a moment. “I’ll do it,” I said. She handed me a hundred dollars. Then she said: “Let’s exchange clothing and I’ll make my way down to E deck. And of course, feel free to use anything you like.” When we had switched clothes, she left. I stood in my new cabin, still feeling shocked. This was certainly the strangest thing which had ever happened to me. I was about to start a great adventure in my new role as Oona Sheehan. Then I heard someone knocking on my door. “Come in,” I called, trying to sound like a famous actress with a sore throat. A pretty young woman entered the room and smiled politely. “Good morning, Miss Murphy, I’m Rose, and Miss Sheehan has just asked me to look after you and give you whatever you need.” I realized that it was going to be an unusual voyage.\n\nNa podstawie: In Dublin’s Fair City by Rhys Bowen\n\n6.1. From the beginning of the text, we learn that the steward A. told Molly to show an invitation. B. went with Molly to Oona’s cabin. C. didn’t allow Molly to go up to deck A. D. explained to Molly how to get to Oona’s cabin. 6.2. Oona invited Molly to her cabin because she A. felt very tired of being alone. B. knew that Molly wanted to meet her. C. wanted Molly to do something for her. D. was interested in what a detective does. 6.3. Before Molly made her decision, Oona\n\nA. put on Molly’s clothes. B. paid Molly 100 dollars.\n\nC. told Molly what to say. D. advised Molly to stay in bed. 6.4. When Oona left the cabin, A. Rose entered the room without Molly’s permission. B. she sent Rose to take care of Molly. C. she invited Molly to visit Rose. D. Molly started to worry. 6.5. Which is the best title for the story? A. AN UNSUCCESSFUL MEETING B. AN UNWANTED PASSENGER C. AN UNPLEASANT GUEST D. AN UNEXPECTED OFFER PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z7.webp",
+   "w": 1018,
+   "h": 964,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki. BRYAN ANDERSON An elderly woman was standing by her car, which was parked on the side of the road. A driver passing by saw that she had a problem, so he stopped near her Mercedes and got out. 7.1. _____ This made the woman feel more comfortable although she didn’t like talking to people she did not know. The man smiled and introduced himself: “My name is Bryan Anderson.”\n\nWhen he took a closer look at her car, he noticed that one of the tyres was flat. It took him some time to change it. 7.2. _____ Bryan smiled and said: “If you really want to pay me back, the next time you see someone in need, try to help.”\n\nLater that evening, the owner of the Mercedes stopped at a small café. 7.3. _____ She had probably spent the whole day on her feet, but she still had a smile on her face and quickly took the customer’s order. The woman really admired the waitress, and then she remembered Bryan. She finished her meal and paid with a hundred-dollar bill. 7.4. _____ There was only a piece of paper on the table with a note on it, which said: “Somebody once helped me, just like I’m helping you now.” The waitress found another four hundred dollars under the note. That night, when she got home, she told her husband: “Everything is going to be all right, Bryan Anderson.”\n\nNa podstawie: www.inspirationalstories.eu A. When he had finished, the woman asked how much she owed him. B. Inside, the woman saw a young waitress who looked tired but friendly. C. The woman knew that the man did not realize how much she needed it. D. The woman looked worried, so the stranger said he was there to help her. E. The waitress went to get the change but when she came back, the woman was not there. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z8.webp",
+   "w": 1015,
+   "h": 895,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub fragment wypowiedzi, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1. X: I wonder why they aren’t here yet. Y: _____ X: Let’s ask Jimmy then. He might know.\n\nA. It’s not a good piece of advice. B. Jimmy wants to know too. C. I have no idea. 8.2. X: You did such a good job. Congratulations! Y: _____ X: The others are impressed, too.\n\nA. I’m glad you liked it. B. I’m sure I’ll do my best. C. I’m afraid I could be right. 8.3. X: They look so similar. I don’t know which one I should choose. Y: _____ take both? X: Great. I’ll do that. Thanks.\n\nA. What makes you B. Do you have to C. Why don’t you"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z9.webp",
+   "w": 937,
+   "h": 973,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych wyrazów wybierz ten, który poprawnie uzupełnia luki w obu zdaniach. Zakreśl jedną z liter: A, B albo C. 9.1.  After reading this text, _____ to page 27 and look at the pictures.  If you want to look good in the photo, _____ your head a bit to the left.\n\nA. go B. put C. turn 9.2.  Mr Brown is getting old, and he seems to be in _____ health.  They were still too _____ to buy the car of their dreams.\n\nA. bad B. poor C. serious 9.3.  Don’t forget to let the cat _____ soon. He’s in the garden now.  Did you hand _____ your essay on time? The deadline was yesterday.\n\nA. in B. out C. over 9.4.  If you win the competition, you’ll get _____ tickets to the cinema.  Jean likes spending her _____ time cycling.\n\nA. cheap B. easy C. free PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z10.webp",
+   "w": 1100,
+   "h": 779,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. UNDERWATER CABINET MEETING\n\nSome time ago, there was an unusual government meeting about the problem of global\n\nwarming. The Maldivian president and eleven ministers dived 3.8 metres below the sea\n\nsurface 10.1. _________________________ meet at tables underwater. They were there\n\nwith diving instructors 10.2. _________________________ were hired to make sure that\n\neverybody was safe. The politicians were dressed 10.3. _________________________\n\nblack diving suits and were wearing masks and oxygen tanks. Using white boards and hand\n\nsignals to communicate they spent half an hour on the seabed. The president hopes the\n\nevent will remind people about the dangers of climate change.\n\nNa podstawie: www.reuters.com"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z11.webp",
+   "w": 1019,
+   "h": 262,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/ang-pp-2023-05/z12.webp",
+   "w": 1014,
+   "h": 597,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) W ubiegłym tygodniu wygrałeś(-aś) konkurs fotograficzny dla młodzieży. W e-mailu do kolegi z Anglii: • wyjaśnij powody uczestnictwa w tym konkursie • opisz, co przedstawia Twoje zwycięskie zdjęcie • zrelacjonuj przebieg wręczania nagród • zachęć kolegę do udziału w konkursie fotograficznym w przyszłym roku i napisz, w jaki sposób pomożesz mu przygotować się do tego konkursu. Napisz swoją wypowiedź w języku angielskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 80 do 130 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hi Mark, Guess what! Last week I won a photo competition for teenagers.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pp-2023-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wywiad z archeologiem. Zaznacz znakiem X, które zdania są zgodne z treścią nagrania (T – True), a które nie (F – False).",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k1.webp",
+    "w": 1082,
+    "h": 480
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-05-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi związanych z domami. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.2",
+    "II.4",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k2.webp",
+    "w": 1101,
+    "h": 620
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    2,
+    5,
+    3,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2023-05-z03",
+   "no": "3",
+   "points": 5,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. Which is the correct order of the events? Tekst 2. 3.2. The speaker tells this story in order to Tekst 3. (do zadań 3.3.–3.5.) 3.3. Which sunglasses suit the woman best? 3.4. The difference between the two pairs of sunglasses which the woman buys is in 3.5. The woman is talking with",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.6",
+    "II.3",
+    "II.5",
+    "II.4"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k3.webp",
+    "w": 1080,
+    "h": 563
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "3.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    2,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2023-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k4.webp",
+    "w": 1101,
+    "h": 519
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    4,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2023-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. When planning a plane trip... This way, you’ll have more money in your pocket! WALK MORE, WAIT LESS Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj wiadomość Michaela do Alice. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie trzy wyrazy.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1",
+    "III.7",
+    "III.3",
+    "VIII.2",
+    "III.4"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k5.webp",
+    "w": 1101,
+    "h": 4772
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. From the beginning of the text, we learn that the steward 6.2. Oona invited Molly to her cabin because she 6.3. Before Molly made her decision, Oona 6.4. When Oona left the cabin, 6.5. Which is the best title for the story?",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k6.webp",
+    "w": 1082,
+    "h": 530
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    2,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "ang-pp-2023-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k7.webp",
+    "w": 1082,
+    "h": 511
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    0,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "ang-pp-2023-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub fragment wypowiedzi, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k8.webp",
+    "w": 1082,
+    "h": 461
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2023-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych wyrazów wybierz ten, który poprawnie uzupełnia luki w obu zdaniach. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k9.webp",
+    "w": 1082,
+    "h": 456
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2023-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k10.webp",
+    "w": 1081,
+    "h": 297
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Przetłumacz na język angielski fragmenty podane w nawiasach, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie trzy wyrazy.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k11.webp",
+    "w": 1082,
+    "h": 1631
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "W ubiegłym tygodniu wygrałeś(-aś) konkurs fotograficzny dla młodzieży. W e-mailu do kolegi z Anglii: • wyjaśnij powody uczestnictwa w tym konkursie • opisz, co przedstawia Twoje zwycięskie zdjęcie • zrelacjonuj przebieg wręczania nagród • zachęć kolegę do udziału w konkursie fotograficznym w przyszłym roku i napisz, w jaki sposób pomożesz mu przygotować się do tego konkursu. Guess what! Last week I won a photo competition for teenagers.",
+   "topic": "angp-wri",
+   "requirement": [
+    "V.1",
+    "V.2",
+    "V.3",
+    "V.6",
+    "VII.3",
+    "VII.8",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-05/k12.webp",
+    "w": 1079,
+    "h": 3104
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

@@ -1,0 +1,781 @@
+{
+ "id": "hisz-pp-2024-05",
+ "subject": "hisz-pp",
+ "formula": "2023",
+ "year": 2024,
+ "session": "maj",
+ "source": {
+  "paper": "MJHP-P0-100-A-2405-arkusz.pdf",
+  "key": "MJHP-P0-100-2405-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Jezyk_hiszpanski/poziom_podstawowy/MJH-P-100-2405.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z1.webp",
+   "w": 1016,
+   "h": 531,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z2.webp",
+   "w": 981,
+   "h": 590,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z3.webp",
+   "w": 991,
+   "h": 933,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–5) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. ¿Cuál es el tema principal de la conversación? A. Horario de vuelos. B. Precios de billetes. C. Servicio de asistencia. Tekst 2. (do zadań 3.2. i 3.3.) 3.2. En el cuadro que describe la mujer A. el pintor está en segundo plano.\n\nB. los hijos de los reyes visten del mismo color. C. se distinguen bien las caras de todas las personas. 3.3. El diálogo tiene lugar durante\n\nA. una visita presencial al museo. B. una clase en la escuela. C. un taller de pintura al aire libre. Tekst 3. (do zadań 3.4. i 3.5.) 3.4. Refiriéndose a los libros de Agatha Christie, la hablante A. se sorprende de su popularidad. B. lamenta que hayan pasado de moda. C. señala lo atractivo de sus argumentos. 3.5. Según la hablante, el personaje de Poirot A. tenía rasgos poco comunes. B. era el personaje preferido de su creadora. C. se parecía al modelo de detective popular en su época. PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 1. DO 3. NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z4.webp",
+   "w": 1017,
+   "h": 1365,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. Testigos del pasado B. Diferencias en la hora local C. La necesidad de llevar reloj D. El polémico horario español E. Causas de la unificación horaria F. Consecuencias de la impuntualidad CON EL PASO DEL TIEMPO\n\n4.1.\n\n¿Sabíais que en 1850, mientras los relojes de Madrid daban las 11:30, los de Barcelona marcaban las 12:00 horas? Por aquel entonces cada provincia se regía por su hora, dependiendo de su situación geográfica, y no existían los husos horarios*. Para saber la hora, la gente miraba el reloj de la iglesia o del ayuntamiento. Era habitual y nadie necesitaba ser muy puntual.\n\n4.2.\n\nA finales del siglo XIX, el ferrocarril revolucionó la forma de entender el mundo, mejorando las conexiones entre países y ciudades. Ese cambio provocó otras transformaciones, entre ellas la de introducir el mismo huso horario en diferentes países para organizar los horarios de los trenes. Los primeros en hacerlo fueron los británicos.\n\n4.3.\n\nHoy en día, viajamos con más frecuencia, más lejos y más rápido. La vida ha acelerado y cada minuto cuenta. Resulta imposible vivir sin saber la hora exacta. El reloj personal, que antes era un lujo de unos pocos privilegiados, ahora se ha convertido en un objeto imprescindible y su forma ha ido evolucionando, según modas y avances técnicos.\n\n4.4.\n\nSin embargo, a pesar de nuestro apresurado ritmo de vida, de vez en cuando conviene pararnos y levantar la mirada hacia los antiguos relojes de nuestras ciudades. A lo largo de los siglos, estos tesoros de innegable valor artístico y monumental han marcado las horas y han acompañado a gente de diferentes épocas y clases sociales en los momentos más importantes de la historia.\n\nNa podstawie: verne.elpais.com * El huso horario – strefa czasowa. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z5.webp",
+   "w": 1033,
+   "h": 3232,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nNa podstawie: play.google.com Tekst B\n\nTekst własny\n\n“¿Tienes sal?” es una aplicación gratuita que las autoridades locales de Málaga ponen a tu disposición para que puedas comunicarte directamente con tus vecinos. ¿Necesitas a alguien que cuide a tu perro o tu gato? ¡Pregunta a tus vecinos! ¿Tu vecino se va de vacaciones y busca a alguien que le riegue las plantas? ¡Ofrécele ayuda! En dos pasos entrarás en la página de tu vecindario:\n\n regístrate con tu nombre, apellido y dirección  nosotros verificaremos tu dirección y te adjuntaremos al barrio adecuado. Seguro y privado:\n\n solo los vecinos verificados tienen acceso al vecindario y pueden ver\n\nlas publicaciones. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el Ayuntamiento de Málaga a través de: contacto@tienes-sal.es ¡Volvamos a pedir sal, volvamos a comunicarnos!\n\nTABLÓN DE ANUNCIOS Queridos vecinos: Les queríamos pedir disculpas por todo el ruido ocasionado anoche. Perdimos las llaves de casa y nos vimos obligados a llamar a un servicio especializado para poder entrar. Esperamos que acepten nuestras disculpas y que este incidente no afecte a nuestras relaciones. Nuevos inquilinos del 1o D\n\nTekst C\n\nSÉ UN BUEN VECINO\n\nNa podstawie: www.ucn.edu.co; www.pinterest.es Tekst D\n\nNa podstawie: Eduardo Mendoza, Sin noticias de Gurb\n\nRiega las plantas a partir de las 21:00h.\n\nSoluciona los conflictos con diálogo.\n\nLleva a tu perro atado con correa.\n\nCuida los espacios compartidos.\n\nEvita ruidos innecesarios.\n\nSIN NOTICIAS DE GURB (fragmento literario) 19.00. De vuelta a casa, me quedo pensando frente a la televisión. Invento un plan para hacer amistad con mi vecina. 20.30. Voy a casa de mi vecina, llamo a su puerta. Me disculpo por molestarla a esas horas y le digo (pero es mentira) que a medio cocinar me he dado cuenta de que no tengo ni un gramo de arroz. ¿Tendría ella la amabilidad de prestarme una tacita de arroz? Añado que se la devolveré sin falta al día siguiente. Me da el arroz y dice que no hace falta que se lo devuelva ni mañana ni nunca. Le doy las gracias. Nos despedimos. Subo corriendo a casa y tiro el arroz a la basura. El plan está funcionando mejor de lo que yo había previsto. 20.35. Vuelvo a llamar a la puerta de mi vecina. Le pido dos cucharadas de aceite. 20.40. Vuelvo a llamar a la puerta de mi vecina. Le pido una cabeza de ajo. 20.45. Vuelvo a llamar a la puerta de mi vecina. Le pido sal, pimienta, perejil y azafrán. 20.50. Vuelvo a llamar a la puerta de mi vecina. Le pido cuatro tomates pelados. Me da dos mil pesetas y me dice que vaya a cenar al restaurante y que por fin la deje en paz.\n\nPrzeczytaj pytania 5.1.–5.3. Dopasuj do każdego pytania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego pytania. ¿En qué texto\n\n5.1. se enumeran ciertas normas que garantizan buenas relaciones?\n\n5.2. se ofrece una solución que les facilitará a los vecinos hacerse favores?\n\n5.3. se presenta la reacción de una persona irritada por el comportamiento de un vecino suyo?\n\nPrzeczytaj wiadomość, którą Ania wysłała do swojej koleżanki Kasi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać sens podanych informacji. Luki należy uzupełnić w języku polskim.\n\nWiadomość \n\nOd: Anna\n\nDo: Kasia\n\nTemat: Cześć!\n\nCześć Kasiu!\n\nW końcu znalazłam chwilę, żeby do Ciebie napisać. Sama przeprowadzka do Malagi\n\nbyła koszmarna, ale na szczęście mieszkamy w bardzo przytulnej kamienicy w ładnej\n\ndzielnicy niedaleko centrum. Na początku bałam się, że nie będę mieć tutaj żadnych\n\nznajomych, ale skorzystałam z przydatnej aplikacji udostępnionej przez\n\n5.4. ___________________________________. Dzięki niej poznałam kilku sąsiadów.\n\nMam nadzieję, że nie będą tak uciążliwi jak bohater mojej ulubionej książki, który\n\nco chwilę pukał do drzwi sąsiadki zawsze pod tym samym pretekstem:\n\n5.5. ______________________________________.\n\nW naszej kamienicy bardzo dba się o stosunki dobrosąsiedzkie i przestrzega się wielu\n\nzasad. Większość z nich mi się podoba, nie rozumiem jednak, dlaczego nie można\n\n5.6. ______________________________________ aż do wieczora. To trochę dziwne.\n\nNiestety, zasadę unikania hałasu naruszyliśmy już w pierwszym tygodniu, ponieważ\n\n5.7. ______________________________________ i musieliśmy wezwać na pomoc\n\nfachowca.\n\nMam nadzieję, że szybko mnie odwiedzisz.\n\nPozdrawiam\n\nAnia"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z6.webp",
+   "w": 1018,
+   "h": 2143,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. *** 1. Millones de personas en todo el mundo han convertido en parte fundamental de su dieta el bocadillo. Solo en Gran Bretaña se devoran cada año 11 250 millones de sándwiches. Pero poca gente sabe de dónde procede este tipo de comida rápida tan bien conocida. Su historia se remonta al siglo XVIII, época en la que vivió John Montagu, el cuarto conde de Sandwich, gran conocedor de barcos. 2. Lord Sandwich fue un político de la época que estudió en Cambridge y pasó parte de su juventud viajando por Europa. Su carrera comenzó en 1744 cuando fue nombrado Lord del Almirantazgo de la Marina Real Británica, y de ahí continuó progresando hasta formar parte del Gobierno de Henry Pelham y posteriormente ocupar el cargo de secretario de Estado. También apoyó al famoso capitán Cook, quien, en honor a su patrón, llamó Sandwich a un archipiélago descubierto en 1778. Además, fue amante de la música (sin su ayuda el gran músico Händel no sería hoy tan famoso) y protector de todos los animales; no haría daño a una mosca. 3. Se cuenta que el sándwich nació en 1762 en un exclusivo club de juego al que solo podían entrar 25 hombres, uno de ellos el Príncipe de Gales. En este selecto club, Lord Sandwich pasó en cierta ocasión 24 horas sin abandonar el juego y cuando finalmente sintió hambre, le pidió a uno de sus sirvientes algo para comer rápido porque los jugadores no tenían tiempo de ir al comedor. “¿Qué le gustaría?”, preguntó el sirviente. “Tráiganos tocino, huevo y mantequilla colocados en capas dentro de un pan”, ordenó el conde. Este nuevo plato empezó a ponerse de moda durante esa época y adoptó el nombre del político que lo había ideado. 4. Parece que la idea tuvo éxito hasta tal punto que en las reuniones aristocráticas de todo tipo se empezó a servir lo que, desde entonces, se llamaría sándwich. Pero este emparedado no es un producto que entienda de clases sociales ni de edades, e igual forma parte del almuerzo de deportistas y escolares que de los menús de mediodía que promocionan algunos supermercados, que incluyen, además del sándwich, una bolsa de patatas fritas y un refresco. 5. En cuanto a la lingüística, la palabra sándwich generó muchas dudas en España. Al principio, fue considerada demasiado exótica y fea. Los lingüistas no podían entender por qué en vez de ella no se usaba el clásico emparedado. En 1917 los escritores de la revista Alrededor del mundo aconsejaban a los clientes de los bares “pedir emparedados como Dios manda”, pero sin éxito. Diez años después, el sándwich ingresó en el Diccionario de la Real Academia.\n\nNa podstawie: www.diariovasco.com; www.abc.es; www.muyinteresante.com\n\n6.1. Montagu no se interesaba por\n\nA. el arte. B. la caza. C. los viajes. D. la política. 6.2. Sandwich es también el nombre de A. un club. B. un barco. C. un juego. D. un conjunto de islas. 6.3. El tercer párrafo trata de A. un menú para pobres. B. las reglas de un juego. C. un invento espontáneo. D. la vida del Príncipe de Gales. 6.4. Según el último párrafo, la palabra sándwich A. despertó polémica entre los españoles. B. no figura en el Diccionario de la Real Academia. C. les encantó a los españoles porque sonaba bonito. D. finalmente en España fue sustituida por la palabra emparedado. 6.5. ¿Cuál de los títulos es el mejor para este texto? A. Origen de un plato. B. Dieta que perjudica la salud. C. Comida cuidadosamente elaborada. D. Fracaso de un invento gastronómico. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z7.webp",
+   "w": 1017,
+   "h": 738,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki. INTRUSO EN LA CASA DEL ACTOR Hace algún tiempo fue detenido un hombre que se había metido en el interior de la casa de Johnny Depp. El actor no se encontraba allí en el momento del suceso. La policía fue alertada por una vecina. 7.1. _____ Pero no lo es. Sucedió en realidad. Muchos delincuentes entran en las casas de los famosos para robar. 7.2. _____ No se llevó nada aunque en la vivienda de la estrella de Piratas del Caribe había muchos objetos valiosos. Se limitó a pasar varias horas disfrutando de la lujosa residencia. 7.3. _____ Luego, decidió nadar en la piscina del jardín. Allí lo vio una vecina. Enseguida avisó a las autoridades de que algo extraño pasaba en la casa del actor. Cuando llegó la policía, el intruso estaba en el salón viendo la tele. 7.4. _____ Por eso los agentes tuvieron que derribar la puerta. Ahora el culpable está esperando el juicio.\n\nNa podstawie: www.abc.es A. La mujer había prometido a Johnny vigilar la casa. B. Guardó la calma y se negó a salir voluntariamente. C. Sin embargo, no fue este el caso de nuestro intruso. D. Primero se dio una ducha en uno de sus enormes baños. E. Parece una historia sacada del guion de una comedia de Hollywood. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z8.webp",
+   "w": 1000,
+   "h": 792,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z9.webp",
+   "w": 924,
+   "h": 969,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z10.webp",
+   "w": 1100,
+   "h": 704,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) właściwą formą wyrazu podanego w nawiasie. Przekształć wyraz podany w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. SUEÑO AMERICANO Cuando se habla de sueños casi inalcanzables, a menudo se cita el caso de Lou Holtz.\n\nA los 28 años perdió su empleo, no tenía un céntimo y su mujer estaba embarazada\n\nde ocho meses. En lugar de lamentar su mala suerte, este estadounidense\n\n(decidir) 10.1. ____________________ redactar una lista con sus deseos. Anotó 107 metas\n\ntan ambiciosas como cenar en la Casa Blanca, conocer al Papa o ser el entrenador\n\nde su equipo favorito de fútbol americano.\n\nDespués de completar su lista, Lou Holtz se dijo a sí mismo:\n\n“He (escribir) 10.2. ____________________ todo lo que quiero conseguir en la vida.\n\nAhora cada día voy a hacer algo concreto para cumplir al menos uno de estos sueños”.\n\nCon el tiempo llegó a cumplir la mayoría de ellos. Su ejemplo demuestra algo evidente:\n\nno conseguirás tu objetivo si no (intentar) 10.3. ____________________ conseguirlo.\n\nNa podstawie: www.elpais.com"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z11.webp",
+   "w": 1100,
+   "h": 495,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie trzy wyrazy. 11.1. Mi madre dice: “Quiero comprarme esta falda”.\n\nMi madre dice que _____________________________________________ esa falda.\n\n11.2. Mi hermano tiene menos años que yo.\n\nMi hermano es __________________________________________________ que yo.\n\n11.3. Mientras Gloria paseaba por las calles del barrio, admiraba el juego de luces de las\n\nventanas abiertas.\n\nDurante ___________________________________________ por las calles del barrio\n\nGloria admiraba el juego de luces de las ventanas abiertas."
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/hisz-pp-2024-05/z12.webp",
+   "w": 1005,
+   "h": 638,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Podczas Młodzieżowego Festiwalu Teatralnego obejrzałeś(-aś) kilka przedstawień. W e-mailu do kolegi z Hiszpanii: • wyjaśnij, w jaki sposób dowiedziałeś(-aś) się o tym festiwalu • przedstaw program tego festiwalu • napisz, która grupa teatralna zwyciężyła na festiwalu i co najbardziej podobało Ci się w jej występie • podziel się swoimi obawami dotyczącymi przyszłości tego festiwalu. Napisz swoją wypowiedź w języku hiszpańskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 80 do 130 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hola, Paco: ¿Sabes qué? La semana pasada se celebró el Festival de Teatros Juveniles en nuestra ciudad. Tuve la oportunidad de ver algunas obras.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "hisz-pp-2024-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wywiad z podróżnikiem. Zaznacz znakiem X, które zdania są zgodne z treścią nagrania (V – Verdadero), a które nie (F – Falso). El hombre afirma que",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k1.webp",
+    "w": 1059,
+    "h": 487
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-05-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat nietypowych prezentów. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.2",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k2.webp",
+    "w": 1101,
+    "h": 571
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    3,
+    5,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-05-z03",
+   "no": "3",
+   "points": 5,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. ¿Cuál es el tema principal de la conversación? Tekst 2. (do zadań 3.2. i 3.3.) 3.2. En el cuadro que describe la mujer 3.3. El diálogo tiene lugar durante Tekst 3. (do zadań 3.4. i 3.5.) 3.4. Refiriéndose a los libros de Agatha Christie, la hablante 3.5. Según la hablante, el personaje de Poirot",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.2",
+    "II.5",
+    "II.4",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k3.webp",
+    "w": 1058,
+    "h": 529
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "3.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    1,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k4.webp",
+    "w": 1058,
+    "h": 411
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    4,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Przeczytaj pytania 5.1.–5.3. Dopasuj do każdego pytania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego pytania. Przeczytaj wiadomość, którą Ania wysłała do swojej koleżanki Kasi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać sens podanych informacji. Luki należy uzupełnić w języku polskim. Od: Do: Temat:",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.1",
+    "III.2",
+    "III.4",
+    "III.7",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k5.webp",
+    "w": 1101,
+    "h": 4036
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Montagu no se interesaba por 6.2. Sandwich es también el nombre de 6.3. El tercer párrafo trata de 6.4. Según el último párrafo, la palabra sándwich 6.5. ¿Cuál de los títulos es el mejor para este texto?",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k6.webp",
+    "w": 1058,
+    "h": 485
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    3,
+    2,
+    0,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k7.webp",
+    "w": 1058,
+    "h": 454
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    2,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k8.webp",
+    "w": 1101,
+    "h": 462
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz wyraz, który poprawnie uzupełnia luki w obydwu zdaniach. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k9.webp",
+    "w": 1059,
+    "h": 410
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    2,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2024-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) właściwą formą wyrazu podanego w nawiasie. Przekształć wyraz podany w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k10.webp",
+    "w": 1059,
+    "h": 374
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie trzy wyrazy.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k11.webp",
+    "w": 1059,
+    "h": 1614
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2024-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Podczas Młodzieżowego Festiwalu Teatralnego obejrzałeś(-aś) kilka przedstawień. W e-mailu do kolegi z Hiszpanii: • wyjaśnij, w jaki sposób dowiedziałeś(-aś) się o tym festiwalu • przedstaw program tego festiwalu • napisz, która grupa teatralna zwyciężyła na festiwalu i co najbardziej podobało Ci się w jej występie • podziel się swoimi obawami dotyczącymi przyszłości tego festiwalu. Hola, Paco: ¿Sabes qué? La semana pasada se celebró el Festival de Teatros Juveniles en nuestra ciudad. Tuve la oportunidad de ver algunas obras.",
+   "topic": "hisz-wri",
+   "requirement": [
+    "V.6",
+    "V.9",
+    "VII.3",
+    "VII.13",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2024-05/k12.webp",
+    "w": 1057,
+    "h": 3213
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

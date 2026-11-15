@@ -1,0 +1,789 @@
+{
+ "id": "hisz-pp-2023-05",
+ "subject": "hisz-pp",
+ "formula": "2023",
+ "year": 2023,
+ "session": "maj",
+ "source": {
+  "paper": "MJHP-P0-100-2305.pdf",
+  "key": "MJHP-P0-100-2305-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Jezyk_hiszpanski/poziom_podstawowy/MJHP-P0-100-2305.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z1.webp",
+   "w": 1016,
+   "h": 539,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z2.webp",
+   "w": 1100,
+   "h": 547,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z3.webp",
+   "w": 925,
+   "h": 967,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–5) Usłyszysz dwukrotnie cztery teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. Recordando el año pasado, la mujer A. se queja de su mala suerte.\n\nB. aprecia todas sus experiencias. C. lamenta algunas de sus decisiones. Tekst 2. 3.2. Ana sugiere que Juan A. se está riendo de ella. B. tiene problemas con su novia. C. tiene celos del nuevo novio de Carmen. Tekst 3. 3.3. El hablante afirma que el sistema de reconocimiento de caras A. provoca marchas de protesta. B. hace de Londres la ciudad más segura de Europa. C. ha sido bien recibido por la mayoría de los londinenses. Tekst 4. (do zadań 3.4. i 3.5.) 3.4. Según el texto, el microondas fue inventado A. por casualidad. B. para el ejército. C. por una empresa de electrodomésticos. 3.5. Los primeros microondas A. empezaron a venderse en 1945. B. tenían precios económicos. C. eran de gran tamaño. PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 1. DO 3. NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z4.webp",
+   "w": 1018,
+   "h": 1432,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. Campaña ecológica del Ayuntamiento B. Orden de las autoridades municipales C. Explicaciones contradictorias D. Propuesta de los operarios E. Éxito de una protesta F. Sueño interrumpido EVITAR LA TALA1 DE LOS CASTAÑOS\n\n4.1.\n\nSegún ha explicado Laura Jiménez, una de las personas que participaron en la iniciativa, a primera hora de la mañana los vecinos de la calle de la Mariposa se despertaron con un ruido continuo y molesto de máquinas cortadoras. Era un ruido horrible que acabó con el silencio de la madrugada.\n\n4.2.\n\nCuando bajaron, se enteraron de que los árboles plantados por sus abuelos serían cortados. No se lo podían creer: ¡eran SUS árboles! Preguntaron a los operarios qué estaba ocurriendo y estos les confirmaron que el Ayuntamiento había mandado cortar los doce castaños de Indias que había en el patio, y ellos solo estaban poniendo en práctica esa decisión.\n\n4.3.\n\nDespiertos y listos para actuar, los vecinos comenzaron a llamar al Ayuntamiento para conocer los motivos, pero a cada uno le dieron una razón diferente: un empleado dijo que se tenían que realizar unas obras para cambiar una tubería, el segundo, que los árboles les producían alergia a algunos vecinos de la zona, y el tercero, que otras personas habían protestado porque las hojas y las castañas caían en sus terrazas.\n\n4.4.\n\nSin embargo, las informaciones recibidas no convencieron del todo a los vecinos de la calle de la Mariposa, quienes espontáneamente decidieron encadenarse2 a los árboles para evitar la tala. Según ellos, era la única manera de luchar contra aquella injusticia y salvar la herencia paterna. Interrumpieron el trabajo de los operarios que, finalmente, consiguieron cortar tan solo unas cuantas ramas secas.\n\nNa podstawie: www.elmundo.es 1 La tala – ścinanie drzew. 2 Encadenarse – przykuć się łańcuchem. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z5.webp",
+   "w": 1020,
+   "h": 3617,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A Ferruccio Lamborghini era un fabricante de tractores, pero lo que de verdad le apasionaba eran los coches deportivos. Eran su auténtico hobby, al que dedicaba todo su tiempo libre. Tenía varios modelos, entre ellos un Ferrari, que un día empezó a darle problemas. Ferruccio era un buen mecánico y trató de arreglarlo él solo. Entonces vio que su Ferrari tenía la misma construcción que uno de sus tractores. Se sorprendió porque creía que un lujoso modelo deportivo necesitaba piezas de mayor calidad que las que se usaban en un modesto tractor agrícola. Por eso decidió hablar directamente con Enzo Ferrari. Sin embargo, la conversación le provocó emociones negativas porque, según Enzo, un simple fabricante de tractores no era capaz de conducir un coche como un Ferrari. Enfadado, Ferruccio decidió fabricar un coche mejor que cualquiera de su competidor, demostrándole que los supercoches no deberían ser tan poco fiables como los Ferrari de entonces. Hoy en día, Lamborghini es una de las marcas de coches deportivos más conocidas del mundo.\n\nNa podstawie: www.larazon.es Tekst B Juanchu, dieciséis años; cabeza apoyada en la ventanilla; cascos con música muy alta; mirada perdida en el gris del asfalto. Parece no pensar en nada. Solo lo parece. En realidad está observando cómo todo el mundo los adelanta y eso le irrita. ¡Su padre y su manía de conducir despacio! Para Juanchu, no sobrepasar el límite de velocidad es ir despacio. Muy despacio. Cuenta los coches que los pasan. Al llegar a veinte se cansa. De pronto, un coche amarillo, uno bueno, los adelanta a toda velocidad. Suena como un cohete despegando. Juanchu se asoma por encima de los hombros de su padre. Quiere saber qué coche es. ¿Un Lamborghini? Lo observa mientras este se pierde por la autovía en segundos. El chico vuelve a su aparente apatía, esta vez imaginando que es él el que va al volante de ese “cohete”.\n\nNa podstawie: www.mundovoluble.blogspot.com\n\nTekst C\n\nENCUESTA SOBRE LA UTILIZACIÓN DE LOS MEDIOS DE TRANSPORTE\n\nEN LA CIUDAD\n\nSexo: masculino femenino X\n\nEdad: 24 años 1. ¿Qué medio de transporte utilizas? • Público: metro, autobús, tranvía • Privado: coche, moto, bicicleta 2. ¿Con qué frecuencia utilizas los medios de transporte público? • Diariamente • Semanalmente • Mensualmente • No los utilizo 3. ¿Con qué frecuencia utilizas los medios de transporte privado? • Diariamente • Semanalmente • Mensualmente • No los utilizo\n\n4. ¿En qué medio de transporte tardas más en llegar al trabajo? • Autobús • Metro • Tranvía • Coche particular • Moto • Bicicleta 5. ¿En qué medio de transporte tardas menos en llegar al trabajo? • Autobús • Metro • Tranvía • Coche particular • Moto • Bicicleta\n\nNa podstawie: www.rincondelvago.com\n\nTekst D\n\nNa podstawie: www.forocoches.com\n\nTOMÁS: 😊\n\nANA: No sé quiénes participaron en esa encuesta pero, en mi opinión, a la mayoría de los jóvenes nos encantan los coches. De todas formas, lo que dices seguramente no te permitirá trabajar en una empresa que exija traslados en coche.\n\nTOMÁS: De raro no tengo nada. La contaminación provocada por los coches en las ciudades es alarmante. Por eso yo uso el transporte público o la bici. Y tú también deberías comprarte una. Además, según un estudio publicado hace poco, los jóvenes de nuestra edad no sienten la necesidad de tener un coche propio. Y se concluye que parecemos menos interesados en poseer bienes tradicionales como coches.\n\nANA: ¡Qué raro eres!\n\nTOMÁS: Ja, ja, ja... Ana, nos conocemos desde hace mucho tiempo y sabes que yo prefiero ir en bici o en transporte público.\n\nANA: Tomás, eres el único de nuestra pandilla con carné de conducir y sin coche. ¿A qué esperas? ¿A tener un superdeportivo de última generación?\n\nPrzeczytaj pytania 5.1.–5.3. Dopasuj do każdego pytania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego pytania. ¿En qué texto\n\n5.1. alguien sueña con conducir un coche deportivo?\n\n5.2. alguien cuestiona los resultados de una encuesta?\n\n5.3. se presentan las causas de un conflicto entre dos empresarios?\n\n5.5. ¿Qué le desanima al chico del chat de comprarse un automóvil?\n\n5.6. ¿Qué medio de transporte utiliza más frecuentemente la mujer que participó\n\nen la encuesta?\n\n5.7. ¿Cuál era la afición de Ferruccio Lamborghini?"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z6.webp",
+   "w": 1018,
+   "h": 2185,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. LA SEÑORITA MELI 1. Estaba yo una tarde de verano sentada en una terraza del parque tomándome un café con mis amigos. Comentábamos las últimas noticias cuando, de pronto, me fijé en una mujer que se levantaba de una mesa y salía de allí llevando a un niño de la mano. Sin darme cuenta, exclamé: “¡La señorita Meli!” A mis amigos les pareció curiosa mi reacción y tuve que explicársela. La señorita Meli es la profesora que más ha influido en mi vida. He tenido buenos profesores, que sabían mucho y que sabían enseñar, pero la señorita Meli era otra cosa. 2. El primer día del tercer curso, es decir, cuando yo tenía 10 años, en vez de la maestra del curso anterior, que era muy exigente, vino una chica joven, de 21 años. No muy alta, morena, de pelo rizado, sin maquillaje, con pantalones y un bolso enorme. “Me llamo Amelia Pérez, pero me podéis llamar Meli. Soy la señorita Meli”, y así empezó el curso que recordaría luego como el mejor curso de mi vida en el colegio. 3. Lo primero que cambió fue la manera de sentarnos. La antigua maestra nos sentaba en grupos de mesas numerados del uno al nueve, donde en el uno estaban “las mejores” y en el nueve “las peores”. Según tenías una nota u otra, te iba poniendo en diferentes grupos. Con la señorita Meli nos olvidamos de ese sistema: nos sentábamos en círculos, en cuadrados, en bloques de seis mesas... variábamos la forma de la clase cada poco tiempo. 4. Las tardes de los viernes eran las “Tardes de lectura”. La señorita Meli nos ponía música. La ponía bajita para no molestar a otras clases. La música llenaba la clase de paz, y nosotras leíamos, y le preguntábamos a la señorita Meli en su mesa las dudas que teníamos. Siempre contestaba con una sonrisa. Una vez en un libro hablaban de caballeros feudales y una chica le preguntó que quiénes eran. La señorita Meli nos dio muchos detalles sobre el tema. Otro día, otra chica le preguntó por la Atlántida y ella nos lo explicó todo. Ninguna pregunta quedaba sin respuesta. 5. Hacíamos también concursos de cálculo. Era una forma divertida de aprender a realizar operaciones matemáticas mentalmente. Cada semana teníamos una hora o más de juego. Porque nosotras lo tomábamos como un juego. Debió de funcionar aquello porque después pasamos a tener concursos de lenguaje, de ciencias sociales y de ciencias naturales. Aprendíamos jugando, lo que yo siempre he creído que es una de las mejores formas de aprender. 6. Fue durante ese curso cuando yo descubrí mi vocación, yo quería ser maestra, como Meli. Y llegué a serlo por “culpa” de aquella mujer que siempre iba con vaqueros, zapatos planos y un bolso enorme. La señorita Meli.\n\nNa podstawie: www.unizar.es\n\n6.1. En el momento de ver a la señorita Meli en la cafetería, la narradora estaba A. charlando con un grupo de amigos. B. cogiendo de la mano a un niño. C. levantándose para salir. D. cambiando de mesa. 6.2. En el párrafo 2 no se menciona\n\nA. la experiencia profesional de la señorita Meli. B. el aspecto físico de la nueva maestra del grupo. C. la edad a la que la narradora conoció a la nueva maestra. D. la opinión que la narradora tiene sobre las clases de la señorita Meli. 6.3. En las clases de la señorita Meli, las chicas A. estaban divididas en grupos según las notas que sacaban. B. podían consultar con la maestra cualquier cosa.\n\nC. ocupaban siempre los mismos sitios. D. escuchaban la música alta. 6.4. Según la narradora, los concursos A. aburrían a las alumnas. B. desorganizaban las clases. C. hacían más agradable el aprendizaje. D. enseñaban a las alumnas a rivalizar entre ellas. 6.5. La autora del texto A. describe las relaciones entre las maestras de un colegio. B. cuestiona los métodos de enseñanza de la señorita Meli. C. relata el encuentro con sus antiguas compañeras de clase. D. recuerda una experiencia que determinó su carrera profesional. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z7.webp",
+   "w": 1018,
+   "h": 815,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.\n\nCAZANDO RANAS Estábamos sentados en la orilla del río mirando el agua. Los rayos del sol bailaban sobre su superficie, brillando como miles de cristales. 7.1. _____ Nos levantamos curiosos, esperando identificar lo que pasaba. En el fondo del agua, debajo de una hoja verde, se escondía una rana pequeña. “Venga, vamos a cazarla”, dijo Candela. No me lo podía creer. 7.2. _____ Pero Candela no era como otras. Esa chica no dejaba de sorprenderme. Se quitó las zapatillas y los calcetines, entró en el agua y metió el brazo hasta el codo en el río. 7.3. _____ Respiré hondo y toqué el animalito. A mí me dio un poco de asco*, pero no quería decírselo para no parecer un cobarde. Toqué también la mano extendida de la chica. Su piel era suave y delicada. Me mareé, perdí el equilibrio y me caí al agua con zapatillas y todo, haciendo tanto ruido que no quedó ni una rana por cazar a mil kilómetros alrededor. 7.4. _____ Yo también. Nunca antes había sido tan feliz.\n\nNa podstawie: bibliopequeitinerante.blogspot.com\n\n* El asco – wstręt. A. Acarició el animal y lo echó al agua. B. Enseguida sacó la rana y me la ofreció. C. Siempre había pensado que las chicas tenían miedo a las ranas. D. Al verme así, mojado de pies a cabeza, Candela empezó a reírse. E. De repente, oímos un “plum” y vimos unos círculos concéntricos detrás de una piedra. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z8.webp",
+   "w": 1000,
+   "h": 856,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1. X: ¿Qué te parece si jugamos al ajedrez? Y: _____ Prefiero las cartas.\n\nA. No me gusta jugar sola. B. Me parece fenomenal. C. Odio ese juego. 8.2. X: ¿Qué tal mi paella? Y: _____ X: Mujer, la he hecho según tu receta.\n\nA. Venga, hazla. B. Un poco picante. C. Ya está preparada. 8.3. X: Este año pensamos hacer una excursión cultural a Toledo. Y: Nosotros, _____, vamos a pasar unos días en la montaña. En Toledo estuvimos el año pasado.\n\nA. en cambio B. además C. es decir PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z9.webp",
+   "w": 1000,
+   "h": 837,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens zdania lub wyróżnionego fragmentu zdania. Zakreśl jedną z liter: A, B albo C. 9.1. Llevan tres días limpiando las calles del centro.\n\nA. Suelen limpiar las calles del centro cada tres días. B. Limpian las calles del centro desde hace tres días.\n\nC. Van a limpiar las calles del centro dentro de tres días. 9.2. Casi nunca comía dulces.\n\nA. Muy pocas veces B. A menudo C. Jamás\n\n9.3. Si tienes ganas de hablar, llámame.\n\nA. debes B. puedes C. te apetece 9.4. Nos lo pasamos bien durante la excursión.\n\nA. Hizo buen tiempo\n\nB. Nos divertimos mucho C. Caminamos a paso rápido PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z10.webp",
+   "w": 1100,
+   "h": 708,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.\n\nNa podstawie: www.20minutos.es\n\nEL RATONCITO PÉREZ En España, los personajes que traen regalos a los niños 10.1. _________________\n\nlos Reyes Magos, Papá Noel y el Ratoncito Pérez. Este último los deja bajo\n\nla almohada cuando un niño pierde un diente. El Ratoncito fue inventado\n\nen el 10.2. _________________ XIX por el jesuita Luis Coloma, al que le pidieron\n\nun cuento para el pequeño rey Alfonso XIII, quien había perdido su tercer diente\n\na la edad de 8 años. Actualmente, el Ratoncito es tan popular entre los niños que\n\nincluso tiene su propio museo y su propia estatua, 10.3. _________________ más\n\npequeña de España y, probablemente, del mundo."
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z11.webp",
+   "w": 1100,
+   "h": 327,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/hisz-pp-2023-05/z12.webp",
+   "w": 1009,
+   "h": 668,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Wraz z kolegami zorganizowaliście w szkole bal przebierańców. Każdy uczestnik miał przebrać się za owoc lub za warzywo. W e-mailu do koleżanki z Hiszpanii: • wyjaśnij, dlaczego zaproponowaliście uczestnikom przebranie się w takie właśnie kostiumy • napisz, w jaki sposób nauczyciele pomogli Wam w realizacji tego projektu • opisz kostium, w którym wystąpiłeś(-aś) na balu • poinformuj, co nie podobało Ci się w organizacji balu. Napisz swoją wypowiedź w języku hiszpańskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 80 do 130 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hola, Marisol: Hace algún tiempo mis compañeros de clase y yo organizamos en nuestro instituto un baile de disfraces. Todos debían disfrazarse de una fruta o verdura.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "hisz-pp-2023-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wywiad z bohaterem audycji Españoles en el mundo. Zaznacz znakiem X, które zdania są zgodne z treścią nagrania (V – Verdadero), a które nie (F – Falso).",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k1.webp",
+    "w": 1082,
+    "h": 487
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-05-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat podróżowania. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.2",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k2.webp",
+    "w": 1101,
+    "h": 571
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    2,
+    4,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-05-z03",
+   "no": "3",
+   "points": 5,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie cztery teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. Recordando el año pasado, la mujer Tekst 2. 3.2. Ana sugiere que Juan Tekst 3. 3.3. El hablante afirma que el sistema de reconocimiento de caras Tekst 4. (do zadań 3.4. i 3.5.) 3.4. Según el texto, el microondas fue inventado 3.5. Los primeros microondas",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.3",
+    "II.7",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k3.webp",
+    "w": 1082,
+    "h": 558
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "3.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    0,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k4.webp",
+    "w": 1082,
+    "h": 411
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. ENCUESTA SOBRE LA UTILIZACIÓN DE LOS MEDIOS DE TRANSPORTE Sexo: masculino femenino X 1. ¿Qué medio de transporte utilizas? 4. ¿En qué medio de transporte tardas más en llegar al trabajo? 2. ¿Con qué frecuencia utilizas los medios de transporte público? 5. ¿En qué medio de transporte tardas menos en llegar al trabajo? 3. ¿Con qué frecuencia utilizas los medios de transporte privado? Przeczytaj pytania 5.1.–5.3. Dopasuj do każdego pytania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego pytania. Odpowiedz krótko na pytania 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać ich sens. Na pytania należy odpowiedzieć w języku hiszpańskim.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.2",
+    "III.1",
+    "VIII.2",
+    "III.7"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k5.webp",
+    "w": 1101,
+    "h": 5251
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. En el momento de ver a la señorita Meli en la cafetería, la narradora estaba 6.2. En el párrafo 2 no se menciona 6.3. En las clases de la señorita Meli, las chicas 6.4. Según la narradora, los concursos 6.5. La autora del texto",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k6.webp",
+    "w": 1082,
+    "h": 485
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k7.webp",
+    "w": 1082,
+    "h": 454
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    2,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k8.webp",
+    "w": 1101,
+    "h": 462
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens zdania lub wyróżnionego fragmentu zdania. Zakreśl jedną z liter: A, B albo C. Llevan tres días limpiando las calles del centro.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k9.webp",
+    "w": 1082,
+    "h": 410
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2023-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k10.webp",
+    "w": 1082,
+    "h": 374
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Przetłumacz na język hiszpański fragmenty podane w nawiasach, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie trzy wyrazy.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k11.webp",
+    "w": 1081,
+    "h": 396
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2023-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Wraz z kolegami zorganizowaliście w szkole bal przebierańców. Każdy uczestnik miał przebrać się za owoc lub za warzywo. W e-mailu do koleżanki z Hiszpanii: • wyjaśnij, dlaczego zaproponowaliście uczestnikom przebranie się w takie właśnie • napisz, w jaki sposób nauczyciele pomogli Wam w realizacji tego projektu • opisz kostium, w którym wystąpiłeś(-aś) na balu • poinformuj, co nie podobało Ci się w organizacji balu. Hola, Marisol: Hace algún tiempo mis compañeros de clase y yo organizamos en nuestro instituto un baile de disfraces. Todos debían disfrazarse de una fruta o verdura.",
+   "topic": "hisz-wri",
+   "requirement": [
+    "V.1",
+    "V.2",
+    "V.6",
+    "V.8",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2023-05/k12.webp",
+    "w": 1079,
+    "h": 3331
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

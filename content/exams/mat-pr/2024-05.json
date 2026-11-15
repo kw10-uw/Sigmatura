@@ -1,0 +1,437 @@
+{
+ "id": "mat-pr-2024-05",
+ "subject": "mat-pr",
+ "formula": "2023",
+ "year": 2024,
+ "session": "maj",
+ "source": {
+  "paper": "MMAP-R0-100-A-2405-arkusz.pdf",
+  "key": "MMAP-R0-100-2405-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z1.webp",
+   "w": 1087,
+   "h": 556,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z2.webp",
+   "w": 1087,
+   "h": 195,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z3.webp",
+   "w": 1087,
+   "h": 308,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z4.webp",
+   "w": 1087,
+   "h": 303,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z5.webp",
+   "w": 1087,
+   "h": 85,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z6.webp",
+   "w": 1087,
+   "h": 134,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z7.webp",
+   "w": 1087,
+   "h": 178,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z8.webp",
+   "w": 1087,
+   "h": 193,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z9.webp",
+   "w": 1087,
+   "h": 549,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z10.webp",
+   "w": 1087,
+   "h": 154,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z11.webp",
+   "w": 1087,
+   "h": 225,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z12.webp",
+   "w": 1087,
+   "h": 258,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "i13",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/i13.webp",
+   "w": 1087,
+   "h": 101,
+   "caption": "Wspólne informacje do zadania 13"
+  },
+  {
+   "id": "t13.1",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z13.1.webp",
+   "w": 1087,
+   "h": 186,
+   "caption": "Zadanie 13.1 – arkusz"
+  },
+  {
+   "id": "t13.2",
+   "type": "image",
+   "file": "assets/mat-pr-2024-05/z13.2.webp",
+   "w": 1087,
+   "h": 351,
+   "caption": "Zadanie 13.2 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "mat-pr-2024-05-z01",
+   "no": "1",
+   "points": 2,
+   "materials": [
+    "t1"
+   ],
+   "prompt": "Oblicz temperaturę tej kawy po następnych pięciu minutach. Wynik podaj w stopniach Celsjusza, w zaokrągleniu do jedności. Zapisz obliczenia.",
+   "topic": "matr-fun",
+   "requirement": [
+    "V.13"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k1.webp",
+    "w": 1071,
+    "h": 571
+   },
+   "scoring": "2 pkt – poprawna metoda obliczenia temperatury kawy po 15 minutach oraz poprawny wynik zaokrąglony do jedności: 59 °C; 1 pkt – obliczenie k−10: 45 60 ; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z02",
+   "no": "2",
+   "points": 2,
+   "materials": [
+    "t2"
+   ],
+   "prompt": "Zapisz obliczenia.",
+   "topic": "matr-gra",
+   "requirement": [
+    "XIII.R1"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k2.webp",
+    "w": 1028,
+    "h": 798
+   },
+   "scoring": "2 pkt – poprawna metoda obliczenia granicy oraz poprawny wynik: (−∞); 1 pkt – zapisanie wyrażenia x3−8 (x−2)2 w postaci x2+2x+4 (lub w postaci x+ 4 + 12 x−2) x−2 ALBO – zapisanie równości x→2− x3 −8 x→2− 3x2 lim (x−2)2 = lim 2x−4; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z03",
+   "no": "3",
+   "points": 3,
+   "materials": [
+    "t3"
+   ],
+   "prompt": "Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wśród opakowań poddanych tej kontroli będzie co najwyżej jedno opakowanie ze śmietaną, która zawiera mniej niż 36% tłuszczu. Wynik zapisz w postaci ułamka dziesiętnego w zaokrągleniu do części tysięcznych. Zapisz obliczenia.",
+   "topic": "matr-kom",
+   "requirement": [
+    "XII.R2"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k3.webp",
+    "w": 1076,
+    "h": 1854
+   },
+   "scoring": "3 pkt – zastosowanie poprawnej metody i poprawny wynik: 0,996; 2 pkt – zapisanie poprawnego prawdopodobieństwa uzyskania co najwyżej jednego sukcesu w dziesięciu próbach Bernoullego, np. P= (10 0 ) ⋅(0,99)10 + (10 1 ) ⋅(0,01)1 ⋅(0,99)9, P= (0,99)10 + 10 ⋅0,01 ⋅(0,99)9; 1 pkt – zapisanie prawdopodobieństwa odniesienia sukcesu (p) i porażki (q) w pojedynczej próbie: p= 0,01 , q= 0,99 ALBO – zapisanie prawdopodobieństwa w postaci q10 + 10p⋅q9, gdzie p jest prawdopodobieństwem odniesienia sukcesu, q – porażki, ALBO – przedstawienie fragmentu drzewa zawierającego wszystkie istotne gałęzie odpowiadające sytuacji wylosowania dziesięciu opakowań ze śmietaną, która zawiera co najmniej 36% tłuszczu oraz odpowiadające sytuacji wylosowania dziesięciu opakowań, wśród których będzie dziewięć opakowań ze śmietaną, która zawiera co najmniej 36% tłuszczu i jedno opakowanie ze śmietaną, która zawiera mniej niż 36% tłuszczu, ALBO – przedstawienie fragmentu drzewa zawierającego gałąź odpowiadającą wylosowaniu dziesięciu opakowań, wśród których będzie dziewięć opakowań ze śmietaną, która zawiera co najmniej 36% tłuszczu i jedno opakowanie ze śmietaną, która zawiera mniej niż 36% tłuszczu oraz określenie na każdym odcinku gałęzi prawdopodobieństwa sukcesu i porażki; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z04",
+   "no": "4",
+   "points": 3,
+   "materials": [
+    "t4"
+   ],
+   "prompt": "Oblicz współczynniki a oraz b w równaniu tej stycznej. Zapisz obliczenia.",
+   "topic": "matr-gra",
+   "requirement": [
+    "XIII.R3",
+    "XIII.R4"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k4.webp",
+    "w": 1101,
+    "h": 1256
+   },
+   "scoring": "3 pkt – zastosowanie poprawnej metody i poprawny wynik: a= 7 2 oraz b= −5; 2 pkt – obliczenie współczynnika kierunkowego stycznej do wykresu funkcji f w punkcie P: a= f′(2) = 7 2 . (3x2−3)⋅x−(x3−3x+2)⋅1; 1 pkt – wyznaczenie pochodnej funkcji f, np. f′(x) = , x2 f′(x) = 2x+ 2 ⋅(−1 x2); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z05",
+   "no": "5",
+   "points": 3,
+   "materials": [
+    "t5"
+   ],
+   "prompt": "Rozwiąż zadanie.",
+   "topic": "matr-nie",
+   "requirement": [
+    "I.9",
+    "I.R1"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k5.webp",
+    "w": 1070,
+    "h": 1555
+   },
+   "scoring": "3 pkt – przeprowadzenie pełnego rozumowania; 2 pkt – przekształcenie wyrażenia 2log5 4 + log43 log54 ⋅(1 + log43) lub log12 80, lub obydwu tych wyrażeń do takiej postaci, z której poprzez jednokrotne zastosowanie wzoru na logarytm iloczynu lub wzoru na zamianę podstawy logarytmu, lub logarytmu potęgi oraz ewentualne kilkukrotne przekształcenie wyrażenia wymiernego można otrzymać tezę ALBO – zapisanie jednego równania wymiernego z a, b oraz niewiadomą x, np. bx+ x= 1 a+ 2 (dla sposobu III), ALBO 1 1 a oraz liczby 4 w postaci 12 1+b – zapisanie liczby 5 w postaci 4 (dla sposobu IV); 1 pkt – zastosowanie wzoru na zamianę podstawy logarytmu lub na logarytm iloczynu, np. log12 80 = log4 80 log4 12 , log12 80 = log5 80 log5 12 , 2 ⋅log5 4 + 1 = log5(4 ⋅4 ⋅5), 1 + log4 3 = log4(4 ⋅3) ALBO – zapisanie dwóch spośród liczb 3, 4, 5 jako potęgi, której podstawą jest trzecia 1 a i 3 = 4b oraz zapisanie z nich, a wykładnik jest zależny od a lub b, np.: 5 = 4 równania 12x= 80 (dla sposobu III), ALBO 1 1+b – zapisanie liczby 4 w postaci 12 (dla sposobu IV); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z06",
+   "no": "6",
+   "points": 3,
+   "materials": [
+    "t6"
+   ],
+   "prompt": "Oblicz, ile jest wszystkich takich liczb. Zapisz obliczenia.",
+   "topic": "matr-kom",
+   "requirement": [
+    "XI.R1"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k6.webp",
+    "w": 1076,
+    "h": 2540
+   },
+   "scoring": "3 pkt – zastosowanie poprawnej metody i poprawny wynik: 11 040; 2 pkt – zapisanie L1 : (5 3) ⋅(5 2) ⋅5! oraz zapisanie liczby zbiorów czteroelementowych złożonych z trzech cyfr nieparzystych i jednej cyfry parzystej różnej od zera: (5 3) ⋅(4 1) ALBO – zapisanie L2 : (5 3) ⋅(4 1) ⋅4! oraz zapisanie liczby zbiorów pięcioelementowych złożonych z trzech cyfr nieparzystych i dwóch cyfr parzystych: (5 3) ⋅(5 2), ALBO – zapisanie P : 4 ⋅(4 1) ⋅(5 3) ⋅4! oraz zapisanie liczby ciągów pięciowyrazowych w jednym z przypadków, w których pierwszy wyraz jest cyfrą nieparzystą, np. liczba ciągów postaci (n, p, n, p, n) jest równa 5 ⋅5 ⋅4 ⋅4 ⋅3, ALBO – zapisanie N: 5 ⋅(5 2) ⋅(4 2) ⋅4! oraz zapisanie liczby ciągów pięciowyrazowych w jednym z przypadków, w których pierwszy wyraz jest cyfrą parzystą różną od zera, np. liczba ciągów postaci (p, n, n, p, n) jest równa 4 ⋅5 ⋅4 ⋅4 ⋅3, ALBO – zapisanie Z+: 4 ⋅4 ⋅4 ⋅5 ⋅4 ⋅3 oraz zapisanie liczby ciągów pięciowyrazowych w jednym z przypadków, w których żaden wyraz nie jest równy zero, np. liczba ciągów postaci (n, n, n, p, p), gdzie p∈{2, 4, 6, 8}, jest równa 5 ⋅4 ⋅3 ⋅4 ⋅3, ALBO – zapisanie Z−: 10 ⋅4 ⋅3 ⋅5 ⋅4 ⋅3 oraz zapisanie liczby ciągów pięciowyrazowych w jednym z przypadków, w których jeden z wyrazów jest równy zero, np. liczba ciągów postaci (p, n, n, n, 0), gdzie p∈{2, 4, 6, 8}, jest równa 4 ⋅5 ⋅4 ⋅3 ⋅1; 1 pkt – zapisanie L1 (lub L2), np. L1 = (5 3) ⋅(5 2) ⋅5!, L2 = (5 3) ⋅(4 1) ⋅4! ALBO – zapisanie P (lub N), np. P= 4 ⋅(4 1) ⋅(5 3) ⋅4!, N= 5 ⋅(5 2) ⋅(4 2) ⋅4!, ALBO – zapisanie Z+ (lub Z−), np. Z+ = 4 ⋅4 ⋅4 ⋅5 ⋅4 ⋅3 = 3 840, Z−= 10 ⋅4 ⋅3 ⋅5 ⋅4 ⋅3 = 7 200, ALBO – zapisanie liczby zbiorów pięcioelementowych złożonych z trzech cyfr nieparzystych i dwóch cyfr parzystych: (5 3) ⋅(5 2) oraz zapisanie liczby zbiorów czteroelementowych złożonych z trzech cyfr nieparzystych i jednej cyfry parzystej różnej od zera: (5 3) ⋅(4 1), ALBO – zapisanie liczby ciągów pięciowyrazowych w jednym z przypadków, w których pierwszy wyraz jest cyfrą nieparzystą (np. liczba ciągów postaci (n, p, n, p, n) jest równa 5 ⋅5 ⋅4 ⋅4 ⋅3) oraz zapisanie liczby ciągów pięciowyrazowych w jednym z przypadków, w których pierwszy wyraz jest cyfrą parzystą różną od zera (np. liczba ciągów postaci (p, n, n, p, n) jest równa 4 ⋅5 ⋅4 ⋅4 ⋅3); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7"
+   ],
+   "prompt": "Oblicz x, y oraz z. Zapisz obliczenia.",
+   "topic": "matr-gra",
+   "requirement": [
+    "VI.7"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k7.webp",
+    "w": 1101,
+    "h": 2645
+   },
+   "scoring": "4 pkt – zastosowanie poprawnej metody i poprawny wynik: x= 5, y= 20, z= 80; 3 pkt – zapisanie równania z jedną niewiadomą r, np. (35 −r)2 = (35 −2r) ⋅(35 + 3r) ALBO – poprawne wyznaczenie r w zależności od x z równania (x+ r)2 = x(x+ 5r): r= 3x; 2 pkt – zapisanie x, y oraz z w zależności od r: x= 35 −2r, y= 35 −r, z= 35 + 3r ALBO – zapisanie układu równań x+ x+ r+ x+ 5r= 105 i (x+ r)2 = x(x+ 5r) lub 2 x+ x+ r+ x+ 5r= 105 i x+ x⋅x + 5r x + r+ x⋅(x + 5r = 105 x + r); 1 pkt – zapisanie równania x+ x+ r+ x+ 5r= 105 ALBO – zapisanie równania (x+ r)2 = x(x+ 5r), ALBO 2 – zapisanie równania x+ x⋅x + 5r x + r+ x⋅(x + 5r = 105. x + r); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z08",
+   "no": "8",
+   "points": 4,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Wykaż, że długości boków tego trójkąta spełniają warunek",
+   "topic": "matr-pla",
+   "requirement": [
+    "VIII.11"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k8.webp",
+    "w": 1078,
+    "h": 4490
+   },
+   "scoring": "4 pkt – przeprowadzenie pełnego rozumowania; 3 pkt – zapisanie związków |AD| = c a oraz x a= a b (dla sposobu I) x ALBO – zapisanie związku b a= |EC| b (dla sposobu II), ALBO – zapisanie związków |AF| = a= r i |AF| ⋅c= |AG|2 oraz zastosowanie twierdzenia Pitagorasa do trójkąta ACG (dla sposobu III), ALBO – zapisanie, że w czworokącie wypukłym wpisanym w okrąg iloczyn długości przekątnych czworokąta jest sumą iloczynów długości przeciwległych boków tego czworokąta oraz zapisanie związku |CH| = a (dla sposobu IV), ALBO – zapisanie związku b2 −(a+ c−a 2 = a2 −(c−a 2 (dla sposobu V). 2 ) 2 ); 2 pkt – zapisanie związku |AD| = c a (dla sposobu I) x ALBO – zapisanie związku x a= a b (dla sposobu I), ALBO – zapisanie, że trójkąty EAC i ABC są podobne (dla sposobu II), ALBO – zapisanie związków |AF| = a= r oraz |AF| ⋅c= |AG|2, (dla sposobu III), ALBO – zapisanie, że w czworokącie wypukłym wpisanym w okrąg iloczyn długości przekątnych czworokąta jest sumą iloczynów długości przeciwległych boków tego czworokąta (dla sposobu IV), ALBO – zastosowanie twierdzenia Pitagorasa dla trójkątów AKC i BKC oraz zapisanie równości 2 2 b2 = (a+ c−a + h2 oraz a2 = (c−a + h2 2 ) 2 ) (dla sposobu V); 1 pkt – zapisanie, że trójkąty CAB i CBD są podobne (dla sposobu I) ALBO – zdefiniowanie na prostej CB punktu E, takiego że |BE| = |AB| = c oraz B należy do odcinka CE (dla sposobu II), ALBO – zapisanie, że trójkąt CFA jest równoramienny (dla sposobu III), ALBO – zapisanie związku |AF| ⋅c= |AG|2 (dla sposobu III), ALBO – zdefiniowanie punktu H jako takiego, że czworokąt ABCH jest trapezem równoramiennym o ramionach BC i AH oraz zapisanie, że na tym trapezie można opisać okrąg (dla sposobu IV), ALBO – zdefiniowanie punktu L, który jest obrazem punktu B w symetrii względem prostej zawierającej wysokość CK oraz zapisanie, że trójkąt ALC jest równoramienny (dla sposobu V); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9"
+   ],
+   "prompt": "Oblicz pola figur AGF oraz CEFG. Zapisz obliczenia.",
+   "topic": "matr-pla",
+   "requirement": [
+    "VIII.7"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k9.webp",
+    "w": 1101,
+    "h": 2868
+   },
+   "scoring": "4 pkt – zastosowanie poprawnej metody i poprawny wynik: PAGF= 1 12 a2 i PCEFG= 1 6 a2; 3 pkt – obliczenie pola trójkąta AGF: PAGF= 1 12 a2 ALBO – obliczenie pola czworokąta CEFG: PCEFG= 1 6 a2; 2 pkt – obliczenie długości jednego z odcinków FG, DF, AF, FE, BF: |FG| = a√2 6 , |DF| = a√2 3 , |AF| = a√5 3 , |FE| = a√5 6 , |BF| = 2a√2 3 ALBO – zapisanie, że trójkąty AGF i FDE mają równe pola oraz zapisanie związku między polami trójkątów AFD i EFG: PAFD= 4 ⋅PEFG , ALBO – zapisanie, że trójkąty AGF i FDE mają równe pola oraz zapisanie związku między polami trójkątów ADF i EDF: PAFD= 2 ⋅PEDF , ALBO – zapisanie, że trójkąty AFD i BEF mają równe pola oraz zapisanie związku między polami trójkątów ABF i EDF: PABF= 4 ⋅PEDF , ALBO – zapisanie układu równań pozwalającego obliczyć pole trójkąta AGF, np.: x+ y= 1 8 a2 oraz x+ 4y= 1 4 a2, gdzie x= PAGF= PFDE , y= PEFG , ALBO – obliczenie współrzędnych punktów E i F: E= (1 2 a , a) oraz F= (1 3 a , 2 3 a), ALBO – narysowanie kwadratu ABCD na siatce kwadratowej 12 x 12 oraz wyznaczenie pól trójkątów ABF i ABG: PABF= 1 2 ⋅12m⋅8m oraz PABG= 1 2 ⋅12m⋅6m, gdzie m= 1 12 a; 1 pkt – zapisanie wraz z uzasadnieniem, że |DF| ∶|FG| = 2 ∶1 ALBO – zapisanie wraz z uzasadnieniem, że |AF| ∶|FE| = 2 ∶1, ALBO – zapisanie wraz z uzasadnieniem, że |BF| ∶|FD| = 2 ∶1, ALBO – zapisanie, że trójkąt ABF jest podobny do trójkąta EDF w skali 2 ∶1, ALBO – zapisanie, że trójkąt AFD jest podobny do trójkąta EFG w skali 2 ∶1, ALBO – zapisanie, że trójkąt AFG jest podobny do trójkąta AEQ w skali 2 ∶3, gdzie Q to rzut prostokątny punktu E na przekątną AC, ALBO – obliczenie długości odcinka AG i dowolnej funkcji trygonometrycznej kąta EAC, np. |AG| = a√2 2 oraz cos ∡EAC= 3√10 10 , ALBO – zapisanie, że trójkąty AGF i FDE (lub AFD i BEF) mają równe pola, ALBO – umieszczenie kwadratu ABCD w układzie współrzędnych oraz wyznaczenie równań prostych AE i BD, np. y= 2x oraz y= −x+ a, ALBO – narysowanie kwadratu ABCD na siatce kwadratowej 12 x 12; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z10",
+   "no": "10",
+   "points": 5,
+   "materials": [
+    "t10"
+   ],
+   "prompt": "w zbiorze [0, 2π]. Zapisz obliczenia.",
+   "topic": "matr-try",
+   "requirement": [
+    "VII.R6"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k10.webp",
+    "w": 1076,
+    "h": 3782
+   },
+   "scoring": "5 pkt – zastosowanie poprawnej metody i poprawny wynik: π 6 , π 4 , 5π 6 , 7π 6 , 5π 4 , 11π 6 ; 4 pkt – zapisanie alternatywy równań sin(2x) −1 = 0 lub 2 cos(2x) −1 = 0 oraz rozwiązanie jednego z równań tej alternatywy w zbiorze [0, 2π] (lub obydwu w zbiorze R), np. π 4 , 5π 4 (rozwiązania równania sin(2x) −1 = 0 w zbiorze [0, 2π]), π 6 , 7π 6 , 5π 6 , 11π 6 (rozwiązania równania 2cos(2x) −1 = 0 w zbiorze [0, 2π]), π 4 + kπ, gdzie k∈Z (rozwiązania równania sin(2x) −1 = 0 w zbiorze R) oraz π 6 + kπ lub −π 6 + kπ, gdzie k∈Z (rozwiązania równania 2cos(2x) −1 = 0 w zbiorze R) ALBO – zapisanie alternatywy trzech równań sin(2x) −1 = 0 lub sin x= 1 2 lub sin x= −1 2 oraz rozwiązanie jednego z równań tej alternatywy w zbiorze [0, 2π] (lub co najmniej dwóch z tych równań w zbiorze R), ALBO – zapisanie alternatywy trzech równań √3 √3 sin(2x) −1 = 0 lub cos x= 2 lub cos x= − 2 oraz rozwiązanie jednego z równań tej alternatywy w zbiorze [0, 2π] (lub co najmniej dwóch z tych równań w zbiorze R); 3 pkt – przekształcenie równoważne równania sin(4x) −sin(2x) = 4cos2x−3 do postaci alternatywy dwóch równań trygonometrycznych, np.: sin(2x) −1 = 0 lub 2 cos(2x) −1 = 0, sin(2x) −1 = 0 lub 1 −4 sin2 x= 0, sin(2x) −1 = 0 lub 4 cos2 x−3 = 0 ALBO – przekształcenie równoważne równania sin(4x) −sin(2x) = 4cos2x−3 do postaci [sin(2x) −1] ⋅[2 cos(2x) −1] = 0 lub [sin(2x) −1] ⋅(1 −4 sin2 x) = 0, lub (4 cos2 x−3) ⋅[sin(2x) −1] = 0; 2 pkt – przekształcenie równania do postaci sin (2x) ⋅[2 cos(2x) −1] = 2cos(2x) −1 lub sin(2x) ⋅(4 cos2 x−3) = 4 cos2 x−3, lub sin(2x) ⋅(1 −4 sin2 x) = 1 −4 sin2 x, lub 2 sin x⋅cos x⋅[2 cos(2x) −1] = 2cos(2x) −1, lub 2 sin x⋅cos x⋅(4 cos2 x−3) = 4 cos2 x−3, lub 2 sin x⋅cos x⋅(1 −4 sin2 x) = 1 −4 sin2 x, lub 2 ⋅(4 cos3 x−3 cos x) ⋅sin x= 4 cos2 x−3; 1 pkt – zastosowanie wzoru na sinus podwojonego kąta lub cosinus podwojonego kąta, lub różnicę sinusów i zapisanie równania w postaci 2 ⋅sin(2x) ⋅cos(2x) −sin(2x) = 4cos2x−3 lub sin(4x) −sin(2x) = 2 cos(2x) −1, lub 2 cos(3x) ⋅sin x= 4 cos2 x−3; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z11",
+   "no": "11",
+   "points": 5,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Oblicz współrzędne punktu S. Rozważ wszystkie przypadki. Zapisz obliczenia.",
+   "topic": "matr-ana",
+   "requirement": [
+    "IX.3",
+    "IX.2"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k11.webp",
+    "w": 1076,
+    "h": 2760
+   },
+   "scoring": "5 pkt – zastosowanie poprawnej metody i poprawny wynik: S= (6, 7) oraz S= (−4, −3); 4 pkt – obliczenie obydwu wartości xS: 6 oraz (−4) ALBO – obliczenie obydwu współrzędnych punktu S tylko dla jednego przypadku: S= (6, 7) albo S= (−4, −3); 3 pkt – zapisanie równania z jedną niewiadomą (współrzędną punktu S), np. |2xS − (xS + 1)| (xS−1)2 + (xS+ 1 −2)2 = 50, = √5, √22+ (−1)2 (xS−(−5))2 + (xS+ 1 −(−1))2 = 5, (xS−(−2))2 + (xS+ 1 −(−4))2 = 5, (xS−4)2 + (xS+ 1 −8)2 = 5, (xS−7)2 + (xS+ 1 −5)2 = 5; 2 pkt – obliczenie długości m odcinka AB (lub AC) stycznej: 3√5 ALBO – obliczenie długości odcinka AS: |AS| = 5√2; 1 pkt – zapisanie współrzędnych punktu S w zależności od jednej zmiennej, np. S= (x, x+ 1) ALBO – zapisanie równania z jedną niewiadomą (długością m odcinka AB stycznej), np. 15 = 2 ⋅1 2 ⋅m⋅√5, ALBO – zapisanie układ trzech równań: |z|2 = m2 + m2 −2m⋅m⋅cos α oraz |z|2 = (√5)2 + (√5)2 −2√5 ⋅√5 ⋅cos(180° −α) oraz 2 ⋅sin(180° −α), 15 = 1 2 ⋅m2 ⋅sin α+ 1 2 ⋅(√5) gdzie z= |BC|, m= |AB|, α= |∡BAC|; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z12",
+   "no": "12",
+   "points": 6,
+   "materials": [
+    "t12"
+   ],
+   "prompt": "Wyznacz wszystkie wartości parametru m, dla których równanie ma dwa różne rozwiązania rzeczywiste x1 , x2 spełniające warunek Zapisz obliczenia.",
+   "topic": "matr-par",
+   "requirement": [
+    "III.R3",
+    "III.R5"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k12.webp",
+    "w": 1080,
+    "h": 3765
+   },
+   "scoring": "1 pkt – poprawne rozwiązanie nierówności ∆> 0: m∈(−∞, −3) ∪(1, +∞); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z13.1",
+   "no": "13.1",
+   "points": 2,
+   "materials": [
+    "i13",
+    "t13.1"
+   ],
+   "prompt": "Wykaż, że pole P powierzchni całkowitej graniastosłupa w zależności od długości a krawędzi podstawy graniastosłupa jest określone wzorem",
+   "topic": "matr-ste",
+   "requirement": [
+    "X.5"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k13.1.webp",
+    "w": 1101,
+    "h": 1072
+   },
+   "scoring": "2 pkt – przeprowadzenie pełnego rozumowania; 1 pkt – wyznaczenie wysokości H graniastosłupa w zależności od długości krawędzi podstawy, np. H= 13824 a2√3 ; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-05-z13.2",
+   "no": "13.2",
+   "points": 4,
+   "materials": [
+    "i13",
+    "t13.2"
+   ],
+   "prompt": "Wyznacz długość krawędzi podstawy tego z rozważanych graniastosłupów, którego pole powierzchni całkowitej jest najmniejsze. Oblicz to najmniejsze pole. Zapisz obliczenia.",
+   "topic": "matr-gra",
+   "requirement": [
+    "XIII.R4",
+    "XIII.R6"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-05/k13.2.webp",
+    "w": 1079,
+    "h": 2425
+   },
+   "scoring": "4 pkt – uzasadnienie, że funkcja P przyjmuje wartość najmniejszą dla a= 8√3 i obliczenie wartości najmniejszej funkcji P: 96√3 + 1728; 3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja P przyjmuje wartość najmniejszą dla a= 8√3 ALBO – zapisanie, że dla a= 8√3 funkcja P osiąga wartość najmniejszą i obliczenie P(8√3): P(8√3) = 96√3 + 1728; 2 pkt – poprawne rozwiązanie równania a√3 −13824√3 = 0: a= 24. a2; 1 pkt – wyznaczenie pochodnej funkcji P: P′(a) = a√3 −13824√3 . a2; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

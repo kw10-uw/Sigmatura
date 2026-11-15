@@ -1,0 +1,799 @@
+{
+ "id": "ang-pp-2024-05",
+ "subject": "ang-pp",
+ "formula": "2023",
+ "year": 2024,
+ "session": "maj",
+ "source": {
+  "paper": "MJAP-P0-100-A-2405-arkusz.pdf",
+  "key": "MJAP-P0-100-200-660-K00-MJAU-100-2405-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Jezyk_angielski/poziom_podstawowy/MJA-P-100-2405.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z1.webp",
+   "w": 1020,
+   "h": 501,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z2.webp",
+   "w": 981,
+   "h": 597,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z3.webp",
+   "w": 995,
+   "h": 897,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–5) Usłyszysz dwukrotnie dwa teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 3.1. i 3.2.) 3.1. What was found in the woman’s bag? A. clothes B. jewellery C. cosmetics 3.2. The woman who is talking to the policeman is A. a customer. B. a security guard. C. a shop assistant. Tekst 2. (do zadań 3.3.–3.5.) 3.3. What did Julian and his wife do?\n\nA. They bought a castle to renovate. B. They lived and worked in a castle. C. They rented an apartment in a castle. 3.4. During the time spent in the castle, the couple were NOT able to\n\nA. cook inside the castle. B. heat their bedroom. C. use electric lights. 3.5. At the end of the recording, Julian\n\nA. invites listeners to visit him at the castle.\n\nB. expresses his opinion about a place where you can relax. C. complains about the decision to open a hotel in the forest. PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 1. DO 3. NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z4.webp",
+   "w": 1017,
+   "h": 1533,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. UNDERWATER MUSEUM EXHIBITION DAMAGED BY DIVERS B. PROTECTING THE SCULPTURES FROM SEA CREATURES C. AN IDEA TO SAVE A PLACE OF NATURAL BEAUTY D. RULES AND ADVICE FOR UNDERWATER VISITORS E. SCULPTURES SHOWING DIFFERENT PEOPLE F. VARIOUS WAYS TO VIEW THE SCULPTURES UNDERWATER MUSEUM\n\n4.1.\n\nThe National Marine Park in Cancun, Mexico, is visited each year by over 750,000 divers. They come to see the world’s most amazing coral reef. Unfortunately, they also cause a lot of damage. In 2009, the park’s authorities decided to create an underwater sculpture museum as an alternative destination for divers, and in this way, protect the endangered coral reef and the sea creatures which depend on it.\n\n4.2.\n\nThe nearly 500 life-size human figures displayed in the Cancun Underwater Museum were modelled on members of the local community and presented in various poses. There is, for example, a little girl with a smile on her face looking up to the surface, six business people with their heads buried in the sand, paying no attention to their surroundings, and a tired-looking man behind a desk with a dog sitting next to him.\n\n4.3.\n\nThe crystal-clear waters of the Caribbean Sea make it easy to admire the sculptures. Visitors who are water sports enthusiasts usually choose snorkelling or scuba diving to explore this museum wonderland. For tourists who want to avoid getting wet on their trip to the museum, there are guided tours in a boat with a bottom made of glass. You can also book a day trip that combines the glass-bottom boat tour with a guided snorkelling tour with all necessary equipment included.\n\n4.4.\n\nMost boats offering scuba diving tours of the museum leave in the early morning so you need to plan your transport to the port carefully. Any resort hotel should be able to arrange this for you. A diving licence is not necessary; however, having one is certainly a plus. Visitors without a diving licence have to take a short training course on the proper use of diving equipment and can only dive if accompanied by an instructor. While diving, you should avoid touching the sculptures or disturbing the marine life in any way. Also, wearing eco-friendly sunscreen is a must.\n\nNa podstawie: www.trip.com PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z5.webp",
+   "w": 1034,
+   "h": 3008,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nNa podstawie: www.boredpanda.com Tekst B\n\nNa podstawie: www.bbc.com\n\nA CLEVER SOLUTION VanMoof is a company in Holland which produces great city bikes. A few years ago, they were not making as much money as they had expected because a lot of their bikes got damaged while being transported to their clients. So, they decided to do something about it. The obvious solution was to use stronger boxes, but VanMoof came up with a cheaper idea. They realized that couriers are more careful when they deliver TVs. So VanMoof started to send their bikes in boxes which are the same size and shape as those used for very large TVs. Since the introduction of the new packaging last year, they no longer get so many complaints about damaged bikes.\n\nTRANSFORM YOUR BIKE Have you heard about FUNBIKE stores? One of them is located on Magnolia Lane. You can take your standard bike there and it will be turned into an electric one for just a small part of the cost of a new electric bike. Mr Robin Hughes, a representative of FUNBIKE, says, “People are beginning to learn that the great thing about electric bikes is that you can choose to pedal yourself or use the motor when you get tired or the road is steep. Either way, you will become more active yourself, you will use your car less and do something good for the planet.”\n\nTekst C\n\nNa podstawie: sfbike.org Tekst D\n\nNa podstawie: discerningcyclist.com\n\nANSWER THE QUESTIONS TO DECIDE WHAT BIKE TO GET NAME: MONICA How do you like riding to your destination?  As quickly as possible  Comfortably and safely Are your routes smooth or bumpy?  Smooth  Bumpy Do you want a chic-looking bike?  Yes!  No – it doesn’t matter Do you want an electric bike?  Yes  No – I make my own power!\n\nRESULT\n\nThank you, Monica, for answering the questions. You should get a city bike! City bikes are very popular. They’re slower than other bikes but very comfortable and easy to get on and off. These bikes are often fitted with baskets or bags so that you can carry things with you.\n\nA GREAT IDEA FOR CYCLISTS It’s important to be safe when riding a bike. This weekend course is for cyclists who want to feel confident riding on the streets, even in bad weather conditions. We will teach you how to be prepared for anything that might happen. What equipment do you need? How should you ride when it’s dark outside? These questions and more are answered during this practical course. You’ll also be trained on how to clean a bike chain and change tyres. You will save a lot of money as a cyclist if you service your bike yourself. No bicycle is needed for this course. You can practise on our bikes. If you have any questions, please don’t hesitate to contact us (phone: 425-829-2356; email: info@bike.org).\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. In this text cyclists are asked about their preferences.\n\n5.2. This text is for people who want to improve their cycling skills.\n\n5.3. The author of this text describes how a business dealt with a financial problem.\n\nPrzeczytaj wiadomość, którą Monica wysłała do kolegi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie pięć wyrazów. Hi Adam,\n\nI know you are a keen cyclist so I want to tell you that I’m going to get a new bike soon and\n\nI plan to start cycling a lot! I’ve never liked my old bike so I rarely use it. But my mum loves it\n\nso I will give it to her. But before that, I’m going to take it to a special shop where they will\n\nchange it into 5.4. ___________________________________________________. Then it\n\nwill be much easier for my mum to ride.\n\nWhen I was wondering about what type of bike I should buy for myself, I filled in an online\n\nquestionnaire and the feedback was that I should get a city bike. These bikes aren’t\n\n5.5. ________________________________________________________ but they are very\n\ncomfortable and well-equipped. I’ve just read about a Dutch company which produces city\n\nbikes and I’ve ordered one. I’m quite sure the bike won’t arrive damaged because\n\nthe 5.6. ________________________________________________________ will look\n\nas if it contains a TV set so the courier will be more careful. When I get the bike, I’ll go\n\ncycling every day! I recently spent two days learning how to take care of a bike and ride it\n\nsafely. Now I’m not afraid to cycle at night or when 5.7. ______________________________\n\nfitter and I’ll be able to go on a long cycling trip. Perhaps we could go together?\n\nSee you soon,\n\nMonica"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z6.webp",
+   "w": 1020,
+   "h": 2280,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. __ __ __ I went into one of my favourite local restaurants recently and sat down at a table near the door. The place was practically empty, so most of the tables were free. After a couple of minutes, a member of the staff came up to me and said, “I see you’ve seated yourself.” “Yes,” I replied. “Didn’t you see the ‘Please Wait to Be Seated’ sign?” she asked angrily. I’d been to that restaurant many times and, of course, I’d seen the sign before. “Gosh, I didn’t notice it,” I said. “Well, you may have to wait some time for the waiter to come to you,” she said. There was no other customer within 50 feet, but that wasn’t the point. The point was that I had ignored the notice. Sometimes the American love of order goes too far. To take another example, some years ago, America’s airlines began requiring passengers to present photographic identification when checking in for a domestic flight. The first time I heard of this was when I showed up to catch a plane at an airport 120 miles from my home. “I need to see your picture ID*,” said the check-in agent. “Really? I don’t think I have any,” I said and began emptying my pockets, and then pulling my cards from my wallet. In the end, I found an ID with my picture. It was an old driving licence. “I can’t accept it; it’s fifteen years old,” he said. “I need something with a recent picture of you.” I took a deep breath and searched my luggage. Finally, I remembered I had a copy of one of my books with a recent photo of me on the cover. I handed it to him proudly. He looked at the book and then at the printed list of acceptable IDs. “Books are not on our list,” he said. “I’m sure it isn’t, but it’s still me. It couldn’t be more me.” I lowered my voice and looked closer at him. “Are you seriously suggesting that I ordered this book to be printed so I could get on a plane to Buffalo?” He looked hard at me for another minute, then called a colleague. They exchanged opinions and called more people to discuss it. We ended up with a crowd of three check-in agents, their manager, the manager’s boss and two baggage handlers. “What is the point of all this anyway?” I said to the manager. “Why do you need a picture ID?” “It’s a Federal Aviation Administration rule,” he said. “But why is it a rule?” “You see the requirement is not simply to identify yourself, but to identify yourself in a way that precisely matches a written instruction,” he answered. In the end, the manager told the agent to check me in, but warned me not to try anything like that again.\n\nNa podstawie: Bill Bryson, Notes from a Big Country * ID – identity document.\n\n6.1. The woman working in the restaurant was annoyed because the author A. had expected to be served immediately. B. had refused to follow her to another table. C. had sat in the wrong part of the restaurant. D. had chosen a seat in the restaurant himself. 6.2. At the airport, the author was told that he A. would have to travel 120 miles to another airport. B. needed two IDs to get on the plane. C. had an ID which was not acceptable. D. had to catch a later flight. 6.3. The author showed the check-in agent a copy of his book in order to A. prove that he was a well-known writer. B. identify himself with an up-to-date photograph. C. check if his books were on the agent’s list. D. attract the attention of people standing nearby. 6.4. The manager at the airport told the author to A. follow the regulations in the future. B. search his personal luggage once again. C. explain why he didn’t have any ID on him. D. read the instructions after boarding the plane. 6.5. Which is the best title for the story? A. AN UNFORTUNATE MISTAKE ON BOARD B. IMPROVED CUSTOMER SERVICE C. PROBLEMS CAUSED BY RULES D. A MISSED CHANCE PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z7.webp",
+   "w": 1018,
+   "h": 848,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki. A BRILLIANT REPLY Did you know about the friendship between the two famous geniuses, the physicist Albert Einstein, and the silent movie star, Charlie Chaplin? It started during Einstein’s US tour in the early 1930s. 7.1. _____ His work as a scientist was so admired that he was even given the keys to the city! Later, he went to California in order to give a lecture at the California Institute of Technology. Because he was known as a huge film lover, he was invited to watch a film at Universal Studios. 7.2. _____ The man agreed to do so. Even though Einstein and Chaplin had exchanged letters, this was the first time the two geniuses met in person. Shortly after, they took a tour of Universal Studios. They also had lunch together, during which they talked about many serious social and political issues. 7.3. _____ For example, Einstein said to Chaplin, “What I most admire about your art is its universality. You don’t say a word, yet the world understands you!” 7.4. _____ He said, “True. But your glory is even greater! The whole world admires you, even though they don’t understand a word of what you say.”\n\nNa podstawie: www.openculture.com A. Chaplin went on tour of the USA at the same time. B. Chaplin’s reply to this was both intelligent and full of humour. C. The two extraordinary men also shared some amusing moments. D. He arrived in America in December 1930 and visited New York first. E. While there, he asked a film director to arrange a meeting with Chaplin. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z8.webp",
+   "w": 1000,
+   "h": 821,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1. X: Let’s take the lift. Y: _____ We’ll have to use the stairs instead.\n\nA. It’s just here. B. It’s not working. C. It’s much faster. 8.2. X: Nice to see you, Dave. Sorry, Betty’s not at home at the moment. Y: OK. _____ X: But not earlier than 6 p.m. She’s gone to the doctor’s.\n\nA. She won’t be home any time soon. B. It’ll take me too long, I’m afraid. C. I’ll come back later, then. 8.3. X: Excuse me. _____ Y: It’s not mine. I only have this small bag.\n\nA. Who does this luggage belong to? B. Where have you put my luggage? C. Why didn’t you take any luggage? PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z9.webp",
+   "w": 1000,
+   "h": 704,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens wyróżnionego zdania lub jego fragmentu. Zakreśl jedną z liter: A, B albo C. 9.1. Why don’t we take part in the competition?\n\nA. Why are we taking part in the competition? B. What about taking part in the competition? C. Which competition would you like to take part in? 9.2. It is not necessary for you to help me if you are busy.\n\nA. You mustn’t help B. You couldn’t help C. You don’t need to help 9.3. He wasn’t strong enough to lift the suitcase.\n\nA. He was too weak to lift the suitcase. B. He lifted the suitcase although he was weak. C. He was so strong that he lifted the suitcase easily. 9.4. When I was a teenager, I often played football but now I don’t. I’m too busy.\n\nA. wanted to play B. used to play C. had to play PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z10.webp",
+   "w": 1100,
+   "h": 826,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij go, wpisując w każdą lukę (10.1.–10.3.) jeden wyraz z ramki w odpowiedniej formie, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. Uwaga: jeden wyraz został podany dodatkowo i nie pasuje do żadnej luki.\n\nattract call invite jump\n\nA PUB WITH CATS The Bag of Nails in Bristol, England, is not a typical pub. There are cats everywhere and\n\nthere is a big sign warning visitors that dogs aren’t allowed inside. The Bag of Nails is often\n\n10.1. _________________________ Bristol’s ‘cat pub’. The owner, Luke Daniels, says:\n\n“My pub is not a trendy cat café. The cats just happen to live here and they seem to be\n\nquite happy. The main 10.2. _________________________ in my pub is not the cats,\n\nbut the room where guests can play lots of different board games.”\n\nBut how did the cats get there? Luke explains that the first one, Molly, was adopted by him\n\nwhen he became the owner of the pub 10 years ago. All the other cats were born in the pub.\n\nNow, fifteen cats are living there. Some of them surprise guests by suddenly\n\n10.3. _________________________ onto the chairs. Others are shy and run upstairs to\n\nwhere Luke lives. There’s no doubt that the pub is very popular with cat lovers. Why not drop\n\nby when you’re in town?\n\nNa podstawie: www.atlasobscura.com"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z11.webp",
+   "w": 1100,
+   "h": 723,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Wykorzystując wyrazy podane drukowanymi literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę można wpisać maksymalnie cztery wyrazy, wliczając wyraz już podany. Wymagana jest pełna poprawność ortograficzna i gramatyczna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów. 11.1. Mobile phones cost as much as they did last year.\n\nCHANGED\n\nThe prices of mobile phones _____________________________________________\n\nlast year.\n\n11.2. They might have problems with booking a flight to Paris at the last minute.\n\nTHEM\n\nIt might be difficult ______________________________________________________\n\na flight to Paris at the last minute.\n\n11.3. May I borrow your chemistry book?\n\nMIND\n\nDo you ____________________________________________________ borrow your\n\nchemistry book?"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/ang-pp-2024-05/z12.webp",
+   "w": 1012,
+   "h": 632,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Właśnie wróciłeś(-aś) z wycieczki, na którą postanowiłeś(-aś) wybrać się w pojedynkę – bez towarzystwa. We wpisie na swoim blogu: • poinformuj, dokąd się wybrałeś(-aś), i wyjaśnij, dlaczego zdecydowałeś(-aś) się pojechać w pojedynkę • zrelacjonuj nieoczekiwane spotkanie, które miało miejsce w trakcie wycieczki • opisz pamiątkę przywiezioną z wycieczki • doradź czytelnikom bloga, o czym muszą pamiętać, gdy wybierają się na wycieczkę w pojedynkę. Napisz swoją wypowiedź w języku angielskim. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 80 do 130 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hi, everyone! I’m back from my trip. I went on it all by myself.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pp-2024-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie rozmowę z kobietą prowadzącą taksówkę. Zaznacz znakiem X, które zdania są zgodne z treścią nagrania (T – True), a które nie (F – False).",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k1.webp",
+    "w": 1059,
+    "h": 449
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-05-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat butelek. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.4",
+    "II.2",
+    "II.3",
+    "II.7"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k2.webp",
+    "w": 1101,
+    "h": 621
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    3,
+    2,
+    0,
+    4
+   ]
+  },
+  {
+   "id": "ang-pp-2024-05-z03",
+   "no": "3",
+   "points": 5,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie dwa teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 3.1. i 3.2.) 3.1. What was found in the woman’s bag? 3.2. The woman who is talking to the policeman is Tekst 2. (do zadań 3.3.–3.5.) 3.3. What did Julian and his wife do? 3.4. During the time spent in the castle, the couple were NOT able to 3.5. At the end of the recording, Julian",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.5",
+    "II.4",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k3.webp",
+    "w": 1057,
+    "h": 554
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "3.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    1,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2024-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k4.webp",
+    "w": 1101,
+    "h": 518
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    4,
+    5,
+    3
+   ]
+  },
+  {
+   "id": "ang-pp-2024-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami.  Comfortably and safely  No – I make my own power! Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj wiadomość, którą Monica wysłała do kolegi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie pięć wyrazów.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.3",
+    "III.7",
+    "III.1",
+    "VIII.2",
+    "III.4"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k5.webp",
+    "w": 1059,
+    "h": 6623
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. The woman working in the restaurant was annoyed because the author 6.2. At the airport, the author was told that he 6.3. The author showed the check-in agent a copy of his book in order to 6.4. The manager at the airport told the author to 6.5. Which is the best title for the story?",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k6.webp",
+    "w": 1101,
+    "h": 596
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    2,
+    1,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2024-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k7.webp",
+    "w": 1057,
+    "h": 472
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    4,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2024-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k8.webp",
+    "w": 1057,
+    "h": 461
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2024-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens wyróżnionego zdania lub jego fragmentu. Zakreśl jedną z liter: A, B albo C. 9.1. Why don’t we take part in the competition? 9.2. It is not necessary for you to help me if you are busy. 9.3. He wasn’t strong enough to lift the suitcase.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k9.webp",
+    "w": 1101,
+    "h": 542
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2024-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij go, wpisując w każdą lukę (10.1.–10.3.) jeden wyraz z ramki w odpowiedniej formie, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. Uwaga: jeden wyraz został podany dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k10.webp",
+    "w": 1101,
+    "h": 853
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Wykorzystując wyrazy podane drukowanymi literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę można wpisać maksymalnie cztery wyrazy, wliczając wyraz już podany. Wymagana jest pełna poprawność ortograficzna i gramatyczna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k11.webp",
+    "w": 1059,
+    "h": 2619
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Właśnie wróciłeś(-aś) z wycieczki, na którą postanowiłeś(-aś) wybrać się w pojedynkę – bez towarzystwa. We wpisie na swoim blogu: • poinformuj, dokąd się wybrałeś(-aś), i wyjaśnij, dlaczego zdecydowałeś(-aś) się • zrelacjonuj nieoczekiwane spotkanie, które miało miejsce w trakcie wycieczki • opisz pamiątkę przywiezioną z wycieczki • doradź czytelnikom bloga, o czym muszą pamiętać, gdy wybierają się na wycieczkę w pojedynkę. I’m back from my trip. I went on it all by myself.",
+   "topic": "angp-fun",
+   "requirement": [
+    "V.1",
+    "V.2",
+    "VII.3",
+    "VII.5",
+    "VII.9",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-05/k12.webp",
+    "w": 1057,
+    "h": 2969
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

@@ -51,7 +51,7 @@ for (const f of files) {
   if (!SUBJ.has(ex.subject)) err(f, `unknown subject "${ex.subject}"`);
   const mats = new Set((ex.materials || []).map(m => m.id));
   for (const m of ex.materials || []) {
-    if (!m.file && !m.text) err(f, `material ${m.id}: needs file or text`);
+    if (!m.file && !m.text && !(m.type === "audio" && m.src)) err(f, `material ${m.id}: needs file, text or (audio) src`);
     if (m.file && !existsSync(join(root, "content", m.file))) err(f, `material ${m.id}: file not found: content/${m.file}`);
   }
   for (const t of ex.tasks || []) {
@@ -79,7 +79,8 @@ for (const f of files) {
       });
       if (!ok) err(f, `${w}: multi needs items (label, options, optional pick) and one answer per item (an index list when pick > 1)`);
     }
-    if (t.type === "open" && !(t.scoring && Array.isArray(a) && a.length)) err(f, `${w}: open needs scoring and model answers`);
+    if (t.type === "open" && !(t.scoring && Array.isArray(a) && (a.length || t.key))) err(f, `${w}: open needs scoring and model answers or a key image`);
+    if (t.key && !(t.key.file && existsSync(join(root, "content", t.key.file)))) err(f, `${w}: key image not found: ${t.key && t.key.file}`);
   }
 }
 // The app loads exactly the files listed in content/exams/index.json ("_" files are format examples).

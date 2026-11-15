@@ -17,7 +17,12 @@
         "required": ["id", "type"],
         "properties": {
           "id": { "type": "string" },
-          "type": { "enum": ["map", "chart", "table", "image", "text"] },
+          "type": { "enum": ["map", "chart", "table", "image", "text", "audio"] },
+          "src": { "type": "string" },
+          "title": { "type": "string" },
+          "collapsed": { "type": "boolean" },
+          "w": { "type": "integer" },
+          "h": { "type": "integer" },
           "file": { "type": "string" },
           "text": { "type": "string" },
           "caption": { "type": "string" }

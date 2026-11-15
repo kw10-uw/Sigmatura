@@ -109,6 +109,8 @@ b{font-weight:800}
 .vis{background:#fff;border:2px solid var(--line);border-radius:16px;padding:8px;margin-bottom:14px}
 .vis svg{display:block;width:100%;height:auto}
 .opt{display:block;width:100%;text-align:left;border:2px solid var(--line);background:var(--card);border-radius:14px;padding:13px 14px;margin-bottom:10px;font:inherit;font-size:16px;cursor:pointer;box-shadow:0 calc(var(--dep)*.75) 0 var(--line);color:var(--ink)}
+.optrow{display:grid;grid-template-columns:repeat(auto-fit,minmax(56px,1fr));gap:8px;margin-bottom:10px}
+.optrow .opt{margin:0;text-align:center;font-weight:900;font-size:18px}
 .opt.sel{border-color:var(--acc);background:var(--acc-bg);box-shadow:0 calc(var(--dep)*.75) 0 var(--acc)}
 .opt.good{border-color:var(--ok);background:var(--ok-bg);box-shadow:0 calc(var(--dep)*.75) 0 var(--ok)}
 .opt.bad{border-color:var(--no);background:var(--no-bg);box-shadow:0 calc(var(--dep)*.75) 0 var(--no)}
@@ -160,6 +162,13 @@ body.wz-open{overflow:hidden}
 .mat img{display:block;width:100%;height:auto;background:#fff;border:2px solid var(--line);border-radius:var(--r);cursor:zoom-in}
 .mat figcaption,.mat .cap{font-size:12.5px;color:var(--mute);margin-top:5px;line-height:1.35}
 .mat.txt{background:var(--card);border:2px solid var(--line);border-left:5px solid var(--line);border-radius:var(--r);padding:12px 14px;font-size:15px;line-height:1.45;white-space:pre-line}
+details.mat.txt{padding:0}
+details.mat.txt summary{padding:12px 14px;font-weight:800;cursor:pointer;list-style:none;white-space:normal}
+details.mat.txt summary::-webkit-details-marker{display:none}
+details.mat.txt summary::after{content:" ▾";color:var(--mute)}
+details.mat.txt[open] summary::after{content:" ▴"}
+details.mat.txt .body{padding:0 14px 14px;font-size:16px;line-height:1.55}
+.mat.aud audio{display:block;width:100%}
 .mitem{padding:12px 0;border-bottom:1px solid var(--line)}
 .mitem:last-child{border-bottom:none}
 .mitem .l{margin-bottom:9px;line-height:1.4}
@@ -174,6 +183,7 @@ textarea.ans{min-height:130px;resize:vertical;line-height:1.4}
 .model{border-color:var(--ok)}
 .model ul{margin:6px 0 0;padding-left:20px}
 .model li{margin-bottom:6px;line-height:1.4}
+.keyimg{display:block;width:100%;height:auto;margin-top:8px;border:1px solid var(--line);border-radius:8px;background:#fff;cursor:zoom-in}
 .model .pts{margin-top:8px;padding-top:8px;border-top:1px solid var(--line);font-size:13px;color:var(--mute);line-height:1.4}
 .rate{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}
 .rate .btn{padding:12px 6px;font-size:14px}
@@ -210,32 +220,50 @@ const SUBJECTS = [
   {id:"pol-pp", name:"Polski", lvl:"podstawowy", ic:"📖", col:"#ffe1e1", exam:"2027-05-04", topics:[
     {id:"pol-epo", name:"Epoki literackie i lektury", w:3},
     {id:"pol-sty", name:"Środki stylistyczne", w:2},
+    {id:"pol-tek", name:"Czytanie tekstów nieliterackich", w:3},
     {id:"pol-jez", name:"Nauka o języku", w:2},
     {id:"pol-kul", name:"Kultura i funkcje języka", w:1},
+    {id:"pol-wyp", name:"Wypracowanie i argumentacja", w:3},
   ]},
   {id:"mat-pp", name:"Matematyka", lvl:"podstawowy", ic:"📐", col:"#dff3ff", exam:"2027-05-05", topics:[
     {id:"matp-lic", name:"Liczby, potęgi, logarytmy, procenty", w:3},
+    {id:"matp-wyr", name:"Wyrażenia algebraiczne", w:2},
     {id:"matp-row", name:"Równania i nierówności", w:3, pre:["matp-lic"]},
+    {id:"matp-flin", name:"Funkcje: własności, liniowa, wykładnicza", w:3},
     {id:"matp-fun", name:"Funkcja kwadratowa", w:3, pre:["matp-row"]},
     {id:"matp-cia", name:"Ciągi", w:2},
-    {id:"matp-geo", name:"Geometria i trygonometria", w:3},
-    {id:"matp-sta", name:"Prawdopodobieństwo i statystyka", w:2},
+    {id:"matp-try", name:"Trygonometria", w:2},
+    {id:"matp-geo", name:"Planimetria", w:3},
+    {id:"matp-ana", name:"Geometria analityczna", w:2},
+    {id:"matp-ste", name:"Stereometria", w:2},
+    {id:"matp-sta", name:"Kombinatoryka, prawdopodobieństwo, statystyka", w:2},
+    {id:"matp-opt", name:"Optymalizacja", w:1},
   ]},
   {id:"ang-pp", name:"Angielski", lvl:"podstawowy", ic:"🇬🇧", col:"#e6e9ff", exam:"2027-05-06", topics:[
-    {id:"angp-gra", name:"Gramatyka: czasy i konstrukcje", w:3},
-    {id:"angp-voc", name:"Słownictwo i kolokacje", w:2},
+    {id:"angp-gra", name:"Gramatyka", w:3},
+    {id:"angp-voc", name:"Słownictwo", w:2},
     {id:"angp-fun", name:"Funkcje językowe (reakcje)", w:2},
+    {id:"angp-lis", name:"Rozumienie ze słuchu", w:3},
+    {id:"angp-rea", name:"Rozumienie tekstów i przetwarzanie", w:3},
+    {id:"angp-wri", name:"Wypowiedź pisemna", w:2},
   ]},
   {id:"ang-pr", name:"Angielski", lvl:"rozszerzony", ic:"🎓", col:"#ece2ff", exam:"2027-05-07", topics:[
     {id:"angr-gra", name:"Gramatyka zaawansowana", w:3, pre:["angp-gra"]},
-    {id:"angr-tra", name:"Transformacje zdań", w:3, pre:["angp-gra"]},
     {id:"angr-voc", name:"Słowotwórstwo i phrasal verbs", w:2, pre:["angp-voc"]},
+    {id:"angr-tra", name:"Transformacje zdań", w:3, pre:["angp-gra"]},
+    {id:"angr-lis", name:"Rozumienie ze słuchu", w:3},
+    {id:"angr-rea", name:"Rozumienie tekstów i przetwarzanie", w:3},
+    {id:"angr-wri", name:"Wypowiedź pisemna", w:2},
   ]},
   {id:"mat-pr", name:"Matematyka", lvl:"rozszerzony", ic:"∫", col:"#d9f7f0", exam:"2027-05-11", topics:[
     {id:"matr-nie", name:"Wartość bezwzględna i wielomiany", w:2, pre:["matp-row"]},
+    {id:"matr-par", name:"Równania z parametrem, wzory Viète'a", w:2},
+    {id:"matr-fun", name:"Funkcje: przekształcenia i złożenia", w:1},
     {id:"matr-gra", name:"Granice i pochodna", w:3, pre:["matp-fun"]},
     {id:"matr-try", name:"Trygonometria", w:2, pre:["matp-geo"]},
+    {id:"matr-pla", name:"Planimetria (rozszerzenie)", w:2},
     {id:"matr-ana", name:"Geometria analityczna", w:2},
+    {id:"matr-ste", name:"Stereometria (rozszerzenie)", w:2},
     {id:"matr-kom", name:"Kombinatoryka i prawdop. warunkowe", w:2, pre:["matp-sta"]},
   ]},
   {id:"geo-pr", name:"Geografia", lvl:"rozszerzony", ic:"🌍", col:"#e2f7d4", exam:"2027-05-14", topics:[
@@ -256,6 +284,9 @@ const SUBJECTS = [
     {id:"hisz-gra", name:"Gramática", w:3},
     {id:"hisz-voc", name:"Vocabulario", w:2},
     {id:"hisz-fun", name:"Funciones comunicativas", w:2},
+    {id:"hisz-lis", name:"Rozumienie ze słuchu", w:3},
+    {id:"hisz-rea", name:"Rozumienie tekstów i przetwarzanie", w:3},
+    {id:"hisz-wri", name:"Wypowiedź pisemna", w:2},
   ]},
 ];
 const TOPICS = {};
@@ -405,7 +436,7 @@ function examToQ(ex){
   return ex.tasks.map(t=>{
     const q={id:t.id, t:t.topic, s:ex.subject, type:t.type, q:t.prompt, e:t.explanation||"", cke:true, pts:t.points,
       d:t.difficulty||(t.type==="open"||t.points>=3?3:2), src:`CKE ${ex.year} ${CKE_SESSION[ex.session]||ex.session}, zad. ${t.no}`,
-      mats:(t.materials||[]).map(id=>mats[id]).filter(Boolean), scoring:t.scoring||""};
+      mats:(t.materials||[]).map(id=>mats[id]).filter(Boolean), scoring:t.scoring||"", key:t.key||null};
     if(t.type==="mc"){ q.o=t.options; q.a=t.answer; }
     else if(t.type==="tf") q.st=t.statements.map((s,i)=>[s,t.answer[i]]);
     else if(t.type==="match") q.pairs=t.pairs;
@@ -718,7 +749,7 @@ const GRP=Object.fromEntries(GROUPS.map(g=>[g.id,g]));
    więc w aplikacji też są pod ręką. Strony to rendery oficjalnego PDF (tools/render_wzory.py). */
 const WZ_PAGES=[4,34], WZ_W=1201, WZ_H=1808;
 const WZ_SECTIONS=[["Wartość bezwzględna",4],["Potęgi i pierwiastki",4],["Logarytmy",5],["Silnia, symbol Newtona",6],["Dwumian Newtona",7],["Skrócone mnożenie",7],["Funkcja kwadratowa",7],["Ciągi",9],["Trygonometria",11],["Planimetria",15],["Geometria analityczna",22],["Stereometria",26],["Kombinatoryka",28],["Prawdopodobieństwo",29],["Statystyka",31],["Pochodna",32],["Tablica wartości tryg.",34]];
-const WZ_HINT={"matp-lic":"Potęgi i pierwiastki","matp-row":"Funkcja kwadratowa","matp-fun":"Funkcja kwadratowa","matp-cia":"Ciągi","matp-geo":"Planimetria","matp-sta":"Prawdopodobieństwo","matr-nie":"Skrócone mnożenie","matr-gra":"Pochodna","matr-try":"Trygonometria","matr-ana":"Geometria analityczna","matr-kom":"Kombinatoryka"};
+const WZ_HINT={"matp-wyr":"Skrócone mnożenie","matp-try":"Trygonometria","matp-ana":"Geometria analityczna","matp-ste":"Stereometria","matp-opt":"Funkcja kwadratowa","matr-par":"Funkcja kwadratowa","matr-pla":"Planimetria","matr-ste":"Stereometria","matp-lic":"Potęgi i pierwiastki","matp-row":"Funkcja kwadratowa","matp-fun":"Funkcja kwadratowa","matp-cia":"Ciągi","matp-geo":"Planimetria","matp-sta":"Prawdopodobieństwo","matr-nie":"Skrócone mnożenie","matr-gra":"Pochodna","matr-try":"Trygonometria","matr-ana":"Geometria analityczna","matr-kom":"Kombinatoryka"};
 function isMath(sid){ return sid==="mat-pp"||sid==="mat-pr"; }
 function wzEl(){
   let el=document.getElementById("wz"); if(el) return el;
@@ -744,7 +775,7 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape"){ wzClose(); ivClos
 
 /* ---------- Podgląd mapy / ilustracji z arkusza (powiększanie) ---------- */
 const IV_ZOOM=["1×","2×","3×","4,5×"];
-function ivOpen(src, cap){
+function ivOpen(src, cap, zoom=1){
   let el=document.getElementById("iv");
   if(!el){
     el=document.createElement("div"); el.id="iv"; el.setAttribute("role","dialog"); el.setAttribute("aria-label","Powiększenie");
@@ -759,7 +790,7 @@ function ivOpen(src, cap){
     });
     document.body.appendChild(el);
   }
-  el.classList.remove("z2","z3","z4"); el.dataset.z=1; el.querySelector("[data-iv=zoom]").textContent="🔍 1×";
+  el.classList.remove("z2","z3","z4"); if(zoom>1) el.classList.add("z"+zoom); el.dataset.z=zoom; el.querySelector("[data-iv=zoom]").textContent="🔍 "+IV_ZOOM[zoom-1];   // wycinki arkusza: od razu 2×
   el.querySelector(".cap").textContent=cap||""; const img=el.querySelector("img"); img.src=src; img.alt=cap||"";
   el.querySelector(".ivbody").scrollTo(0,0);
   el.classList.add("on"); document.body.classList.add("iv-open");
@@ -767,10 +798,15 @@ function ivOpen(src, cap){
 function ivClose(){ const el=document.getElementById("iv"); if(el) el.classList.remove("on"); document.body.classList.remove("iv-open"); }
 function renderMats(q){
   if(!q.mats) return "";
-  return q.mats.map(m=>m.file
-    ? `<figure class="mat"><img src="content/${esc(m.file)}" ${m.w?`width="${m.w}" height="${m.h}"`:""} loading="lazy" alt="${esc(m.caption||"")}" data-act="zoomimg" data-src="content/${esc(m.file)}" data-cap="${esc(m.caption||"")}"><figcaption>${m.caption?esc(m.caption)+" · ":""}🔍 dotknij, aby powiększyć</figcaption></figure>`
+  return q.mats.map(m=>m.type==="audio"
+    ? `<div class="mat aud"><audio controls preload="none" src="${esc(m.src)}"></audio>${m.caption?`<div class="cap">🎧 ${esc(m.caption)}</div>`:""}</div>`
+    : m.file
+    ? `<figure class="mat"><img src="content/${esc(m.file)}" ${m.w?`width="${m.w}" height="${m.h}"`:""} loading="lazy" alt="${esc(m.caption||"")}" data-act="zoomimg" data-src="content/${esc(m.file)}" data-cap="${esc(m.caption||"")}" data-z="${/^[ti]/.test(m.id)?2:1}"><figcaption>${m.caption?esc(m.caption)+" · ":""}🔍 dotknij, aby powiększyć</figcaption></figure>`
+    : m.collapsed
+    ? `<details class="mat txt"><summary>📄 ${esc(m.title||"Tekst")}</summary><div class="body">${esc(m.text)}</div></details>`
     : `<div class="mat txt">${esc(m.text)}${m.caption?`<div class="cap">${esc(m.caption)}</div>`:""}</div>`).join("");
 }
+function keyImg(q){ const k=q.key; return `<img class="keyimg" src="content/${esc(k.file)}" width="${k.w}" height="${k.h}" loading="lazy" alt="Zasady oceniania CKE, zadanie ${esc(q.src)}" data-act="zoomimg" data-src="content/${esc(k.file)}" data-cap="Zasady oceniania CKE – ${esc(q.src)}" data-z="2">`; }
 function ptsLabel(n){ return `0–${n} pkt`; }
 
 const app=document.getElementById("app");
@@ -934,8 +970,11 @@ function renderLesson(){
   h+=`<div class="qtext">${esc(q.q)}</div>`;
   h+=renderVis(q.img)+renderMats(q);
   if(q.type==="mc"){
+    const letters=q.o.every(o=>/^[A-H]$/.test(o));   // zadania z arkusza: treść odpowiedzi jest na wycinku, tu same litery
+    if(letters) h+=`<div class="optrow">`;
     for(const i of L.order){ let cls=""; if(done){ if(i===q.a) cls="good"; else if(i===r.sel) cls="bad"; } else if(i===r.sel) cls="sel";
       h+=`<button class="opt ${cls}" data-act="sel" data-i="${i}" ${done?"disabled":""}>${esc(q.o[i])}</button>`; }
+    if(letters) h+=`</div>`;
   } else if(q.type==="tf"){
     h+=`<div class="card" style="padding:4px 12px">`;
     q.st.forEach((s,i)=>{ const v=r.tf[i]; const c=(val)=>{ if(done){ if(val===s[1]) return "good"; if(val===v) return "bad"; return ""; } return v===val?"sel":""; };
@@ -958,7 +997,7 @@ function renderLesson(){
     h+=`</div>`;
   } else if(q.type==="open"){
     h+=`<textarea id="ans" class="ans" placeholder="Napisz odpowiedź tak jak na egzaminie (albo ułóż ją w głowie), potem porównaj z kluczem CKE." ${L.reveal?"readonly":""}>${esc(r.v)}</textarea>`;
-    if(L.reveal) h+=`<div class="card model" style="margin-top:12px"><h3>Przykładowe odpowiedzi z klucza CKE</h3><ul>${q.model.map(a=>`<li>${esc(a)}</li>`).join("")}</ul><div class="pts"><b>Punktacja:</b> ${esc(q.scoring)}<br>Uznaje się wszystkie odpowiedzi merytorycznie poprawne, nie tylko podane wyżej.</div></div><div style="height:110px" aria-hidden="true"></div>`;   // pasek oceny jest wyższy niż zwykła stopka
+    if(L.reveal) h+=`<div class="card model" style="margin-top:12px"><h3>${q.model.length?"Przykładowe odpowiedzi z klucza CKE":"Zasady oceniania CKE"}</h3>${q.model.length?`<ul>${q.model.map(a=>`<li>${esc(a)}</li>`).join("")}</ul>`:""}${q.key?keyImg(q):""}<div class="pts">${q.model.length?`<b>Punktacja:</b> ${esc(q.scoring)}<br>`:""}Uznaje się wszystkie odpowiedzi merytorycznie poprawne, nie tylko podane w kluczu.</div></div><div style="height:110px" aria-hidden="true"></div>`;   // pasek oceny jest wyższy niż zwykła stopka
   } else {
     const cls=done?(res.ok?"good":"bad"):"";
     h+=`<div class="row"><input type="text" id="ans" class="${cls}" ${q.type==="num"?'inputmode="decimal"':'autocapitalize="off" autocorrect="off" spellcheck="false"'} placeholder="${q.type==="num"?"Twoja odpowiedź":"Type your answer"}" value="${esc(r.v)}" ${done?"disabled":""}>${q.unit?`<b>${esc(q.unit)}</b>`:""}</div>`;
@@ -975,7 +1014,7 @@ function renderLesson(){
     const nm=res.marks?res.marks.filter(Boolean).length:0;
     const right=(res.ok||q.type==="open")?"":`${res.marks&&nm?`Poprawnie ${nm} z ${res.marks.length}. `:""}<b>Poprawna odpowiedź:</b> ${esc(answerText(q))}<br>`;
     const more=q.type==="open"&&!res.ok?"To zadanie wróci w powtórkach.":esc(q.e||"");
-    h+=`<div class="foot ${res.ok?"ok":"no"}"><div class="in"><div class="fb-title">${title}</div><div class="fb-text">${right}${more}<div class="mute small" style="margin-top:4px">Źródło: ${esc(q.src)}${q.cke&&q.type!=="open"&&q.scoring?" · "+esc(q.scoring):""}</div></div><button class="btn ${res.ok?"good":"red"}" data-act="next">Dalej</button></div></div>`;
+    h+=`<div class="foot ${res.ok?"ok":"no"}"><div class="in"><div class="fb-title">${title}</div><div class="fb-text">${right}${more}<div class="mute small" style="margin-top:4px">Źródło: ${esc(q.src)}${q.cke&&q.type!=="open"&&q.scoring?" · "+esc(q.scoring):""}${q.key&&q.type!=="open"?` · <a href="#" data-act="zoomimg" data-src="content/${esc(q.key.file)}" data-cap="Zasady oceniania CKE – ${esc(q.src)}" data-z="2">📄 klucz CKE</a>`:""}</div></div><button class="btn ${res.ok?"good":"red"}" data-act="next">Dalej</button></div></div>`;
   }
   app.innerHTML=h;
   const inp=document.getElementById("ans");
@@ -1052,7 +1091,7 @@ app.addEventListener("click", e=>{
     case "suf": if(!L.checked){ L.r.suf=+el.dataset.j; renderLesson(); } break;
     case "reveal": L.reveal=true; renderLesson(); break;
     case "self": if(!L.checked && L.reveal){ L.r.self=el.dataset.v; doCheck(); } break;
-    case "zoomimg": ivOpen(el.dataset.src, el.dataset.cap); break;
+    case "zoomimg": e.preventDefault(); ivOpen(el.dataset.src, el.dataset.cap, +(el.dataset.z||1)); break;
     case "next": nextQ(); break;
     case "wzory": wzOpen(id); break;
     case "quit": case "lessondone": view=(L&&L.back)||{name:"home"}; render(); window.scrollTo(0,0); break;

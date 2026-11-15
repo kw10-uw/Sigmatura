@@ -1,0 +1,796 @@
+{
+ "id": "ang-pp-2023-12",
+ "subject": "ang-pp",
+ "formula": "2023",
+ "year": 2023,
+ "session": "probna",
+ "source": {
+  "paper": "MJAP-P0-100-A-2312-arkusz.pdf",
+  "key": "MJAP-P0-100-400-660-Q00-K00-MJAU-100-2312-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/materialy_dodatkowe/diagnostyczne_12_23/angielski/MJAP-P0-100-2312.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z1.webp",
+   "w": 1020,
+   "h": 499,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z2.webp",
+   "w": 981,
+   "h": 633,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z3.webp",
+   "w": 991,
+   "h": 941,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–5) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1.\n\n3.1. The woman encourages listeners to\n\nA. volunteer to work at the Aquarium. B. bring sea animals to the Aquarium. C. observe the Aquarium’s sea life at home. Tekst 2.\n\n3.2. Which is the best headline for the news item? A. A LOCAL RAILWAY LINE OPENED IN THE ALPS B. THE LONGEST JOURNEY EVER MADE BY A TRAIN C. AN UNUSUAL CELEBRATION BY A RAILWAY COMPANY Tekst 3. (do zadań 3.3.–3.5.) 3.3. Where are the speakers? A. in the woman’s bedroom B. in an artist’s studio C. in the man’s attic 3.4. The man tells a story of a vase which\n\nA. he found at a garage sale. B. lost its value after it was damaged. C. used to be part of an electric lamp. 3.5. The woman doesn’t know\n\nA. how much her vase cost. B. where her vase was bought. C. who exactly bought her vase. PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 1. DO 3. NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z4.webp",
+   "w": 1017,
+   "h": 1405,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. THE COST OF A VISIT TO THE PARK B. A RECOMMENDED PLACE FOR EATING OUT C. A VARIETY OF ATTRACTIONS FOR VISITORS D. A FAVOURITE LOCATION FOR MOVIE MAKERS E. THE LONGEST WALKING PATH THROUGH THE PARK F. THE WORK REQUIRED TO CREATE THE PARK CENTRAL PARK AND ITS NEIGHBOURHOOD\n\n4.1.\n\nCentral Park is an oasis of peace in the middle of busy New York City. But if you think that it’s only a place for jogging and relaxing on the grass, you’re wrong. In Central Park you’ll find many sports facilities, performance areas, and cultural places, including an open-air cinema, the Metropolitan Museum of Art and the American Museum of Natural History. Admission to some of these places is free.\n\n4.2.\n\nThe construction of Central Park began in 1857 and it took 15 years to finish. The cost was huge because the designers wanted to make a landscape which was in the English Romantic tradition. So, before the area became a park, several hundred trees were planted and enormous amounts of soil were carefully removed. The result was a natural-looking green space.\n\n4.3.\n\nCentral Park is such a beautiful and atmospheric place that film directors like to use it for outdoor scenes. Plenty of films, both classics and modern blockbusters, contain scenes which were shot in the park. If you’ve watched family favourites like Home Alone 2, I Am Legend, or The Avengers, you have definitely seen the park in the background.\n\n4.4.\n\nAfter a visit to Central Park, you can take a walk along Fifth Avenue, a street which is right next to the park. The world-famous Guggenheim Museum is there. If you visit it, take advantage of the opportunity to have lunch in the museum’s famous The Wright restaurant. The food there is better than anywhere else in the city. It is always fresh and tasty. You can choose from a varied menu which includes seafood, vegetable dishes and fruit.\n\nNa podstawie: www.arch2o.com; www.wanderlustchloe.com PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z5.webp",
+   "w": 1039,
+   "h": 2544,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nNa podstawie: www.rd.com Tekst B\n\nNa podstawie: www.disneyworld.eu\n\nFIND ANYTHING, ANYWHERE The average American spends 40 minutes a day searching for something they cannot find – wallets, keys and smartphones are top of the list. Looking for something while you’re in a hurry is certainly very stressful. So, how can you be less stressed? Get yourself a useful electronic device called Tracker Mate. The device comes in different sizes so you can use it for anything you might be afraid of losing. Download the app and attach a Tracker Mate to your keys, your wallet, your tablet or anything else you often have trouble finding. Then you can track your lost property wherever you are! It’s as simple as that.\n\nHave you lost or left anything behind at the Grand Hotel in Paris? Here’s how you can get it back:  visit our website: www.grandhotel.com/lostproperty  answer some questions about your missing item  wait for an email from us with your Lost Item Registration Number (it can take up to 6 hours for your item to be registered in our system, so please be patient!). After that, our hotel team will start looking for your item and provide an update via email within the next 12 hours. We may also contact you by email during our search if we need more information.\n\nTekst C THE SEARCH The wind got stronger. Suddenly, I saw it blow my dad’s favourite cap off his head and carry it down into the valley. I hurried to where Dad and our dog were standing to tell him I’d look for it later. “When?” Dad asked. “In the morning. It’s getting dark. We won’t find it now.” Dad was very sad because the cap was a present that he had got years ago from my grandma. Seeing the expression on his face, I changed my mind. “OK. Let’s get in the van and look for it together.” It was completely dark by the time I started searching the valley. Dad stayed in the van. His window was rolled down, and he was giving me instructions I couldn’t hear. In the end I had to give up, but I told him I’d look again in the morning, when there was more light. He was disappointed and didn’t try to hide this fact. I knew he would miss the cap very much.\n\nNa podstawie: Rebecca Warner, My Dad My Dog Tekst D THE MUSEUM OF LOST THINGS The Bureau of Lost and Found Objects in Paris is a building filled with items that have been lost in the city. The Bureau was started in the 1800s and every day it still receives up to 700 items that have been found on the metro, in restaurants, museums, airports, hotels and other locations. It is an interesting fact that many expensive or unusual items have never been claimed. These include a fireman’s helmet, a uniform from the time of Napoleon, a violin and even an old-fashioned street lamp. Many items are completely new and unused, including a wedding dress and matching shoes. The collection is rarely open to the public, so if you want to buy a ticket to see it, remember to do so well in advance.\n\nNa podstawie: money.howstuffworks.com\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. We can conclude from this text that access to a certain place is not allowed every day.\n\n5.2. The author of this text encourages readers to buy something.\n\n5.3. This text is about an item of clothing which had sentimental value for its owner.\n\nPrzeczytaj wiadomość, którą Szymon wysłał do kolegi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie trzy wyrazy. Hi Michael,\n\nThanks for recommending the Grand Hotel for my visit to Paris. It is really comfortable and\n\nthe trip has been amazing! I especially liked the Bureau of Lost Objects. It was even better\n\nthan the Eiffel Tower! I’ve posted a cool photo on Facebook with me pointing at an old\n\n5.4. _____________________________________________________. I wish I could wear it\n\nand feel like a soldier.\n\nAnyway, you’ll never guess what has happened. I’ve lost my wallet! It’s good that my ID isn’t\n\nin it. I’m sure I lost my wallet at the hotel so I went onto the 5.5. _______________________\n\nI’ve just received a registration number by email and I’m waiting for an update. That could\n\ntake as long as 5.6. _________________________________________________________.\n\nI really hope they manage to find my wallet. To avoid such situations in the future, I’ve\n\nordered a special gadget. When I get it, all I’ll have to do is attach it to my wallet and\n\n5.7. ______________________________________________. If I ever lose my wallet again,\n\nI’ll be able to locate it immediately wherever I am.\n\nSee you soon,\n\nSzymon"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z6.webp",
+   "w": 982,
+   "h": 75,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. _____________ “This is the number 88 bus to Parliament Hill Fields.” The recorded message sounded in the bus as Libby carried her two backpacks on board. She began to walk toward the only free seat on the lower deck, but suddenly a teenage boy threw himself into it, so she climbed the stairs to the upper deck. It was quite empty and she easily found a seat with plenty of space around it. She put her heavy backpacks on the floor next to her. “Oh my goodness, it’s you!” A voice made her jump, and she turned around to see an elderly man sitting across the aisle. “I’m sorry. I think you’ve mistaken me for someone else,” Libby said. “Oh... oh, I’m sorry but I couldn’t help noticing that...” the man continued. “Are you an artist?” Libby looked to where he was pointing and saw an old sketch pad in the side pocket of one of her backpacks. She hadn’t even realized it was there; that showed how long it had been since she’d used it. “I’m afraid not. That’s from years ago. I think my drawing days are long gone. Although I wanted to go to art college, I studied medicine instead because my parents insisted. But I hated medical school and left before I could do harm to anyone.” The man laughed and Libby smiled. “So, what are you doing now, then, if not medicine or drawing?” She wasn’t sure what to say. Just twenty-four hours ago she had been working for her best friend as a secretary in his company. It’d had nothing to do with her education. But now... who knew? The bus was approaching Trafalgar Square. At its centre, Nelson’s Column rose tall above the crowds of tourists. Behind it stood the National Gallery. She looked at it with pleasure and nostalgia. She’d been there once, on a school trip. Most of her classmates had got bored quickly and ended up leaving for the cafeteria, but Libby had fallen in love with the building itself, and the paintings inside, and had walked around completely fascinated. Libby looked at the old man and saw he was also lost in thought. Suddenly he shook his head, as if waking himself from a dream. The bus pulled up at a stop. “You know, a lady once told me you didn’t need to go to art school to learn how to draw. She said all you needed to do was to spend time at the National Gallery where you could learn from the greatest artists in the world. She used to draw on the bus, too. She said it was the perfect place to practise drawing because on a bus there are so many interesting people and things to see. I think I’ll get off here. There’s a painting I’d like to go and see,” the man said. “Do you need some help with going down the stairs?” Libby asked. “No, thank you. I’ll be fine.” The man looked down at her. “My name is Frank, by the way.” “I’m Libby. It was nice to meet you, Frank.” And she meant it. “Libby.” He smiled as he repeated her name. “Why don’t you try drawing on the bus? I have a feeling you’ll enjoy it.” And with that he turned and slowly went down the stairs.\n\nNa podstawie: The Lost Ticket by Freya Sampson\n\n6.1. Libby sat on the upper deck of the bus because A. she wanted to sit next to somebody she knew. B. a teenager suggested she should go upstairs. C. all the seats on the lower deck were taken. D. an elderly man invited her to sit there. 6.2. When talking about her education, Libby mentioned that A. she used to be an art student. B. she had always wanted a medical career. C. it had helped her to get a job as a secretary. D. she hadn’t chosen the subject she had studied. 6.3. While looking at the National Gallery, Libby remembered A. the experience of visiting it as a schoolgirl. B. the many occasions that she had been there. C. falling in love with somebody she had met there. D. the paintings she had seen there with her friends. 6.4. Before leaving the bus, the man suggested that Libby should A. go and see a painting with him. B. draw while travelling by bus. C. help him get down the stairs. D. tell him her name. 6.5. Which is the best title for the text? A. A DISCUSSION ABOUT A FAMOUS DRAWING B. A DISAPPOINTING BUS JOURNEY C. A MEETING WITH A STRANGER D. A ROMANCE IN A GALLERY PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z7.webp",
+   "w": 1018,
+   "h": 838,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki. BICYCLES WHICH GROW ON TREES You probably haven’t heard of Andy Dix, but everyone in the small Welsh town of Hay-on- Wye knows that he is a passionate cyclist. 7.1. _____ About three years ago he decided to combine his passion with his business. It all started when a tree on his property was blown over in a storm. He thought about making a piece of furniture from it. Then, one of his friends suggested building a wooden bike. 7.2. _____ But the idea fascinated him so much that he decided he had to try and see if he could make a bike out of wood. It took him two years to build his first wooden bike. 7.3. _____ After having cycled about 5,000 kilometres on it, he decided it was ready. It was actually more pleasant to ride than a bike made from other materials because it was better at absorbing vibrations and so it was much more comfortable. That’s when he started producing wooden bikes for customers. However, there are two things you have to remember if you want to order one of Andy’s bikes. 7.4. _____ Also, the waiting time is long because his company gets many orders from all around the world.\n\nNa podstawie: www.goodnet.org A. He then began testing it out on the toughest roads and hills. B. First, the cost is high because each bike is completely handmade. C. He has also had a successful furniture making company for over 20 years. D. At first, Andy hesitated because he had no experience in bike construction. E. His friend agreed and they soon started to work on the unusual bike together. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z8.webp",
+   "w": 1000,
+   "h": 854,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1. X: How did you like the cake? Y: _____ X: So did I. We won’t order it next time.\n\nA. I wanted to have a piece. B. I found it a bit too sweet. C. I’d like to try another one. 8.2. X: Where are my headphones? Y: I took them with me to school this morning and I think I left them there. X: _____ They aren’t yours. And I wanted to use them today.\n\nA. Take it easy! B. How could you! C. I don’t blame you! 8.3. X: Who was late for school today? You or Mary? Y: _____ Our bus didn’t come on time.\n\nA. Me too. B. Not everyone. C. Both of us. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z9.webp",
+   "w": 1009,
+   "h": 1004,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych wyrazów (A–C) wybierz ten, który poprawnie uzupełnia luki w obu zdaniach. Zakreśl jedną z liter: A, B albo C. 9.1.\n\n• Only children _____ 7 years of age can use this carousel.\n\n• You can’t drive on this road because it’s still _____ construction.\n\nA. under B. over C. with 9.2.\n\n• Feel _____ to ask any questions which come to mind.\n\n• Use of the swimming pool is ______ to all members of the club.\n\nA. special B. open C. free 9.3.\n\n• Let’s meet at my _____ instead of going to a restaurant.\n\n• He finished the race in second _____.\n\nA. flat B. place\n\nC. house 9.4.\n\n• Do you _____ sugar in your tea?\n\n• The weather is beautiful so I’m going to _____ a walk.\n\nA. put B. give C. take PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z10.webp",
+   "w": 1100,
+   "h": 752,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.), przekształcając wyrazy podane w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. A SHORT HISTORY OF THE WORD ‘HELLO’ What do you say when you pick up the phone? You say ‘hello,’ of course. But did you know\n\nthat the word ‘hello’ has been used for more than 200 years? At first it just meant that you\n\nwere 10.1. (SURPRISE) _________________________ by something, but this changed\n\nwhen the telephone was invented and a word to start a conversation was needed.\n\nTwo 10.2. (SCIENCE) _________________________ – Thomas Edison and Alexander\n\nGraham Bell – suggested two different words for that. Edison proposed that phone users\n\nshould start their calls with the word ‘hello’, while Bell preferred the word ‘ahoy’.\n\nThe first telephone book included a “How To” section which recommended using ‘hello’, so\n\nthat is the word which became the standard. However, it was more difficult to find a good\n\nway to end a phone conversation. The first phone book recommended the phrase ‘That is\n\nall’, which 10.3. (LUCKY) _________________________ hasn’t stood the test of time.\n\nMaybe that’s because people like to end their calls in different ways depending on who\n\nthe conversation has been with, and what it's been about!\n\nNa podstawie: www.npr.org"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z11.webp",
+   "w": 1018,
+   "h": 359,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Uzupełnij zdania 11.1.–11.3. Wykorzystaj w odpowiedniej formie podane w nawiasach wyrazy. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane. 11.1. I (forget / shut) ________________________________________________________\n\nthe front door last night and the cat got out of the house.\n\n11.2. She loves playing the violin and she (be / member) ____________________________\n\n11.3. I want to make a pizza but we (run out / tomato) ______________________________"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/ang-pp-2023-12/z12.webp",
+   "w": 1012,
+   "h": 567,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Od niedawna uczestniczysz w kursie na przewodnika turystycznego. W e-mailu do kolegi z Anglii: • napisz, dlaczego warto być przewodnikiem turystycznym • poinformuj, w jaki sposób zdobyłeś(-aś) pieniądze na opłacenie tego kursu • przedstaw program kursu • wyraź swoją opinię o osobie prowadzącej ten kurs. Napisz swoją wypowiedź w języku angielskim. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 80 do 130 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hi Robert, I’m currently participating in a tourist guide course.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pp-2023-12-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie rozmowę z właścicielką pewnego sklepu. Zaznacz znakiem X, które zdania są zgodne z treścią nagrania (T – True), a które nie (F – False).",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k1.webp",
+    "w": 1058,
+    "h": 481
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-12-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi związanych z przyjęciami. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.3",
+    "II.4",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k2.webp",
+    "w": 1101,
+    "h": 576
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5,
+    4
+   ]
+  },
+  {
+   "id": "ang-pp-2023-12-z03",
+   "no": "3",
+   "points": 5,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 3.1. The woman encourages listeners to Tekst 2. 3.2. Which is the best headline for the news item? Tekst 3. (do zadań 3.3.–3.5.) 3.3. Where are the speakers? 3.4. The man tells a story of a vase which 3.5. The woman doesn’t know",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.5",
+    "II.4",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k3.webp",
+    "w": 1057,
+    "h": 525
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "3.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "3.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    2,
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2023-12-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k4.webp",
+    "w": 1101,
+    "h": 476
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    5,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2023-12-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj wiadomość, którą Szymon wysłał do kolegi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie trzy wyrazy.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.2",
+    "III.1",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k5.webp",
+    "w": 1057,
+    "h": 4626
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-12-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Libby sat on the upper deck of the bus because 6.2. When talking about her education, Libby mentioned that 6.3. While looking at the National Gallery, Libby remembered 6.4. Before leaving the bus, the man suggested that Libby should 6.5. Which is the best title for the text?",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k6.webp",
+    "w": 1101,
+    "h": 569
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    3,
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2023-12-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k7.webp",
+    "w": 1057,
+    "h": 428
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    3,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2023-12-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k8.webp",
+    "w": 1057,
+    "h": 414
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2023-12-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych wyrazów (A–C) wybierz ten, który poprawnie uzupełnia luki w obu zdaniach. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k9.webp",
+    "w": 1101,
+    "h": 477
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2023-12-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.), przekształcając wyrazy podane w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k10.webp",
+    "w": 1057,
+    "h": 635
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-12-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Uzupełnij zdania 11.1.–11.3. Wykorzystaj w odpowiedniej formie podane w nawiasach wyrazy. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k11.webp",
+    "w": 1057,
+    "h": 692
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2023-12-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Od niedawna uczestniczysz w kursie na przewodnika turystycznego. W e-mailu do kolegi z Anglii: • napisz, dlaczego warto być przewodnikiem turystycznym • poinformuj, w jaki sposób zdobyłeś(-aś) pieniądze na opłacenie tego kursu • przedstaw program kursu • wyraź swoją opinię o osobie prowadzącej ten kurs. I’m currently participating in a tourist guide course.",
+   "topic": "angp-wri",
+   "requirement": [
+    "V.2",
+    "V.6",
+    "V.8",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2023-12/k12.webp",
+    "w": 1056,
+    "h": 3071
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

@@ -1,0 +1,790 @@
+{
+ "id": "hisz-pp-2026-05",
+ "subject": "hisz-pp",
+ "formula": "2023",
+ "year": 2026,
+ "session": "maj",
+ "source": {
+  "paper": "MJHP-P0-100-A-2605-arkusz.pdf",
+  "key": "MJHP-P0-100-2605-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2026/Jezyk_hiszpanski/poziom_podstawowy/MJHP-P-100-2605.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z1.webp",
+   "w": 1024,
+   "h": 567,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z2.webp",
+   "w": 1100,
+   "h": 1152,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. ¿Dónde está la hablante?\n\nA. En su casa. B. En el hospital. C. En una tienda.\n\nTekst 2. (do zadań 2.2. i 2.3.) 2.2. ¿Por qué la chica se quedó en casa durante varios días?\n\nA. Estaba enferma.\n\nB. Estudiaba para el examen.\n\nC. Fue castigada por su madre.\n\n2.3. ¿Cómo reacciona el chico ante el problema de Anita?\n\nA. No quiere opinar. B. Lo considera poco importante. C. Comparte el punto de vista de la madre.\n\nTekst 3. (do zadań 2.4.–2.6.) 2.4. Del texto se deduce que durante su primer viaje a Estados Unidos\n\nCustodio Dalmau A. encontró inspiración. B. se llevó una desilusión. C. decidió montar un negocio en ese país.\n\n2.5. En el desfile de Nueva York, Custodio Dalmau presentó ropa\n\nA. clásica. B. innovadora. C. minimalista.\n\n2.6. A lo largo del tiempo, la marca Custo Barcelona\n\nA. ha cambiado de estilo. B. ha incluido complementos en su oferta. C. ha optado por vender sus productos únicamente por Internet."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z3.webp",
+   "w": 1009,
+   "h": 180,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–4) Usłyszysz dwukrotnie rozmowę dotyczącą ośmiornicy (el pulpo). Na podstawie informacji zawartych w nagraniu uzupełnij luki w zdaniach 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku hiszpańskim.\n\n3.1. El garaje subterráneo donde el hombre encontró el pulpo está situado en ___________\n\n3.2. Lo sorprendente es que la marea reina se produce también cuando ________________\n\n3.3. El hombre que encontró el pulpo decidió _____________________________________,\n\ny eso le gustó mucho a la chica.\n\n3.4. La expresión “estar como un pulpo en un garaje” significa que alguien está\n\ncompletamente _________________________________________________________."
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z4.webp",
+   "w": 1018,
+   "h": 1388,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst dotyczący przesądów (supersticiones). Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. Investigaciones científicas B. Conclusiones equivocadas C. Influencia de otras personas D. Prácticas mágicas olvidadas E. Consejos para personas supersticiosas F. Ejemplos de las supersticiones más comunes\n\nSUPERSTICIONES\n\n4.1.\n\nLos europeos somos muy supersticiosos. Para no atraer la mala suerte, preferimos no levantarnos con el pie izquierdo; si llueve, nunca abrimos el paraguas antes de salir de casa; evitamos pasar por debajo de una escalera o brindar con agua. Y para atraer la buena fortuna, tocamos madera o llevamos un amuleto.\n\n4.2.\n\nMuchas de las supersticiones son heredadas de nuestros padres, abuelos o aprendidas del grupo social al que pertenecemos. Todos observamos una serie de rituales de forma constante y cotidiana para atraer la buena suerte o eliminar la mala. Luego, los repetimos sin pensar.\n\n4.3.\n\nA veces, nuestro comportamiento supersticioso se debe a que creemos ver una relación causa - efecto que en realidad no existe. Por ejemplo, si tenemos un número que nos ha dado suerte en algún momento, probablemente vayamos a usar el mismo número para volver a tener éxito. Lo haremos porque hay algo que no comprendemos y le atribuimos una interpretación errónea.\n\n4.4.\n\nCuando las supersticiones nos hacen la vida imposible, lo mejor que podemos hacer es darnos cuenta de que no existe una prueba razonable ni científica que confirme que estas supersticiones pueden afectar nuestra vida. Debemos evitar las creencias supersticiosas al tomar decisiones y empezar a confiar en que nosotros tenemos el poder de construir nuestra propia suerte.\n\nNa podstawie: www.evolmapsicologos.es; es.wikihow.com PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z5.webp",
+   "w": 1020,
+   "h": 3268,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami.\n\nTekst A\n\nNa podstawie: www.turismopirineos.info Tekst B\n\nNa podstawie: www.spherasports.com; www.nationalgeographic.com.es\n\nVIAJE AL PIRINEO ARAGONÉS\n\nDE MAYO A OCTUBRE\n\n¿Quieres viajar en grupo?\n\nTe ofrecemos servicio de calidad y garantizamos un viaje cómodo y divertido.\n\nSENDERISMO RUTAS EN BICICLETA CURSO DE ESCALADA PARA PRINCIPIANTES TALLER DE FOTOGRAFÍA EN EL QUE APRENDERÁS A REFLEJAR\n\nLA BELLEZA DE LA NATURALEZA\n\nDuración: de viernes a domingo Alojamiento: hostal El Pico Traslado en autobús\n\nHaz clic aquí para conocer los detalles de nuestra oferta.\n\nNADA ES IMPOSIBLE\n\nEn 1900 se pensaba que subir al Everest era una misión imposible. Actualmente, existen agencias de viajes que en primavera y otoño organizan escaladas para turistas al monte más alto del mundo. Así que hoy en día, llegar a la cima no es nada excepcional. Ahora, para destacar, hay que hacer algo más espectacular. Por ejemplo, en 2017 Kilian Jornet, un alpinista y corredor catalán, rompió el récord Guinness escalando el Everest dos veces en una semana. La primera vez salió un lunes y logró conquistar el monte en un solo ataque, sin utilizar cuerdas fijas, ni oxígeno. Lo consiguió en solo 19 horas, mientras que otros alpinistas necesitan para ello más de cuatro días. Cuando volvió a la base, confesó que tenía planeado hacerlo en menos tiempo, sin embargo, se lo impidió un fuerte viento. Cinco días más tarde, repitió esa escalada tardando apenas 17 horas.\n\nTekst C\n\n¿Estás pensando en hacer una excursión a la montaña?\n\n Antes de salir, consulta la información\n\nmeteorológica.\n\n Comunica en la oficina de información\n\no a algún amigo o familiar qué ruta vas a realizar.\n\n Lleva siempre equipo suficiente: agua, ropa\n\nde abrigo, un chubasquero y el teléfono móvil bien cargado.\n\n No te salgas de los caminos y senderos\n\nseñalizados.\n\nNa podstawie: www.sierranortemadrid.org Tekst D\n\nNa podstawie: www.aprendemosjuntos.bbva.com\n\nMATEUSZ: Tenemos que invitar a Lucía para que nos lo cuente todo. Tal vez nos anime a organizar una escapada a los Pirineos. No es lo mismo que ir al Himalaya, pero ya es algo.😉\n\nCLARA: ¡Vaya decisión! Imagínate dejar una carrera estable por algo tan arriesgado.\n\nSARA: Lucía siempre había soñado con ir al Himalaya, ¿no? A mí me recuerda a Edurne Pasaban. Su historia es muy interesante: era ingeniera industrial y trabajaba en la empresa de su padre. Para ir a las montañas tenía que pedir vacaciones. Su padre estaba orgulloso de ella, pero en un momento le dijo que tenía que decidir qué era lo que quería hacer en el futuro: dedicarse a la ingeniería o al alpinismo. Edurne eligió el alpinismo.\n\nCLARA: ¡Qué pasada! Las montañas ahí parecen de otro planeta. La niebla, la nieve... es como un cuadro.\n\nMATEUSZ: ¡Chicas, mirad estas fotos que me mandó Lucía desde Nepal! ¡Son impresionantes! Me escribió que estuvo cerca del monte Everest. Claro, no pudo subir porque estamos en julio y en los meses de verano, a causa de las fuertes lluvias, las agencias de turismo no organizan escaladas.\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. El autor de este texto da consejos de cómo evitar ciertos riesgos.\n\n5.2. En este texto se proponen diferentes actividades de ocio al aire libre.\n\n5.3. En este texto se menciona a una persona que tuvo que escoger entre dos opciones que se le presentaron en la vida.\n\nPrzeczytaj wiadomość, którą Mateusz wysłał do swojej koleżanki. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku polskim.\n\n\n\nOd: Mateusz\n\nDo: Marta 1 Temat: Góry\n\nCześć, Marto!\n\nPrzesyłam Ci fantastyczne zdjęcia, które kilka dni temu zrobiła moja koleżanka\n\nw czasie swojego pobytu w Nepalu. Oczywiście nie wspięła się na Mount Everest.\n\nZresztą nawet gdyby chciała, to i tak nie mogłaby tego zrobić, bo jest\n\n5.4. __________________________________, a o tej porze roku w tamtych\n\nrejonach występują obfite opady i właśnie dlatego nie organizuje się wejść\n\ndla turystów. Ale jak ją znam, kiedyś tego dokona!\n\nJej wyjazd zainspirował mnie do poszerzenia wiedzy na temat Himalajów. Niedawno\n\nczytałem o pewnym Katalończyku, który dokonał czegoś niezwykłego. Wspiął się\n\nna szczyt Mount Everest w kilkanaście godzin mimo 5.5. ______________________\n\n5.6. _______________________________ później zrobił to ponownie, i to w jeszcze\n\nkrótszym czasie.\n\nA właśnie, przyszło mi do głowy, że może warto wybrać się w góry. Znalazłem\n\nciekawą ofertę, w której oprócz górskich wycieczek proponuje się też\n\n5.7. ____________________________________. Idealna opcja, gdyby zmęczył nas\n\nwysiłek fizyczny.\n\nCo o tym sądzisz?\n\nMateusz"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z6.webp",
+   "w": 1017,
+   "h": 2381,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D.\n\n*** 1. Sonó el teléfono. Era la chica de las encuestas. Llama todos los jueves a las cinco,\n\nporque conoce perfectamente mis costumbres y sabe que entonces estoy en casa. Esa vez, me preguntó cuántas veces a la semana me cambiaba de calcetines. Prácticamente, ya le he dicho todo acerca de mí: qué películas veo, qué colonia uso, etc. Encuesta a encuesta, he ido contándole mi vida. No digo que en una u otra ocasión no le haya dicho cosas falsas para parecer otra persona, pero básicamente tiene mi perfil. Lo de los calcetines me pareció raro y ridículo a la vez.\n\n—Cada vez me preguntas cosas más íntimas —observé. —Yo no hago los cuestionarios —me respondió muy amable—, pero vivo de ellos, compréndeme.\n\n—Sí, te comprendo, pero a mí también me gustaría conocer algo de tu vida. —Pues nada, pregunta lo que quieras. Un poco avergonzado, cosa rara en mi caso, le hice tres o cuatro preguntas, pero no seguí investigando porque me pareció que ella me respondía sin ganas. Entonces, le dije que me cambiaba de calcetines dos veces al día para parecer más limpio de lo que soy, pero ella interpretó que sudaba* mucho y me recomendó un cosmético eficaz para los pies, cosa absolutamente innecesaria para mí, porque mis pies están bien y creo que sudo lo normal, ni poco ni mucho. Pero eso, desde luego, no se lo dije a la chica. 2. La chica me dio las gracias, como siempre, y luego pasó mucho tiempo sin llamarme.\n\nEmpecé a preocuparme. Un día, después de comer, sonó el teléfono. Era Ana, la chica de las encuestas. Esta vez no quería hacerme ninguna pregunta: le había ido fatal su primer examen en la universidad, había perdido el trabajo y no podía pagar el alquiler. La pobre chica me dio lástima. Por lo visto, no tenía a nadie en Madrid y me preguntó si podía quedarse en mi casa unos días.\n\n—Después de todo, en una de las encuestas declaraste que vives solo y tienes una casa grande con dos baños.\n\nEs cierto que vivía solo, pero en lo de mi vivienda la había engañado. —La verdad es que tengo un apartamento con un dormitorio y un salón pequeño, sin cocina independiente ni dos baños.\n\n—Eso no me sorprende —me respondió—, nadie dice la verdad en las encuestas telefónicas. Podría dormir en el sofá, si no tienes nada en contra.\n\nAcepté. Después de tantas encuestas telefónicas la conocía mejor que a mis compañeras de trabajo. 3. Vino una media hora después. Desde aquel momento ha pasado un año y todavía no se\n\nha ido. Lo malo es que ha empezado a llamar otra chica de otra agencia de encuestas y he vuelto a decir que vivo solo y tengo dos baños. Lo de los dos baños es mentira, pero lo otro, a pesar de la presencia de la estudiante, continúa siendo verdad. Nada ha cambiado, ni mis sentimientos ni mis hábitos.\n\nNa podstawie: Juan José Millás, Los objetos nos llaman, Barcelona, 2010.\n\n* Sudar – pocić się.\n\n6.1. En el primer fragmento el narrador afirma que\n\nA. a veces mentía a la encuestadora. B. la encuestadora desconocía sus hábitos. C. la encuestadora a menudo le contaba detalles de su vida. D. se enfadaba al contestar a las preguntas de la encuestadora. 6.2. ¿Cómo reaccionó el narrador al oír el consejo sobre la higiene de sus pies?\n\nA. Consideró que el consejo era práctico. B. Dudó del efecto del producto recomendado. C. Pensó que en su caso la recomendación era inútil. D. Respondió a la encuestadora que su propuesta era estúpida. 6.3. Ana decidió pedirle ayuda al narrador\n\nA. para poder empezar una carrera universitaria. B. porque la habían echado de su casa familiar. C. como pretexto para conocerlo en persona. D. cuando se quedó en paro. 6.4. Según el último fragmento, el narrador\n\nA. piensa cambiar de piso. B. ha renovado su apartamento. C. sigue con sus costumbres de siempre. D. ha dejado de responder a las encuestas. 6.5. ¿Cuál de los títulos refleja mejor el contenido del texto?\n\nA. Familia en crisis B. Historia de una relación C. Oportunidades perdidas D. Fin de una historia de amor PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z7.webp",
+   "w": 1018,
+   "h": 1033,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.\n\nLA CONTRASEÑA* DE INTERNET\n\nHace unos meses, mi vecino me pidió la contraseña de Internet. 7.1. _____ Además,\n\nno me costaba nada compartirla. Ayer, cuando volvía a casa, lo vi en el patio. Me detuve\n\ny charlamos un rato, como de costumbre. Me contó feliz que desde hacía poco tenían\n\nen casa un servicio de streaming. Al oír la noticia, le dije bromeando: “Genial, luego\n\nme prestas la contraseña. 7.2. _____ Sobre todo, las series nuevas”. Entonces su esposa\n\napareció en la ventana y dijo: “No podemos dársela, porque nosotros somos los que\n\npagamos. No es para compartir”.\n\n¡Se hizo un silencio total! El vecino intentó disculparse, pero le contesté: “No te\n\npreocupes”. Y seguimos hablando de otro tema. Cuando nos despedimos, cada uno se fue\n\na hacer sus cosas.\n\nEsa misma tarde, la mujer de mi vecino se presentó en mi casa. 7.3. _____ Y de que\n\nla contraseña era incorrecta. Le expliqué que acababa de cambiarla. “Yo soy el que paga\n\ny no es para compartir”, añadí. Se puso roja como un tomate. Trató de discutir, pero la paré\n\ndiciendo: “Señora, yo tengo mi Internet y usted tiene su streaming, todo está bien y todos\n\nfelices”. Se calló y se fue. 7.4. _____ Su marido, tampoco.\n\nNa podstawie: boricuaencanarias.blogspot.com\n\n*La contraseña – hasło. A. Nunca más volvió a hablarme. B. Se la di porque me llevo bien con él. C. Se quejó de que Internet no funcionaba. D. Enseguida la apuntó en una hoja de papel y me la dio. E. Así yo también podré disfrutarlo viendo algunos programas. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z8.webp",
+   "w": 1000,
+   "h": 831,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z9.webp",
+   "w": 1000,
+   "h": 982,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens wyróżnionego zdania lub fragmentu zdania. Zakreśl jedną z liter: A, B albo C. 9.1. X: ¿Qué te parece el nuevo jefe de la empresa? Y: La verdad es que no lo soporto.\n\nA. me cae fatal B. me sorprende C. me parece muy serio 9.2. X: ¿Sabes que mis abuelos se han apuntado a un curso de tango? Y: ¡No me digas!\n\nA. ¡No me lo repitas más! B. ¡Ya lo sabía! C. ¡Increíble! 9.3. X: Este es mi plan. Tú, ¿qué opinas? Y: No sé, a mí no me convence del todo.\n\nA. no te va a ir mal B. tengo algunas dudas C. creo que no hay otra opción 9.4. X: El ordenador ya está reparado. Y: ¡Qué bien!\n\nA. averiado B. apagado C. arreglado PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z10.webp",
+   "w": 1017,
+   "h": 466,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z11.webp",
+   "w": 1013,
+   "h": 263,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/hisz-pp-2026-05/z12.webp",
+   "w": 1005,
+   "h": 606,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Podczas zagranicznej wycieczki szkolnej odłączyłeś/odłączyłaś się od grupy. Potrzebna była Ci pomoc. W e-mailu do kolegi z Hiszpanii:\n\n poinformuj, co się stało, że odłączyłeś/odłączyłaś się od grupy  napisz, jak zareagowałeś/zareagowałaś w tej sytuacji  opisz osobę, która udzieliła Ci pomocy  wyjaśnij, na czym polegała pomoc tej osoby. Napisz swoją wypowiedź w języku hiszpańskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 100 do 150 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty).\n\nCZYSTOPIS Hola, Sergio: ¿Qué tal? ¿Sabes qué me ocurrió durante mi viaje escolar al extranjero? ¡Perdí a mi grupo!\n\nTreść Spójność\n\ni logika\n\nZakres środków\n\njęzykowych\n\nPoprawność środków\n\njęzykowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "hisz-pp-2026-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat festiwali. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.3",
+    "II.2",
+    "II.4"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k1.webp",
+    "w": 1082,
+    "h": 487
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    5,
+    4,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2026-05-z02",
+   "no": "2",
+   "points": 6,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. ¿Dónde está la hablante? Tekst 2. (do zadań 2.2. i 2.3.) 2.2. ¿Por qué la chica se quedó en casa durante varios días? 2.3. ¿Cómo reacciona el chico ante el problema de Anita? Tekst 3. (do zadań 2.4.–2.6.) 2.4. Del texto se deduce que durante su primer viaje a Estados Unidos 2.5. En el desfile de Nueva York, Custodio Dalmau presentó ropa 2.6. A lo largo del tiempo, la marca Custo Barcelona",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.4",
+    "II.5",
+    "II.7"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k2.webp",
+    "w": 1101,
+    "h": 675
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.6.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    2,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2026-05-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie rozmowę dotyczącą ośmiornicy (el pulpo). Na podstawie informacji zawartych w nagraniu uzupełnij luki w zdaniach 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku hiszpańskim.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k3.webp",
+    "w": 1082,
+    "h": 4421
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2026-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst dotyczący przesądów (supersticiones). Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k4.webp",
+    "w": 1082,
+    "h": 384
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    2,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "hisz-pp-2026-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. VIAJE AL PIRINEO ARAGONÉS DE MAYO A OCTUBRE ¿Estás pensando en hacer una excursión a la montaña? Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj wiadomość, którą Mateusz wysłał do swojej koleżanki. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku polskim. Od: Do: Temat:",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.2",
+    "III.4",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k5.webp",
+    "w": 1101,
+    "h": 2997
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2026-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. En el primer fragmento el narrador afirma que 6.2. ¿Cómo reaccionó el narrador al oír el consejo sobre la higiene de sus pies? 6.3. Ana decidió pedirle ayuda al narrador 6.4. Según el último fragmento, el narrador 6.5. ¿Cuál de los títulos refleja mejor el contenido del texto?",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k6.webp",
+    "w": 1082,
+    "h": 459
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2026-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k7.webp",
+    "w": 1082,
+    "h": 424
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    4,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2026-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k8.webp",
+    "w": 1101,
+    "h": 442
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    0
+   ]
+  },
+  {
+   "id": "hisz-pp-2026-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która najlepiej oddaje sens wyróżnionego zdania lub fragmentu zdania. Zakreśl jedną z liter: A, B albo C. Y: ¡No me digas! Y: No sé, a mí no me convence del todo.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k9.webp",
+    "w": 1082,
+    "h": 411
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "hisz-pp-2026-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10"
+   ],
+   "prompt": "W zadaniach 10.1.–10.3. wpisz obok numeru zadania wyraz, który poprawnie uzupełnia obydwa zdania. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k10.webp",
+    "w": 1082,
+    "h": 374
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2026-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Przetłumacz na język hiszpański fragmenty podane w nawiasach, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie dwa wyrazy.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k11.webp",
+    "w": 1082,
+    "h": 397
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2026-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Podczas zagranicznej wycieczki szkolnej odłączyłeś/odłączyłaś się od grupy. Potrzebna była Ci pomoc. W e-mailu do kolegi z Hiszpanii:  poinformuj, co się stało, że odłączyłeś/odłączyłaś się od grupy  napisz, jak zareagowałeś/zareagowałaś w tej sytuacji  opisz osobę, która udzieliła Ci pomocy  wyjaśnij, na czym polegała pomoc tej osoby. Hola, Sergio: ¿Qué tal? ¿Sabes qué me ocurrió durante mi viaje escolar al extranjero? ¡Perdí a mi grupo!",
+   "topic": "hisz-wri",
+   "requirement": [
+    "V.1",
+    "V.2",
+    "V.3",
+    "V.7",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2026-05/k12.webp",
+    "w": 1079,
+    "h": 3293
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

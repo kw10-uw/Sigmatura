@@ -1,0 +1,824 @@
+{
+ "id": "ang-pp-2024-12",
+ "subject": "ang-pp",
+ "formula": "2023",
+ "year": 2024,
+ "session": "probna",
+ "source": {
+  "paper": "MJAP-P0-100-A-2412-arkusz.pdf",
+  "key": "MJAP-P0-100-200-400-660-K00-Q00-MJAU-100-2412-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Probny/2024/Jezyk_angielski/poziom_podstawowy/MJA-P-100-2412.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z1.webp",
+   "w": 980,
+   "h": 587,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "txt1",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 1. (0–5) Usłyszysz dwukrotnie pięć wypowiedzi związanych z dbaniem o dobrą kondycję fizyczną. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi. This speaker\n\nA. is a fitness instructor setting a task for his/her class. B. explains the benefits of listening to a song during a workout. C. discusses how he/she plans his/her weekly fitness activities. D. compares fitness apps recommended by his/her personal coach. E. describes how his/her attitude towards a certain activity has changed. F. advertises a software product which could replace a human fitness trainer.\n\n1.1. 1.2. 1.3. 1.4. 1.5."
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z2.webp",
+   "w": 1100,
+   "h": 1147,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. In the conversation, the boy and the girl\n\nA. are considering various candidates for a rock band. B. are criticising the school orchestra’s last concert. C. are trying to find a solution to a problem. Tekst 2. (do zadań 2.2. i 2.3.) 2.2. From the news item we learn that because of the cold and snow\n\nA. passengers were evacuated from a train. B. underground trains were arriving late. C. most buses didn’t leave their garages. 2.3. The speaker says that because of the change in weather, car drivers\n\nA. need to prepare for a situation that could be caused by snow. B. should inform someone about their planned journey. C. must have their vehicle checked by a mechanic. Tekst 3. (do zadań 2.4.–2.6.) 2.4. How did Steve feel when he was offered the job on the TV show?\n\nA. He was surprised. B. He felt that his dream had come true. C. He was worried he didn’t have the right skills. 2.5. Steve is most satisfied when he repairs an item which is\n\nA. worth a lot of money. B. a family treasure. C. in terrible condition. 2.6. What does Steve say about the experts on the programme?\n\nA. They are ready to help each other. B. They are fond of telling each other stories. C. They are jealous of each other’s successes."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z3.webp",
+   "w": 1010,
+   "h": 381,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–4) Usłyszysz dwukrotnie wypowiedź młodego aktywisty na temat ratowania nietoperzy. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.\n\nJustin says he wants to protect animals which are 3.1. ______________________________\n\nAt the age of 3.2. ________________________________________________ Justin noticed\n\nthat there were very few bats in the area where he lived.\n\nAfter the conversation with the biologist Justin decided to 3.3. ________________________\n\nJustin gave his first presentation about bats at 3.4. _________________________________\n\nŹródło: batbnb.com PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 1. DO 2. NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z4.webp",
+   "w": 1021,
+   "h": 1650,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. A MUSEUM SHOWING MAZES FROM DIFFERENT COUNTRIES B. A MAZE BUILT FOR THE ROYAL FAMILY C. FEATURES OF A SUCCESSFUL MAZE D. LOST IN A MAZE OF HIS OWN DESIGN E. FISHER’S MAZES BUILT WORLDWIDE F. AN EXPENSIVE MISTAKE\n\nA MAZE* DESIGNER\n\n4.1.\n\nDuring his lifetime, Adrian Fisher has designed over 700 mazes located in 42 different countries. He built his first one in his father’s garden in Dorset when he was very young. Fisher knows better than anyone how to get people lost. He has designed mazes for theme parks, zoos, wildlife parks, museums, shopping malls and schools. Fisher has broken the world record for creating the world’s biggest maze which is located in China.\n\n4.2.\n\nFisher has visited all the mazes he has designed. When Princess Alexandra, a member of the royal family, opened his maze at Leeds Castle, Fisher was given the task of accompanying the royal visitor through it. However, he didn’t realize that the gardeners had changed the design in one place and he found he had no idea how to get out of the maze. He felt really embarrassed!\n\n4.3.\n\nYou might think that Fisher wants people to feel lost in his mazes. Actually, that’s not true. He believes they have most fun when they explore new paths. So what makes a great maze? Firstly, a maze must be entertaining. Secondly, like an enjoyable movie, it can’t be too long. Thirdly, you should be able to find the exit just before you get annoyed or bored. A maze must be an experience which you can share with friends, family and even complete strangers.\n\n4.4.\n\nOne of his mazes allowed Fisher to earn extra money. In 2016, the Bank of England used the picture of the maze at Blenheim Palace on the back of its new £5 note. “The bank didn’t realize I had the copyright for the maze design,” Fisher explains. “And they didn’t ask me if they could use it. That’s why the bank had to accept my price. I couldn’t possibly tell you how much it was, but it was less than the cost of printing a whole set of new banknotes.”\n\nNa podstawie: www.bbc.com; www.nationalgeographic.co.uk\n\nŹródło: www.newyorker.com * Maze – labirynt. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z5.webp",
+   "w": 1024,
+   "h": 3040,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nNa podstawie: www.joiningthepolice.co.uk\n\nŹródło: en.wikipedia.org Tekst B\n\nThird Edition Anna Sewell\n\nFormat: Paperback\n\nBlack Beauty is a story told from the point of view of a horse. When Black Beauty is trained to carry a rider on his back, and to pull a carriage behind him, he finds it hard at first. But he is lucky – his first owner is a kind person, who loves horses and takes good care of them. However, Black Beauty soon finds out that not all people are nice. When the horse is sold, the new owner feels no pity for him and makes him work long hours. Black Beauty is then sold several more times and his life becomes worse and worse. Some readers may find Black Beauty slightly old-fashioned. However, it reminds us that horses have feelings and can’t be used like machines, which, I believe, is something we still need to hear today.\n\nNa podstawie: www.commonsensemedia.org\n\nŹródło: www.amazon.pl\n\nMounted police officer\n\nYou will:\n\n• patrol parks and woodland areas on horseback • interact with adults and children • occasionally work during sporting events such as big\n\nfootball matches and music festivals Riding instructor\n\nYou will:\n\n• teach people of all ages • help experienced horse riders to prepare for competitions Riding instructors usually work in the afternoons and at weekends.\n\nTekst C\n\nNa podstawie: petkeen.com Tekst D\n\nNa podstawie: www.free-rein.co.uk\n\nŹródło: i0.wp.com\n\nHORSE RIDING\n\nAround 5 million people watch various horse races annually in the UK. Only football matches gain a larger audience! But British people don’t just watch sports involving horses. In 2015, surveys showed that 2.7 million people in the UK rode a horse at least once a year. Today, this number is over 3 million. By contrast, the number of horses owned by individuals is lower now than it used to be ten years ago.\n\nTo get the most out of our riding trip in Wales you need to be healthy and fit, have basic riding skills and enjoy the outdoors! You will ride the same horse on both days, so you will be able to get to know your horse well.\n\nDay 1\n\nArrive at Green Farm in Swansea at 9 a.m. Meet your guide, your fellow riders and your horse. The route on the first day is not very difficult. As you ride in the hills, you’ll be able to observe the wildlife. Of course, the most common animals are deer and red squirrels but if you’re lucky you might even see some wild ponies, which are quite rare. The ride will finish at 5 p.m.\n\nDay 2\n\nYour ride starts at 9 a.m. Choose an easier route which goes along the river to an old bridge or a more challenging one which goes past a 14th-century castle. You will arrive back at Green Farm for tea and cakes, and you’ll have time to say goodbye to your horse and your guide.\n\nENJOY THE HILLS\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. This text includes an opinion on why horses should be treated well.\n\n5.2. This text is for people interested in a career which involves horse riding.\n\n5.3. The text mentions a difference in popularity between two kinds of sporting\n\nevents.\n\nPrzeczytaj wiadomość, którą Mia wysłała do koleżanki. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie cztery wyrazy. Hi Dora,\n\nDo you remember that fantastic book we read together when we were kids?\n\nThe story was narrated by a horse and it was so sad! Unfortunately, he had\n\n5.4. ______________________________________________ and not all of them were good\n\nto him.\n\nWe liked the book so much that we both took up horse riding. I was surprised to learn that\n\nnowadays in the UK the number of people who ride horses at least once a year\n\n5.5. ______________________________________________ than in 2015.\n\nRecently, I’ve spent a lot of time thinking about my future job and I know it definitely has to\n\nbe horse-related. I was considering working as 5.6. _________________________________\n\nand Sundays, so it might not be such a good idea.\n\nThis summer I want to go on a horse-riding trip in Wales. I’m going to spend two days just\n\nriding in the hills and looking at wildlife. I hope to take photos of some 5.7. ______________\n\nleft and it may be hard to find them.\n\nWould you like to join me on this trip? Please let me know as soon as possible.\n\nMia"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z6.webp",
+   "w": 982,
+   "h": 75,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D.\n\n“Why, of course, Dad,” Nancy agreed. “What is it?”\n\n“I have a number of legal documents which must be handed over to Judge Hartgrave at Masonville some time before noon. I would take them myself, but I have several important appointments this morning.”\n\n“I’ll be glad to do it for you,” Nancy replied. “I can drive to Masonville. It is not more than fifteen miles away.”\n\n“Fine. That means a lot to me. Are you sure you don’t mind?”\n\n“It’s such a wonderful day, I’ll enjoy the trip.”\n\nMr. Drew came up to the window and looked out.\n\n“It is a bright day, but I can’t say I like those clouds in the west, Nancy. I’m afraid it may rain. You know how quickly our storms come up.”\n\n“I’ll start immediately then. Where are the documents?”\n\n“At the office. We can drive there together.” Nancy quickly ran off to get her bag. Before Mr. Drew had got his gloves and hat from the hall, she had backed the car from the garage and was waiting for him in front of the house.\n\n“I haven’t heard you mention the Crawley case lately,” Mr. Drew commented as they drove along.\n\nNancy’s face changed, showing signs of worry.\n\n“I must admit I have made no progress. I guess I’m not talented enough to become a detective.”\n\n“Don’t give up, Nancy. The Crawley case would make a professional feel lost.”\n\n“I haven’t given it up yet, father. I still hope I’ll find some answers one of these days.”\n\nWhen they reached the law office, Nancy stopped the car and her father got out. He disappeared inside the building and, returning a few minutes later, placed a fat envelope in Nancy’s hand.\n\n“Give this to Judge Hartgrave. You know where to find him?”\n\n“Yes, I’ll have no trouble in finding his office.”\n\nNancy decided to take the shortest route to Masonville. As she was driving, her eyes travelled to the fields on either side of the road. Like a true daughter of the Mid West, Nancy Drew was proud of how wonderful her state was. She looked at the rolling hills and the wide prairie land, as well as the fields of green corn waving in the wind. Nothing could be more beautiful.\n\nMore than once Nancy looked up at the sky. The sun was shining very brightly on the road, but a large black cloud was coming from the west. It did not appear to be approaching very fast, and Nancy told herself that there was no need to worry about the storm.\n\n“It won’t rain for an hour or two, and by that time I’ll be home,” she thought.\n\nNa podstawie: archive.org/details/SecretOfTheOldClock 6.1. During breakfast, Nancy\n\nA. promised to bring her father some documents from his office. B. advised her father to cancel his appointments that day. C. offered to take her father to Masonville in her car. D. agreed to do her father a favour. 6.2. Before Nancy and her father left for his office, they\n\nA. got into the car in the garage. B. checked the weather forecast. C. fetched some personal belongings. D. couldn’t find some missing documents. 6.3. What can we conclude from the conversation about the Crawley case?\n\nA. Nancy had doubts about her detective skills. B. Mr. Drew thought the case should be left to the police. C. Mr. Drew disagreed with Nancy about what she should do. D. Nancy had already solved the case. 6.4. While driving to Masonville, Nancy\n\nA. realized that a storm had arrived. B. regretted her choice of the route. C. admired the beauty of the landscape. D. was amazed by the colours of the sky. 6.5. What is the best title for the text?\n\nA. THE MYSTERY OF THE LOST DOCUMENTS B. A DAUGHTER GIVES A HELPING HAND C. A YOUNG DETECTIVE QUITS HER JOB D. CAUGHT IN A THUNDERSTORM PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z7.webp",
+   "w": 1019,
+   "h": 927,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.\n\nA “VILLAGE” OF TINY HOUSES Moving from an apartment in a big city to a house in the country is always a big decision. The Brinks family bought 21 acres of land in Kentucky and started discussing what type of house would be best for them. Initially, Mr. Brinks wanted to build one big house for the whole family. 7.1. _____ She was also sure that the construction of several small houses would take less time than building one big house. 7.2. _____ That argument was very important to the Brinks family because they wanted to live ecologically and save energy.\n\nHaving completed their project, the Brinks are very satisfied with the result. The whole place looks like a little village with shared spaces such as a swimming pool and an outside\n\nfireplace. How does the unusual arrangement work? The parents’ house is larger and more expensive than the rest of the buildings. 7.3. _____ But it is still very small. The parents’ bed is above the kitchen and they have to climb a ladder to get into it. The children, Lennox and Brodey, have their own houses, each consisting of just one room. 7.4. _____ They were also decorated according to the children’s personal tastes. Lennox and Brodey like their little homes a lot, and they don’t mind having to go outside and walk to a separate bathroom building.\n\nNa podstawie: metro.co.uk A. They were designed to meet the teenagers’ individual needs and wishes. B. This means that she would have her own small house very close to theirs. C. It differs from the children’s houses because it has a shower, bath, and toilet. D. However, his wife argued that their two teenage children needed their own space. E. Another advantage was that they would require much less heating than a big house. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z8.webp",
+   "w": 1004,
+   "h": 869,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1. X: I’ve just got an email from an online shop I’ve never ordered from. And there’s a link in it. Y: _____ X: I suppose you’re right.\n\nA. If I were you, I would delete it. B. I’ll do what you suggested. C. I’m not sure which is safer. 8.2. X: You’re late again, Tom. Can you try to get here earlier tomorrow? Y: _____\n\nA. I’ll be back soon. B. I’ll go with you. C. I’ll do my best. 8.3. X: Oh dear, we’ve missed our bus! The next one comes in twenty minutes. What should we\n\ndo? Y: _____ wait for the bus.\n\nA. I prefer going on foot to B. It would be better to walk than C. Why don’t we take a walk instead PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z9.webp",
+   "w": 978,
+   "h": 741,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która jest tłumaczeniem fragmentu podanego w nawiasie, poprawnie uzupełniającym lukę w zdaniu. Zakreśl jedną z liter: A, B albo C. 9.1. He had absolutely no friends (oprócz) _____ Tom.\n\nA. not even B. in spite of C. apart from 9.2. (Jak tylko wyszłam) _____, they started to quarrel again.\n\nA. While I was leaving B. As soon as I left C. Until I left 9.3. Excuse me, could you (podać mi sól) _____, please?\n\nA. pass me the salt B. add a little salt to it C. salt my dish 9.4. When I saw his costume, I (nie mogłam się powstrzymać od śmiechu) _____.\n\nA. couldn’t make him laugh B. couldn’t laugh any more C. couldn’t help laughing PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z10.webp",
+   "w": 1100,
+   "h": 709,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.\n\nHISTORIC BELLS BECOME SILENT\n\nPienza, an Italian town, is one of the most beautiful UNESCO World\n\nHeritage sites. The town is famous for its historic buildings, including\n\na clock tower 10.1. _______________________ has stood in the main\n\nsquare for about 560 years. Until recently the clock bell used to ring\n\nevery 30 minutes. But tourists staying in hotels close\n\n10.2. _______________________ the city centre complained that\n\nthe bells were waking them up in the middle of the night. That’s why\n\ntwo months ago a decision 10.3. _______________________ taken\n\nto silence the clock between 10 p.m. and 7 a.m. Although the move has satisfied tourists,\n\nthe locals aren’t happy about it. Some argue that they can’t fall asleep if they don’t hear\n\nthe bells.\n\nNa podstawie: www.independent.co.uk\n\nŹródło: edition.cnn.com"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z11.webp",
+   "w": 1010,
+   "h": 585,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę możesz wpisać maksymalnie trzy wyrazy, wliczając wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów. 11.1. “Tony, please phone me as soon as you get home,” said Fiona.\n\nCALL\n\nFiona asked Tony _______________________________________________ as soon\n\nas he got home.\n\n11.2. It is necessary to write your name in block letters.\n\nMUST\n\nYour name _______________________________________________ in block letters.\n\n11.3. It’s hard to imagine that soon I’ll be studying in another city and living there alone.\n\nOWN\n\nIt’s hard to imagine that soon I’ll be studying in another city and living there _________"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/ang-pp-2024-12/z12.webp",
+   "w": 1006,
+   "h": 532,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) W ostatnim miesiącu udało Ci się przesłuchać kilka audiobooków. Na swoim blogu:\n\n• poinformuj, dlaczego lubisz słuchać audiobooków • napisz, o czym był jeden z audiobooków, który był przez Ciebie wysłuchany • wyraź swoją opinię na temat lektora/lektorów tego audiobooka • przedstaw reakcję znajomych na częste słuchanie przez Ciebie audiobooków. Napisz swoją wypowiedź w języku angielskim. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 100 do 150 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty).\n\nCZYSTOPIS Hi everyone, Last month, I listened to several audiobooks.\n\nTreść Spójność\n\ni logika\n\nZakres środków\n\njęzykowych\n\nPoprawność środków\n\njęzykowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pp-2024-12-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio",
+    "txt1"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi związanych z dbaniem o dobrą kondycję fizyczną. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.3",
+    "II.4",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k1.webp",
+    "w": 1082,
+    "h": 493
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    5,
+    0,
+    2,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "ang-pp-2024-12-z02",
+   "no": "2",
+   "points": 6,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. In the conversation, the boy and the girl Tekst 2. (do zadań 2.2. i 2.3.) 2.2. From the news item we learn that because of the cold and snow 2.3. The speaker says that because of the change in weather, car drivers Tekst 3. (do zadań 2.4.–2.6.) 2.4. How did Steve feel when he was offered the job on the TV show? 2.5. Steve is most satisfied when he repairs an item which is 2.6. What does Steve say about the experts on the programme?",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.2",
+    "II.5",
+    "II.7"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k2.webp",
+    "w": 1101,
+    "h": 688
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.6.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    0,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2024-12-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wypowiedź młodego aktywisty na temat ratowania nietoperzy. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angp-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k3.webp",
+    "w": 1082,
+    "h": 3381
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-12-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k4.webp",
+    "w": 1081,
+    "h": 391
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    3,
+    2,
+    5
+   ]
+  },
+  {
+   "id": "ang-pp-2024-12-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj wiadomość, którą Mia wysłała do koleżanki. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie cztery wyrazy.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.3",
+    "III.7",
+    "III.1",
+    "VIII.2",
+    "III.4"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k5.webp",
+    "w": 1083,
+    "h": 4017
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-12-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. During breakfast, Nancy 6.2. Before Nancy and her father left for his office, they 6.3. What can we conclude from the conversation about the Crawley case? 6.4. While driving to Masonville, Nancy 6.5. What is the best title for the text?",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k6.webp",
+    "w": 1082,
+    "h": 486
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    2,
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2024-12-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k7.webp",
+    "w": 1082,
+    "h": 475
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    4,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2024-12-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k8.webp",
+    "w": 1082,
+    "h": 380
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "ang-pp-2024-12-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która jest tłumaczeniem fragmentu podanego w nawiasie, poprawnie uzupełniającym lukę w zdaniu. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k9.webp",
+    "w": 1082,
+    "h": 415
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2024-12-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k10.webp",
+    "w": 1082,
+    "h": 631
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-12-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę możesz wpisać maksymalnie trzy wyrazy, wliczając wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k11.webp",
+    "w": 1082,
+    "h": 505
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2024-12-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "W ostatnim miesiącu udało Ci się przesłuchać kilka audiobooków. Na swoim blogu: • poinformuj, dlaczego lubisz słuchać audiobooków • napisz, o czym był jeden z audiobooków, który był przez Ciebie wysłuchany • wyraź swoją opinię na temat lektora/lektorów tego audiobooka • przedstaw reakcję znajomych na częste słuchanie przez Ciebie audiobooków. Last month, I listened to several audiobooks.",
+   "topic": "angp-wri",
+   "requirement": [
+    "V.2",
+    "V.3",
+    "V.5",
+    "VII.3",
+    "VII.4",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2024-12/k12.webp",
+    "w": 1078,
+    "h": 3095
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

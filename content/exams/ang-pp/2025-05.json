@@ -1,0 +1,808 @@
+{
+ "id": "ang-pp-2025-05",
+ "subject": "ang-pp",
+ "formula": "2023",
+ "year": 2025,
+ "session": "maj",
+ "source": {
+  "paper": "MJAP-P0-100-A-2505-arkusz.pdf",
+  "key": "MJAP-P0-100-200-660-2505_MJAU-P0-100-2505-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2025/Jezyk_angielski/poziom_podstawowy/MJAP-P-100-2505_MJAU-P-100-2505.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z1.webp",
+   "w": 1016,
+   "h": 589,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z2.webp",
+   "w": 1100,
+   "h": 1155,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1.\n\n2.1. The man is talking about\n\nA. a recent booking made on the internet. B. new options available on a website. C. his dream travel destinations. Tekst 2. (do zadań 2.2. i 2.3.) 2.2. When does Giving Tuesday take place?\n\nA. before Black Friday and Cyber Monday B. between Black Friday and Cyber Monday C. after Black Friday and Cyber Monday 2.3. Which way of participating in Giving Tuesday is NOT mentioned?\n\nA. buying clothes from charities B. helping somebody in everyday life C. inspiring other people through social media Tekst 3. (do zadań 2.4.–2.6.) 2.4. Evelina decided to play a piano concert in the Himalayas because\n\nA. somebody had suggested it to her. B. she wanted to set a world record. C. it had always been her dream. 2.5. What turned out to be the greatest challenge for Evelina during the concert?\n\nA. the height B. the wind C. the cold 2.6. When answering the last question, Evelina\n\nA. encourages people not to give up in difficult situations. B. asks for support for people with disabilities. C. advises people to learn to play the piano."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z3.webp",
+   "w": 1024,
+   "h": 641,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z4.webp",
+   "w": 1018,
+   "h": 1763,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. CHOOSING A SIMPLER OPTION B. A CLOSER LOOK AT THE PHOTO C. SOME REASONS WHY THE BAND BROKE UP D. A DECISION TAKEN AFTER CONSULTING FANS E. WALKING IN THE FOOTSTEPS OF THE BEATLES F. THE WAY THE PHOTO SESSION WAS CARRIED OUT A FAMOUS COVER PHOTO\n\n4.1.\n\nIn 1969, after the Beatles recorded their final album in a studio in Abbey Road, London, the band discussed what title they should give it. One suggestion was to call it Everest and have a photo session for the cover in the Himalayas. But that would require a long journey, so they soon rejected that title and decided on another idea, which was effortless and much more convenient. The band had a picture taken in the street outside the studio and called the album Abbey Road. The result has delighted fans ever since.\n\n4.2.\n\nEven 50 years ago Abbey Road was not a quiet street, so the photographer had to do his job quickly. A policeman stopped the traffic at the zebra crossing for ten minutes, and the photographer climbed up a stepladder in the middle of the road. Then, the Beatles walked back and forth across the road three times, and a picture was taken each time they crossed. The best photo was chosen for the cover of the album.\n\n4.3.\n\nWhen you look at the cover, you can see the Beatles on the zebra crossing walking away from their studio with Lennon leading them. Some fans see this as symbolic because he was the first member to leave the band. McCartney has no shoes on. It is said that he kicked them off because they were too tight. Harrison is not wearing a suit, unlike the other Beatles, as he always preferred to go his own way.\n\n4.4.\n\nMillions of fans come to Abbey Road to have their photo taken on the iconic crossing. However, it should be remembered that Abbey Road is not just a tourist attraction. It’s a busy road. If you want to walk across it like the four famous musicians and have your photo taken, you have to be prepared to spend a lot of time waiting until there is a gap in the traffic. It’s not as simple as you might think! Na podstawie: www.radiox.co.uk Źródło: wikipedia.org PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z5.webp",
+   "w": 1025,
+   "h": 3269,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nJOE’S TENNIS BLOG\n\nYou’ve sent me lots of questions about tennis tournaments, so this week I’m going to focus on Wimbledon. Next week, I will share some tips for people who want to start playing tennis and have asked me for advice. But for now, some facts about Wimbledon:\n\n• The Wimbledon tournament sets the highest standards for tennis. An example of this\n\nis that all competitors must be dressed in white, and even cream clothes are not accepted. The idea behind it is that your attention should be on the players, not on what they are wearing. • About 54,000 tennis balls are used during the Wimbledon tournament every year.\n\nThey were also white until 1986, when the organizers decided to make a change. The white balls were replaced with yellow ones to make them more visible to people watching television.\n\nNa podstawie: www.quora.com; www.maxim.com; evanevanstours.com Tekst B\n\nTHE OUTSIDER\n\nI first picked up a racket when I was about three. There were no junior rackets at the time, so my grandfather shortened the handle of an adult racket for me. But it was still too heavy, and I had to hold it with both hands. Who knew that this would have such an effect on the game of tennis?\n\nAs I got older and stronger, Mom said, “Maybe you should take one hand off the racket?” But that didn’t work out.\n\nBack then, almost nobody hit the ball with a two-handed backhand, so when I first started playing, people said, “You can’t play like that.”\n\nThe two-handed backhand has some advantages. One of these is that the extra hand enables you to hit the ball with more power. When Chris Evert and I came on the scene, we both had two-handed backhands and we were winning everything. The two-handed backhand became the fashion and almost everyone started copying us. And players are still using it today.\n\nNa podstawie: Jimmy Connors, The Outsider: A Memoir, New York 2014.\n\nTekst C\n\nMessage \n\nFrom: Sandra\n\nTo: John\n\nSubject: tennis lesson\n\nHi John,\n\nNext week I’m going to my first ever tennis lesson. I’m a complete beginner, so I’m very nervous. I would be grateful if you could give me some tips to help me prepare and feel more confident. I have no idea what to expect. I have no skills, and it’s going to be just me and my coach. I’ve been pretty obsessed with tennis recently and I’ve read a lot about Wimbledon. I’ve learned that they keep the balls in refrigerated containers during the tournament. And after the tournament, visitors to Wimbledon can buy a can of three balls which were used by the players for just £3 – that’s really cheap, and what a great souvenir! Please write back soon!\n\nSandra\n\nNa podstawie: www.reddit.com; evanevanstours.com Tekst D\n\nTENNIS TRAINING CLUB\n\nWHAT WE BELIEVE IN\n\n• Tennis improves your fitness. You don’t have to be fit to start playing, because tennis will make you fit. We also offer a range of workouts to build your muscles. • You can play at any level of skill and have fun. If you come to our club, you will always have a great time chasing a little yellow ball around a court with someone, whether it’s your first lesson or a hundredth. • You can learn to play the game at any age. Based on advice from a Wimbledon player, we have adapted the ways we teach tennis to suit different age groups.\n\nWe are looking forward to seeing you. New courses begin in the summer!\n\nNa podstawie: www.stylist.co.uk Źródło: wimbledon.com\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. This text gives information about a change that was inspired by certain tennis players.\n\n5.2. According to this text, you can enjoy playing tennis even if you are a beginner.\n\n5.3. In this text, the author is asking for some advice.\n\nPrzeczytaj wiadomość, którą Anna wysłała do kolegi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie cztery wyrazy. Hi Ben,\n\nYou’ll be glad to hear that I’ve taken your advice. I’m going to start learning to play tennis.\n\nI’ve done some research on the internet, and I’ve chosen one of the clubs in my area. I have\n\nlearnt that if you want to join the club, it doesn’t matter what your fitness level is, how well or\n\nhow badly you play, and even 5.4. ______________________________________________\n\nyou are.\n\nThe club uses teaching methods developed with the help of 5.5. ______________________\n\nI’ve already bought my first tennis racket, and I also have a comfortable skirt and a neon pink\n\ntop designed for tennis. In my opinion, it’s not fair that players who take part in Wimbledon\n\ncan wear only 5.6. __________________________________________________________.\n\nAnd guess what! I’ve heard that at Wimbledon they 5.7. _____________________________\n\nthey are no longer needed. I’d like to get some if I’m lucky enough to visit London one day.\n\nAnyway, keep your fingers crossed!\n\nBy the way, I hope we’ll have a game or two when I come to see you in the autumn.\n\nAnna"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z6.webp",
+   "w": 1018,
+   "h": 2103,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. A NANNY WITH A CAMERA In 2007, John Maloof, a young real estate agent*, walked into an auction house in search of materials for a book. He wanted to write about one of the districts of Chicago. He ended up buying some boxes of photos. After unpacking them at home, John discovered a few thousand pictures – in perfect condition and chronologically sorted. Many of them dated back to the 1950s–1980s. When Maloof realized they were not of value for his book, he put the boxes into a cupboard, and got on with his writing.\n\nAfter his book was published, John thought again about the photos. He started looking through the collection and became fascinated by the photos and the person who had taken them. The photographer’s name, Vivian Maier, was easy to find as it was on the photo lab receipts and envelopes, which were also in the boxes. At the time Maier was completely unknown in the photographic world, despite the brilliance of her work. Maloof decided to contact her. It turned out that she was then 83 years old and was living in a retirement home. When he called to speak with her, he was informed that she was unavailable, and when he called again, he was told that she had died. Now there was nothing else John could do but study the contents of the boxes and find out everything he could about Vivian Maier. He was finally able to discover that she had worked as a nanny for much of her life and shot images of the street life of New York and Chicago in her free time.\n\nBorn in New York in 1926, Maier spent her childhood and teenage years in France, with regular visits to America with her mother. It was in France that Vivian took her first pictures with an amateur Kodak camera that was heavy and difficult to use, and which had belonged to her mother. At the age of 25, she returned to the USA and settled in New York, where she got a job as a nanny with a rich family. Maier spent every free moment in the streets of New York, taking pictures of life around her, but using a much better camera – a Rolleiflex. In 1956, Maier moved to Chicago, where she spent the rest of her life working as a nanny and doing her photography along the way. She didn’t have any children of her own. In her photos, she managed to show interesting and unusual details of the daily routine of the cities. Many of her photos are now considered to be masterpieces of street photography. Sadly, during her lifetime, her talent was not recognized.\n\nNa podstawie: birdinflight.com * Real estate agent – agent nieruchomości.\n\n6.1. Why did John Maloof buy the photos? A. He noticed the photos were in excellent condition. B. He hoped the photos would be worth a lot of money. C. He thought the photos could provide material for his book. D. He needed the photos for his work as a real estate agent. 6.2. After John became interested in Vivian Maier’s work, he A. got a call from the retirement home where she lived. B. realized she had been a well-known photographer. C. had a conversation with her about her life. D. tried to get in touch with her twice. 6.3. Vivian Maier started taking photos A. while she was living in France. B. when she got her own camera. C. after she was employed by a rich family. D. during her visits to America with her mother. 6.4. After returning to the USA, Vivian Maier A. documented the life of her own family. B. continued to use her old camera. C. often changed professions. D. lived in two different cities. 6.5. The text is about A. the challenges faced by a photographer trying to become famous. B. the reasons a nanny started a career in photography. C. an exhibition which made a photographer famous. D. the discovery of a talented photographer’s work. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z7.webp",
+   "w": 1018,
+   "h": 1001,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki. KAFKA AND THE DOLL The famous author Franz Kafka once met a little girl in the park while he was taking his daily walk. She was crying because she had lost her doll. After she had gone home with her mother, Kafka looked for the doll himself. 7.1. _____ He read it to the girl the next day when she came to the park. It said: “Please do not cry for me. I have gone on a trip to see the world. I will write to you about my adventures.”\n\nThis was the beginning of many meetings. 7.2. _____ They described the doll’s exciting adventures all over the world. The girl really enjoyed it when Kafka read the letters to her. She always took them home and asked her mother to read them to her again.\n\nFinally, one day Kafka presented the girl with a new doll. It looked very different from the one she had lost so she felt a bit disappointed. She was not sure if she could ever love the new doll like her old one. 7.3. _____ When the girl heard that, she hugged the new doll and took her home, full of joy. Not long after that, the girl heard the sad news that Kafka had died. She missed their meetings a lot.\n\nMany years later, the now grown girl found a tiny pocket in the doll’s dress that she had never noticed before. 7.4. _____ There was a message on it which said: “Everything that you love, you will eventually lose, but in the end, love will return in a different form.”\n\nNa podstawie: www.huffpost.com A. She looked inside it and, to her surprise, found a small piece of paper. B. But then Kafka read her a new letter that started with the words: “My travels have\n\nchanged me.” C. He was unable to find it, so he decided to write a letter and pretend it was from the doll. D. Unfortunately, the doll was still missing and the problem was becoming more serious. E. Whenever he happened to see the girl in the park, Kafka read new letters from the doll. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z8.webp",
+   "w": 1010,
+   "h": 828,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1.\n\nX: Thanks for giving the message to Mr Jones. Y: _____ It was a pleasure.\n\nA. I’m not ready for that. B. Maybe another time. C. Don’t mention it. 8.2. X: Is the skirt OK? Y: _____ X: I’ll get one in a larger size for you.\n\nA. I’m afraid it doesn’t fit. B. I’m not sure I can afford it. C. It doesn’t match the colour of my top. 8.3. X: Which restaurant would you suggest this time? Y: _____ X: Are you sure we don’t need a reservation there?\n\nA. I have no idea which one to choose. B. I really enjoy eating out at weekends.\n\nC. The one round the corner is highly recommended. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z9.webp",
+   "w": 1003,
+   "h": 990,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która poprawnie uzupełnia obydwa zdania. Zakreśl jedną z liter: A, B albo C. 9.1.\n\n• I’m a bit tired. I just need a _____ break.\n\n• I can’t afford this suit. I’m _____ of money this month.\n\nA. little B. short C. quick 9.2.\n\n• I don’t _____ working long hours because I like my job.\n\n• He wanted to know what I was doing and I told him to _____ his own business.\n\nA. avoid\n\nB. mind C. run 9.3.\n\n• Harry _____ his brother to wait in front of the shop.\n\n• I’m really angry at Nick. He _____ me a lie.\n\nA. told B. gave C. wanted 9.4.\n\n• They cooked several different Italian _____, such as pasta and pizza, for the dinner party.\n\n• My first real job was washing _____ in a restaurant.\n\nA. meals B. tables C. dishes PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z10.webp",
+   "w": 1100,
+   "h": 547,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. THE MALL OF AMERICA Everyone who has travelled through the USA remembers seeing a large number of shopping\n\nmalls. Most of 10.1. ______________________ are not worth visiting, but if you are ever in\n\nMinnesota, you mustn’t miss the Mall of America. This mall is one of the biggest shopping\n\nmalls 10.2. ______________________ the world. It opened in 1992 and contains 520 shops.\n\nOver 40 million shoppers visit the mall every year. It is so huge that seven football stadiums\n\ncould easily fit inside. And 10.3. ______________________ you get bored with shopping,\n\nthere are many forms of entertainment. At the centre of the mall, you’ll find a theme park with\n\na roller coaster. In addition, the mall has a miniature golf course and an aquarium.\n\nNa podstawie: www.opengrowth.com; www.encyclopedia.com"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z11.webp",
+   "w": 1100,
+   "h": 713,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów. 11.1. My tooth hurt so much that it was necessary for me to go to the dentist.\n\nHAD\n\nMy tooth hurt so much that _______________________________________________\n\nto the dentist.\n\n11.2. “I will repair your bike at the weekend,” said John.\n\nPROMISED\n\nJohn _________________________________________________________ my bike\n\nat the weekend.\n\n11.3. We can’t travel around Europe this summer. We have too little money.\n\nENOUGH\n\nWe __________________________________________________________ to travel\n\naround Europe this summer."
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/ang-pp-2025-05/z12.webp",
+   "w": 1005,
+   "h": 632,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) W ubiegłym tygodniu odbył się Twój pierwszy występ przed publicznością. We wpisie na blogu: • poinformuj, co to było za wydarzenie i dlaczego zdecydowałeś/zdecydowałaś się wystąpić • wyjaśnij, w jaki sposób przygotowywałeś/przygotowywałaś się do występu • napisz, jaki miałeś/miałaś problem podczas występu • opisz reakcję publiczności na Twój występ. Napisz swoją wypowiedź w języku angielskim. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 100 do 150 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hi everybody, Guess what! Last week, I performed in front of an audience for the first time in my life.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pp-2025-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi związanych z rodzinnymi podróżami. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.2",
+    "II.7",
+    "II.3",
+    "II.4"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k1.webp",
+    "w": 1082,
+    "h": 546
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    3,
+    0,
+    5,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2025-05-z02",
+   "no": "2",
+   "points": 6,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. The man is talking about Tekst 2. (do zadań 2.2. i 2.3.) 2.2. When does Giving Tuesday take place? 2.3. Which way of participating in Giving Tuesday is NOT mentioned? Tekst 3. (do zadań 2.4.–2.6.) 2.4. Evelina decided to play a piano concert in the Himalayas because 2.5. What turned out to be the greatest challenge for Evelina during the concert? 2.6. When answering the last question, Evelina",
+   "topic": "angp-lis",
+   "requirement": [
+    "II.2",
+    "II.5",
+    "II.7"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k2.webp",
+    "w": 1101,
+    "h": 693
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.6.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2025-05-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie informację o możliwości pracy w ramach wolontariatu. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angp-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k3.webp",
+    "w": 1083,
+    "h": 5720
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2025-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k4.webp",
+    "w": 1081,
+    "h": 415
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    5,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "ang-pp-2025-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. From: To: Subject: WHAT WE BELIEVE IN • Tennis improves your fitness. • You can play at any level of skill and have fun. • You can learn to play the game at any age. Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Przeczytaj wiadomość, którą Anna wysłała do kolegi. Uzupełnij luki 5.4.–5.7. zgodnie z treścią tekstów (A–D), tak aby jak najbardziej precyzyjnie oddać ich sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę można wpisać maksymalnie cztery wyrazy.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.7",
+    "III.2",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k5.webp",
+    "w": 1101,
+    "h": 5397
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2025-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Why did John Maloof buy the photos? 6.2. After John became interested in Vivian Maier’s work, he 6.3. Vivian Maier started taking photos 6.4. After returning to the USA, Vivian Maier 6.5. The text is about",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.4",
+    "III.7",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k6.webp",
+    "w": 1082,
+    "h": 513
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    3,
+    0,
+    3,
+    3
+   ]
+  },
+  {
+   "id": "ang-pp-2025-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angp-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k7.webp",
+    "w": 1082,
+    "h": 485
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    4,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "ang-pp-2025-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k8.webp",
+    "w": 1101,
+    "h": 450
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2025-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz tę, która poprawnie uzupełnia obydwa zdania. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k9.webp",
+    "w": 1082,
+    "h": 439
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    1,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pp-2025-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k10.webp",
+    "w": 1101,
+    "h": 297
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2025-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (11.1.–11.3.). W każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów.",
+   "topic": "angp-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k11.webp",
+    "w": 1082,
+    "h": 2825
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pp-2025-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "W ubiegłym tygodniu odbył się Twój pierwszy występ przed publicznością. We wpisie na blogu: • poinformuj, co to było za wydarzenie i dlaczego zdecydowałeś/zdecydowałaś się • wyjaśnij, w jaki sposób przygotowywałeś/przygotowywałaś się do występu • napisz, jaki miałeś/miałaś problem podczas występu • opisz reakcję publiczności na Twój występ. Guess what! Last week, I performed in front of an audience for the first time in my life.",
+   "topic": "angp-wri",
+   "requirement": [
+    "V.2",
+    "V.6",
+    "V.7",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pp-2025-05/k12.webp",
+    "w": 1079,
+    "h": 3128
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

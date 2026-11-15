@@ -1,0 +1,1195 @@
+{
+ "id": "mat-pp-2023-05",
+ "subject": "mat-pp",
+ "formula": "2023",
+ "year": 2023,
+ "session": "maj",
+ "source": {
+  "paper": "MMAP-P0-100-2305.pdf",
+  "key": "MMAP-P0-100-2305-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z1.webp",
+   "w": 1087,
+   "h": 314,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z2.webp",
+   "w": 1087,
+   "h": 206,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z3.webp",
+   "w": 1087,
+   "h": 94,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z4.webp",
+   "w": 1087,
+   "h": 139,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z5.webp",
+   "w": 1087,
+   "h": 148,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z6.webp",
+   "w": 1087,
+   "h": 277,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z7.webp",
+   "w": 1087,
+   "h": 151,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z8.webp",
+   "w": 1087,
+   "h": 317,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z9.webp",
+   "w": 1087,
+   "h": 128,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z10.webp",
+   "w": 1087,
+   "h": 960,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z11.webp",
+   "w": 1087,
+   "h": 721,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "i12",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/i12.webp",
+   "w": 1087,
+   "h": 569,
+   "caption": "Wspólne informacje do zadania 12"
+  },
+  {
+   "id": "t12.1",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z12.1.webp",
+   "w": 1087,
+   "h": 146,
+   "caption": "Zadanie 12.1 – arkusz"
+  },
+  {
+   "id": "t12.2",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z12.2.webp",
+   "w": 1087,
+   "h": 141,
+   "caption": "Zadanie 12.2 – arkusz"
+  },
+  {
+   "id": "t12.3",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z12.3.webp",
+   "w": 1087,
+   "h": 145,
+   "caption": "Zadanie 12.3 – arkusz"
+  },
+  {
+   "id": "t13",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z13.webp",
+   "w": 1087,
+   "h": 583,
+   "caption": "Zadanie 13 – arkusz"
+  },
+  {
+   "id": "t14",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z14.webp",
+   "w": 1087,
+   "h": 229,
+   "caption": "Zadanie 14 – arkusz"
+  },
+  {
+   "id": "t15",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z15.webp",
+   "w": 1087,
+   "h": 184,
+   "caption": "Zadanie 15 – arkusz"
+  },
+  {
+   "id": "t16",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z16.webp",
+   "w": 1087,
+   "h": 182,
+   "caption": "Zadanie 16 – arkusz"
+  },
+  {
+   "id": "t17",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z17.webp",
+   "w": 1087,
+   "h": 141,
+   "caption": "Zadanie 17 – arkusz"
+  },
+  {
+   "id": "t18",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z18.webp",
+   "w": 1087,
+   "h": 562,
+   "caption": "Zadanie 18 – arkusz"
+  },
+  {
+   "id": "t19",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z19.webp",
+   "w": 1087,
+   "h": 192,
+   "caption": "Zadanie 19 – arkusz"
+  },
+  {
+   "id": "t20",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z20.webp",
+   "w": 1087,
+   "h": 194,
+   "caption": "Zadanie 20 – arkusz"
+  },
+  {
+   "id": "t21",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z21.webp",
+   "w": 1087,
+   "h": 530,
+   "caption": "Zadanie 21 – arkusz"
+  },
+  {
+   "id": "t22",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z22.webp",
+   "w": 1087,
+   "h": 141,
+   "caption": "Zadanie 22 – arkusz"
+  },
+  {
+   "id": "t23",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z23.webp",
+   "w": 1087,
+   "h": 582,
+   "caption": "Zadanie 23 – arkusz"
+  },
+  {
+   "id": "t24",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z24.webp",
+   "w": 1087,
+   "h": 407,
+   "caption": "Zadanie 24 – arkusz"
+  },
+  {
+   "id": "t25",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z25.webp",
+   "w": 1087,
+   "h": 290,
+   "caption": "Zadanie 25 – arkusz"
+  },
+  {
+   "id": "t26",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z26.webp",
+   "w": 1087,
+   "h": 371,
+   "caption": "Zadanie 26 – arkusz"
+  },
+  {
+   "id": "t27",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z27.webp",
+   "w": 1087,
+   "h": 296,
+   "caption": "Zadanie 27 – arkusz"
+  },
+  {
+   "id": "t28",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z28.webp",
+   "w": 1087,
+   "h": 178,
+   "caption": "Zadanie 28 – arkusz"
+  },
+  {
+   "id": "t29",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z29.webp",
+   "w": 1087,
+   "h": 76,
+   "caption": "Zadanie 29 – arkusz"
+  },
+  {
+   "id": "t30",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z30.webp",
+   "w": 1087,
+   "h": 175,
+   "caption": "Zadanie 30 – arkusz"
+  },
+  {
+   "id": "i31",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/i31.webp",
+   "w": 1087,
+   "h": 212,
+   "caption": "Wspólne informacje do zadania 31"
+  },
+  {
+   "id": "t31.1",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z31.1.webp",
+   "w": 1087,
+   "h": 273,
+   "caption": "Zadanie 31.1 – arkusz"
+  },
+  {
+   "id": "t31.2",
+   "type": "image",
+   "file": "assets/mat-pp-2023-05/z31.2.webp",
+   "w": 1087,
+   "h": 91,
+   "caption": "Zadanie 31.2 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "mat-pp-2023-05-z01",
+   "no": "1",
+   "points": 1,
+   "materials": [
+    "t1"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-lic",
+   "requirement": [
+    "I.7"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k1.webp",
+    "w": 1101,
+    "h": 304
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mat-pp-2023-05-z02",
+   "no": "2",
+   "points": 1,
+   "materials": [
+    "t2"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-lic",
+   "requirement": [
+    "I.4"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k2.webp",
+    "w": 653,
+    "h": 218
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mat-pp-2023-05-z03",
+   "no": "3",
+   "points": 2,
+   "materials": [
+    "t3"
+   ],
+   "prompt": "Wykaż, że dla każdej liczby naturalnej n≥1 liczba (2n+ 1)2−1 jest podzielna przez 8.",
+   "topic": "matp-lic",
+   "requirement": [
+    "I.2"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k3.webp",
+    "w": 1078,
+    "h": 1788
+   },
+   "scoring": "2 pkt – przekształcenie wyrażenia (2n+ 1)2 −1 do postaci iloczynu 4n(n+ 1) oraz stwierdzenie, że iloczyn n(n+ 1) jest liczbą parzystą lub przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 4(n2 + n) i uzasadnienie, że suma n2 + n jest liczbą parzystą ALBO – przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 2n(2n+ 2) oraz stwierdzenie, że wśród dwóch kolejnych liczb parzystych jedna z nich jest liczbą podzielną przez 4, ALBO – rozpatrzenie przypadku, gdy n= 2l (gdzie l∈N), tj. przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 8l(2l+ 1) i zapisanie, że iloczyn l(2l+ 1) jest liczbą naturalną/całkowitą oraz rozpatrzenie przypadku, gdy n= 2l+ 1 (gdzie l∈N), tj. przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 8(2l2 + 3l+ 1) i zapisanie, że suma 2l2 + 3l+ 1 jest liczbą naturalną/całkowitą; 1 pkt – przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 4n(n+ 1) lub 4(n2 + n), lub 2n(2n+ 2) ALBO – przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 4n2 + 4n i stwierdzenie, że ta suma jest liczbą podzielną przez 4, ALBO – rozpatrzenie przypadku, gdy n= 2l (gdzie l∈N), tj. przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 8l(2l+ 1) i zapisanie, że iloczyn l(2l+ 1) jest liczbą naturalną/całkowitą, ALBO – rozpatrzenie przypadku, gdy n= 2l+ 1 (gdzie l∈N), tj. przekształcenie wyrażenia (2n+ 1)2 −1 do postaci 8(2l2 + 3l+ 1) i zapisanie, że suma 2l2 + 3l+ 1 jest liczbą naturalną/całkowitą; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z04",
+   "no": "4",
+   "points": 1,
+   "materials": [
+    "t4"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-lic",
+   "requirement": [
+    "I.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k4.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mat-pp-2023-05-z05",
+   "no": "5",
+   "points": 1,
+   "materials": [
+    "t5"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-wyr",
+   "requirement": [
+    "II.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k5.webp",
+    "w": 1101,
+    "h": 283
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mat-pp-2023-05-z06",
+   "no": "6",
+   "points": 1,
+   "materials": [
+    "t6"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-row",
+   "requirement": [
+    "III.3"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k6.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mat-pp-2023-05-z07",
+   "no": "7",
+   "points": 1,
+   "materials": [
+    "t7"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-row",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k7.webp",
+    "w": 1101,
+    "h": 284
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mat-pp-2023-05-z08",
+   "no": "8",
+   "points": 1,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-row",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k8.webp",
+    "w": 653,
+    "h": 218
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mat-pp-2023-05-z09",
+   "no": "9",
+   "points": 3,
+   "materials": [
+    "t9"
+   ],
+   "prompt": "Zapisz obliczenia.",
+   "topic": "matp-row",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k9.webp",
+    "w": 1077,
+    "h": 1915
+   },
+   "scoring": "3 pkt – poprawna metoda rozwiązania równania i obliczenie wszystkich rozwiązań równania: (−2), 2 3 , 2 ALBO – wyznaczenie wszystkich rozwiązań równania: (−2), 2 3 , 2, oraz stwierdzenie, że są to jedyne rozwiązania równania; 2 pkt – przekształcenie lewej strony równania do postaci iloczynu wielomianów stopnia co najwyżej drugiego oraz rozwiązanie jednego z równań wynikającego z tego rozkładu, np. (3x−2)(x2 −4) = 0 i x= 2 3 , (3x−2)(x2 −4) = 0 i x= −2 oraz x= 2 ALBO – obliczenie jednego z pierwiastków wielomianu W oraz poprawne podzielenie wielomianu W przez odpowiedni dwumian, np. x= 2 i (3x3 −2x2 −12x+ 8): (x−2) = 3x2 + 4x−4, ALBO – rozłożenie wielomianu W(x) = 3x3 −2x2 −12x+ 8 na czynniki liniowe, np. W(x) = (3x−2)(x−2)(x+ 2), ALBO – przekształcenie równania 3x3 −2x2 −12x+ 8 = 0 do postaci alternatywy równań i rozwiązanie jednego z nich, np. (3x−2 = 0 lub x2 −4 = 0) i x= 2 oraz x= −2; 1 pkt – przekształcenie lewej strony równania do postaci iloczynu wielomianów stopnia co najwyżej drugiego, np. (3x−2)(x2 −4) = 0 ALBO – zapisanie jednego z rozwiązań równania 3x3 −2x2 −12x+ 8 = 0 (jeśli to rozwiązanie nie zostało otrzymane w wyniku zastosowania błędnej metody), ALBO – przekształcenie równania 3x3 −2x2 −12x+ 8 = 0 do postaci alternatywy równań, np. 3x−2 = 0 lub x2 −4 = 0; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z10",
+   "no": "10",
+   "points": 1,
+   "materials": [
+    "t10"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-row",
+   "requirement": [
+    "IV.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k10.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mat-pp-2023-05-z11",
+   "no": "11",
+   "points": 2,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami A–F i wpisz te litery w wykropkowanych miejscach.",
+   "topic": "matp-row",
+   "requirement": [
+    "IV.2"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k11.webp",
+    "w": 1101,
+    "h": 317
+   },
+   "scoring": "2 pkt – wybranie dwóch odpowiedzi, z których obie są poprawne; 1 pkt – wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z12.1",
+   "no": "12.1",
+   "points": 1,
+   "materials": [
+    "i12",
+    "t12.1"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-flin",
+   "requirement": [
+    "V.4"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k12.1.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mat-pp-2023-05-z12.2",
+   "no": "12.2",
+   "points": 1,
+   "materials": [
+    "i12",
+    "t12.2"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-flin",
+   "requirement": [
+    "V.4"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k12.2.webp",
+    "w": 1101,
+    "h": 286
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mat-pp-2023-05-z12.3",
+   "no": "12.3",
+   "points": 1,
+   "materials": [
+    "i12",
+    "t12.3"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-flin",
+   "requirement": [
+    "V.4"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k12.3.webp",
+    "w": 653,
+    "h": 218
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mat-pp-2023-05-z13",
+   "no": "13",
+   "points": 1,
+   "materials": [
+    "t13"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-flin",
+   "requirement": [
+    "V.5"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k13.webp",
+    "w": 1101,
+    "h": 283
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mat-pp-2023-05-z14",
+   "no": "14",
+   "points": 1,
+   "materials": [
+    "t14"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-fun",
+   "requirement": [
+    "V.11"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k14.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mat-pp-2023-05-z15",
+   "no": "15",
+   "points": 1,
+   "materials": [
+    "t15"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-cia",
+   "requirement": [
+    "VI.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k15.webp",
+    "w": 1101,
+    "h": 283
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mat-pp-2023-05-z16",
+   "no": "16",
+   "points": 1,
+   "materials": [
+    "t16"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-cia",
+   "requirement": [
+    "VI.7"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k16.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mat-pp-2023-05-z17",
+   "no": "17",
+   "points": 2,
+   "materials": [
+    "t17"
+   ],
+   "prompt": "Oblicz kwotę pierwszej raty. Zapisz obliczenia.",
+   "topic": "matp-cia",
+   "requirement": [
+    "VI.5"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k17.webp",
+    "w": 1077,
+    "h": 1847
+   },
+   "scoring": "2 pkt – zastosowanie poprawnej metody i obliczenie pierwszej raty: 750 zł; 1 pkt – zastosowanie wzoru na sumę n początkowych wyrazów ciągu arytmetycznego i zapisanie równania z niewiadomą a1 (pierwszą ratą): 2a1 + 17 ⋅(−30) ⋅18 = 8910 2 ALBO – zastosowanie wzoru na sumę n początkowych wyrazów ciągu arytmetycznego oraz zapisanie równania z niewiadomą a1: 2a1+17⋅30 ⋅18 = 8910 i zapisanie, że a1 jest ostatnią ratą, 2 ALBO – zapisanie równania a1 + (a1 −30) + (a1 −2 ⋅30) + (a1 −3 ⋅30) + ⋯+ (a1 −17 ⋅30) = 8910, gdzie a1 jest pierwszą ratą, lub równania a1 + (a1 + 30) + (a1 + 2 ⋅30) + (a1 + 3 ⋅30) + ⋯+ (a1 + 17 ⋅30) = 8910 (łącznie z zapisem, że a1 jest ostatnią ratą), ALBO – zapisanie zależności między pierwszą (a1) i ostatnią ratą (a18), np. a1 + a18 = 8910 ∶9 albo a18 = a1 −17 ⋅30 itp., ALBO – rozpatrzenie osiemnastowyrazowego ciągu arytmetycznego o różnicy (−30) lub 30 i zapisanie co najmniej pierwszego oraz ostatniego wyrazu tego ciągu, np. (x, x−30, x−60, ..., x−510) dla dowolnego x (np. jak w sposobie V), ALBO – zapisanie układu równań, z którego można obliczyć jedną z rat, np. a9+a10 = 495 i a10 = a9 −30. 2; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z18",
+   "no": "18",
+   "points": 1,
+   "materials": [
+    "t18"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-try",
+   "requirement": [
+    "VII.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k18.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mat-pp-2023-05-z19",
+   "no": "19",
+   "points": 1,
+   "materials": [
+    "t19"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-try",
+   "requirement": [
+    "VII.2"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k19.webp",
+    "w": 1101,
+    "h": 283
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mat-pp-2023-05-z20",
+   "no": "20",
+   "points": 1,
+   "materials": [
+    "t20"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-geo",
+   "requirement": [
+    "VIII.4"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k20.webp",
+    "w": 653,
+    "h": 218
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mat-pp-2023-05-z21",
+   "no": "21",
+   "points": 1,
+   "materials": [
+    "t21"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-geo",
+   "requirement": [
+    "VIII.5"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k21.webp",
+    "w": 1101,
+    "h": 283
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mat-pp-2023-05-z22",
+   "no": "22",
+   "points": 2,
+   "materials": [
+    "t22"
+   ],
+   "prompt": "Oblicz pole trójkąta T2. Zapisz obliczenia.",
+   "topic": "matp-geo",
+   "requirement": [
+    "VIII.8"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k22.webp",
+    "w": 1052,
+    "h": 1755
+   },
+   "scoring": "2 pkt – poprawna metoda i obliczenie pola trójkąta T2: P2 = 120; 1 pkt – wykorzystanie podobieństwa trójkątów i zapisanie układu równań/równania pozwalającego obliczyć długości przyprostokątnych trójkąta T2 , np. a2 b2 = 12 2 + b2 2 = 262, (12x)2 + (5x)2 = 262 5 i a2 ALBO 2 2 – zapisanie stosunku pól trójkątów T1 i T2: P1 |BC| (lub P2 P1 = ( 26 ) oraz P2 = ( 26 ) |BC|) obliczenie długości odcinka BC: |BC| = 13, ALBO |EF| – obliczenie/zapisanie skali podobieństwa trójkątów, np. k= |BC| = 2 |BC| |EF| = 1 (lub k= 2), ALBO – obliczenie/zapisanie długości przyprostokątnych trójkąta T2 : 10, 24, ALBO – obliczenie długości c1 przeciwprostokątnej trójkąta T1 oraz zapisanie układu równań pozwalającego obliczyć długości a2, b2 przyprostokątnych trójkąta T2, np. c1 = 13 i 13 12 = 26 i 13 5 = 26 . a2 b2; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z23",
+   "no": "23",
+   "points": 1,
+   "materials": [
+    "t23"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz odpowiedź A albo B oraz odpowiedź 1., 2. albo 3.",
+   "topic": "matp-ana",
+   "requirement": [
+    "IX.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k23.webp",
+    "w": 780,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "Część 1",
+     "options": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "label": "Część 2",
+     "options": [
+      "1",
+      "2",
+      "3"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "mat-pp-2023-05-z24",
+   "no": "24",
+   "points": 1,
+   "materials": [
+    "t24"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-ana",
+   "requirement": [
+    "IX.2"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k24.webp",
+    "w": 1101,
+    "h": 285
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mat-pp-2023-05-z25",
+   "no": "25",
+   "points": 1,
+   "materials": [
+    "t25"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-ste",
+   "requirement": [
+    "X.2",
+    "X.3",
+    "VII.4"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k25.webp",
+    "w": 653,
+    "h": 218
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mat-pp-2023-05-z26",
+   "no": "26",
+   "points": 4,
+   "materials": [
+    "t26"
+   ],
+   "prompt": "Oblicz objętość i pole powierzchni całkowitej tego ostrosłupa. Zapisz obliczenia.",
+   "topic": "matp-ste",
+   "requirement": [
+    "X.5"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k26.webp",
+    "w": 1076,
+    "h": 2223
+   },
+   "scoring": "4 pkt – poprawna metoda obliczenia objętości i pola powierzchni całkowitej ostrosłupa oraz poprawne wyniki: V= 108 i Pc= 108 + 72√3; 3 pkt – obliczenie objętości ostrosłupa: V= 108 ALBO – obliczenie pola powierzchni całkowitej ostrosłupa: Pc= 108 + 72√3 oraz obliczenie wysokości ostrosłupa: H= 3; 2 pkt – obliczenie/zapisanie długości krawędzi podstawy: a= 6√3 oraz obliczenie wysokości ostrosłupa: H= 3 ALBO – obliczenie pola powierzchni całkowitej ostrosłupa: Pc= 108 + 72√3; 1 pkt – obliczenie/zapisanie długości krawędzi podstawy: a= 6√3 ALBO – obliczenie wysokości ostrosłupa: H= 3; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z27",
+   "no": "27",
+   "points": 1,
+   "materials": [
+    "t27"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-sta",
+   "requirement": [
+    "XI.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k27.webp",
+    "w": 1101,
+    "h": 285
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mat-pp-2023-05-z28",
+   "no": "28",
+   "points": 1,
+   "materials": [
+    "t28"
+   ],
+   "prompt": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.",
+   "topic": "matp-sta",
+   "requirement": [
+    "XI.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k28.webp",
+    "w": 653,
+    "h": 219
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mat-pp-2023-05-z29",
+   "no": "29",
+   "points": 2,
+   "materials": [
+    "t29"
+   ],
+   "prompt": "Uzupełnij tabelę. Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną spośród oznaczonych literami A–E.",
+   "topic": "matp-sta",
+   "requirement": [
+    "XII.2"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k29.webp",
+    "w": 1101,
+    "h": 352
+   },
+   "scoring": "2 pkt – wybranie dwóch poprawnych odpowiedzi; 1 pkt – wybranie jednej poprawnej odpowiedzi; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z30",
+   "no": "30",
+   "points": 2,
+   "materials": [
+    "t30"
+   ],
+   "prompt": "Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że iloczyn wylosowanych liczb jest podzielny przez 15. Zapisz obliczenia.",
+   "topic": "matp-sta",
+   "requirement": [
+    "XII.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k30.webp",
+    "w": 1060,
+    "h": 1820
+   },
+   "scoring": "2 pkt – zastosowanie poprawnej metody obliczenia prawdopodobieństwa zdarzenia A i uzyskanie poprawnego wyniku: P(A) = 6 64 ; 1 pkt – wypisanie wszystkich zdarzeń elementarnych lub obliczenie/podanie liczby tych zdarzeń: |Ω| = 8 ⋅8 lub sporządzenie tabeli o 64 polach odpowiadających zdarzeniom elementarnym, z których co najmniej jedno pole jest wypełnione, lub sporządzenie pełnego drzewa stochastycznego ALBO – wypisanie (zaznaczenie w tabeli) wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A i niewypisanie żadnego niewłaściwego: (3, 5), (5, 3), (6, 5), (5, 6), (5, 9), (9, 5), ALBO – podanie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A: |A| = 6, jeśli nie została otrzymana w wyniku zastosowania błędnej metody, ALBO – sporządzenie fragmentu drzewa stochastycznego, które zawiera wszystkie gałęzie sprzyjające zdarzeniu A oraz zapisanie prawdopodobieństwa 1 8 na co najmniej jednym odcinku każdego z etapów doświadczenia, ALBO – podanie prawdopodobieństwa jednoelementowego zdarzenia (elementarnego): 1 64 , ALBO – zapisanie tylko P(A) = 6 64 ; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pp-2023-05-z31.1",
+   "no": "31.1",
+   "points": 1,
+   "materials": [
+    "i31",
+    "t31.1"
+   ],
+   "prompt": "Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.",
+   "topic": "matp-flin",
+   "requirement": [
+    "V.3",
+    "V.2"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k31.1.webp",
+    "w": 1101,
+    "h": 285
+   },
+   "scoring": "1 pkt – odpowiedź poprawna; 0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.",
+   "type": "tf",
+   "answer": [
+    false,
+    true,
+    false,
+    true
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2.",
+    "Zdanie 3.",
+    "Zdanie 4."
+   ]
+  },
+  {
+   "id": "mat-pp-2023-05-z31.2",
+   "no": "31.2",
+   "points": 2,
+   "materials": [
+    "i31",
+    "t31.2"
+   ],
+   "prompt": "Którego dnia analizowanego okresu w aptece obsłużono największą liczbę klientów? Oblicz liczbę klientów obsłużonych tego dnia. Zapisz obliczenia.",
+   "topic": "matp-opt",
+   "requirement": [
+    "XIII.1"
+   ],
+   "key": {
+    "file": "assets/mat-pp-2023-05/k31.2.webp",
+    "w": 1075,
+    "h": 1417
+   },
+   "scoring": "2 pkt – poprawna metoda rozwiązania zadania oraz poprawne wyniki: 11 i 400; 1 pkt – wyznaczenie postaci kanonicznej funkcji L: L(n) = −(n−11)2 + 400 ALBO – obliczenie, którego dnia analizowanego okresu w aptece obsłużono największą liczbę klientów lub obliczenie największej liczby klientów: 11 lub 400, ALBO – obliczenie pierwszej współrzędnej p wierzchołka paraboli z własności L(k1) = L(k2), gdzie k1, k2 są różnymi liczbami takimi, że |p−k1| = |p−k2|: p= k1 + k2 = 11 2; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

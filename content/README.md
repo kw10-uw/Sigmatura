@@ -79,12 +79,31 @@ into two tasks with the same `no`: the closed part auto-graded, the justificatio
 
 ## Importing a paper
 
-1. Put the PDFs in `raw/exams/<subject>/` (git-ignored).
-2. Add crop boxes for its maps, photos and charts to `tools/crop_exam.py` and run
-   `python3 -I tools/crop_exam.py <exam id>` (writes `content/assets/<exam id>/`).
-3. Write `content/exams/<subject>/<year>-<session>.json` from the paper and the marking scheme
-   (`zasady`): answers, scoring and model answers come from the scheme, requirement codes too.
-4. Add the file to `content/exams/index.json`.
+Most papers are imported automatically:
+
+```
+python3 -I tools/import_exam.py <subject> <session>        # e.g. geo-pr 2405, mat-pp 2601
+python3 -I tools/import_exam.py pol-pp 2505 P1             # Polish: P1 = test, P2 = essay
+```
+
+It reads the paper and the marking scheme from `raw/exams/<subject>/` and writes
+`content/exams/<subject>/<year>-<session>.json` (`…-p2.json` for the Polish essay) plus
+`content/assets/<exam id>/`:
+
+| Output | What it is |
+|---|---|
+| `zN.webp` / `iN.webp` | crop of task N as printed (question, figures, options), and of the shared intro of a task group |
+| `kN.webp` → task `key` | crop of the marking scheme for task N: scoring rules and solution; shown after answering, and as the key of open tasks |
+| answers | `tf`, `mc` (letters), `multi` (A/B + 1/2/3, one letter per table row, language task items) from the scheme; everything else becomes `open`, self-rated against the key crop |
+| `requirement`, `topic` | codes from the scheme, mapped onto `scope/`; papers before Dec 2024 are matched by wording. Tasks with nothing left in the 2027 scope are skipped (listed in the output) |
+| text materials | Polish reading texts and long language passages as real text (`collapsed`), readable on a phone |
+| `audio` material | the CKE recording, streamed from cke.gov.pl (not stored here) |
+
+Files marked `"auto": true` came from the importer and can be regenerated; hand fixes for a task
+go in `tools/import_fixes.json` (merged into the task by id). `geo-pr/2025-05.json` was written by
+hand (typed prompts, figure crops by `tools/crop_exam.py`) and is not regenerated.
+
+After importing, list the file in `content/exams/index.json`.
 
 Check everything with `node tools/validate.mjs`: it also checks every `topic` exists in the
 app and every `requirement` exists in the subject's scope file.

@@ -1,0 +1,811 @@
+{
+ "id": "hisz-pp-2025-05",
+ "subject": "hisz-pp",
+ "formula": "2023",
+ "year": 2025,
+ "session": "maj",
+ "source": {
+  "paper": "MJHP-P0-100-A-2505-arkusz.pdf",
+  "key": "MJHP-P0-100-2505-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2025/Jezyk_hiszpanski/poziom_podstawowy/MJHP-P-100-2505_MJHU-P-100-2505.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z1.webp",
+   "w": 980,
+   "h": 565,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z2.webp",
+   "w": 1100,
+   "h": 1143,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–6) Usłyszysz dwukrotnie cztery teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. Del texto podemos deducir que la hablante aprecia un regalo por su valor A. estético. B. económico. C. sentimental. Tekst 2. 2.2. Hablando con su vecino, la mujer\n\nA. le pide ayuda.\n\nB. le da consejos.\n\nC. le avisa de un peligro.\n\nTekst 3. (do zadań 2.3. i 2.4.) 2.3. El hombre dice que fue a Barcelona A. por razones familiares. B. para ver la fiesta del huevo. C. por un impulso espontáneo. 2.4. Estas personas hablan de A. un plato. B. una tradición.\n\nC. su afición preferida. Tekst 4. (do zadań 2.5. i 2.6.) 2.5. La mujer informa de que los coches A. se alquilan para películas. B. se revisan todos los meses. C. se conservan en buen estado. 2.6. Las personas que hablan están en A. una tienda. B. un museo. C. un taller."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z3.webp",
+   "w": 1008,
+   "h": 221,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z4.webp",
+   "w": 1019,
+   "h": 1500,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–4) Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu. A. ¿Cuál puede ser la procedencia de la palabra alpargata? B. ¿Cómo ha cambiado la percepción de las alpargatas? C. ¿Cuáles son los orígenes de este tipo de calzado? D. ¿Por qué dejó de usarse este tipo de zapatos? E. ¿Qué características tienen las alpargatas? F. ¿Dónde se pueden comprar alpargatas? LAS ALPARGATAS\n\n4.1.\n\nLas hay planas y con plataforma, de tela y de cuero, con cintas y sin ellas. Combinan perfectamente tanto con la ropa deportiva como clásica. Pueden satisfacer todos los gustos. Pero, independientemente del modelo, todas tienen una suela* de paja gruesa y destacan por la comodidad y la ligereza que ofrecen.\n\n4.2.\n\nSe cree que el término alpargata viene del árabe. De hecho, los musulmanes de Al-Ándalus fueron los que pusieron el nombre que hoy usamos para referirnos a este tipo de calzado. Sin embargo, no parece ser una voz propiamente árabe. Probablemente tiene su origen en un vocablo prerromano y este se ha conservado tanto en vasco, abarka, como en español, abarca, que es un sinónimo de alpargata.\n\n4.3.\n\nSe supone que el “prototipo” de la alpargata fue la sandalia egipcia, en la que luego se inspiraron los romanos para elaborar una pantufla cubierta que protegía el pie del sol y del calor. La primera alusión a este calzado aparece en Europa en el año 1322. En esa época, los ejércitos de la corona de Aragón empleaban la ya clásica alpargata, aunque entonces eran llamadas espardenyes.\n\n4.4.\n\nSiglos más tarde, el calzado que era considerado propio de la clase humilde se volvió atractivo para las clases más elevadas socialmente. De hecho, el boom de ventas y el mayor éxito de este calzado tan singular tuvieron lugar en la década de los años 70. Fue precisamente Yves Saint Laurent quien apreció las cualidades de las alpargatas y las incorporó a sus desfiles de París, convirtiéndolas en el último grito de la moda.\n\nNa podstawie: abarcashoes.com; www.cope.es * Una suela – podeszwa. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z5.webp",
+   "w": 1027,
+   "h": 3145,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–7) Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. Tekst A\n\nNa podstawie: Carlos Lozano Ascencio, Platos combinados, Madrid 2009 Tekst B\n\nTekst własny\n\nUNA NUEVA VIVIENDA Cuando llegó, Francesca le abrió la puerta del piso y la recibió sonriente: —¡Hola, Silvia! ¡Te estábamos esperando! ¡Bienvenida! El piso de la calle Galileo tenía un salón de más de cuarenta metros, punto de encuentro de los inquilinos. A simple vista se notaba que era uno de los mejores escenarios para la organización de fiestas y reuniones. Todavía quedaban restos de batallas anteriores: un plato de plástico con un trozo de empanada sobre un diccionario; unas zapatillas deportivas abandonadas bajo la mesa de centro y unos calcetines encima... —Son de Philippe —dijo Francesca a modo de disculpa—, le repetimos que recoja sus cosas, pero siempre se le olvida. Ya lo conocerás, es muy simpático. Continuaron la visita. Primero pasaron por la cocina, cuyo desorden era mucho más grave que el del salón. Siguieron por el pasillo y se acercaron a una habitación que estaba al final. Francesca abrió la puerta y le dejó entrar primera. —¿Esta es nuestra habitación? —preguntó Silvia. —Sí, espero que te guste. Silvia se sorprendió al ver un dormitorio acogedor, limpio y ordenado.\n\nPiso de 3 dormitorios, 2 baños completos, salón independiente, cocina-comedor, orientación este, vivienda exterior, terraza, buen estado, para entrar a vivir. Edificio moderno. En la planta baja: varios comercios y un gimnasio abierto las 24 horas con entrada gratuita para los inquilinos. Garaje subterráneo. 175 000 € + 2 000 € plaza de garaje Ayudamos a conseguir un crédito bancario.\n\nTekst C\n\nNa podstawie: www.idealista.com\n\nTekst D\n\nNa podstawie: www.facebook.com\n\nLO QUE TIENES QUE TENER EN CUENTA A LA HORA DE ELEGIR TU NUEVA CASA\n\nMamá, ahora mismo estoy saliendo del trabajo y ya voy para casa. ¿Quieres que compre algo?\n\nSí, hijo, sí. Quiero que por fin te compres tu propio piso.\n\nUBICACIÓN PRECIO\n\nTRANSPORTE PÚBLICO\n\nDISTRIBUCIÓN Y TAMAÑO DE LOS ESPACIOS\n\nPrzeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania.\n\n5.1. De este texto se deduce que alguien está harto de compartir su vivienda con otra persona.\n\n5.2. En este texto se describe un piso compartido.\n\n5.3. En este texto se señala que es importante que la casa esté bien comunicada.\n\nUzupełnij luki w zdaniach 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać sens podanych informacji. Luki należy uzupełnić w języku hiszpańskim. Uwaga: jeden tekst nie pasuje do żadnego zdania. 5.4. En el piso de la calle Galileo, tanto en la cocina como en el salón __________________\n\n5.5. Los habitantes del piso del anuncio podrán disfrutar ____________________________\n\n5.6. Tanto el texto B como el texto C están dirigidos a las personas interesadas en\n\n5.7. Francesca trata a Silvia con _______________________________________________."
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z6.webp",
+   "w": 1018,
+   "h": 2267,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–5) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. FUTURO EMPERADOR BUSCA PROFESOR DE ESPAÑOL No todos los días a un profesor de idiomas le proponen dar clases al futuro emperador. Pero eso es justo lo que me ocurrió a mí un día de 1992 cuando era becario en Tokio. Un alto secretario de la casa real japonesa me llamó y me propuso enseñar español al príncipe Naruhito, hoy emperador de Japón. El príncipe había decidido aprender español con un nativo cuatro meses antes de ir a las Olimpiadas de Barcelona. Al principio pensé que me habían elegido por ser hombre, sin embargo, el príncipe me explicó que no era así. Al parecer, el Palacio Imperial hizo una lista con varios candidatos y pidió a la Embajada de España en Tokio que completara los datos personales de cada uno de ellos. Se sabe que ser de Barcelona no fue lo que influyó en la decisión final. Lo que le hizo tomar la decisión fue que los dos teníamos en aquel entonces treinta y dos años.\n\nPoco después empecé a darle clases al príncipe. Me sorprendieron su dedicación y su esfuerzo. Siempre traía hechos los ejercicios que le mandaba para hacer después de clase. Era mi alumno más listo. Bastaba con explicarle una vez la gramática y él lo entendía todo. Creo que le ayudaba que ya sabía otros idiomas, al menos inglés y francés. De hecho, no recuerdo tener que corregirle mucho. Además, tenía un oído espectacular, como buen músico, ya que tocaba la viola.\n\nTan solo una vez hubo un problema de entendimiento. Traje de un viaje a España un par de camisetas. Las llevé a clase y le pregunté al príncipe: “¿Con cuál quiere quedarse?”. Naruhito entendió que le regalaba las dos y me dejó a mí sin ninguna. “Otro día tengo que enseñarle qué significa la palabra cuál ”, pensé.\n\nMientras se acercaba la fecha del viaje, a Naruhito le interesaba cada vez más conocer las ciudades que visitaría, Sevilla y Barcelona. Tenía curiosidad por la lengua catalana. Aproveché que un amigo mío había publicado un diccionario catalán-japonés y se lo regalé para que aprendiera algunas palabras. Luego me enteré de que el príncipe puso en práctica ambos idiomas en su visita a España. A la vuelta a Japón, Naruhito quiso seguir aprendiendo español. Quedamos un par de veces para conversar, pero entonces llegó el anuncio formal de su boda con Masako. El príncipe sabía que la organización de ese evento le quitaría todo su tiempo libre y canceló las clases. Pocos meses después abandoné Tokio para trasladarme a Okinawa. Pasé allí cinco años y después volví a España. La última vez que nos vimos fue en 2004 cuando Naruhito vino a Madrid para la boda de Felipe y Leticia. Estuvimos comentando anécdotas de aquellos años en Tokio.\n\nNa podstawie: elpais.com\n\n6.1. ¿Cuál fue el criterio decisivo a la hora de elegir al narrador como profesor del príncipe? A. Su sexo. B. Su edad. C. Tener una recomendación. D. Ser habitante de Barcelona. 6.2. ¿Cuál de las afirmaciones sobre el príncipe Naruhito se presenta en el texto como una opinión y no como un hecho? A. Pocas veces cometía errores. B. Entregaba los deberes a tiempo. C. Aprendía las reglas gramaticales sin dificultad. D. El conocimiento de otras lenguas le facilitaba aprender español. 6.3. El profesor se dio cuenta de que Naruhito le había entendido mal cuando el príncipe A. le regaló su camiseta. B. se llevó las dos camisetas. C. se negó a aceptar el regalo. D. eligió solo una de las prendas de ropa. 6.4. Al volver de España, el príncipe Naruhito dejó de estudiar español porque A. había perdido el interés. B. prefirió aprender catalán. C. el profesor iba a abandonar Japón. D. sabía que le faltaría tiempo para el aprendizaje. 6.5. La intención del narrador es A. dar consejos. B. advertir de un peligro. C. compartir una experiencia. D. burlarse de unas costumbres. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z7.webp",
+   "w": 1018,
+   "h": 1016,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–4) Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki. LOS TRES DESEOS Son una pareja infeliz. Ha pasado mucho tiempo desde que se casaron y casi no se hablan. Él es un coleccionista de cosas viejas. 7.1. _____ La coloca sobre la mesa y pide la cena a su mujer. Ella simula no escucharlo. Está leyendo un libro. Cuando ve la lámpara, se acerca y la toca tres veces. Como en el cuento de Aladino, de la lámpara sale un genio. Los esposos se asustan, pero el genio les promete cumplir tres deseos: uno para ella, otro para él y uno más para los dos. Antes de pensar su deseo, el marido vuelve a pedir la cena. 7.2. _____ El marido, enfadado, explica que este no fue su deseo. Y la mujer, muy contenta porque ya no necesita hacer la comida, le desea buen provecho. Cuando los esposos se dan cuenta de que perdieron ya dos deseos, el genio reaparece por un momento y les recuerda que les queda uno más todavía. Ambos saben que se comportaron como egoístas, quieren inventar un deseo común, pero resulta muy difícil. Entonces ella se pone a llorar. 7.3. _____ “Sí, mucho”, le contesta ella, y el marido le confiesa que él también lo desea más que nada en el mundo. Mientras hablan, se toman de la mano por primera vez en muchos años y se miran a los ojos. Es evidente que ya no son jóvenes. Sin embargo, en aquel instante, se sienten\n\ncomo adolescentes. 7.4. _____ Su llegada no es necesaria; su tercer deseo ya se está cumpliendo.\n\nNa podstawie: www.ellibrototal.com A. Le gustaría recibir una novela moderna de esas de amor, un amor feliz y eterno. B. Y él, conmovido, le pregunta si quiere que se enamore de ella otra vez. C. Y de repente, dos huevos y una salchicha aparecen sobre la mesa. D. Abrazados en el sofá, esperan al genio, pero este no aparece. E. Una noche regresa a su casa con una bonita lámpara antigua. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z8.webp",
+   "w": 1000,
+   "h": 818,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–3) Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C. 8.1. X: ¿Me dejas el coche este sábado? Es que tengo que llevar a mi madre al aeropuerto. Y: _____ X: Te lo prometo, gracias.\n\nA. Claro que sí. B. Lo siento, lo necesito yo. C. Solo si me lo devuelves al día siguiente. 8.2. X: ¿Por qué quieres estudiar sueco? Y: _____\n\nA. No sé, siempre me ha atraído. B. Lo sé, es fantástico. C. Por su tamaño. 8.3. X: ¿_____ tu suegra? Y: Un poco mejor, pero todavía tiene que guardar cama.\n\nA. Cómo es B. Qué le ocurre a C. Cómo se encuentra PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z9.webp",
+   "w": 924,
+   "h": 967,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) W zadaniach 9.1.–9.4. spośród podanych opcji wybierz wyraz, który poprawnie uzupełnia luki w obydwu zdaniach. Zakreśl jedną z liter: A, B albo C. 9.1.\n\nEste pueblo es un ... perfecto para pasar las vacaciones. En primer ..., cuando vives en la ciudad, tienes una amplia oferta de ocio.\n\nA. sitio B. lugar C. ejemplo 9.2. Ellos se ... mucho porque son gemelos. Estas flores me ... muy bonitas.\n\nA. parecen\n\nB. quedan C. quieren 9.3. Al ver el gato, el ... se escondió debajo del armario. Mi abuelo intentó editar el documento pero no le funcionaba el ... .\n\nA. portátil B. plato C. ratón 9.4. Me alegro ... que te vaya bien. Mi madre se acuerda siempre ... ti.\n\nA. por B. de C. en PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z10.webp",
+   "w": 1100,
+   "h": 711,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–3) Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów. MILLONARIOS ANTES DE ACABAR LA ESCUELA Ser adolescente no es obstáculo para crear un negocio de éxito. Y si no, que se lo digan\n\na Nick D'Aloisio. Este programador británico es el creador de una aplicación que selecciona\n\ny resume las noticias más importantes que circulan por la red. Con 17 años vendió\n\nel proyecto a una multinacional estadounidense 10.1. ____________________ 30 millones\n\nde dólares. Tras la venta, mientras todavía cursaba la escuela secundaria, D'Aloisio\n\nse quedó trabajando para la empresa.\n\nOtro joven emprendedor es Fraser Doherty. El escocés se convirtió en empresario\n\n10.2. ____________________ tenía 14 años. Comenzó vendiendo mermelada de fruta,\n\ncien por ciento natural, basada en una receta de su abuela. Doherty creó él mismo\n\nla etiqueta del producto. 10.3. ____________________ hizo en el ordenador de su casa.\n\nAl principio, vendía los tarros puerta por puerta en las tiendas locales. Actualmente,\n\nsus productos se venden en más de 2 000 supermercados.\n\nNa podstawie: www.expansion.com"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z11.webp",
+   "w": 1014,
+   "h": 276,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "txt11",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 11. (0–3) Uzupełnij zdania 11.1.–11.3. Wykorzystaj w odpowiedniej formie wyrazy podane w nawiasach. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać zdania logiczne i gramatycznie poprawne. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane. 11.1. La parada de autobús está (lado / restaurante) _______________________________\n\n11.2. El médico le recomendó una dieta muy estricta, pero Miguel (seguir / comer)\n\n11.3. No es posible que las dos motos (tener / mismo) _____________________________"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/hisz-pp-2025-05/z12.webp",
+   "w": 1013,
+   "h": 633,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "txt12",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 12. (0–12) Wraz z grupą kolegów zorganizowaliście wystawę dotyczącą Waszej szkoły. W e-mailu do kolegi z Hiszpanii: • wyjaśnij, z jakiej okazji została zorganizowana ta wystawa • opisz materiały, które zaprezentowaliście na tej wystawie • napisz, jaki problem pojawił się podczas przygotowywania wystawy i w jaki sposób został on przez Was rozwiązany • przedstaw reakcję osób zwiedzających wystawę. Napisz swoją wypowiedź w języku hiszpańskim. Podpisz się jako XYZ. Rozwiń swoją wypowiedź w każdym z czterech podpunktów, tak aby osoba nieznająca polecenia w języku polskim uzyskała wszystkie wskazane w nim informacje. Pamiętaj, że długość wypowiedzi powinna wynosić od 100 do 150 wyrazów (nie licząc wyrazów podanych na początku wypowiedzi). Oceniane są: umiejętność pełnego przekazania informacji (5 punktów), spójność i logika wypowiedzi (2 punkty), zakres środków językowych (3 punkty) oraz poprawność środków językowych (2 punkty). CZYSTOPIS Hola, Sergio: ¿Qué tal? Mis compañeros y yo hemos organizado una exposición dedicada a nuestra escuela.\n\nTreść Spójność i logika Zakres środków językowych Poprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2\n\nJĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023 JĘZYK HISZPAŃSKI Poziom podstawowy\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "hisz-pp-2025-05-z01",
+   "no": "1",
+   "points": 5,
+   "materials": [
+    "t1",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat uczenia się. Do każdej wypowiedzi (1.1.–1.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.3",
+    "II.2",
+    "II.4"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k1.webp",
+    "w": 1082,
+    "h": 487
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    3,
+    5,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "hisz-pp-2025-05-z02",
+   "no": "2",
+   "points": 6,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie cztery teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. Zakreśl jedną z liter: A, B albo C. Tekst 1. 2.1. Del texto podemos deducir que la hablante aprecia un regalo por su valor Tekst 2. 2.2. Hablando con su vecino, la mujer Tekst 3. (do zadań 2.3. i 2.4.) 2.3. El hombre dice que fue a Barcelona 2.4. Estas personas hablan de Tekst 4. (do zadań 2.5. i 2.6.) 2.5. La mujer informa de que los coches 2.6. Las personas que hablan están en",
+   "topic": "hisz-lis",
+   "requirement": [
+    "II.7",
+    "II.3",
+    "II.5",
+    "II.2",
+    "II.4"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k2.webp",
+    "w": 1101,
+    "h": 675
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "2.6.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    1,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2025-05-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wywiad z wokalistką zespołu muzycznego. Na podstawie informacji zawartych w nagraniu uzupełnij luki w zdaniach 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku hiszpańskim.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k3.webp",
+    "w": 1082,
+    "h": 3541
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2025-05-z04",
+   "no": "4",
+   "points": 4,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst. Dobierz właściwy nagłówek (A–F) do każdej oznaczonej części tekstu (4.1.–4.4.). Wpisz odpowiednią literę w każdą kratkę. Uwaga: dwa nagłówki zostały podane dodatkowo i nie pasują do żadnej części tekstu.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k4.webp",
+    "w": 1082,
+    "h": 411
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2025-05-z05",
+   "no": "5",
+   "points": 7,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj cztery teksty (A–D). Wykonaj zadania 5.1.–5.7. zgodnie z poleceniami. LO QUE TIENES QUE TENER EN CUENTA A LA HORA DE ELEGIR TU NUEVA CASA Przeczytaj zdania 5.1.–5.3. Dopasuj do każdego zdania właściwy tekst (A–D). Wpisz rozwiązania do tabeli. Uwaga: jeden tekst nie pasuje do żadnego zdania. Uzupełnij luki w zdaniach 5.4.–5.7. zgodnie z treścią tekstów A–D, tak aby jak najbardziej precyzyjnie oddać sens podanych informacji. Luki należy uzupełnić w języku hiszpańskim. Uwaga: jeden tekst nie pasuje do żadnego zdania.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.7",
+    "III.1",
+    "III.4",
+    "VIII.2",
+    "III.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k5.webp",
+    "w": 1082,
+    "h": 2794
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2025-05-z06",
+   "no": "6",
+   "points": 5,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. ¿Cuál fue el criterio decisivo a la hora de elegir al narrador como profesor del príncipe? 6.2. ¿Cuál de las afirmaciones sobre el príncipe Naruhito se presenta en el texto como una opinión y no como un hecho? 6.3. El profesor se dio cuenta de que Naruhito le había entendido mal cuando 6.4. Al volver de España, el príncipe Naruhito dejó de estudiar español porque 6.5. La intención del narrador es",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.4",
+    "III.8",
+    "III.2"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k6.webp",
+    "w": 1101,
+    "h": 549
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "6.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "6.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    3,
+    1,
+    3,
+    2
+   ]
+  },
+  {
+   "id": "hisz-pp-2025-05-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto cztery zdania. Wpisz w każdą lukę (7.1.–7.4.) literę, którą oznaczono brakujące zdanie (A–E), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "hisz-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k7.webp",
+    "w": 1082,
+    "h": 428
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    2,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "hisz-pp-2025-05-z08",
+   "no": "8",
+   "points": 3,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Uzupełnij poniższe minidialogi (8.1.–8.3.). Wybierz spośród podanych opcji brakującą wypowiedź lub jej fragment, tak aby otrzymać spójny i logiczny tekst. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k8.webp",
+    "w": 1082,
+    "h": 376
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "8.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "8.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "hisz-pp-2025-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "W zadaniach 9.1.–9.4. spośród podanych opcji wybierz wyraz, który poprawnie uzupełnia luki w obydwu zdaniach. Zakreśl jedną z liter: A, B albo C.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k9.webp",
+    "w": 1101,
+    "h": 476
+   },
+   "scoring": "0–4 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "9.1.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.2.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.3.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    },
+    {
+     "label": "9.4.",
+     "options": [
+      "A",
+      "B",
+      "C"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "hisz-pp-2025-05-z10",
+   "no": "10",
+   "points": 3,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (10.1.–10.3.) jednym wyrazem, tak aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k10.webp",
+    "w": 1082,
+    "h": 321
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2025-05-z11",
+   "no": "11",
+   "points": 3,
+   "materials": [
+    "t11",
+    "txt11"
+   ],
+   "prompt": "Uzupełnij zdania 11.1.–11.3. Wykorzystaj w odpowiedniej formie wyrazy podane w nawiasach. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać zdania logiczne i gramatycznie poprawne. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane.",
+   "topic": "hisz-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k11.webp",
+    "w": 1082,
+    "h": 1647
+   },
+   "scoring": "0–3 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "hisz-pp-2025-05-z12",
+   "no": "12",
+   "points": 12,
+   "materials": [
+    "t12",
+    "txt12"
+   ],
+   "prompt": "Wraz z grupą kolegów zorganizowaliście wystawę dotyczącą Waszej szkoły. W e-mailu do kolegi z Hiszpanii: • wyjaśnij, z jakiej okazji została zorganizowana ta wystawa • opisz materiały, które zaprezentowaliście na tej wystawie • napisz, jaki problem pojawił się podczas przygotowywania wystawy i w jaki sposób został on przez Was rozwiązany • przedstaw reakcję osób zwiedzających wystawę. Hola, Sergio: ¿Qué tal? Mis compañeros y yo hemos organizado una exposición dedicada a nuestra escuela.",
+   "topic": "hisz-wri",
+   "requirement": [
+    "V.1",
+    "V.2",
+    "V.6",
+    "V.7",
+    "VII.3",
+    "VIII.3"
+   ],
+   "key": {
+    "file": "assets/hisz-pp-2025-05/k12.webp",
+    "w": 1079,
+    "h": 3419
+   },
+   "scoring": "0–12 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

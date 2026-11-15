@@ -1,0 +1,517 @@
+{
+ "id": "pol-pp-2024-12",
+ "subject": "pol-pp",
+ "formula": "2023",
+ "year": 2024,
+ "session": "probna",
+ "source": {
+  "paper": "MPOP-P1-100-A-2412-arkusz.pdf",
+  "key": "MPOP-P1-100-300-400-660-Q00-K00-MPOU-2412-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "tekst1",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst 1 – Sebastian Szybka Świat jest matematyczny",
+   "text": "Sebastian Szybka Świat jest matematyczny\n\nPrawa fizyczne są wyrażone w języku matematyki. Pozornie nie kryje się za tym nic niezwykłego. Poeta przecież też zapisuje swoje wiersze za pomocą zestawu znaków reprezentujących słowa. Mimo to relacja matematyki do rzeczywistości jest odmienna niż relacja języka do poezji. Tajemniczy i zagadkowy związek matematyki z fizycznym światem jest określany mianem matematyczności przyrody. Co dokładnie rozumie się przez to pojęcie?\n\nWyobraźmy sobie, że znajdujemy kartkę, która została wydarta z książki Pawła Jasienicy1 Polska Jagiellonów. Czy na podstawie pojedynczej kartki jesteśmy w stanie odgadnąć zawartość sąsiednich stron? Do tego strzępka informacji można dopasować wiele alternatywnych i nieprawdziwych historii. W fizyce dzięki odgadnięciu fragmentu struktury matematycznej odpowiadającej wycinkowi rzeczywistości, czyli pojedynczej kartce z matematycznej księgi Wszechświata2, potrafimy odtworzyć cały rozdział z tej księgi. Fizycy nie zaakceptują nowej teorii, jeśli jej struktura matematyczna odtwarza tylko znane fakty. Domagamy się, aby nowa teoria zawierała nowe przewidywania, aby jej matematyczna struktura odsłaniała nieznane wcześniej fragmenty rzeczywistości. Badania teoretyczne często o wiele lat wyprzedzają niejedną obserwację – na potwierdzenie realności fal grawitacyjnych trzeba było czekać ponad sto lat!\n\nIstnieje zagadkowa odpowiedniość struktur matematyki i fizycznego świata. Fizycy twierdzą, że przyroda jest matematyczna, ponieważ można poznawać ją równocześnie na dwa sposoby: empirycznie, czyli dzięki obserwacjom i eksperymentom, ale także gdy z ołówkiem w ręku przedzieramy się przez gąszcz odpowiadających jej matematycznych struktur. Ten drugi sposób nie oznacza jedynie opisywania rzeczywistości w języku matematyki – jest metodą odkrywania świata.\n\nObecnie znamy tylko pojedyncze rozdziały z galileuszowej księgi Wszechświata. Nasze teorie nie są ostateczne. Oznacza to, że mają one swój zakres stosowalności oraz że do ich działania niezbędne okazują się dane pochodzące z eksperymentów i z obserwacji. Wielu fizyków wierzy, że kiedyś uda się odnaleźć jedną matematyczną strukturę niezawierającą parametrów, które należałoby wyznaczyć z obserwacji. Nie mamy pewności, czy taka struktura istnieje ani czy jej złożoność nie przekracza możliwości naszych umysłów. Ponadto naiwnością byłoby sądzić, że każda teoria dająca się pomyśleć została zrealizowana w przyrodzie. Matematyczność przyrody polega na tym, że gdy już natrafimy na fragment właściwej matematycznej struktury, przez wiele kolejnych lat będziemy mogli poznawać rzeczywistość dzięki analizowaniu tej struktury.\n\nWyobraźnia człowieka jest bardzo ograniczona. Niesamowicie trudno wymyślić historię, która nie została już opowiedziana, czy też namalować naprawdę oryginalny obraz. Tworzymy nowe rzeczy w wyniku przetwarzania znanych. Fantastyczne potwory na obrazach Boscha3 to ludzie o głowach zwierząt. Wydaje się, że tylko matematyka niesie\n\nw sobie moc tworzenia pojęć istotnie nowych, oryginalnych, a do tego mających swoje odpowiedniki w rzeczywistym świecie. Gdyby nie równania Maxwella, które opisują światło, nikomu nie wpadłoby do głowy, że podział na czas i przestrzeń jest tylko złudzeniem naszych zmysłów.\n\nMatematyzacja jest oznaką dojrzałości teorii. W fizyce, która zajmuje się najprostszymi i najbardziej fundamentalnymi układami, nastąpiła ona najwcześniej. Im bardziej fundamentalna teoria, tym ważniejszą rolę odgrywa w niej matematyka.\n\nNa podstawie: Sebastian Szybka, Świat jest matematyczny, www.tygodnikpowszechny.pl\n\n1 Paweł Jasienica – polski historyk, pisarz i publicysta. 2 Matematyczna księga Wszechświata – Galileusz porównał Wszechświat do księgi napisanej w języku\n\nmatematyki; był włoskim fizykiem, astronomem i filozofem, stworzył podstawy metody badawczej w przyrodoznawstwie, opartej na eksperymencie i na użyciu języka matematyki do opisu zjawisk zachodzących w przyrodzie. 3 Hieronim Bosch – niderlandzki malarz i rysownik słynący z obrazów, na których elementy realistyczne były\n\nłączone z fantastycznymi bądź ze zdeformowanymi."
+  },
+  {
+   "id": "tekst2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst 2 – Łukasz Lamża Świat nie jest matematyczny",
+   "text": "Łukasz Lamża Świat nie jest matematyczny\n\nNie jestem pewien, czy świat w ogóle jest „jakiś”. Ale jeżeli już jakiś jest, to nie matematyczny. Co by to właściwie miało znaczyć?\n\nWszystko zaczęło się od erozji1 naszego zdroworozsądkowego przekonania, że świat jest z grubsza taki, jakim go doświadczamy. W żargonie filozoficznym oznaczałoby to odchodzenie od realizmu naiwnego. To przekonanie, że jeżeli postrzegam jabłko jako czerwone, to ono jest czerwone. Innymi słowy: naiwny realista przypisuje światu – obiektywnemu „światu samemu w sobie”, niezależnemu od istnienia bądź nieistnienia ludzi – cechy swojej własnej świadomości, cechy tego, jak człowiek widzi świat.\n\nPrzykład koloru jest szczególnie ciekawy, ponieważ skrupulatna analiza materii i widzenia barwnego mówi nam, że jabłko w żadnym zwykłym sensie nie jest czerwone, a tylko człowiek, widzący je, przeżywa wrażenie czerwieni. Filozofowie lubią w takich sytuacjach przypominać, że fala elektromagnetyczna wędrująca w przestrzeni nie ma w sobie nic „czerwonego”, a tą jej cechą, która ostatecznie wywołuje w nas owo wrażenie barwne, okazuje się długość fali. Ktoś mógłby powiedzieć, że prawdziwe są nie barwy, tylko długości fal.\n\nUznaję bez walki – bo jaki sens walczyć z oczywistą prawdą – że świat daje się matematyzować. Innymi słowy: da się go wyrazić poprzez matematykę. Cóż, mówi nam o tym niedwuznacznie doświadczenie codzienne – jeżeli mam 40 jabłek i zjem jedno, nie muszę ich żmudnie przeliczać, aby wiedzieć, że mam teraz 39 jabłek. Przyznaję też chętnie, że matematyka jest wyjątkowo skutecznym narzędziem poznawania świata. Przykładowo: równania Maxwella naprawdę są bardzo dobrym narzędziem do opisu światła. To jednak nie to samo, co przypisanie cechy matematyczności obiektom występującym w świecie!\n\nJest to przecież dokładnie ten sam błąd, który popełniają realiści naiwni, gdy po tym jak do świata przyłożą miarę swego oka, orzekają, że jest on czerwony! Fizyk, który przykłada do świata rachunek różniczkowy, nie ma prawa twierdzić, że proces przez niego analizowany jest „różniczkowalny”. Żaden poziom skuteczności matematyki i jej „adekwatności” nie ma\n\nprzy tym żadnego znaczenia. Zresztą inne metody też odznaczają się adekwatnością i skutecznością. Farbami olejnymi świetnie maluje się krajobrazy. Ośmielam się twierdzić, że odwzorowanie matematyczne porządnego krajobrazu morskiego jest wręcz wielokrotnie gorsze od odwzorowania olejnego czy nawet pastelowego. To, że świat daje się „uolejnić”, albo że jest „pastelowalny”, nie oznacza jednak, że żyjemy w olejnym albo w pastelowym Wszechświecie!\n\nGdy detektyw Poirot2 odwiedza starego znajomego w ponurym angielskim domostwie, mogę przewidzieć nie gorzej niż fizycy matematyczni z CERN-u3, że ktoś tu padnie trupem. Wszechświat nie tylko wyraźnie daje się literaturyzować; jest jeszcze lepiej – jego literaturyzacja daje nam autentyczną moc przewidywania! Nie oznacza to jednak z automatu, że Wszechświat jest literaturą.\n\nNa koniec pozostaje problem fundamentalny: muszę przyznać, że teza o świecie, który jest „matematyczny”, okazuje się dla mnie w istocie niezrozumiała. Co tak naprawdę miałoby to oznaczać? Że wielka lupa przyłożona do elektronu ukaże nam wibrujące w jego wnętrzu maleńkie znaczki 5, ψ i Σ? Oczywiście, że nie! – wykrzykną pewnie słusznie oburzeni zwolennicy hipotezy Wszechświata matematycznego. Dobrze – odpowiem cierpliwie – ale przecież opis elektronu składa się właśnie z tych znaczków i to na podstawie takiego opisu twierdzicie, że świat jakoś ten opis przypomina. Matematycy, gdy ich poprosić o opisanie elektronu, chętnie opowiadają o grupach, o całkach, o operatorach, o macierzach, o funkcjach i o wyznacznikach, jednak wszystkie te opowieści powstają z użyciem małych znaczków na papierze lub na ekranie komputera. Nie znamy innej matematyki, a świat nie wydaje się ulepiony z cyfr i z małych greckich literek.\n\nJedyną uczciwą odpowiedź na pytanie, jaki jest świat, stanowi stara dobra odpowiedź buddyjska: milczenie. Innymi słowy: bez względu na to, jaką cechę przypiszę światu „naprawdę”, będę w błędzie.\n\nNa podstawie: Łukasz Lamża, Świat nie jest matematyczny, www.tygodnikpowszechny.pl"
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z1.webp",
+   "w": 1087,
+   "h": 87,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z2.webp",
+   "w": 1087,
+   "h": 87,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z3.webp",
+   "w": 1087,
+   "h": 120,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z4.webp",
+   "w": 1101,
+   "h": 450,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z5.webp",
+   "w": 1093,
+   "h": 184,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z6.webp",
+   "w": 1087,
+   "h": 431,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z7.webp",
+   "w": 1087,
+   "h": 671,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z8.webp",
+   "w": 1087,
+   "h": 1272,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "i9",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/i9.webp",
+   "w": 1087,
+   "h": 413,
+   "caption": "Wspólne informacje do zadania 9"
+  },
+  {
+   "id": "t9.1",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z9.1.webp",
+   "w": 1087,
+   "h": 121,
+   "caption": "Zadanie 9.1 – arkusz"
+  },
+  {
+   "id": "t9.2",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z9.2.webp",
+   "w": 1087,
+   "h": 87,
+   "caption": "Zadanie 9.2 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z10.webp",
+   "w": 1087,
+   "h": 1060,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z11.webp",
+   "w": 1087,
+   "h": 87,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z12.webp",
+   "w": 1087,
+   "h": 395,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "t13",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z13.webp",
+   "w": 1087,
+   "h": 382,
+   "caption": "Zadanie 13 – arkusz"
+  },
+  {
+   "id": "t14",
+   "type": "image",
+   "file": "assets/pol-pp-2024-12/z14.webp",
+   "w": 1087,
+   "h": 1050,
+   "caption": "Zadanie 14 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "pol-pp-2024-12-z01",
+   "no": "1",
+   "points": 1,
+   "materials": [
+    "tekst2",
+    "t1"
+   ],
+   "prompt": "Na podstawie 2. akapitu tekstu Łukasza Lamży wyjaśnij, na czym polega postawa naiwnego realisty.",
+   "topic": "pol-tek",
+   "requirement": [
+    "I.2.1"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k1.webp",
+    "w": 1067,
+    "h": 479
+   },
+   "scoring": "1 pkt – poprawne wyjaśnienie, na czym polega postawa naiwnego realisty na podstawie 2. akapitu tekstu 2; 0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z02",
+   "no": "2",
+   "points": 1,
+   "materials": [
+    "tekst1",
+    "t2"
+   ],
+   "prompt": "Na podstawie tekstu Sebastiana Szybki wyjaśnij, na czym polega matematyczność przyrody.",
+   "topic": "pol-tek",
+   "requirement": [
+    "I.2.1"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k2.webp",
+    "w": 1064,
+    "h": 511
+   },
+   "scoring": "1 pkt – poprawne wyjaśnienie, na czym polega matematyczność przyrody na podstawie tekstu 1; 0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z03",
+   "no": "3",
+   "points": 2,
+   "materials": [
+    "tekst1",
+    "tekst2",
+    "t3"
+   ],
+   "prompt": "Sebastian Szybka oraz Łukasz Lamża w swoich tekstach odwołują się do malarstwa. Czy te odwołania ilustrują takie samo przekonanie o matematyce? W uzasadnieniu odpowiedzi odwołaj się do obu tekstów.",
+   "topic": "pol-tek",
+   "requirement": [
+    "I.2.1"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k3.webp",
+    "w": 1073,
+    "h": 758
+   },
+   "scoring": "2 pkt – rozstrzygnięcie oraz trafne uzasadnienie na podstawie obu tekstów; 1 pkt – rozstrzygnięcie oraz trafne uzasadnienie na podstawie jednego tekstu; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z04",
+   "no": "4",
+   "points": 2,
+   "materials": [
+    "tekst1",
+    "tekst2",
+    "t4"
+   ],
+   "prompt": "Oceń prawdziwość podanych stwierdzeń odnoszących się do tekstu Sebastiana Szybki oraz do tekstu Łukasza Lamży. Zaznacz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.",
+   "topic": "pol-tek",
+   "requirement": [
+    "I.2.3"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k4.webp",
+    "w": 996,
+    "h": 219
+   },
+   "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi; 0 pkt – jedna poprawna odpowiedź lub odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "tf",
+   "answer": [
+    true,
+    false,
+    true
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2.",
+    "Zdanie 3."
+   ]
+  },
+  {
+   "id": "pol-pp-2024-12-z05",
+   "no": "5",
+   "points": 4,
+   "materials": [
+    "tekst1",
+    "tekst2",
+    "t5"
+   ],
+   "prompt": "Na podstawie obu tekstów napisz notatkę syntetyzującą na temat: zagadnienie matematyczności świata. Twoja wypowiedź powinna liczyć 60–90 wyrazów. Część 2. Test historycznoliteracki",
+   "topic": "pol-jez",
+   "requirement": [
+    "I.2.1",
+    "I.2.2",
+    "II.1.1",
+    "II.4.1",
+    "II.4.2"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k5.webp",
+    "w": 1080,
+    "h": 3067
+   },
+   "scoring": "1 pkt – poprawny zapis, dopuszczalne dwa błędy (językowe, ortograficzne lub interpunkcyjne); 0 pkt – trzy i więcej błędów (językowych, ortograficznych lub interpunkcyjnych).",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z06",
+   "no": "6",
+   "points": 2,
+   "materials": [
+    "t6"
+   ],
+   "prompt": "Wyjaśnij, jakiej rady udziela podmiot liryczny Deliuszowi, oraz podaj nazwę prądu filozoficznego, z którego ta rada wynika.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.8",
+    "I.1.14",
+    "I.2.4"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k6.webp",
+    "w": 1034,
+    "h": 506
+   },
+   "scoring": "2 pkt – poprawne wyjaśnienie, jakiej rady udziela podmiot liryczny, ORAZ podanie nazwy prądu filozoficznego; 1 pkt – poprawne wyjaśnienie, jakiej rady udziela podmiot liryczny, ALBO podanie nazwy prądu filozoficznego; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z07",
+   "no": "7",
+   "points": 1,
+   "materials": [
+    "t7"
+   ],
+   "prompt": "Na podstawie fraszki Ku Muzom Jana Kochanowskiego wyjaśnij, jaką rolę podmiot liryczny przypisuje poezji.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.8"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k7.webp",
+    "w": 1076,
+    "h": 354
+   },
+   "scoring": "1 pkt – poprawne wyjaśnienie roli poezji; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z08",
+   "no": "8",
+   "points": 2,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Na plakacie za pomocą różnych elementów graficznych przedstawiono interpretację utworu Moliera. Wybierz dwa elementy graficzne i wyjaśnij ich sens w kontekście problematyki komedii Skąpiec.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.7",
+    "I.1.8",
+    "I.2.5",
+    "I.2.3"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k8.webp",
+    "w": 1071,
+    "h": 840
+   },
+   "scoring": "2 pkt – poprawne wyjaśnienie sensu dwóch elementów graficznych w kontekście problematyki komedii Skąpiec; 1 pkt – poprawne wyjaśnienie sensu jednego elementu graficznego w kontekście problematyki komedii Skąpiec; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z09.1",
+   "no": "9.1",
+   "points": 1,
+   "materials": [
+    "i9",
+    "t9.1"
+   ],
+   "prompt": "Na podstawie przytoczonego fragmentu Lalki oraz całej powieści Bolesława Prusa wykaż, że działania prezesowej Zasławskiej były zgodne z założeniem pracy organicznej.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.7",
+    "I.1.8"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k9.1.webp",
+    "w": 1101,
+    "h": 599
+   },
+   "scoring": "1 pkt – poprawne wykazanie na podstawie fragmentu i całej powieści Lalka, że działania Zasławskiej były zgodne z założeniem pracy organicznej; 0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z09.2",
+   "no": "9.2",
+   "points": 1,
+   "materials": [
+    "i9",
+    "t9.2"
+   ],
+   "prompt": "Czy działalność dobroczynna Izabeli Łęckiej stanowiła realizację założenia pracy organicznej? W uzasadnieniu odpowiedzi odwołaj się do Lalki Bolesława Prusa.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.7",
+    "I.1.8"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k9.2.webp",
+    "w": 1076,
+    "h": 363
+   },
+   "scoring": "1 pkt – poprawne rozstrzygnięcie i uzasadnienie na podstawie Lalki; 0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z10",
+   "no": "10",
+   "points": 1,
+   "materials": [
+    "t10"
+   ],
+   "prompt": "Oceń prawdziwość podanych stwierdzeń odnoszących się do wiersza Czarna róża Kazimierza Przerwy-Tetmajera. Zaznacz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.5",
+    "I.1.8"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k10.webp",
+    "w": 1101,
+    "h": 252
+   },
+   "scoring": "1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+   "type": "tf",
+   "answer": [
+    true,
+    true
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2."
+   ]
+  },
+  {
+   "id": "pol-pp-2024-12-z11",
+   "no": "11",
+   "points": 2,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Na podstawie znanych Ci fragmentów Ferdydurke Witolda Gombrowicza wyjaśnij, czym jest forma i jak wpływa ona na człowieka. Odpowiedź zilustruj sytuacją z utworu.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.7",
+    "I.1.8"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k11.webp",
+    "w": 1055,
+    "h": 638
+   },
+   "scoring": "2 pkt – poprawne wyjaśnienie, czym jest forma i jak wpływa ona na człowieka, ORAZ zilustrowanie odpowiedzi sytuacją z Ferdydurke; 1 pkt – poprawne wyjaśnienie, czym jest forma na podstawie fragmentów Ferdydurke; 0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z12",
+   "no": "12",
+   "points": 2,
+   "materials": [
+    "t12"
+   ],
+   "prompt": "Z opowiadania Proszę państwa do gazu Tadeusza Borowskiego podaj przykład sytuacji potwierdzającej, że obóz koncentracyjny to przedsiębiorstwo eksterminacji, oraz przykład sytuacji potwierdzającej, że obóz koncentracyjny to przedsiębiorstwo rabunkowej eksploatacji.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.7",
+    "I.1.8"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k12.webp",
+    "w": 1053,
+    "h": 815
+   },
+   "scoring": "2 pkt – poprawne podanie przykładu sytuacji z utworu potwierdzającej, że obóz koncentracyjny to przedsiębiorstwo eksterminacji ORAZ przykładu sytuacji z utworu potwierdzającej, że obóz koncentracyjny to przedsiębiorstwo rabunkowej eksploatacji; 1 pkt – poprawne podanie przykładu sytuacji z utworu potwierdzającej, że obóz koncentracyjny to przedsiębiorstwo eksterminacji ALBO przykładu sytuacji z utworu potwierdzającej, że obóz koncentracyjny to przedsiębiorstwo rabunkowej eksploatacji; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z13",
+   "no": "13",
+   "points": 1,
+   "materials": [
+    "t13"
+   ],
+   "prompt": "Wyjaśnij, jaki stosunek do aktu tworzenia wyraża utwór mironczarnia Mirona Białoszewskiego.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.8",
+    "II.1.1"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k13.webp",
+    "w": 1041,
+    "h": 348
+   },
+   "scoring": "1 pkt – poprawne wyjaśnienie, jaki stosunek do aktu tworzenia wyraża utwór Mirona Białoszewskiego; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "pol-pp-2024-12-z14",
+   "no": "14",
+   "points": 2,
+   "materials": [
+    "t14"
+   ],
+   "prompt": "Tekst 1. Tekst 2. Czy w obu przytoczonych wierszach wyrażono tę samą refleksję na temat wolności? Uzasadnij odpowiedź.",
+   "topic": "pol-epo",
+   "requirement": [
+    "I.1.8",
+    "I.1.12",
+    "I.1.14",
+    "II.1.1"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2024-12/k14.webp",
+    "w": 1030,
+    "h": 427
+   },
+   "scoring": "2 pkt – rozstrzygnięcie i poprawne uzasadnienie odnoszące się do refleksji na temat wolności wyrażonych w obu utworach; 1 pkt – poprawne określenie refleksji na temat wolności wyrażonej w utworze Ignacego Krasickiego ALBO poprawne określenie refleksji na temat wolności wyrażonej w utworze Juliana Kornhausera; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

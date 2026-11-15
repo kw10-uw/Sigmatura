@@ -1,0 +1,705 @@
+{
+ "id": "ang-pr-2023-05",
+ "subject": "ang-pr",
+ "formula": "2023",
+ "year": 2023,
+ "session": "maj",
+ "source": {
+  "paper": "MJAP-R0-100-2305.pdf",
+  "key": "MJAP-R0-100-2305-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Jezyk_angielski/poziom_rozszerzony/MJAP-R0-100-2305.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z1.webp",
+   "w": 1100,
+   "h": 1337,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "txt1",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 1. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1.\n\n1.1. The story illustrates that A. a clever strategy can help you get what you want. B. teamwork helps you find a way out of a difficult situation. C. using money to solve a problem can make the problem worse. Tekst 2. 1.2. When Jayne says that library users “took to it”, she means that they A. supported the idea of reducing the library’s working hours. B. came up with suggestions for managing the library online. C. approved of the library’s new way of operating. W zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 3. (do zadań 1.3.–1.6.) 1.3. When the speaker tried to heat up the pizza, he A. handled it carelessly at one point. B. misunderstood the instructions. C. had to ask someone for help. D. forgot to monitor the time. 1.4. What finally motivated the speaker to enrol in a cooking course? A. a comment that made him feel embarrassed B. the poor availability of takeaway food\n\nC. a promise he made to himself D. pressure from his friends 1.5. The speaker remarks that the cooking course\n\nA. has encouraged him to take part in a cooking competition. B. has proved to be beyond his financial means. C. has discouraged him from trying to improve. D. has inspired an interest in baking. 1.6. The text is about a man who A. has lost hope he will ever learn to cook. B. is trying to develop his cooking skills. C. blames his father for not teaching him how to cook. D. boasts about his great progress in different kinds of cooking."
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z2.webp",
+   "w": 1100,
+   "h": 578,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "txt2",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 2. (0–5) Usłyszysz dwukrotnie pięć wypowiedzi związanych z pracą osoby zajmującej się kontrolą jakości usług hotelowych. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi. This speaker mentions\n\nA. the first aspect he/she takes into consideration when inspecting a hotel. B. an advantage of being sent to remote places.\n\nC. a problem which makes him/her want to quit the job. D. a situation in which he/she improvised on arrival at the hotel. E. the moment when he/she reveals his/her identity. F. a request for information intended to support an invented story.\n\n2.1. 2.2. 2.3. 2.4. 2.5."
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z3.webp",
+   "w": 1017,
+   "h": 258,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z4.webp",
+   "w": 1019,
+   "h": 1389,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–5) Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author mention\n\n4.1. human error as a possible reason for a break in Big Ben’s functioning?\n\n4.2. a feature of the clock tower that most people fail to notice?\n\n4.3. incidents when the time shown by the clock wasn’t accurate?\n\n4.4. a slight delay in hearing the bell when one is at the foot of the tower?\n\n4.5. a factor which led to a change in the clock’s appearance?\n\nBIG BEN A. Visitors to London often refer to the famous clock tower and the clock itself as Big Ben. But that’s not accurate. Big Ben is only the name of the bell inside the tower. The tower is called the Elizabeth Tower. Not many people know that it leans. This is only seen by those few passers-by who take the time to study its exterior very closely, because the tower leans only slightly – about 0.04 degrees. B. Big Ben first chimed in July 1859, but two months later a crack appeared in the bell. This was most likely caused by a worker carrying out routine maintenance. As a result, the bell fell silent for four years. When the bell chimes, it not only informs Londoners and tourists about the time, but also illustrates an interesting phenomenon. As sound travels slower than radio waves, people listening to a live radio broadcast will hear the bell’s chimes one-sixth of a second earlier than people strolling past the clock tower. C. The clock’s maintenance book reveals that the clock’s hands were blue when it was built in 1859, but London’s smog gradually turned them black. In the 1980s, a new coat of paint was applied. This time the colour black was chosen to avoid discolouration. The clock’s hands are illuminated by 28 energy-efficient bulbs, each of which has a lifetime of 60,000 hours. However, from 1939 to 1945, the authorities decided to make an exception – the clock’s hands remained unlit in compliance with wartime blackout rules.\n\nD. Inquisitive tourists will come across descriptions of some occasions when the clock’s timekeeping was affected by external factors. For instance, the clock’s time was altered in 1944 when a flock of starlings rested on one of the hands. The birds were so heavy that they slowed the mechanism down. On another occasion, on 31st December 1962, heavy snow and ice caused Big Ben to chime in the New Year with a 10-minute delay.\n\nNa podstawie: www.telegraph.co.uk PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z5.webp",
+   "w": 1018,
+   "h": 1374,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–5) Przeczytaj tekst, z którego usunięto pięć fragmentów. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujący fragment (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jeden fragment został podany dodatkowo i nie pasuje do żadnej luki. MEETING YOUR DOUBLE AT 30,000 FEET Having seatmates can be the most irritating part of air travel. Spending a few hours next to a chatty stranger or a noisy eater can really be a passenger’s worst nightmare. But what would you do if you sat down next to... yourself?\n\nThat’s just what happened to Neil Thomas Douglas, a Scottish photographer travelling to Ireland. 5.1. _____ What he couldn’t know was that Robert Stirling, a 35-year-old civil servant from Redbridge, who was sitting there, wasn’t actually supposed to be in that seat. 5.2. _____ As Mr Douglas asked the other man if he would let him take the window seat, things took a funny turn. The moment Mr Stirling raised his head, Mr Douglas noticed that the man bore a striking resemblance to him. Lee Beattie, who accompanied Mr Douglas on\n\nthe trip, said they all had a laugh about it and everyone around them was amused, too. 5.3. _____ In it, you could see two strangers looking so strikingly similar that you might want to start playing “spot the difference”. Social media users expressed surprise and even disbelief that the two men weren’t related.\n\nHowever, the coincidences didn’t stop with that chance encounter on the airplane. 5.4. _____ Lee Beattie says both men shared another joke about it and parted ways. Some might say that two such encounters in a day were enough, but there was still more to come. Later that night, Mr Douglas decided to go to a local pub, The Quays. And just imagine, his ‘twin’ was there, too. 5.5. _____ That one, however, clearly showed that, despite their facial similarities, Mr Douglas is a little older than Mr Stirling.\n\nNa podstawie: www.belfasttelegraph.com\n\nA. When Mr Douglas checked into his hotel in Galway, he saw Mr Stirling in the lobby. It turned out the two of them had booked at the same place. B. They all seemed to be eager to grab the opportunity to be photographed together with the two men. C. They chatted over a drink and, obviously, took another selfie to commemorate the occasion. D. A couple of minutes earlier, he had actually swapped places with a girl so that she wouldn’t have to be separated from her boyfriend. E. When Mr Douglas boarded his flight, he noticed that the place next to him was\n\nalready occupied. F. Encouraged by the passengers’ reactions, the lookalikes decided to capture the moment, so they took a selfie and later posted it online. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z6.webp",
+   "w": 1017,
+   "h": 1869,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–8) Przeczytaj dwa teksty związane ze statkami. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1. THE WRECK OF THE TITANIC Ever since the “unsinkable” Titanic struck an iceberg and sank during her maiden voyage in 1912, she has been present in the popular imagination. A series of best-selling books and feature films has helped to keep her story alive, but as I see it, the most important factor in people’s ongoing fascination with the Titanic is the discovery of the wreck in 1985. Before 1985, it was thought that the wreck was in one piece that might one day be raised. However, it turned out it had broken into two parts while sinking, and then hit the ocean floor at a speed of about 48 km/h. The result was not a neat wreck, but piles of steel fragments that have been slowly eaten away by salt corrosion and metal-consuming bacteria. Since the wreck was found at a depth of 3,810 metres in the North Atlantic, it has been monitored, but only a few scientific expeditions have been carried out. Sadly, a manned dive to the Titanic which took place in 2019 revealed a shocking deterioration in the wreck’s condition.\n\nThe video recording made during the expedition shows that a big section of the ship has been covered in rusticles, which develop as the bacteria slowly consume metal. Lori Johnson, a scientist on the expedition, said in an interview, “We knew the wreck was going to continue to decay over time, it’s a natural process. But we didn’t suspect that it would happen so fast.” Parks Stephenson, a Titanic historian on the expedition, said that some parts of the captain’s quarters had completely collapsed. The most shocking area of damage was the starboard side of the officers’ quarters. “The captain’s bathtub, a favourite image among Titanic enthusiasts, is now gone,” he said. “That whole deck on that side is collapsing together with the staterooms.”\n\nThe lack of light and intense pressure at a depth of nearly 4 kilometres make the wreck’s environment inhospitable to most marine life, apart from the microbes which have colonized the ship. As a result, it will eventually dissolve into a fine powder and be carried off by ocean currents. Probably, there will be nothing left of the wreck by 2030. Fortunately, the 2019 expedition used specially adapted cameras that allowed computerised 3D models of the wreck to be created. The scientists plan to publish their material as a documentary.\n\nNa podstawie: newatlas.com, www.theguardian.com\n\nW zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. From the first paragraph, we can conclude that before 1985 A. some parts of the wreck had been raised from the sea bottom. B. there had been a few diving expeditions to explore the wreck.\n\nC. the wreck had remained on the sea floor in one piece. D. the wreck’s exact location had been unknown. 6.2. During the 2019 dive, the scientists discovered that A. the staterooms were the only part of the ship that could be saved. B. the condition of the ship had worsened more rapidly than anticipated. C. the appearance of the captain’s quarters had changed the least. D. the wreck lay much deeper than they had expected. 6.3. Which of the following is stated in the text as an opinion, not a fact?\n\nA. The discovery of the wreck contributed to people’s interest in the ship’s story. B. The captain’s bathtub doesn’t exist any more. C. It is difficult for living creatures to survive at the depth at which the wreck lies. D. Modern technology enabled the scientists to obtain material for a documentary. 6.4. From the last paragraph, we learn that the wreck of the Titanic is likely to A. provide a perfect setting for some feature films. B. be completely preserved underwater thanks to the latest technology. C. disintegrate completely in the years to come. D. be moved to a location more accessible to explorers. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!\n\nTekst 2. THE DISCOVERY “Welcome aboard, Dr. Johnson. How are you feeling?”\n\n“I’d like to know what’s going on,” Norman Johnson said.\n\n“How about some coffee first?” Barnes said, and then the room suddenly went dark except for a ray of sunlight that streamed in from a side porthole. A man came in through a side door. “Working on it, Captain, but the sea is rough, so it may take some time,” he said.\n\n“These things weren’t built for the kind of power loads we put on them now. And – ah, there we are.” The lights came back on. Barnes smiled. “Coffee, Dr. Johnson?”\n\n“Black is fine,” Norman said. Barnes poured him a mug. “Thank you. So, why was I called here? I’m usually called to airplane crash sites,” Norman said. Barnes seemed uncomfortable.\n\n“Actually, this isn’t an airplane crash site, Dr. Johnson. It’s a spacecraft crash site.”\n\nNorman nodded, “I see.”\n\n“That doesn’t surprise you?” Barnes said.\n\n“No,” Norman said. “Actually, it explains a lot. If a military spacecraft crashed in the ocean, I can understand the secrecy. When did it crash?”\n\nBarnes hesitated before answering. “We believe,” he said, “it crashed about three hundred years ago.”\n\nThere was a silence. Norman struggled to understand what he was being told. Three hundred years ago, he thought. But the space program wasn’t three hundred years old. It was barely thirty years old. So how could a spacecraft be three hundred years old? Barnes must be mistaken. But how could Barnes be mistaken? He went over it again and again, getting nowhere, his mind dazed and shocked.\n\n“Absolutely no question about it,” Barnes was saying. “We can approximate the date from coral growth with great accuracy. Pacific coral grows two-and-a-half centimetres a year, and the object – whatever it is – is covered in about five metres of coral. That’s a lot of coral. Of course, coral doesn’t grow at a depth of a thousand feet, which means that the present shelf collapsed to a lower depth at some point in the past. The geologists are telling us that happened about a century ago, so they’re assuming the craft is about three hundred years old. But it could, in fact, be much older. It could be a thousand years old.”\n\nBarnes shifted papers on his desk, arranging them into neat stacks, lining up the edges.\n\n“I don’t mind telling you, Dr. Johnson, this thing really scares me. That’s why you’re here.”\n\nNorman shook his head. “I still don’t understand.”\n\n“We sent for you,” Barnes said, “because of your association with the ULF project.”\n\n“ULF?” Norman said. And he almost added, “But ULF was a joke...” Seeing how serious Barnes was, he was glad he had caught himself in time.\n\nNa podstawie: Sphere by Michael Crichton\n\nUzupełnij luki 6.5.–6.8. w streszczeniu zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę możesz wpisać maksymalnie sześć wyrazów. The text describes an encounter between two men, Captain Barnes and Dr. Norman\n\nJohnson. During the meeting, the ship they’re on experiences a temporary\n\n6.5. _______________________________ failure. Then Barnes discloses some information\n\nabout an object that has recently been discovered. Dr. Johnson, whose job mainly involves\n\ninvestigating 6.6. ______________________________________, isn’t initially surprised by\n\nthe discovery. Later, however, his attitude changes, because he learns that the object is\n\nbelieved to be the wreck of a spacecraft which fell into the ocean centuries ago. Yet, as\n\nBarnes emphasizes, the spacecraft’s present location makes it difficult to precisely determine\n\n6.7. ___________________________________________________________. At the end of\n\nthe conversation, Dr. Johnson learns that he 6.8. __________________________________"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z7.webp",
+   "w": 1018,
+   "h": 1007,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–6) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D. BOTHIES Bothies are shelters in mountainous parts of the UK. They can be used by anyone, but offer very little comfort. They are unique in that they cannot be booked in 7.1. _____, and are free of charge. Most of them are run by an association 7.2. _____ volunteers.\n\nBothying originated in the 1930s. Back then, bothies were not easy to find. Printed lists of the shelters indicated just their 7.3. _____ locations. The exact sites of the bothies were revealed to the public in 2009. Since social media further popularised the shelters, there has been a huge increase in numbers of visitors.\n\nTo serve people well, bothies need constant renovation, as the unforgiving weather 7.4. _____ them badly. That’s why the Mountain Bothies Association organises working holidays during which essential repairs 7.5. _____. The problem is that not many people want to take part in such holidays. There is a concern that 7.6. _____ more young volunteers can be found, the future of bothies will be at risk. To join the Mountain Bothies Association, go to www.mountainbothies.org.uk.\n\nNa podstawie: www.theguardian.com 7.1.\n\nA. return B. exchange C. case D. advance\n\n7.2.\n\nA. built out for B. made up of C. cut out from D. put up with\n\n7.3.\n\nA. related B. accurate C. average D. approximate\n\n7.4. A. comprises B. makes C. affects D. involves\n\n7.5. A. will carry out B. are carrying out C. are carried out D. have carried out\n\n7.6. A. unless B. as long as C. in spite of D. since"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z8.webp",
+   "w": 1100,
+   "h": 709,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–4) Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem, przekształcając wyraz podany w nawiasie, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Wymagana jest pełna poprawność ortograficzna wpisywanych wyrazów. THE STICK LIBRARY What’s a dog without a good stick to chew on or fetch? That’s exactly what a 59-year-old\n\nman asked himself when he found out there was a 8.1. (SHORT) ______________________\n\nof good sticks for his dog, Bella, to play with at the new dog park in Kaiapoi, New Zealand.\n\nInstead of complaining, Andrew Taylor took 8.2. (ACT) _________________________ and\n\ncreated a stick library. He collected sticks lying around near his house. Then he cleaned the\n\nsticks using sand paper until they were smooth, crafted a box out of wood to hold the sticks\n\nand engraved his box with the title “Stick Library”. His gift to the new dog park was ready.\n\nBy calling it a “Stick Library” Taylor wants to 8.3. (COURAGE) ________________________\n\neveryone to return the sticks after they have played with their dogs. The idea has been a hit\n\nwith local dog owners, who know very well that the search for a good stick is not always very\n\n8.4. (SUCCESS) ________________________. That’s why the idea of a stick library makes\n\nperfect sense to them.\n\nNa podstawie: www.interestingengineering.com"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z9.webp",
+   "w": 1012,
+   "h": 276,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) Uzupełnij zdania 9.1.–9.4., wykorzystując podane w nawiasach wyrazy w odpowiedniej formie. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów. Uwaga: w każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając w to wyrazy już podane. 9.1. My brother always (find / hard / get) _________________________________________\n\n9.2. Although yesterday’s meeting (hold / late) ____________________________________\n\n9.3. She (should / mention) ___________________________________________________\n\nthe extra costs earlier. The client was clearly disappointed.\n\n9.4. If I (have / doubt) _________________________________________ about his honesty,\n\nI would tell you. Believe me, he can be trusted."
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pr-2023-05/z10.webp",
+   "w": 1015,
+   "h": 389,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–13) Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Zaznacz temat wybrany przez Ciebie. Zakreśl jego numer. 1. Coraz więcej znanych osób, np. sportowców lub aktorów, decyduje się na udział w różnego rodzaju reklamach. Napisz rozprawkę, w której przedstawisz dobre i złe strony tego zjawiska. 2. W odpowiedzi na konkurs ogłoszony przez anglojęzyczne czasopismo napisz artykuł przedstawiający Twoją wizję świata za 30 lat. W swoim artykule omów aspekt życia, który – Twoim zdaniem – zmieni się na lepsze, oraz przedstaw problem, który będzie największym wyzwaniem dla ludzkości. CZYSTOPIS ....................................................................................................................................................\n\nZgodność z poleceniem Spójność i logika\n\nZakres środków językowych\n\nPoprawność środków językowych RAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2-3\n\nElementy treści (0-1-2) Elementy formy (0-1) 1 2 3 4 5 1 2 3 4\n\nJĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pr-2023-05-z01",
+   "no": "1",
+   "points": 6,
+   "materials": [
+    "t1",
+    "audio",
+    "txt1"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1. 1.1. The story illustrates that Tekst 2. 1.2. When Jayne says that library users “took to it”, she means that they W zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 3. (do zadań 1.3.–1.6.) 1.3. When the speaker tried to heat up the pizza, he 1.4. What finally motivated the speaker to enrol in a cooking course? 1.5. The speaker remarks that the cooking course 1.6. The text is about a man who",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.7",
+    "II.9",
+    "II.5",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k1.webp",
+    "w": 1082,
+    "h": 662
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    0,
+    2,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "ang-pr-2023-05-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio",
+    "txt2"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi związanych z pracą osoby zajmującej się kontrolą jakości usług hotelowych. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi.",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k2.webp",
+    "w": 1101,
+    "h": 582
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    1,
+    4,
+    0,
+    5
+   ]
+  },
+  {
+   "id": "ang-pr-2023-05-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie rozmowę na temat metod stosowanych przy tworzeniu reklam żywności. Na podstawie informacji zawartych w nagraniu uzupełnij luki 3.1.–3.4. w notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k3.webp",
+    "w": 1082,
+    "h": 7718
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2023-05-z04",
+   "no": "4",
+   "points": 5,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author mention",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.4"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k4.webp",
+    "w": 1082,
+    "h": 464
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    0,
+    3,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pr-2023-05-z05",
+   "no": "5",
+   "points": 5,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto pięć fragmentów. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujący fragment (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jeden fragment został podany dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k5.webp",
+    "w": 1101,
+    "h": 549
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "5.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    3,
+    5,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "ang-pr-2023-05-z06",
+   "no": "6",
+   "points": 8,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj dwa teksty związane ze statkami. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1. W zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. From the first paragraph, we can conclude that before 1985 6.2. During the 2019 dive, the scientists discovered that 6.3. Which of the following is stated in the text as an opinion, not a fact? 6.4. From the last paragraph, we learn that the wreck of the Titanic is likely to Tekst 2. Uzupełnij luki 6.5.–6.8. w streszczeniu zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę możesz wpisać maksymalnie sześć wyrazów.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.7",
+    "III.4",
+    "III.8",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k6.webp",
+    "w": 1082,
+    "h": 8127
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2023-05-z07",
+   "no": "7",
+   "points": 6,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k7.webp",
+    "w": 1082,
+    "h": 564
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    1,
+    3,
+    2,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "ang-pr-2023-05-z08",
+   "no": "8",
+   "points": 4,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem, przekształcając wyraz podany w nawiasie, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Wymagana jest pełna poprawność ortograficzna wpisywanych wyrazów.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k8.webp",
+    "w": 1081,
+    "h": 722
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2023-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "Uzupełnij zdania 9.1.–9.4., wykorzystując podane w nawiasach wyrazy w odpowiedniej formie. Nie należy zmieniać kolejności podanych wyrazów, trzeba natomiast – jeżeli jest to konieczne – dodać inne wyrazy, tak aby otrzymać logiczne i gramatycznie poprawne zdania. Wymagana jest pełna poprawność ortograficzna wpisywanych fragmentów. Uwaga: w każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając w to wyrazy już podane.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k9.webp",
+    "w": 1082,
+    "h": 2570
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2023-05-z10",
+   "no": "10",
+   "points": 13,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Zaznacz temat wybrany przez Ciebie. Zakreśl jego numer.",
+   "topic": "angr-wri",
+   "requirement": [
+    "V.6",
+    "V.8",
+    "V.9",
+    "V.12",
+    "V.13",
+    "V.4",
+    "VII.3",
+    "VII.8"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2023-05/k10.webp",
+    "w": 1082,
+    "h": 2943
+   },
+   "scoring": "0–13 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

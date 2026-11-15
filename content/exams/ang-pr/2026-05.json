@@ -1,0 +1,706 @@
+{
+ "id": "ang-pr-2026-05",
+ "subject": "ang-pr",
+ "formula": "2023",
+ "year": 2026,
+ "session": "maj",
+ "source": {
+  "paper": "MJAP-R0-100-A-2605-arkusz.pdf",
+  "key": "MJAP-R0-100-200-2605-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2026/Jezyk_angielski/poziom_rozszerzony/MJAP-R-100-2605.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z1.webp",
+   "w": 991,
+   "h": 1349,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "txt1",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 1. (0–6) Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1. 1.1. From what the woman says, we can conclude that\n\nA. she doesn’t consider all the desk locations in her office equally attractive. B. she doesn’t understand how the “first come, first served” system works. C. she doesn’t mind the present system of reserving desks.\n\nTekst 2. 1.2. Which is the best headline for the news story?\n\nA. THIEVES USE ANIMALS TO COMMIT A CRIME B. LOUISIANA POLICE HELP SAVE A DAM C. AN UNUSUAL BUILDING MATERIAL\n\nW zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 3. (do zadań 1.3.–1.6.) 1.3. The original Hollywood sign\n\nA. was moved from a different location in 1923. B. was meant to remain on the hillside permanently. C. was initially an advert for the Los Angeles Times. D. was intended to promote a housing development.\n\n1.4. The speaker mentions\n\nA. the year when the sign stopped flashing every night. B. the specific occasions when the sign was illuminated. C. the number of light bulbs installed in the sign. D. the distance between the letters in the sign.\n\n1.5. The Hollywood sign that can be seen today\n\nA. has to be rebuilt in the near future. B. is located higher up the hill than previously. C. is more likely to be affected by the weather. D. contains letters of the same size as the earlier version.\n\n1.6. When talking about visiting the area where the sign is located, the speaker\n\nA. recommends climbing to the top of the hill for the best view. B. describes his own experience of photographing the sign. C. gives advice to people who would like to see the sign. D. warns against breaking the hiking trail regulations."
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z2.webp",
+   "w": 1100,
+   "h": 578,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z3.webp",
+   "w": 1018,
+   "h": 599,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–4) Usłyszysz dwukrotnie wypowiedź na temat wyścigu organizowanego w Wielkiej Brytanii. Na podstawie informacji zawartych w nagraniu uzupełnij luki w zdaniach 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.\n\nTHE GREAT KNARESBOROUGH BED RACE\n\n3.1. The bed race in Knaresborough was first held ______________________________\n\nand has been popular ever since.\n\n3.2. Straight after the contest for the best-decorated bed, _________________________\n\n3.3. Teams leave the starting line of the race approximately every __________________\n\n3.4. Crossing the river is the most difficult part of the race mainly because of _________\n\nis also a challenge."
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z4.webp",
+   "w": 1020,
+   "h": 1648,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–5) Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author\n\n4.1. mention how health-oriented changes in the ingredients of Pumpkin Spice Latte affected its popularity among customers?\n\n4.2. refer to a name for the new beverage which was eventually rejected?\n\n4.3. point to the inspiration behind choosing pumpkin pie as the flavor for the new coffee?\n\n4.4. imply that customers’ initial reaction to Pumpkin Spice Latte was positive?\n\n4.5. explain why it was necessary to create a new coffee flavor?\n\nTHE DELICIOUS STORY OF PUMPKIN SPICE LATTE\n\nA. Nowadays it is hard to imagine the arrival of autumn without the cozy comfort of Pumpkin\n\nSpice Latte. Here is how the flavor originated. Early in 2003, a team of researchers gathered in a lab to come up with a coffee flavor which could win people’s hearts. Earlier, they had successfully introduced the recipes for many different favorites, such as Eggnog Latte and Peppermint Mocha, and were desperately looking for an idea for a beverage* which could replace summer favorites when their sales and popularity started to drop. B. The researchers began with a huge brainstorm list which was narrowed down to\n\n20 flavors they thought could go well with coffee. When they asked potential customers in a survey what flavors they were likely to purchase, it was chocolate and caramel beverages that were chosen most often. However, pumpkin, also on the list, scored high on “uniqueness”, which was promising. Then, on a bright spring morning, autumn decorations and pumpkin pies were brought to the lab to create the proper mood for exploring the new espresso-based options. When the researchers sampled a forkful of pumpkin pie followed by a sip of hot espresso, they realized that they were on to something. C. They tasted different versions of the beverage for the next three months until they finally\n\nsettled on a recipe that used espresso and steamed milk with pumpkin spice sauce, containing cinnamon, cloves and nutmeg, rounded off with whipped cream and a dash of pumpkin pie topping. Originally, the flavor was to be called The Fall Harvest Latte but since spices played such an important role, the team ultimately settled for Pumpkin Spice Latte. In autumn 2003, the beverage was trialed in 100 coffee shops. When the research team phoned the coffee shops to see how the new beverage was doing, the excitement in the store managers’ voices was evident.\n\nD. The next autumn, Pumpkin Spice Latte rolled out across the US, and a new autumn\n\ntradition began. “PSL” was the original beverage code for Pumpkin Spice Latte, written by baristas on cups, and it soon became the drink’s nickname. The beverage built a loyal fan base and was enjoyed more than 200 million times in the first decade after its introduction. In the meantime, the recipe was further developed and improved to reflect the latest nutrition trends: the sugar content was reduced and artificial flavors were no longer used. After these modifications, sales increased significantly.\n\nNa podstawie: www.cbsnews.com, www.about.starbucks.com\n\n* Beverage – any type of drink except water. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z5.webp",
+   "w": 1018,
+   "h": 1660,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–5) Przeczytaj tekst, z którego usunięto pięć zdań. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujące zdanie (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.\n\nCOULD YOU READ A MESSAGE FROM ALIENS?\n\nIn late May 2023, three radio astronomy observatories detected a strange signal which was\n\napparently coming from somewhere around Mars. The mysterious transmission seemed\n\nto be a message from intelligent life trying to contact Earth. 5.1. _____ Apart from being\n\nan artist, she works as a licensed radio operator at the Search for Extra-Terrestrial\n\nIntelligence Institute and the Green Bank Observatory in West Virginia, USA.\n\nDe Paulis’ message, which is part of a project called A Sign in Space, is a test run of what\n\nit might be like for humans to receive – and try to decipher – an extraterrestrial message.\n\nThis kind of experiment should have been carried out a long time ago. 5.2. _____ Isn’t it\n\nstrange that they’ve never really investigated what receiving and trying to decipher such\n\na message would be like?\n\nIn order to turn this idea into reality, de Paulis worked with a group that included – among\n\nothers – astronomers and anthropologists. They met on a monthly basis, brainstorming ideas\n\non what an alien civilization might send us. 5.3. _____ This measure was taken to prevent\n\nthe details of the plan from being leaked, thus endangering the whole project. Finally, after\n\nmuch preparation, de Paulis decided to transmit the encoded message. On May 24, 2023,\n\na spacecraft orbiting Mars sent the message to Earth, where it was received by astronomers\n\nin northern California, West Virginia and Italy. 5.4. _____ Their theories about what\n\nthe message might contain are plentiful, with speculation about possible connections\n\nto chemistry, DNA structure and numerical systems. Anyone can join the discussion on\n\nthe project’s dedicated website. So far, the content of the message has been kept strictly\n\nconfidential. 5.5. _____ She definitely won’t be doing it too soon. Decoding the message\n\nmust take time because it requires people with different skills to collaborate.\n\n“An extraterrestrial message would belong to all humanity, so we should all have\n\nthe possibility to contribute to its interpretation,” she says.\n\nNa podstawie: www.smithsonianmag.com\n\nA. In the later phase of the project, she narrowed the group down to just three people\n\nin order to maintain confidentiality.\n\nB. After all, scientists have been searching for signals from outer space for more than\n\n60 years.\n\nC. It wasn’t the first time she had managed to send a mysterious signal which was received\n\nin outer space.\n\nD. However, the intercepted communication, though sent from space, originated on Earth\n\nand was the work of Daniela de Paulis.\n\nE. Daniela de Paulis has decided that she will only begin to give clues if people are really\n\nstruggling with deciphering the message.\n\nF. Since then, researchers and amateur codebreakers alike have been making a great effort\n\nto decipher the message de Paulis transmitted. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z6.webp",
+   "w": 1017,
+   "h": 2310,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–8) Przeczytaj dwa teksty związane ze skrzypcami. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1.\n\n--------------------\n\nOn the morning of the most earth-shattering day of his life, Rayquan McMillian ordered breakfast. In the shower he’d lost track of time, caught up in playing the violin concerto in his mind, while water ran down his back for ten minutes. When he walked out of the bathroom, he saw the breakfast tray waiting on the table. “I didn’t even hear room service come in,” he said. Nicole was curled up in one of the armchairs, watching the news. “You never hear anything,” she said, not looking away from the TV. “We need to be out of here within an hour, and you still haven’t finished packing.”\n\nAfter a hurried breakfast, he mindlessly packed his suitcase and pulled up the handle of his roller bag. He picked up the violin case and gestured for Nicole to go first with her two roller bags. The door clicked shut behind them, sealing the suite – and what remained – inside.\n\nChecking out, he tipped the doorman, who called a taxi for each of them. Nicole was going to the train station, so he lifted her suitcases into the open trunk, leaving his own bag on the sidewalk, the violin case hanging on his shoulder. Nicole turned to him. “I meant to tell you,” she said, “when you’re playing the Mozart, just try taking it maybe a tiny bit slower, all right? And remember that you’ve got this. Rayquan McMillian, future violin competition gold medalist. Visualize it. It’s going to happen. I’m sure of it. And call me when you get in.” She jumped onto the back seat, the door closed and he stood there as the taxi moved off into the traffic.\n\nThen his taxi rolled up and, as he was spilling into the back seat with the violin case, he grew more and more uneasy. He wanted to be back home. That morning he hadn’t practised, so he couldn’t wait to pick up his violin and assure himself that he could really make Mozart’s voice his own. Only one month left until the competition: the world’s most prestigious, most difficult classical music competition – judged by the top musicians in the world. Even if he practised every day, fourteen hours a day, he didn’t think he’d be ready. He wished he didn’t have to waste time flying home.\n\nAt the airport, he decided to use the fast check-in. If only he had gone through regular security! Why had he been in such a hurry? He should have waited in the long queue. If he’d waited, the officer might have randomly pulled his suitcase aside or asked him to open the violin case. Someone would have noticed or asked. It was security, after all. Instead, he placed the roller bag on the conveyor belt, violin case behind it, and they sailed through the X-ray while he sailed through the body scan. When he returned home, he lay down on his bed for half an hour, violin case on the floor next to him, where he always set it. Getting focused, ready to play.\n\nIt was just after 2 p.m. when he kicked himself off the bed. He stood up, picked up the violin case, and set it on his desk. He flicked open the left clasp, then the right, and lifted the lid. Instead of his violin, inside sat a white tennis shoe.\n\nNa podstawie: Brendan Slocumb, The Violin Conspiracy, London 2022.\n\nW zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. What do we learn from the first paragraph?\n\nA. Nicole switched off the TV the moment Rayquan appeared. B. Nicole made a remark about something that had to be done. C. Rayquan was accustomed to playing his violin after breakfast. D. Breakfast was brought to the room after Rayquan had left the bathroom. 6.2. Before Rayquan left for the airport in a taxi,\n\nA. Nicole suggested he should play another piece by Mozart. B. he needed some help with loading the luggage. C. Nicole made an effort to boost his confidence. D. he placed his violin case in the trunk. 6.3. From the fourth paragraph, we can conclude that Rayquan felt\n\nA. relieved to have some time to relax. B. jealous of other musicians’ success. C. doubtful about the judges’ expertise. D. anxious about the forthcoming event. 6.4. Which is the best title for the text?\n\nA. A SHOCKING DISCOVERY AFTER A FLIGHT HOME B. A FORTUNATE COINCIDENCE AT THE AIRPORT C. THE WRONG VIOLIN DELIVERED D. RAYQUAN’S UNEVENTFUL DAY PRZENIEŚ ROZWIĄZANIA ZADAŃ OD 6.1. DO 6.4. NA KARTĘ ODPOWIEDZI!\n\nTekst 2.\n\nTHE VIOLIN EXPERIMENT The instruments made by Antonio Stradivari are considered some of the finest ever made, and they have become extremely valuable collector’s items. It is estimated that Stradivari produced 1,116 instruments, of which 960 were violins. Around 650 instruments have survived, including around 500 violins, which makes them rare and valuable.\n\nClaudia Fritz from Sorbonne University decided to investigate whether Stradivari violins are superior to modern ones, as is widely believed. “Stradivari violins are amazing instruments which have survived over 300 years and are beautifully made,” says Fritz. “However, I wanted to show that their amazing properties aren’t unique. You can find similar properties in new violins as well. Modern-day makers are doing a great job creating amazing violins. They should be able to sell them with pride and recognition.”\n\nIn her study, Fritz recruited 21 professional violinists, invited them into a dimly lit hotel room, and asked each of them to play six violins. Three were new, and the others had been crafted by Stradivari. Participants played them in random order and were not told which violins were new and which ones had been made by Stradivari. Participants’ comments on the experience of playing each instrument were recorded, and at the end of the experiment they were asked to choose which instrument they would most like to take home if they could. 62 percent would have taken a new violin over the ones made by Stradivari, the oldest of these being the most frequently rejected.\n\n“Many people are convinced that as soon as you play an old violin, you can feel that it’s been played a lot, and has a special sound quality,” Fritz said. “The violinists who took part in the experiment said it was the experience of a lifetime when we told them the results.” John Soloninka was one of them. “I expected to be able to tell the difference, but couldn’t,” he said. “Claudia later sent me a recording of my comments about the instruments, and it was hilarious how wrong my impressions were at the time! I actually laughed out loud because it was so funny to hear how sure I was.”\n\nAfter the results of the study had been published, the reactions ranged from delight to anger. Critics were quick to question the experiment’s reliability. The violinists tested the instruments for just 20 minutes in an air-conditioned hotel room. That wouldn’t do. To get the most out of the violins, they should have tested the instruments for many hours and played them in a concert hall. One distinguished violinist reportedly said, “You don’t test a Ferrari in a parking lot.”\n\nNa podstawie: www.nationalgeographic.com\n\nUzupełnij luki w zdaniach 6.5.–6.8. zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim. 6.5. Claudia Fritz wanted to prove that there’s no difference in quality between ___________\n\n6.6. At the end of the experiment, it turned out that _________________________________\n\n6.7. John Soloninka was amused by ____________________________________________\n\n6.8. According to critics, Claudia Fritz’s results were inaccurate due to the choice of location\n\nfor the experiment and the fact that the violinists didn’t play ______________________"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z7.webp",
+   "w": 1018,
+   "h": 1356,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–6) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D.\n\nWORDLE IS A LOVE STORY\n\nWordle is a word game which went from dozens of players to hundreds of thousands in just\n\na few months. Players have six 7.1. _____ to guess a five-letter word, and after each try they\n\nget some feedback about the letters included in the word. The game was created by Josh\n\nWardle, a software engineer in Brooklyn, for his girlfriend Palak Shah. Josh knew she loved\n\ndoing crosswords. So he came up with a new word-guessing game that the two of them\n\ncould play together. He called it Wordle as a play on his surname. Soon he introduced\n\nthe game to his friends and relatives. 7.2. _____ how quickly Wordle became an obsession\n\nfor the members of his family, Josh decided to release it online for others to play.\n\nTwo months later, 300,000 people were playing his game each day.\n\n“I think people 7.3. _____ Wordle because it’s fun,” explained Josh. “And there are no ads,\n\nbecause I don’t want to profit from it.”\n\nA clever move was limiting players to one game per day. Josh knew that 7.4. _____ you\n\nrestrict something, people tend to desire it more.\n\nJosh’s girlfriend played a key role in getting Wordle ready for a worldwide audience.\n\nAn initial list of all of the 12,000 or so five-letter words in the English language compiled\n\nby Josh contained a lot of little-known words. If all of these words had been used in\n\nthe game, it 7.5. _____ guessing them nearly impossible for the majority of players. Palak\n\nhelped him narrow the list down to 2,500 words. 7.6. _____ Wordle is now enjoyed around\n\nthe world, she is proud that it was originally created only for her. “It’s really sweet how Josh\n\nshowed his love,” she said.\n\nNa podstawie: www.nytimes.com\n\n7.1.\n\nA. measures B. contests C. challenges D. attempts\n\n7.2.\n\nA. Having been seen B. Seeing C. Being seen D. To be seeing\n\n7.3.\n\nA. appreciate B. amuse C. confirm D. maintain\n\n7.4.\n\nA. whenever B. whether C. whatever D. whereas\n\n7.5.\n\nA. used to make B. would have made C. made D. had made\n\n7.6.\n\nA. Otherwise B. Despite C. Although D. Besides PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z8.webp",
+   "w": 1100,
+   "h": 943,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–4) Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem. Przekształć wyraz podany w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.\n\nTHE WOODEN CITY OF THE FUTURE\n\nA Swedish company is building a new estate in an old\n\n8.1. (INDUSTRY) ___________________________ zone in Stockholm, which is currently\n\nfilled with former factory buildings and car parks. This isn’t an uncommon enterprise. There’s\n\none peculiarity, though. Everything’s built out of a special kind of wood, called “mass timber”.\n\nMass timber is made of compressed wooden layers stacked together, which gives this\n\nbuilding material extra 8.2. (STRONG) ___________________________. It also avoids\n\nthe massive carbon footprint of standard construction materials like concrete and steel.\n\nThe new estate will include 7,000 new offices and 2,000 housing units, along with\n\nrestaurants, shops and fitness centres. By adding more facilities to the immediate\n\n8.3. (NEIGHBOUR) ___________________________, the project aims to support the idea\n\nof the 15-minute city, where it’s possible to get everywhere you need to go on a typical day\n\non foot or by bicycle.\n\nBuilding with wood has more advantages than just environmental ones, including the fact\n\nthat the construction process itself can be both faster and quieter. And there’s evidence that\n\nliving and working in wooden buildings contributes to well-being – studies have found that it\n\n8.4. (GRADUAL) ___________________________ reduces stress and improves focus.\n\nWill the project be a success? We’re soon going to find out because the first buildings are to\n\nbe completed in 2027.\n\nNa podstawie: www.fastcompany.com"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z9.webp",
+   "w": 1100,
+   "h": 800,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (9.1.–9.4.). W każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając w to wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów. 9.1. I received an urgent call while they were serving the main course.\n\nBEING\n\nI received an urgent call while the main course ________________________________.\n\n9.2. I’d prefer you to send the presentation to me by 10 p.m.\n\nRATHER\n\nI’d _________________________________________________ the presentation to me\n\nby 10 p.m.\n\n9.3. “You entered the room without my permission,” she said to John.\n\nACCUSED\n\nShe __________________________________________________________________\n\nthe room without her permission.\n\n9.4. I can’t find my phone – I’m afraid I didn’t pick it up from the table in the café.\n\nMUST\n\nI can’t find my phone – I ___________________________________________________\n\nit on the table in the café."
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pr-2026-05/z10.webp",
+   "w": 1010,
+   "h": 419,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–13) Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Napisz swoją wypowiedź w języku angielskim. Zakreśl numer wybranego przez Ciebie tematu. 1. Coraz więcej młodych ludzi decyduje się na zwiedzanie Europy koleją. Napisz\n\nrozprawkę, w której przedstawisz wady i zalety korzystania z tego środka transportu podczas podróży zagranicznych. 2. Udało Ci się kupić bilet na wydarzenie sportowe, na które od dawna chciałeś/chciałaś\n\npójść. Napisz artykuł do gazety, w którym opiszesz przebieg sportowej rywalizacji podczas tego wydarzenia i uzasadnisz, dlaczego lepiej uczestniczyć w takich wydarzeniach osobiście niż oglądać ich transmisje w mediach.\n\nCZYSTOPIS ....................................................................................................................................................\n\nZgodność z poleceniem Spójność\n\ni logika\n\nZakres środków językowych\n\nPoprawność\n\nśrodków językowych\n\nRAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2-3\n\nElementy treści (0-1-2) Elementy formy (0-1) 1 2 3 4 5 1 2 3 4\n\nJĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pr-2026-05-z01",
+   "no": "1",
+   "points": 6,
+   "materials": [
+    "t1",
+    "audio",
+    "txt1"
+   ],
+   "prompt": "Usłyszysz dwukrotnie trzy teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1. 1.1. From what the woman says, we can conclude that Tekst 2. 1.2. Which is the best headline for the news story? W zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 3. (do zadań 1.3.–1.6.) 1.3. The original Hollywood sign 1.4. The speaker mentions 1.5. The Hollywood sign that can be seen today 1.6. When talking about visiting the area where the sign is located, the speaker",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.7",
+    "II.2",
+    "II.5",
+    "II.3"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k1.webp",
+    "w": 1082,
+    "h": 744
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    0,
+    3,
+    2
+   ]
+  },
+  {
+   "id": "ang-pr-2026-05-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat koncertów, które odbyły się na dachach budynków. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi. This speaker refers to",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k2.webp",
+    "w": 1101,
+    "h": 584
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    5,
+    4,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "ang-pr-2026-05-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wypowiedź na temat wyścigu organizowanego w Wielkiej Brytanii. Na podstawie informacji zawartych w nagraniu uzupełnij luki w zdaniach 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angr-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k3.webp",
+    "w": 1082,
+    "h": 8450
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2026-05-z04",
+   "no": "4",
+   "points": 5,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.4",
+    "III.7",
+    "III.1"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k4.webp",
+    "w": 1082,
+    "h": 533
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    2,
+    1,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "ang-pr-2026-05-z05",
+   "no": "5",
+   "points": 5,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto pięć zdań. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujące zdanie (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k5.webp",
+    "w": 1101,
+    "h": 561
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "5.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    1,
+    0,
+    5,
+    4
+   ]
+  },
+  {
+   "id": "ang-pr-2026-05-z06",
+   "no": "6",
+   "points": 8,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj dwa teksty związane ze skrzypcami. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1. W zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. What do we learn from the first paragraph? 6.2. Before Rayquan left for the airport in a taxi, 6.3. From the fourth paragraph, we can conclude that Rayquan felt 6.4. Which is the best title for the text? Tekst 2. Uzupełnij luki w zdaniach 6.5.–6.8. zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.4",
+    "III.1",
+    "VIII.2",
+    "III.7"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k6.webp",
+    "w": 1082,
+    "h": 10482
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2026-05-z07",
+   "no": "7",
+   "points": 6,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k7.webp",
+    "w": 1101,
+    "h": 649
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    1,
+    0,
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ang-pr-2026-05-z08",
+   "no": "8",
+   "points": 4,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem. Przekształć wyraz podany w nawiasie w taki sposób, aby powstał spójny i logiczny tekst. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych wyrazów.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k8.webp",
+    "w": 1101,
+    "h": 812
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Akceptowane są wszystkie odpowiedzi nieujęte w zasadach oceniania, które są merytorycznie poprawne i spełniają wszystkie warunki zadania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2026-05-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "Wykorzystując wyrazy podane WIELKIMI literami, uzupełnij każde zdanie z luką, tak aby zachować sens zdania wyjściowego (9.1.–9.4.). W każdą lukę możesz wpisać maksymalnie pięć wyrazów, wliczając w to wyraz już podany. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: nie zmieniaj formy podanych wyrazów.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k9.webp",
+    "w": 1082,
+    "h": 2580
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Akceptowane są wszystkie odpowiedzi nieujęte w zasadach oceniania, które są merytorycznie poprawne i spełniają wszystkie warunki zadania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2026-05-z10",
+   "no": "10",
+   "points": 13,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Napisz swoją wypowiedź w języku angielskim. Zakreśl numer wybranego przez Ciebie tematu.",
+   "topic": "angr-wri",
+   "requirement": [
+    "V.6",
+    "V.8",
+    "V.12",
+    "V.13",
+    "V.2",
+    "VII.3"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2026-05/k10.webp",
+    "w": 1082,
+    "h": 3008
+   },
+   "scoring": "0–13 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

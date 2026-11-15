@@ -1,0 +1,705 @@
+{
+ "id": "ang-pr-2024-12",
+ "subject": "ang-pr",
+ "formula": "2023",
+ "year": 2024,
+ "session": "probna",
+ "source": {
+  "paper": "MJAP-R0-100-A-2412-arkusz.pdf",
+  "key": "MJAP-R0-100-200-400-660-K00-Q00-MJAU-100-2412-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "audio",
+   "type": "audio",
+   "src": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Probny/2024/Jezyk_angielski/poziom_rozszerzony/MJA-R-100-2412.mp3",
+   "caption": "Nagranie CKE do całego arkusza (strumieniowane z cke.gov.pl, potrzebny internet). Każde zadanie zaczyna się od przeczytania polecenia – przewiń do właściwego miejsca."
+  },
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z1.webp",
+   "w": 995,
+   "h": 1277,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "txt1",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 1. (0–6) Usłyszysz dwukrotnie dwa teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 1.1. i 1.2.) 1.1. What conclusion can you draw from the conversation?\n\nA. Being spontaneous is the key to a successful interview. B. Good qualifications usually guarantee an applicant a job. C. You can never be sure of getting a job until you are actually hired. 1.2. This conversation is a part of\n\nA. a job interview. B. a phone-in programme. C. a company staff meeting. W zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 2. (do zadań 1.3.–1.6.) 1.3. Which is TRUE about the experiment initiated in 1991?\n\nA. It gained a lot of publicity at the time. B. It was carried out in a number of locations in Arizona. C. The participants were supposed to be replaced regularly. D. The participants were responsible for creating a protype of miniature Earth. 1.4. The original Biosphere 2 attempt was criticized because\n\nA. its participants lacked water and food. B. it cost much more money than planned. C. it failed to achieve its most important goal. D. its participants had to leave Biosphere 2 temporarily. 1.5. The 1994 experiment\n\nA. lasted considerably longer than the first one. B. came to an end because of financial problems. C. was launched after the ownership of the facility changed. D. was conducted with the same participants as the original one. 1.6. The speaker\n\nA. describes how the project turned out to be better than expected. B. suggests how the project could be improved in the future. C. focuses on long-term benefits of the project. D. outlines the history of an ambitious project."
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z2.webp",
+   "w": 981,
+   "h": 513,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z3.webp",
+   "w": 1017,
+   "h": 385,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "txt3",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 3. (0–4) Usłyszysz dwukrotnie wypowiedź na temat incydentu podczas samotnej wędrówki. Na podstawie informacji zawartych w nagraniu uzupełnij zdania 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim. 3.1. Rene expected his hike to take ____________________________________________.\n\n3.2. Rene’s friend received a photo which showed _________________________________\n\nand some greenery in a valley below.\n\n3.3. Based on the analysis of Rene’s photo and satellite maps, Ben rightly guessed that\n\nRene might be found ___________________________ of where he had parked his car.\n\n3.4. Rene realized that help was close at hand the moment he ________________________"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z4.webp",
+   "w": 1020,
+   "h": 1576,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "txt4",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 4. (0–5) Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author\n\n4.1. give the initial aim of spelling competitions?\n\n4.2. refer to a growth in the number of participants in a competition?\n\n4.3. mention the mistake she made when she took part in a spelling bee?\n\n4.4. suggest why she refused to be involved in a spelling bee as an adult?\n\n4.5. express her disapproval of the way the winners are selected in spelling bees?\n\nTHE HISTORY OF THE SPELLING BEE A. Every year in May, hundreds of kids from all over the United States arrive in Washington, D.C., having sacrificed hundreds of hours to a peculiar kind of study. In the most extreme cases, they try to memorize every word in a nearly-3,000-page dictionary. I know what it is like because I was one of them. In 1996, as a 12-year-old girl, I won my school spelling bee, a district spelling bee and then the New York City regional finals. After all that, I stood apprehensively on the stage of the Scripps National Spelling Bee in Washington for seven rounds, until I misspelled “erythema” (meaning skin redness). B. The skill of spelling correctly has long been held in high regard by Americans, with spelling contests dating back to the 1800s. They may have been inspired by the publication of the Blue-backed Speller by Noah Webster. The book helped standardize the American English spelling of words. And there was no better way to teach kids these spellings than to get them involved in spelling contests. In the 19th century the practice of spelling competitions spread throughout the United States and was even mentioned in literature, for example in The Adventures of Tom Sawyer. C. It was also in the 19th century that the spelling contests started being called “spelling bees”. Widespread interest in them led to a new development – the National Spelling Bee. The first one took place in 1925 in the form of a single 90-minute session, and there were only nine competitors. At the time the organizers couldn’t have known that the following editions would attract more and more students, reaching up to 11 million annually. I should have felt proud of being part of such an event. But in 1996 I lost, and only this mattered to me.\n\nD. In 1997, I set out to compete again and I won. My accomplishment was great, but even though I was a kid, the process of elimination of the bee participants one by one seemed cruel to me. It hurt me then and it still hurts those who lose today. At the award banquet, kids are told that there are no losers in spelling bees. But a handful of the finalists are seated on a stage, displayed as models to the others. I didn’t get to sit on that stage in 1996. When I was asked to return to the bee as a judge years later, I turned the offer down. Instead, I threw myself into software engineering. It requires intense concentration and precision just like a “spelling bee”, but the accomplishments belong to the team.\n\nNa podstawie: www.smithsonianmag.com PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z5.webp",
+   "w": 1019,
+   "h": 1499,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "txt5",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 5. (0–5) Przeczytaj tekst, z którego usunięto pięć fragmentów. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujący fragment (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jeden fragment został podany dodatkowo i nie pasuje do żadnej luki.\n\nOLD HABITS DIE HARD During a visit to the Continent in 1942, Winston Churchill discovered a marvel of modern technology: hot and cold water flowing from the same tap. The plumbing in the villa where he stayed was different from the British standard of separate taps for hot and cold water. 5.1. _____ From then on, Churchill wanted to use this tap arrangement whenever possible.\n\nHis countrymen, however, have been slow to adopt single taps. Decades after nearly all dual taps vanished from the U.S. and continental Europe, most bathroom sinks in Britain still have separate hot and cold taps. 5.2. _____ Among them are legal rules which regulated this issue in the past. Hot and cold water flowed from separate sources – the cold water came from the public water supply and was fit for human consumption, whereas the hot water was stored in a cistern which people kept in the lofts of their houses. 5.3. _____ To eliminate the danger it posed, the law on clean drinking water went as far as to say that the pipes had to be separated to avoid cross-contamination.\n\nOver the years most modern British houses have moved away from keeping a cistern in the loft. 5.4. _____ Britons do not seem to understand why foreigners make a fuss over this issue. “The British are quite happy to wash their hands with cold water. Maybe it’s characterbuilding,” says Mr. Simon Kirby from the Midlands. 5.5. _____ In a rare compromise with authenticity, the company does provide some sinks with mixer taps, but they are sold mainly to overseas customers.\n\nModernity is slow in imposing itself. British people who travel abroad are often impressed by single taps, but even when they renovate their homes, many choose two-tap systems.\n\nNa podstawie: www.wsj.com; www.islandbathrooms.co.uk\n\nA. It could remain there for many days, gathering a lot of harmful substances, and was considered unsafe.\n\nB. Of course, he has a professional interest in the matter. The firm he runs makes replicas of Victorian bathroom equipment, including bathroom sinks.\n\nC. Rather than having to fill up the sink to achieve the right mix, he could wash his hands under running water “mingled to exactly the temperature one desired”, as he put it in his memoirs.\n\nD. A member of Parliament congratulated “the higher civilizations” on their advanced technology, but argued that having the choice of either hot or cold water does not make you waste water.\n\nE. Yet old habits die hard and separate taps in Britain will continue to annoy overseas visitors for many years to come.\n\nF. Have the British resisted the tide of plumbing history due to attachment to tradition or ignorance of the fact that the world has moved on? Many factors are at play."
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z6.webp",
+   "w": 1017,
+   "h": 2127,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "txt6",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 6. (0–8) Przeczytaj dwa teksty związane z poezją. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1.\n\nSATURDAY CLUB Miss Edith Chevalier was the one who started the library groups for girls. Sometimes she would look in and ask what we were reading – not to test us, but just because she wanted to know. That’s what happened on the day my club was reading The Midnight Ride of Paul Revere out loud. I guess I was better than the others because after the meeting Miss Chevalier asked if I would recite the whole poem to the Saturday Club. She said a famous professor was going to give a lecture about Henry Wadsworth Longfellow, and she thought a presentation of his most famous poem would be a nice way to start the evening. She said that I would have to memorize it all, “But that shouldn’t be a problem for a girl of your ability, Addie”. I’m telling you, my feet didn’t touch the ground all the way home. It was the biggest thing that had ever happened to me and I learned the whole poem by heart in two days, so I’d be ready for our first “rehearsal”.\n\nMiss Chevalier was a small woman with a moon face, chubby fingers and coppery hair that sprang straight up from her head. She had one of those smiles that makes you feel like you have just done something right, which was a good thing since I was a nervous wreck when I went to her office to practise. I only got halfway through the poem when Miss Chevalier stopped me and asked if I knew what “impetuous” meant. She was nice about it, but I wanted to sink through the floor, because I did not know what the word meant and I had mispronounced it. I’m sure I turned bright red, but Miss Chevalier pretended not to notice, handed me the dictionary and said to read the definition out loud.\n\nI will never forget it; “impetuous” means two things: “rushing with great force or violence”, and “acting suddenly, with little thought”. She asked me which one I thought Mr. Longfellow meant. I reread those definitions over and over, trying to figure out the right answer, but Miss Chevalier must have read my mind. “There is no wrong answer,” she said. “I want to know your opinion, Addie.” I had never been asked for my opinion, but I knew I couldn’t keep her waiting, so I said the first thing that came into my head, which was, “Maybe he meant both”.\n\nShe liked that.\n\nI told Celia and my parents about the big honour of reciting for the Saturday Club, but when the day came and I put on my coat, Mother said, “You’re not going anywhere”. I told her that I had practised a lot, everyone was waiting for me and they couldn’t start without me. But she shrugged her shoulders as though it was nothing. “It’s too cold. I don’t want you to get pneumonia.” I couldn’t believe what she was saying.\n\nNa podstawie: Anita Diamant, The Boston Girl, New York 2015.\n\nW zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Addie was asked to recite the poem because Miss Chevalier felt\n\nA. the professor expected such a performance after his lecture. B. it might be a good example for the other girls from the club. C. the girl had already learnt Longfellow’s poem by heart. D. the girl was capable of rising to the challenge. 6.2. The phrase my feet didn’t touch the ground all the way home suggests that Addie\n\nA. was overjoyed at being given such an important task. B. feared she would have too little time to learn the poem by heart. C. was delighted with the professor’s remark concerning her recital. D. had to run home in order to calm down after Miss Chevalier’s words. 6.3. During the rehearsal,\n\nA. Miss Chevalier changed her mind about Addie’s abilities. B. Miss Chevalier made no comment about Addie’s embarrassment. C. Addie’s ignorance of the word “impetuous” annoyed Miss Chevalier. D. Addie thought Miss Chevalier wanted to make her feel less confident. 6.4. We can conclude that the decision to forbid Addie to go to the Club\n\nA. was anticipated by her to a certain extent. B. was based on symptoms indicating she was ill. C. was communicated just after she shared the good news. D. was a sign of her mother’s indifference to the importance of the event. PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!\n\nTekst 2.\n\nDEDICATION In January 1961, as John F. Kennedy’s presidential inauguration approached, his would-be Secretary of the Interior suggested that the poet Robert Frost, who had been appointed consultant in poetry to the Library of Congress in 1958, recite a poem during the ceremony.\n\nJohn Kennedy approved the idea and asked Frost to either compose a special poem for the occasion or read The Gift Outright, written by the poet in the 1930s. As no other poet before him had been asked to contribute to a presidential inauguration, Frost responded to JFK’s invitation with bold enthusiasm. In a telegram sent the following day he wrote, “If you can bear at your age the honor of being made President of the United States, I ought to be able at my age to bear the honor of taking some part in your inauguration. I may not be equal to it but I can accept it”. Kennedy’s unprecedented request filled Frost with gratitude and pride.\n\nFrost had planned to read The Gift Outright – described by him as “a history of the United States in a dozen [actually, sixteen] lines of blank verse” – but once he arrived in Washington two days prior to the inauguration, he became so excited about the event that he decided to compose an additional poem, entitled Dedication, and recite it before the one already planned.\n\nOnce Frost had completed the 42-line poem he realized he had no time to memorize it – he’d have to read it instead. But on the white winter day of the ceremony, he ran into some difficulties. The inauguration unfolded on a bitterly cold, sunny day at the U.S. Capitol. Approximately one hour in, Frost made his way to the podium and began reading Dedication, but soon stopped. The sun’s glare, reflecting off the snowy ground, was far too bright for a pair of 86-year-old eyes. As a result, the reading of the text past the third line proved impossible. Vice President Lyndon B. Johnson tried to block the sun with his hat, but Frost abandoned the effort altogether. He began reciting the familiar The Gift Outright, which he was able to continue armed only with his memory.\n\nThe audience clapped and cheered loudly to express their approval. The Washington Post referred to the reading as one of the highlights of the ceremony, noting that “Robert Frost in his natural way stole the hearts of the inaugural crowd”. Indeed, although the turn of events reportedly resulted in embarrassment for Frost, it became a triumphant capstone to his career, a spontaneous moment that memorialized his association with an iconic President at the dawn of a new chapter in American history.\n\nNa podstawie: www.themarginalian.org; www.biography.com\n\nUzupełnij luki w zdaniach 6.5.–6.8. zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę możesz wpisać maksymalnie sześć wyrazów. 6.5. Robert Frost felt honoured as _____________________________________________\n\nto perform at a presidential inauguration.\n\n6.6. The poem Dedication was written during _____________________________________\n\nWashington.\n\n6.7. At the ceremony, bright sunlight prevented the poet from _________________________\n\n6.8. Although initially the incident made _________________________________________,\n\nin the long run it proved to be very significant in his career."
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z7.webp",
+   "w": 1018,
+   "h": 855,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "txt7",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 7. (0–6) Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D.\n\nCHOCOLATE SNOW FALLING FROM THE SKY Residents of a small town in Switzerland, a country which has earned an international 7.1. _____ for its confectionary products, got the surprise of their lives when it apparently started snowing chocolate. Some locals 7.2. _____ whether the brown dusting was a bizarre consequence of climate change. However, everything became clear when the local chocolate manufacturer 7.3. _____ that his factory was responsible for the strange event. A defective ventilation system 7.4. _____ chocolate dust to be sprinkled all over the town. A company spokesperson has confirmed that the cocoa particles were completely 7.5. _____ to people and the environment. The company is offering to pay for any cleaning services required 7.6. _____ the incident. To date, however, no one has asked for help.\n\nNa podstawie: breakingnewsenglish.com\n\n7.1.\n\nA. quality B. selection C. attraction D. reputation\n\n7.2.\n\nA. wondered B. predicted C. admitted D. denied\n\n7.3.\n\nA. recovered B. reminded C. revealed D. rejected\n\n7.4.\n\nA. had caused B. was caused C. was to cause D. had been caused\n\n7.5.\n\nA. secure B. innocent C. accurate D. harmless\n\n7.6.\n\nA. at the expense of B. as a result of C. in spite of D. in case of PRZENIEŚ ROZWIĄZANIA NA KARTĘ ODPOWIEDZI!"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z8.webp",
+   "w": 1017,
+   "h": 718,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "txt8",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 8. (0–4) Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem, przekształcając wyraz podany w nawiasie, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Wymagana jest pełna poprawność ortograficzna wpisywanych wyrazów.\n\nA BRIEF HISTORY OF ORIGAMI You’ve probably heard of “origami”. The goal of origami is to transform a square sheet of\n\npaper into a shape, such as a flower or a bird, through 8.1. (SKILL) ____________________\n\nfolding. The term originates from two Japanese words and means “paper folding”.\n\nUnfortunately, coming up with an exact timeline for the invention of origami is\n\na 8.2. (CHALLENGE) ____________________ task. It is generally accepted that paper was\n\ninvented around 105 A.D. in China. During the sixth century the use of paper reached Japan,\n\nwhere different 8.3. (POSSIBLE) ____________________ for creating art from paper were\n\ndiscovered.\n\nOriginally, the use of scissors and glue was not allowed, but later standards have changed\n\nconsiderably. Consequently, cutting or gluing is now sometimes used to stabilize the final\n\nshape. Another way in which origami has evolved is that shapes are no longer made\n\n8.4. (EXCLUSIVE) ____________________ with original origami paper. Now people even\n\nmake them from banknotes in order to present a gift of cash in a unique way.\n\nNa podstawie: www.thesprucecrafts.com"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z9.webp",
+   "w": 1017,
+   "h": 781,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "txt9",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 9. (0–4) Z wykorzystaniem wyrazów podanych WIELKIMI literami uzupełnij każde zdanie z luką (9.1.–9.4.), tak aby zachować sens zdania wyjściowego. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane. 9.1. I think we should throw away all those unnecessary boxes.\n\nGET\n\nI think we should _________________________________________________ all those\n\nunnecessary boxes.\n\n9.2. I regret not buying a ticket for the concert.\n\nHAD\n\nI wish I ___________________________________________________ for the concert.\n\n9.3. “I’ll help you with the housework”, said my younger sister to me.\n\nOFFERED\n\nMy younger sister ____________________________________________________ with\n\nthe housework.\n\n9.4. These roses are dying – the vase has almost no water in it.\n\nHARDLY\n\nThese roses are dying – there’s ____________________________________________\n\nin the vase."
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/ang-pr-2024-12/z10.webp",
+   "w": 1006,
+   "h": 456,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "txt10",
+   "type": "text",
+   "collapsed": true,
+   "title": "Tekst zadania w większej czcionce",
+   "text": "Zadanie 10. (0–13) Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Zaznacz temat wybrany przez Ciebie. Zakreśl jego numer. 1. Coraz częściej pracowników działu obsługi klienta różnych firm zastępuje się tzw. botami (ang. bots) – wirtualnymi rozmówcami, których zadaniem jest komunikowanie się z klientem. Napisz rozprawkę, w której przedstawisz swoją opinię na temat tego rozwiązania. Rozważ je z punktu widzenia firmy, która wdrożyła taki sposób komunikacji, oraz z perspektywy jej klienta. 2. W czasie zagranicznej wycieczki szkolnej Ty i Twoja klasa uczestniczyliście w warsztatach w galerii sztuki. W liście do dyrektora tej galerii uzasadnij, dlaczego Twoim zdaniem takie zajęcia są potrzebne, oraz przedstaw pomysł, jak można uatrakcyjnić takie zajęcia.\n\nCZYSTOPIS ....................................................................................................................................................\n\nZgodność z poleceniem Spójność\n\ni logika\n\nZakres środków językowych\n\nPoprawność\n\nśrodków językowych\n\nRAZEM\n\n0-1-2-3-4-5 0-1-2 0-1-2-3 0-1-2-3\n\nElementy treści (0-1-2) Elementy formy (0-1) 1 2 3 4 5 1 2 3 4\n\nJĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023 JĘZYK ANGIELSKI Poziom rozszerzony\n\nFormuła 2023"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "ang-pr-2024-12-z01",
+   "no": "1",
+   "points": 6,
+   "materials": [
+    "t1",
+    "audio",
+    "txt1"
+   ],
+   "prompt": "Usłyszysz dwukrotnie dwa teksty. Z podanych odpowiedzi wybierz właściwą, zgodną z treścią nagrania. W zadaniach 1.1. i 1.2. zakreśl jedną z liter: A, B albo C. Tekst 1. (do zadań 1.1. i 1.2.) 1.1. What conclusion can you draw from the conversation? 1.2. This conversation is a part of W zadaniach 1.3.–1.6. zakreśl jedną z liter: A, B, C albo D. Tekst 2. (do zadań 1.3.–1.6.) 1.3. Which is TRUE about the experiment initiated in 1991? 1.4. The original Biosphere 2 attempt was criticized because 1.5. The 1994 experiment",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.7",
+    "II.4",
+    "II.5",
+    "II.2"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k1.webp",
+    "w": 1082,
+    "h": 589
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "1.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "1.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    2,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "ang-pr-2024-12-z02",
+   "no": "2",
+   "points": 5,
+   "materials": [
+    "t2",
+    "audio"
+   ],
+   "prompt": "Usłyszysz dwukrotnie pięć wypowiedzi na temat usług. Do każdej wypowiedzi (2.1.–2.5.) dopasuj odpowiadające jej zdanie (A–F). Wpisz rozwiązania do tabeli. Uwaga: jedno zdanie zostało podane dodatkowo i nie pasuje do żadnej wypowiedzi. This speaker refers to",
+   "topic": "angr-lis",
+   "requirement": [
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k2.webp",
+    "w": 1101,
+    "h": 538
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "2.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "2.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    4,
+    2,
+    5,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "ang-pr-2024-12-z03",
+   "no": "3",
+   "points": 4,
+   "materials": [
+    "t3",
+    "audio",
+    "txt3"
+   ],
+   "prompt": "Usłyszysz dwukrotnie wypowiedź na temat incydentu podczas samotnej wędrówki. Na podstawie informacji zawartych w nagraniu uzupełnij zdania 3.1.–3.4., tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim.",
+   "topic": "angr-rea",
+   "requirement": [
+    "VIII.2",
+    "II.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k3.webp",
+    "w": 1082,
+    "h": 4492
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2024-12-z04",
+   "no": "4",
+   "points": 5,
+   "materials": [
+    "t4",
+    "txt4"
+   ],
+   "prompt": "Przeczytaj tekst, który został podzielony na cztery części (A–D), oraz pytania go dotyczące (4.1.–4.5.). Do każdego pytania dopasuj właściwą część tekstu. Wpisz rozwiązania do tabeli. Uwaga: w jednej części tekstu znajdują się odpowiedzi na dwa pytania. In which paragraph does the author",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.4",
+    "III.7"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k4.webp",
+    "w": 1082,
+    "h": 513
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "4.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "4.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    2,
+    0,
+    3,
+    3
+   ]
+  },
+  {
+   "id": "ang-pr-2024-12-z05",
+   "no": "5",
+   "points": 5,
+   "materials": [
+    "t5",
+    "txt5"
+   ],
+   "prompt": "Przeczytaj tekst, z którego usunięto pięć fragmentów. Wpisz w każdą lukę (5.1.–5.5.) literę, którą oznaczono brakujący fragment (A–F), tak aby otrzymać spójny i logiczny tekst. Uwaga: jeden fragment został podany dodatkowo i nie pasuje do żadnej luki.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.5"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k5.webp",
+    "w": 1101,
+    "h": 518
+   },
+   "scoring": "0–5 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "5.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    },
+    {
+     "label": "5.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ]
+    }
+   ],
+   "answer": [
+    2,
+    5,
+    0,
+    4,
+    1
+   ]
+  },
+  {
+   "id": "ang-pr-2024-12-z06",
+   "no": "6",
+   "points": 8,
+   "materials": [
+    "t6",
+    "txt6"
+   ],
+   "prompt": "Przeczytaj dwa teksty związane z poezją. Wykonaj zadania 6.1.–6.8. zgodnie z poleceniami. Tekst 1. W zadaniach 6.1.–6.4. z podanych odpowiedzi wybierz właściwą, zgodną z treścią tekstu. Zakreśl jedną z liter: A, B, C albo D. 6.1. Addie was asked to recite the poem because Miss Chevalier felt 6.2. The phrase my feet didn’t touch the ground all the way home suggests that Addie 6.3. During the rehearsal, 6.4. We can conclude that the decision to forbid Addie to go to the Club Tekst 2. Uzupełnij luki w zdaniach 6.5.–6.8. zgodnie z treścią tekstu, tak aby jak najbardziej precyzyjnie oddać jego sens. Luki należy uzupełnić w języku angielskim. Uwaga: w każdą lukę możesz wpisać maksymalnie sześć wyrazów.",
+   "topic": "angr-rea",
+   "requirement": [
+    "III.4",
+    "III.9",
+    "III.7",
+    "VIII.2"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k6.webp",
+    "w": 1083,
+    "h": 4314
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2024-12-z07",
+   "no": "7",
+   "points": 6,
+   "materials": [
+    "t7",
+    "txt7"
+   ],
+   "prompt": "Przeczytaj tekst. Z podanych odpowiedzi wybierz właściwą, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Zakreśl jedną z liter: A, B, C albo D.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k7.webp",
+    "w": 1101,
+    "h": 585
+   },
+   "scoring": "0–6 pkt według zasad oceniania CKE.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "7.1.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.2.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.3.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.4.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.5.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "7.6.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    3,
+    0,
+    2,
+    0,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "ang-pr-2024-12-z08",
+   "no": "8",
+   "points": 4,
+   "materials": [
+    "t8",
+    "txt8"
+   ],
+   "prompt": "Przeczytaj tekst. Uzupełnij każdą lukę (8.1.–8.4.) jednym wyrazem, przekształcając wyraz podany w nawiasie, tak aby otrzymać logiczny i gramatycznie poprawny tekst. Wymagana jest pełna poprawność ortograficzna wpisywanych wyrazów.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k8.webp",
+    "w": 1101,
+    "h": 793
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Akceptowane są wszystkie odpowiedzi nieujęte w zasadach oceniania, które są merytorycznie poprawne i spełniają wszystkie warunki zadania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2024-12-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9",
+    "txt9"
+   ],
+   "prompt": "Z wykorzystaniem wyrazów podanych WIELKIMI literami uzupełnij każde zdanie z luką (9.1.–9.4.), tak aby zachować sens zdania wyjściowego. Wymagana jest pełna poprawność gramatyczna i ortograficzna wpisywanych fragmentów zdań. Uwaga: w każdą lukę możesz wpisać maksymalnie cztery wyrazy, wliczając w to wyrazy już podane.",
+   "topic": "angr-gra",
+   "requirement": [
+    "I"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k9.webp",
+    "w": 1082,
+    "h": 2045
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Akceptowane są wszystkie odpowiedzi nieujęte w zasadach oceniania, które są merytorycznie poprawne i spełniają wszystkie warunki zadania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "ang-pr-2024-12-z10",
+   "no": "10",
+   "points": 13,
+   "materials": [
+    "t10",
+    "txt10"
+   ],
+   "prompt": "Wypowiedz się na jeden z poniższych tematów. Wypowiedź powinna zawierać od 200 do 250 wyrazów i spełniać wszystkie wymogi typowe dla formy wskazanej w poleceniu. Zaznacz temat wybrany przez Ciebie. Zakreśl jego numer.",
+   "topic": "angr-wri",
+   "requirement": [
+    "V.6",
+    "V.8",
+    "V.12",
+    "V.13",
+    "VII.3",
+    "VII.8"
+   ],
+   "key": {
+    "file": "assets/ang-pr-2024-12/k10.webp",
+    "w": 1082,
+    "h": 3604
+   },
+   "scoring": "0–13 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

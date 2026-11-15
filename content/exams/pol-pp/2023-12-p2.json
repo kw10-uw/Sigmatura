@@ -1,0 +1,49 @@
+{
+ "id": "pol-pp-2023-12-p2",
+ "subject": "pol-pp",
+ "formula": "2023",
+ "year": 2023,
+ "session": "probna",
+ "source": {
+  "paper": "MPOP-P2-100-A-2312-arkusz.pdf",
+  "key": "MPOP-P2-100-300-400-660-Q00-K00-MPOU-2312-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "t15",
+   "type": "image",
+   "file": "assets/pol-pp-2023-12-p2/z15.webp",
+   "w": 1087,
+   "h": 991,
+   "caption": "Zadanie 15 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "pol-pp-2023-12-p2-z15",
+   "no": "15",
+   "points": 35,
+   "materials": [
+    "t15"
+   ],
+   "prompt": "Niebezpieczeństwo idealizowania rzeczywistości. W pracy odwołaj się do: lektury obowiązkowej – wybranej spośród lektur wymienionych na stronach 3 i 4 innego utworu literackiego – może to być również utwór poetycki wybranych kontekstów. Wierność tradycji a szukanie nowych dróg – różne postawy życiowe. W pracy odwołaj się do: lektury obowiązkowej – wybranej spośród lektur wymienionych na stronach 3 i 4 innego utworu literackiego – może to być również utwór poetycki wybranych kontekstów. na temat nr ............ Uzasadnienie oceny: Łączna liczba punktów: ........................",
+   "topic": "pol-wyp",
+   "requirement": [
+    "III.2.5",
+    "III.1.1",
+    "III.1.6",
+    "III.2.1",
+    "III.2.7"
+   ],
+   "key": {
+    "file": "assets/pol-pp-2023-12-p2/k15.webp",
+    "w": 1087,
+    "h": 3954
+   },
+   "scoring": "0–35 pkt według zasad oceniania CKE.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

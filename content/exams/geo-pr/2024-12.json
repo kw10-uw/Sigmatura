@@ -1,0 +1,1411 @@
+{
+ "id": "geo-pr-2024-12",
+ "subject": "geo-pr",
+ "formula": "2023",
+ "year": 2024,
+ "session": "probna",
+ "source": {
+  "paper": "MGEP-R0-100-A-2412-arkusz.pdf",
+  "key": "MGEP-R0-100-200-300-400-700-K00-Q00-2412-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z1.webp",
+   "w": 1087,
+   "h": 86,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z2.webp",
+   "w": 1087,
+   "h": 200,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z3.webp",
+   "w": 1101,
+   "h": 1301,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z4.webp",
+   "w": 1087,
+   "h": 411,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "i5",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/i5.webp",
+   "w": 1101,
+   "h": 1186,
+   "caption": "Wspólne informacje do zadania 5"
+  },
+  {
+   "id": "t5.1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z5.1.webp",
+   "w": 1087,
+   "h": 377,
+   "caption": "Zadanie 5.1 – arkusz"
+  },
+  {
+   "id": "t5.2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z5.2.webp",
+   "w": 1087,
+   "h": 416,
+   "caption": "Zadanie 5.2 – arkusz"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z6.webp",
+   "w": 1087,
+   "h": 201,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z7.webp",
+   "w": 1087,
+   "h": 163,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z8.webp",
+   "w": 1101,
+   "h": 1568,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z9.webp",
+   "w": 1087,
+   "h": 1084,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z10.webp",
+   "w": 1087,
+   "h": 746,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z11.webp",
+   "w": 1087,
+   "h": 1138,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z12.webp",
+   "w": 1101,
+   "h": 1572,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "t13",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z13.webp",
+   "w": 1087,
+   "h": 2163,
+   "caption": "Zadanie 13 – arkusz"
+  },
+  {
+   "id": "i14",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/i14.webp",
+   "w": 1101,
+   "h": 1619,
+   "caption": "Wspólne informacje do zadania 14"
+  },
+  {
+   "id": "t14.1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z14.1.webp",
+   "w": 1087,
+   "h": 162,
+   "caption": "Zadanie 14.1 – arkusz"
+  },
+  {
+   "id": "t14.2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z14.2.webp",
+   "w": 1087,
+   "h": 176,
+   "caption": "Zadanie 14.2 – arkusz"
+  },
+  {
+   "id": "i15",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/i15.webp",
+   "w": 1090,
+   "h": 521,
+   "caption": "Wspólne informacje do zadania 15"
+  },
+  {
+   "id": "t15.1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z15.1.webp",
+   "w": 1101,
+   "h": 988,
+   "caption": "Zadanie 15.1 – arkusz"
+  },
+  {
+   "id": "t15.2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z15.2.webp",
+   "w": 1087,
+   "h": 832,
+   "caption": "Zadanie 15.2 – arkusz"
+  },
+  {
+   "id": "t15.3",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z15.3.webp",
+   "w": 1087,
+   "h": 87,
+   "caption": "Zadanie 15.3 – arkusz"
+  },
+  {
+   "id": "i16",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/i16.webp",
+   "w": 1101,
+   "h": 1198,
+   "caption": "Wspólne informacje do zadania 16"
+  },
+  {
+   "id": "t16.1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z16.1.webp",
+   "w": 1087,
+   "h": 52,
+   "caption": "Zadanie 16.1 – arkusz"
+  },
+  {
+   "id": "t16.2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z16.2.webp",
+   "w": 1101,
+   "h": 579,
+   "caption": "Zadanie 16.2 – arkusz"
+  },
+  {
+   "id": "t17",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z17.webp",
+   "w": 1087,
+   "h": 1022,
+   "caption": "Zadanie 17 – arkusz"
+  },
+  {
+   "id": "t18",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z18.webp",
+   "w": 1101,
+   "h": 1201,
+   "caption": "Zadanie 18 – arkusz"
+  },
+  {
+   "id": "i19",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/i19.webp",
+   "w": 1101,
+   "h": 1469,
+   "caption": "Wspólne informacje do zadania 19"
+  },
+  {
+   "id": "t19.1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z19.1.webp",
+   "w": 1087,
+   "h": 87,
+   "caption": "Zadanie 19.1 – arkusz"
+  },
+  {
+   "id": "t19.2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z19.2.webp",
+   "w": 1087,
+   "h": 337,
+   "caption": "Zadanie 19.2 – arkusz"
+  },
+  {
+   "id": "t20",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z20.webp",
+   "w": 1087,
+   "h": 155,
+   "caption": "Zadanie 20 – arkusz"
+  },
+  {
+   "id": "i21",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/i21.webp",
+   "w": 1087,
+   "h": 829,
+   "caption": "Wspólne informacje do zadania 21"
+  },
+  {
+   "id": "t21.1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z21.1.webp",
+   "w": 1087,
+   "h": 180,
+   "caption": "Zadanie 21.1 – arkusz"
+  },
+  {
+   "id": "t21.2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z21.2.webp",
+   "w": 1087,
+   "h": 703,
+   "caption": "Zadanie 21.2 – arkusz"
+  },
+  {
+   "id": "t22",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z22.webp",
+   "w": 1101,
+   "h": 1354,
+   "caption": "Zadanie 22 – arkusz"
+  },
+  {
+   "id": "t23",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z23.webp",
+   "w": 1087,
+   "h": 1511,
+   "caption": "Zadanie 23 – arkusz"
+  },
+  {
+   "id": "t24",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z24.webp",
+   "w": 1087,
+   "h": 595,
+   "caption": "Zadanie 24 – arkusz"
+  },
+  {
+   "id": "i25",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/i25.webp",
+   "w": 1101,
+   "h": 1601,
+   "caption": "Wspólne informacje do zadania 25"
+  },
+  {
+   "id": "t25.1",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z25.1.webp",
+   "w": 1087,
+   "h": 162,
+   "caption": "Zadanie 25.1 – arkusz"
+  },
+  {
+   "id": "t25.2",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z25.2.webp",
+   "w": 1087,
+   "h": 120,
+   "caption": "Zadanie 25.2 – arkusz"
+  },
+  {
+   "id": "t26",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z26.webp",
+   "w": 1101,
+   "h": 1818,
+   "caption": "Zadanie 26 – arkusz"
+  },
+  {
+   "id": "t27",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z27.webp",
+   "w": 1087,
+   "h": 446,
+   "caption": "Zadanie 27 – arkusz"
+  },
+  {
+   "id": "t28",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z28.webp",
+   "w": 1087,
+   "h": 702,
+   "caption": "Zadanie 28 – arkusz"
+  },
+  {
+   "id": "t29",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z29.webp",
+   "w": 1087,
+   "h": 956,
+   "caption": "Zadanie 29 – arkusz"
+  },
+  {
+   "id": "t30",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z30.webp",
+   "w": 1087,
+   "h": 1349,
+   "caption": "Zadanie 30 – arkusz"
+  },
+  {
+   "id": "t31",
+   "type": "image",
+   "file": "assets/geo-pr-2024-12/z31.webp",
+   "w": 1087,
+   "h": 694,
+   "caption": "Zadanie 31 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "geo-pr-2024-12-z01",
+   "no": "1",
+   "points": 1,
+   "materials": [
+    "t1"
+   ],
+   "prompt": "Oceń, czy poniższe informacje są prawdziwe. Zaznacz P, jeśli informacja jest prawdziwa, albo F – jeśli jest fałszywa.",
+   "topic": "geo-pol",
+   "requirement": [
+    "P.I.3",
+    "P.XIV.7"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k1.webp",
+    "w": 1101,
+    "h": 270
+   },
+   "scoring": "1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "tf",
+   "answer": [
+    true,
+    false
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2."
+   ]
+  },
+  {
+   "id": "geo-pr-2024-12-z02",
+   "no": "2",
+   "points": 2,
+   "materials": [
+    "t2"
+   ],
+   "prompt": "Oblicz średni spadek Wisły między punktami opisanymi powyżej. Wynik podaj w promilach. Zapisz obliczenia.",
+   "topic": "geo-pol",
+   "requirement": [
+    "P.I.3",
+    "P.XIV.7"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k2.webp",
+    "w": 1101,
+    "h": 523
+   },
+   "scoring": "2 pkt – poprawny sposób obliczenia spadku rzeki wraz z poprawnym wynikiem; 1 pkt – poprawny sposób obliczenia spadku rzeki bez poprawnego wyniku; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z03",
+   "no": "3",
+   "points": 2,
+   "materials": [
+    "t3"
+   ],
+   "prompt": "Oceń, czy poniższe informacje są prawdziwe. Zaznacz P, jeśli informacja jest prawdziwa, albo F – jeśli jest fałszywa.",
+   "topic": "geo-pol",
+   "requirement": [
+    "R.XIV.2",
+    "R.XV.6",
+    "P.I.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k3.webp",
+    "w": 1101,
+    "h": 282
+   },
+   "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "tf",
+   "answer": [
+    true,
+    true,
+    false
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2.",
+    "Zdanie 3."
+   ]
+  },
+  {
+   "id": "geo-pr-2024-12-z04",
+   "no": "4",
+   "points": 1,
+   "materials": [
+    "t4"
+   ],
+   "prompt": "Dokończ zdanie. Zaznacz odpowiedź A albo B oraz jedną z odpowiedzi 1–3.",
+   "topic": "geo-ska",
+   "requirement": [
+    "R.I.7",
+    "P.I.3",
+    "P.V.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k4.webp",
+    "w": 695,
+    "h": 184
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "Część 1",
+     "options": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "label": "Część 2",
+     "options": [
+      "1",
+      "2",
+      "3"
+     ]
+    }
+   ],
+   "answer": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "geo-pr-2024-12-z05.1",
+   "no": "5.1",
+   "points": 1,
+   "materials": [
+    "i5",
+    "t5.1"
+   ],
+   "prompt": "Który parametr ma większą wartość na odcinku Wisły oznaczonym literą X niż na odcinku Wisły przedstawionym na mapie szczegółowej okolic Nowego Dworu Mazowieckiego? Zaznacz właściwą odpowiedź spośród podanych.",
+   "topic": "geo-sro",
+   "requirement": [
+    "R.XIII.1",
+    "P.I.3",
+    "P.V.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k5.1.webp",
+    "w": 695,
+    "h": 186
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "geo-pr-2024-12-z05.2",
+   "no": "5.2",
+   "points": 1,
+   "materials": [
+    "i5",
+    "t5.2"
+   ],
+   "prompt": "Wyjaśnij, dlaczego doszło do zalania doliny Narwi. W odpowiedzi odnieś się do obu opisanych rzek.",
+   "topic": "geo-kli",
+   "requirement": [
+    "R.I.7",
+    "R.III.7",
+    "R.XVIII.2",
+    "P.XIV.7"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k5.2.webp",
+    "w": 1101,
+    "h": 360
+   },
+   "scoring": "1 pkt – poprawne wyjaśnienie odnoszące się do Wisły i Narwi; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z06",
+   "no": "6",
+   "points": 2,
+   "materials": [
+    "t6"
+   ],
+   "prompt": "Przedstaw dwie korzyści wynikające z budowy tej linii kolejowej poprowadzonej wzdłuż nieczynnych torów kolejowych (pole CD1), a nie – najkrótszą trasą.",
+   "topic": "geo-gos",
+   "requirement": [
+    "P.I.3",
+    "P.XII.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k6.webp",
+    "w": 1101,
+    "h": 604
+   },
+   "scoring": "2 pkt – dwie poprawne korzyści; 1 pkt – jedna poprawna korzyść; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z07",
+   "no": "7",
+   "points": 2,
+   "materials": [
+    "t7"
+   ],
+   "prompt": "Który obszar w Nowym Dworze Mazowieckim – obszar w polu C1 czy obszar między linią kolejową a czerwonym szlakiem w polu DE2 – sprzyja lokalizowaniu nowych osiedli mieszkaniowych? Uzasadnij wybór dwoma argumentami.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.XI.4",
+    "P.I.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k7.webp",
+    "w": 1101,
+    "h": 828
+   },
+   "scoring": "2 pkt – uzasadnienie wyboru dwoma poprawnymi argumentami; 1 pkt – uzasadnienie wyboru jednym poprawnym argumentem; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z08",
+   "no": "8",
+   "points": 2,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "Oceń, czy poniższe informacje są prawdziwe. Zaznacz P, jeśli informacja jest prawdziwa, albo F – jeśli jest fałszywa.",
+   "topic": "geo-zie",
+   "requirement": [
+    "R.II.4",
+    "P.II.4"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k8.webp",
+    "w": 688,
+    "h": 219
+   },
+   "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "tf",
+   "answer": [
+    true,
+    false,
+    false
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2.",
+    "Zdanie 3."
+   ]
+  },
+  {
+   "id": "geo-pr-2024-12-z09",
+   "no": "9",
+   "points": 2,
+   "materials": [
+    "t9"
+   ],
+   "prompt": "Którą literą oznaczono promieniowanie słoneczne docierające do Ziemi na biegunie północnym? Uzasadnij odpowiedź.",
+   "topic": "geo-zie",
+   "requirement": [
+    "R.I.7",
+    "P.I.5",
+    "P.II.2"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k9.webp",
+    "w": 1064,
+    "h": 504
+   },
+   "scoring": "2 pkt – wpisanie poprawnej litery i poprawne uzasadnienie; 1 pkt – wpisanie poprawnej litery bez poprawnego uzasadnienia albo – odniesienie się w uzasadnieniu do astronomicznej przyczyny zróżnicowania wartości przedstawionych na wykresie bez wpisania poprawnej litery; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "geo-pr-2024-12-z10",
+   "no": "10",
+   "points": 2,
+   "materials": [
+    "t10"
+   ],
+   "prompt": "Przedstaw dwa uwarunkowania – jedno baryczne i jedno astronomiczne – wpływające na kierunek wiatru przedstawionego strzałkami na rysunku.",
+   "topic": "geo-kli",
+   "requirement": [
+    "R.I.7",
+    "R.III.6",
+    "P.II.2",
+    "P.III.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k10.webp",
+    "w": 1060,
+    "h": 523
+   },
+   "scoring": "2 pkt – poprawna odpowiedź odnosząca się do układów barycznych i ruchu obrotowego Ziemi; 1 pkt – poprawna odpowiedź odnosząca się do układów barycznych albo ruchu obrotowego Ziemi; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z11",
+   "no": "11",
+   "points": 2,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Uzupełnij zdania odnoszące się do obszaru widocznego na fotografii. Wpisz we właściwych miejscach jedno z określeń podanych w nawiasach.",
+   "topic": "geo-rze",
+   "requirement": [
+    "R.I.7",
+    "R.V.7",
+    "P.I.5",
+    "P.III.3",
+    "P.IV.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k11.webp",
+    "w": 1101,
+    "h": 357
+   },
+   "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z12",
+   "no": "12",
+   "points": 1,
+   "materials": [
+    "t12"
+   ],
+   "prompt": "Na której mapie przedstawiono położenie stacji o cechach klimatu podanych w tabeli? Zapisz właściwą literę.",
+   "topic": "geo-kli",
+   "requirement": [
+    "R.III.6",
+    "P.XIV.5",
+    "P.I.5"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k12.webp",
+    "w": 695,
+    "h": 184
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "geo-pr-2024-12-z13",
+   "no": "13",
+   "points": 2,
+   "materials": [
+    "t13"
+   ],
+   "prompt": "Wyjaśnij, dlaczego miesięczne przepływy w punkcie oznaczonym literą A różnią się zmiennością w ciągu roku od przepływów w punkcie oznaczonym literą B. Odnieś się do warunków hydrologicznych w punkcie A oraz do warunków klimatycznych w punkcie B.",
+   "topic": "geo-hyd",
+   "requirement": [
+    "R.I.7",
+    "R.IV.4",
+    "P.I.5",
+    "P.IV.4"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k13.webp",
+    "w": 1016,
+    "h": 311
+   },
+   "scoring": "2 pkt – poprawne wyjaśnienie zmienności przepływów w dwóch punktach pomiarowych; 1 pkt – poprawne wyjaśnienie zmienności przepływów w jednym punkcie pomiarowym; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z14.1",
+   "no": "14.1",
+   "points": 1,
+   "materials": [
+    "i14",
+    "t14.1"
+   ],
+   "prompt": "Na której fotografii – A czy B – przedstawiono sytuację bardziej sprzyjającą występowaniu grawitacyjnych ruchów masowych na zboczach doliny oznaczonej literą X? Uzasadnij odpowiedź.",
+   "topic": "geo-rze",
+   "requirement": [
+    "R.I.7",
+    "R.V.6"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k14.1.webp",
+    "w": 1101,
+    "h": 432
+   },
+   "scoring": "1 pkt – poprawna odpowiedź i poprawne uzasadnienie; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "geo-pr-2024-12-z14.2",
+   "no": "14.2",
+   "points": 1,
+   "materials": [
+    "i14",
+    "t14.2"
+   ],
+   "prompt": "Rozstrzygnij, czy sytuacja w dolinie lodowca przedstawionego na fotografiach sprzyja powstawaniu moreny środkowej. Uzasadnij odpowiedź.",
+   "topic": "geo-ska",
+   "requirement": [
+    "R.I.7",
+    "P.V.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k14.2.webp",
+    "w": 1006,
+    "h": 298
+   },
+   "scoring": "1 pkt – poprawna odpowiedź i poprawne uzasadnienie; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z15.1",
+   "no": "15.1",
+   "points": 2,
+   "materials": [
+    "i15",
+    "t15.1"
+   ],
+   "prompt": "Uzupełnij tabelę. Każdej z odkrywek na obszarach A–C przyporządkuj odpowiadającą jej fotografię skały i wiek tej skały.",
+   "topic": "geo-rze",
+   "requirement": [
+    "R.V.1",
+    "R.V.10"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k15.1.webp",
+    "w": 804,
+    "h": 305
+   },
+   "scoring": "2 pkt – dwa poprawne wiersze w tabeli; 1 pkt – jeden poprawny wiersz albo dwie poprawne kolumny w tabeli; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z15.2",
+   "no": "15.2",
+   "points": 1,
+   "materials": [
+    "i15",
+    "t15.2"
+   ],
+   "prompt": "Dla którego obszaru – A czy C – jest charakterystyczna gleba przedstawiona powyżej? Uzasadnij odpowiedź – odnieś się do rysunku ze strony 18. i do profilu glebowego.",
+   "topic": "geo-gle",
+   "requirement": [
+    "R.VI.1"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k15.2.webp",
+    "w": 1101,
+    "h": 467
+   },
+   "scoring": "1 pkt – poprawna odpowiedź i poprawne uzasadnienie z odniesieniem do blokdiagramu i do profilu glebowego; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "geo-pr-2024-12-z15.3",
+   "no": "15.3",
+   "points": 1,
+   "materials": [
+    "i15",
+    "t15.3"
+   ],
+   "prompt": "Wyjaśnij, dlaczego obszar C charakteryzuje się ubogą siecią wód powierzchniowych. Odnieś się do budowy geologicznej przedstawionej na rysunku na stronie 18.",
+   "topic": "geo-sro",
+   "requirement": [
+    "R.XIII.1"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k15.3.webp",
+    "w": 988,
+    "h": 257
+   },
+   "scoring": "1 pkt – poprawne wyjaśnienie; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z16.1",
+   "no": "16.1",
+   "points": 1,
+   "materials": [
+    "i16",
+    "t16.1"
+   ],
+   "prompt": "Oceń, czy poniższe informacje są prawdziwe. Zaznacz P, jeśli informacja jest prawdziwa, albo F – jeśli jest fałszywa.",
+   "topic": "geo-rze",
+   "requirement": [
+    "R.V.10"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k16.1.webp",
+    "w": 1101,
+    "h": 250
+   },
+   "scoring": "1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "tf",
+   "answer": [
+    true,
+    false
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2."
+   ]
+  },
+  {
+   "id": "geo-pr-2024-12-z16.2",
+   "no": "16.2",
+   "points": 2,
+   "materials": [
+    "i16",
+    "t16.2"
+   ],
+   "prompt": "Przyporządkuj każdą z podanych cech właściwemu obszarowi górskiemu – wstaw znak X w odpowiednich komórkach tabeli.",
+   "topic": "geo-sro",
+   "requirement": [
+    "R.XIII.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k16.2.webp",
+    "w": 1101,
+    "h": 388
+   },
+   "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z17",
+   "no": "17",
+   "points": 3,
+   "materials": [
+    "t17"
+   ],
+   "prompt": "Podaj trzy przykłady czynników obniżających w rankingu pozycję miast oznaczonych kolorem czerwonym. Wyjaśnij wpływ każdego z czynników na jakość życia w tych miastach.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.XXIII.2"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k17.webp",
+    "w": 1049,
+    "h": 987
+   },
+   "scoring": "3 pkt – trzy poprawne czynniki wraz z wyjaśnieniem wpływu każdego z nich; 2 pkt – dwa poprawne czynniki wraz z wyjaśnieniem wpływu każdego z nich; 1 pkt – poprawny czynnik wraz z wyjaśnieniem jego wpływu albo – trzy poprawne czynniki bez wyjaśnienia; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z18",
+   "no": "18",
+   "points": 1,
+   "materials": [
+    "t18"
+   ],
+   "prompt": "Oceń, czy poniższe informacje są prawdziwe. Zaznacz P, jeśli informacja jest prawdziwa, albo F – jeśli jest fałszywa.",
+   "topic": "geo-lud",
+   "requirement": [
+    "P.I.5",
+    "P.VIII.2",
+    "P.VIII.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k18.webp",
+    "w": 1101,
+    "h": 249
+   },
+   "scoring": "1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "tf",
+   "answer": [
+    true,
+    true
+   ],
+   "statements": [
+    "Zdanie 1.",
+    "Zdanie 2."
+   ]
+  },
+  {
+   "id": "geo-pr-2024-12-z19.1",
+   "no": "19.1",
+   "points": 1,
+   "materials": [
+    "i19",
+    "t19.1"
+   ],
+   "prompt": "Sformułuj wniosek odnoszący się do zmiany struktury wiekowej ludności przyczyniającej się do obciążenia demograficznego w Polsce w latach 1990–2040.",
+   "topic": "geo-pol",
+   "requirement": [
+    "P.I.3",
+    "P.XV.2"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k19.1.webp",
+    "w": 1101,
+    "h": 323
+   },
+   "scoring": "1 pkt – poprawny wniosek; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z19.2",
+   "no": "19.2",
+   "points": 2,
+   "materials": [
+    "i19",
+    "t19.2"
+   ],
+   "prompt": "W którym z województw – mazowieckim czy śląskim – prognozuje się większą zmianę wartości wskaźnika obciążenia demograficznego w 2040 roku w porównaniu z 1990 rokiem? Uzasadnij, że ta zmiana ma związek ze specyfiką rynku pracy i z saldem migracji w tym województwie.",
+   "topic": "geo-pol",
+   "requirement": [
+    "P.I.3",
+    "P.XV.2",
+    "P.XV.4",
+    "P.XV.5"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k19.2.webp",
+    "w": 1101,
+    "h": 565
+   },
+   "scoring": "2 pkt – poprawna odpowiedź i poprawne uzasadnienie odnoszące się do specyfiki rynku pracy i do salda migracji; 1 pkt – poprawna odpowiedź i poprawne uzasadnienie odnoszące się do specyfiki rynku pracy albo do salda migracji; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z20",
+   "no": "20",
+   "points": 2,
+   "materials": [
+    "t20"
+   ],
+   "prompt": "Uzasadnij dwoma argumentami, że Kotlina Konga w Afryce charakteryzuje się mniej sprzyjającymi warunkami przyrodniczymi dla rolnictwa niż pampa w Ameryce Południowej. Odnieś się do uwarunkowań strefowych.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.X.1",
+    "R.XVII.3",
+    "R.XIX.1"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k20.webp",
+    "w": 1101,
+    "h": 568
+   },
+   "scoring": "2 pkt – dwa poprawne argumenty; 1 pkt – jeden poprawny argument; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z21.1",
+   "no": "21.1",
+   "points": 1,
+   "materials": [
+    "i21",
+    "t21.1"
+   ],
+   "prompt": "Uzupełnij zdania. Wpisz właściwe określenia wybrane spośród podanych w nawiasach.",
+   "topic": "geo-pol",
+   "requirement": [
+    "R.I.7",
+    "P.I.3",
+    "P.XV.7"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k21.1.webp",
+    "w": 694,
+    "h": 218
+   },
+   "scoring": "1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z21.2",
+   "no": "21.2",
+   "points": 1,
+   "materials": [
+    "i21",
+    "t21.2"
+   ],
+   "prompt": "Która odpowiedź zawiera poprawne przyporządkowanie województw do danych w tabeli? Zaznacz właściwą odpowiedź spośród podanych.",
+   "topic": "geo-pol",
+   "requirement": [
+    "R.I.7",
+    "P.I.3",
+    "P.I.5",
+    "P.XV.7"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k21.2.webp",
+    "w": 694,
+    "h": 204
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "mc",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "geo-pr-2024-12-z22",
+   "no": "22",
+   "points": 2,
+   "materials": [
+    "t22"
+   ],
+   "prompt": "Uzupełnij tabelę. W każdym z właściwych wierszy wpisz nazwę państwa, którego rolnictwo charakteryzują przedstawione dane statystyczne. Dobierz państwa spośród oznaczonych na mapie literami A–D.",
+   "topic": "geo-gos",
+   "requirement": [
+    "P.I.3",
+    "P.I.5",
+    "P.X.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k22.webp",
+    "w": 1101,
+    "h": 358
+   },
+   "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z23",
+   "no": "23",
+   "points": 2,
+   "materials": [
+    "t23"
+   ],
+   "prompt": "Wykaż, że wylesianie i antropogeniczne formy terenu, przedstawione na ilustracji B, zwiększają zagrożenie powodziowe. Podaj dwa argumenty.",
+   "topic": "geo-sro",
+   "requirement": [
+    "R.XIV.2",
+    "R.XVIII.2",
+    "P.X.5",
+    "P.XIII.6"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k23.webp",
+    "w": 1068,
+    "h": 329
+   },
+   "scoring": "2 pkt – dwa poprawne argumenty; 1 pkt – jeden poprawny argument; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z24",
+   "no": "24",
+   "points": 1,
+   "materials": [
+    "t24"
+   ],
+   "prompt": "Wykaż, że metoda przedstawiona na rysunku wywiera szkodliwy wpływ na ekosystemy morskie.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.XIX.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k24.webp",
+    "w": 1049,
+    "h": 366
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z25.1",
+   "no": "25.1",
+   "points": 1,
+   "materials": [
+    "i25",
+    "t25.1"
+   ],
+   "prompt": "Czy dynamika zmian udziału przemysłu w tworzeniu wartości dodanej brutto, przedstawiona na mapie 1., świadczy o procesie dezindustrializacji w Polsce w okresie, do którego odnosi się mapa? Uzasadnij odpowiedź.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.I.7",
+    "P.XI.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k25.1.webp",
+    "w": 1101,
+    "h": 327
+   },
+   "scoring": "1 pkt – poprawna odpowiedź i poprawne uzasadnienie; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z25.2",
+   "no": "25.2",
+   "points": 1,
+   "materials": [
+    "i25",
+    "t25.2"
+   ],
+   "prompt": "Przedstaw uwarunkowanie pozaprzyrodnicze, które przyczyniło się do niskiego udziału pierwszego sektora w tworzeniu wartości dodanej brutto w województwach południowej Polski.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.XI.2",
+    "R.XIX.1",
+    "R.XIX.2",
+    "P.XIV.1"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k25.2.webp",
+    "w": 1101,
+    "h": 365
+   },
+   "scoring": "1 pkt – poprawne uwarunkowanie; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z26",
+   "no": "26",
+   "points": 2,
+   "materials": [
+    "t26"
+   ],
+   "prompt": "Uzupełnij tabelę. Wpisz obok każdego opisu literę, którą oznaczono podregion na mapie.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.XI.1",
+    "R.XI.2",
+    "P.XI.1",
+    "R.XIX.2"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k26.webp",
+    "w": 1101,
+    "h": 352
+   },
+   "scoring": "2 pkt – trzy poprawne odpowiedzi; 1 pkt – dwie poprawne odpowiedzi; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "multi",
+   "items": [
+    {
+     "label": "Wiersz 1",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "Wiersz 2",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    },
+    {
+     "label": "Wiersz 3",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "geo-pr-2024-12-z27",
+   "no": "27",
+   "points": 2,
+   "materials": [
+    "t27"
+   ],
+   "prompt": "Przedstaw, na czym powinny polegać odporność na załamanie łańcucha dostaw oraz minimalizowanie szkód środowiskowych.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.IX.3"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k27.webp",
+    "w": 1101,
+    "h": 860
+   },
+   "scoring": "2 pkt – poprawny argument odnoszący się do odporności na załamanie łańcucha dostaw i poprawny argument odnoszący się do minimalizowania szkód środowiskowych; 1 pkt – poprawny argument odnoszący się do odporności na załamanie łańcucha dostaw albo poprawny argument odnoszący się do minimalizowania szkód środowiskowych; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z28",
+   "no": "28",
+   "points": 2,
+   "materials": [
+    "t28"
+   ],
+   "prompt": "Przyporządkuj do każdego z podanych poniżej miast właściwą literę i uzasadnij wybór. Odnieś się do uwarunkowania gospodarczego, przyczyniającego się do obrotów towarowych przedstawionych w tabeli.",
+   "topic": "geo-pol",
+   "requirement": [
+    "P.XV.10",
+    "R.XV.6",
+    "P.XII.2"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k28.webp",
+    "w": 1101,
+    "h": 603
+   },
+   "scoring": "2 pkt – dwie poprawne odpowiedzi wraz z poprawnymi uzasadnieniami; 1 pkt – jedna poprawna odpowiedź wraz z poprawnym uzasadnieniem albo dwie poprawne odpowiedzi bez poprawnego uzasadnienia; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z29",
+   "no": "29",
+   "points": 2,
+   "materials": [
+    "t29"
+   ],
+   "prompt": "Wykaż, że przedstawiony w tekście sposób zagospodarowania terenów pogórniczych jest korzystny dla środowiska przyrodniczego. Podaj dwa argumenty.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.I.7",
+    "R.XIX.3",
+    "P.XI.4",
+    "P.XI.6"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k29.webp",
+    "w": 1101,
+    "h": 503
+   },
+   "scoring": "2 pkt – dwa poprawne argumenty; 1 pkt – jeden poprawny argument; 0 pkt – odpowiedź, która nie spełnia powyższych kryteriów.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z30",
+   "no": "30",
+   "points": 1,
+   "materials": [
+    "t30"
+   ],
+   "prompt": "Przedstaw uwarunkowanie, które przyczyniło się do zmiany udziału krajów G7 w PKB na świecie w latach 1990–2023.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.I.7",
+    "R.XXIII.1",
+    "R.XXIII.2"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k30.webp",
+    "w": 1053,
+    "h": 365
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "geo-pr-2024-12-z31",
+   "no": "31",
+   "points": 1,
+   "materials": [
+    "t31"
+   ],
+   "prompt": "Przedstaw uwarunkowanie, które przyczynia się do różnicy w wartości wskaźnika innowacyjności między Koreą Południową i Chinami a pozostałymi krajami przedstawionymi na wykresie.",
+   "topic": "geo-gos",
+   "requirement": [
+    "R.I.7",
+    "R.XII.3",
+    "R.XXIII.2"
+   ],
+   "key": {
+    "file": "assets/geo-pr-2024-12/k31.webp",
+    "w": 1045,
+    "h": 402
+   },
+   "scoring": "1 pkt – poprawna odpowiedź; 0 pkt – odpowiedź, która nie spełnia powyższego kryterium.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}

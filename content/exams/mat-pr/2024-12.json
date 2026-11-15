@@ -1,0 +1,438 @@
+{
+ "id": "mat-pr-2024-12",
+ "subject": "mat-pr",
+ "formula": "2023",
+ "year": 2024,
+ "session": "probna",
+ "source": {
+  "paper": "MMAP-R0-100-A-2412-arkusz.pdf",
+  "key": "MMAP-R0-100-200-300-400-700-Q00-K00-2412-zasady.pdf"
+ },
+ "auto": true,
+ "materials": [
+  {
+   "id": "t1",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z1.webp",
+   "w": 1087,
+   "h": 514,
+   "caption": "Zadanie 1 – arkusz"
+  },
+  {
+   "id": "t2",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z2.webp",
+   "w": 1087,
+   "h": 142,
+   "caption": "Zadanie 2 – arkusz"
+  },
+  {
+   "id": "t3",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z3.webp",
+   "w": 1087,
+   "h": 151,
+   "caption": "Zadanie 3 – arkusz"
+  },
+  {
+   "id": "t4",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z4.webp",
+   "w": 1087,
+   "h": 147,
+   "caption": "Zadanie 4 – arkusz"
+  },
+  {
+   "id": "t5",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z5.webp",
+   "w": 1087,
+   "h": 312,
+   "caption": "Zadanie 5 – arkusz"
+  },
+  {
+   "id": "t6",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z6.webp",
+   "w": 1087,
+   "h": 138,
+   "caption": "Zadanie 6 – arkusz"
+  },
+  {
+   "id": "t7",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z7.webp",
+   "w": 1087,
+   "h": 179,
+   "caption": "Zadanie 7 – arkusz"
+  },
+  {
+   "id": "t8",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z8.webp",
+   "w": 1087,
+   "h": 227,
+   "caption": "Zadanie 8 – arkusz"
+  },
+  {
+   "id": "t9",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z9.webp",
+   "w": 1087,
+   "h": 146,
+   "caption": "Zadanie 9 – arkusz"
+  },
+  {
+   "id": "t10",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z10.webp",
+   "w": 1087,
+   "h": 198,
+   "caption": "Zadanie 10 – arkusz"
+  },
+  {
+   "id": "t11",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z11.webp",
+   "w": 1087,
+   "h": 194,
+   "caption": "Zadanie 11 – arkusz"
+  },
+  {
+   "id": "t12",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z12.webp",
+   "w": 1087,
+   "h": 528,
+   "caption": "Zadanie 12 – arkusz"
+  },
+  {
+   "id": "i13",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/i13.webp",
+   "w": 1087,
+   "h": 807,
+   "caption": "Wspólne informacje do zadania 13"
+  },
+  {
+   "id": "t13.1",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z13.1.webp",
+   "w": 1087,
+   "h": 181,
+   "caption": "Zadanie 13.1 – arkusz"
+  },
+  {
+   "id": "t13.2",
+   "type": "image",
+   "file": "assets/mat-pr-2024-12/z13.2.webp",
+   "w": 1087,
+   "h": 293,
+   "caption": "Zadanie 13.2 – arkusz"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "mat-pr-2024-12-z01",
+   "no": "1",
+   "points": 2,
+   "materials": [
+    "t1"
+   ],
+   "prompt": "Oblicz, ile milikulombów ładunku było zgromadzone w tym kondensatorze w chwili t= 5 s. Zapisz obliczenia.",
+   "topic": "matr-fun",
+   "requirement": [
+    "V.14"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k1.webp",
+    "w": 1029,
+    "h": 959
+   },
+   "scoring": "2 pkt – zastosowanie poprawnej metody i poprawny wynik: 6 (milikulombów); 1 pkt – obliczenie Q0 : 2 81 ALBO – obliczenie β: 1 3 , ALBO – zapisanie związku [Q(5)]2 = Q(4) ⋅Q(6); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z02",
+   "no": "2",
+   "points": 2,
+   "materials": [
+    "t2"
+   ],
+   "prompt": "Wykaż, że jeśli |AM| = |BN|, to trójkąt ABC jest równoramienny.",
+   "topic": "matr-pla",
+   "requirement": [
+    "VIII.11"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k2.webp",
+    "w": 1101,
+    "h": 1271
+   },
+   "scoring": "2 pkt – przeprowadzenie pełnego rozumowania; 1 pkt – uzasadnienie, że |CD| = |CE| ALBO – uzasadnienie, że |AD| = |BE|; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z03",
+   "no": "3",
+   "points": 3,
+   "materials": [
+    "t3"
+   ],
+   "prompt": "Oblicz objętość tego walca. Zapisz obliczenia.",
+   "topic": "matr-ste",
+   "requirement": [
+    "X.5"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k3.webp",
+    "w": 1101,
+    "h": 826
+   },
+   "scoring": "3 pkt – zastosowanie poprawnej metody i poprawny wynik: 18π√2; 2 pkt – obliczenie promienia walca i wysokości walca: r= √6 i h= 3√2; 1 pkt – zapisanie dwóch równań: 2r⋅h= 12√3 i 2πr2 + 2πrh= 12π(√3 + 1); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z04",
+   "no": "4",
+   "points": 3,
+   "materials": [
+    "t4"
+   ],
+   "prompt": "Rozwiąż zadanie.",
+   "topic": "matr-nie",
+   "requirement": [
+    "I.R1"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k4.webp",
+    "w": 1101,
+    "h": 1102
+   },
+   "scoring": "3 pkt – przeprowadzenie pełnego rozumowania. 1 1 1; 2 pkt – przekształcenie wyrażenia log235 + 1 + log7 140 − log72 + log5 7 + log5 2 + 1 do postaci log70 2 + log70 7 + log70 5. 1 1 1; 1 pkt – przekształcenie wyrażenia log235 + 1 + log7 140 − log72 + log5 7 + log5 2 + 1 do 1 1 1 postaci log2 70 + log7 70 + log5 70 ; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z05",
+   "no": "5",
+   "points": 3,
+   "materials": [
+    "t5"
+   ],
+   "prompt": "Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wybierzemy osobę z wyższym wykształceniem, jeżeli wiadomo, że ta osoba dobrze włada językiem niemieckim. Wynik zapisz w postaci ułamka dziesiętnego w zaokrągleniu do części setnych. Zapisz obliczenia. Kolejne zadania egzaminacyjne są wydrukowane na następnych stronach.",
+   "topic": "matr-kom",
+   "requirement": [
+    "XII.R1"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k5.webp",
+    "w": 1101,
+    "h": 1093
+   },
+   "scoring": "3 pkt – zastosowanie poprawnej metody i poprawny wynik: 0,49. 0,35 ⋅ 0,7; 2 pkt – zastosowanie twierdzenia Bayesa i zapisanie P(B1|A) = 0,7 ⋅ 0,35+0,4 ⋅ 0,65 ; 1 pkt – zapisanie prawdopodobieństw: P(B1) = 0,35 i P(A|B1) = 0, 7 oraz P(B2) = 0,65, oraz P(A|B2) = 0,4; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z06",
+   "no": "6",
+   "points": 4,
+   "materials": [
+    "t6"
+   ],
+   "prompt": "Zapisz obliczenia.",
+   "topic": "matr-nie",
+   "requirement": [
+    "III.R4"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k6.webp",
+    "w": 1075,
+    "h": 1770
+   },
+   "scoring": "4 pkt – zastosowanie poprawnej metody i poprawny wynik: 2 5 oraz 14 3 ; 3 pkt – rozwiązanie równania w dwóch spośród rozważanych przedziałów/przypadków (o ile zdający rozpatruje równanie w przedziałach/przypadkach, których suma jest równa R/wyczerpujących zbiór R) ALBO – rozwiązanie równania 4x−8 = |x+ 2| + 4 (dla sposobu II), ALBO – rozwiązanie równania 4x−8 = −|x+ 2| −4 (dla sposobu II); 2 pkt – zastosowanie definicji wartości bezwzględnej lub własności wartości bezwzględnej i zapisanie danego równania odpowiednio w trzech przedziałach: (−∞, −2), [−2, 2), [2, +∞), lub w czterech przypadkach: x+ 2 < 0 i x−2 < 0, x+ 2 < 0 i x−2 ≥0, x+ 2 ≥0 i x−2 < 0, x+ 2 ≥0 i x−2 ≥0 ALBO – zapisanie równania w postaci równoważnej alternatywy dwóch równań: 4x−8 = |x+ 2| + 4 lub 4x−8 = −|x+ 2| −4 (dla sposobu II); 1 pkt – przekształcenie danego równania do postaci 4 ⋅|x−2| = |x+ 2| + 4 ALBO – przekształcenie danego równania do postaci |4x−8| = |x+ 2| + 4, ALBO – zapisanie przedziałów: (−∞, −2), [−2, 2), [2, +∞), oraz zapisanie danego równania w jednym z tych przedziałów bez użycia symbolu wartości bezwzględnej ALBO – zapisanie jednego z przedziałów: (−∞, −2), [−2, 2), [2, +∞), oraz rozwiązanie danego równania w tym przedziale; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z07",
+   "no": "7",
+   "points": 4,
+   "materials": [
+    "t7"
+   ],
+   "prompt": "Oblicz współrzędne punktu C. Rozważ wszystkie przypadki. Zapisz obliczenia.",
+   "topic": "matr-ana",
+   "requirement": [
+    "IX.R1",
+    "IX.R4"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k7.webp",
+    "w": 1101,
+    "h": 1396
+   },
+   "scoring": "4 pkt – zastosowanie poprawnej metody i poprawny wynik: C= (√5 −1, 3√5 + 3) lub C= (−√5 −1, −3√5 + 3); 3 pkt – zapisanie równania z jedną niewiadomą (pierwszą lub drugą współrzędną punktu C), np. (x+ 1)2 + (3x+ 6 −3)2 = 50; 2 pkt – wyznaczenie równania symetralnej odcinka AB: y= 3x+ 6; 1 pkt – obliczenie współczynnika kierunkowego prostej AB: (−1 3) ALBO – zapisanie równości √(x−6)2 + (y−4)2 = √(x+ 6)2 + (y−8)2; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z08",
+   "no": "8",
+   "points": 4,
+   "materials": [
+    "t8"
+   ],
+   "prompt": "gdzie 1+ 3+ 5+ 7+ ... + (2n+ 1) jest sumą kolejnych liczb naturalnych nieparzystych. Zapisz obliczenia.",
+   "topic": "matr-gra",
+   "requirement": [
+    "VI.R1"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k8.webp",
+    "w": 1101,
+    "h": 1630
+   },
+   "scoring": "4 pkt – zastosowanie poprawnej metody i poprawny wynik: 2; 3 pkt – wyznaczenie sumy 1 + 3 + 5 + 7 + ... + (2n+ 1): (n+ 1)2 oraz zapisanie 2) w postaci n(n − 1) symbolu Newtona (n . 2; 2 pkt – wyznaczenie liczby składników sumy 1 + 3 + 5 + 7 + ... + (2n+ 1): (n+ 1) 2) w postaci n(n − 1) oraz zapisanie symbolu Newtona (n 2 ALBO – wyznaczenie sumy 1 + 3 + 5 + 7 + ... + (2n+ 1): (n+ 1)2; 1 pkt – wyznaczenie liczby składników sumy 1 + 3 + 5 + 7 + ... + (2n+ 1): (n+ 1) ALBO 2) w postaci n(n − 1) – zapisanie symbolu Newtona (n . 2; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z09",
+   "no": "9",
+   "points": 4,
+   "materials": [
+    "t9"
+   ],
+   "prompt": "w zbiorze [−π, 2π]. Zapisz obliczenia.",
+   "topic": "matr-try",
+   "requirement": [
+    "VII.R6"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k9.webp",
+    "w": 1067,
+    "h": 2920
+   },
+   "scoring": "4 pkt – zapisanie, że równanie sin(2x) = −2 nie ma rozwiązań oraz rozwiązanie równania sin(2x) = 1 w zbiorze [−π, 2π]: (−3 4 π), 1 4 π oraz 5 4 π; 3 pkt – rozwiązanie równania sin(2x) = 1 w zbiorze liczb rzeczywistych: x= 1 4 π+ π⋅k, gdzie k∈Z ALBO – rozwiązanie równania sin(2x) = 1 w zbiorze [−π, 2π]: (−3 4 π), 1 4 π oraz 5 4 π; 2 pkt – przekształcenie równania do alternatywy równań sin(2x) = −2 lub sin(2x) = 1; 1 pkt – przekształcenie równania do postaci (sin2 x+ cos2 x)2 −2 sin2 xcos2 x= sin x⋅cos x ALBO – zastosowanie tożsamości sin4 x+ cos4 x= 1 −2 sin2 x⋅cos2 x, ALBO – zastosowanie tożsamości sin4 x+ cos4 x= 1 −1 2 sin2(2x); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z10",
+   "no": "10",
+   "points": 5,
+   "materials": [
+    "t10"
+   ],
+   "prompt": "Oblicz wyrazy tego ciągu geometrycznego. Zapisz obliczenia.",
+   "topic": "matr-gra",
+   "requirement": [
+    "VI.7"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k10.webp",
+    "w": 1101,
+    "h": 2085
+   },
+   "scoring": "5 pkt – odrzucenie ciągu odpowiadającego r= 11 3 i obliczenie wyrazów ciągu geometrycznego: (32, 4, 1 2); 4 pkt – rozwiązanie równania z jedną niewiadomą r: r= −3 oraz r= 11 3 ALBO – rozwiązanie równania z jedną niewiadomą a1: a1 = 14 oraz a1 = −6; 3 pkt – zapisane równania z jedną niewiadomą (a1 lub r), np. 42 = −1 8 (5 + 3r) ⋅(10 −6r+ 4), 42 = −1 8 (10 −a1) ⋅(4 + 2a1); 2 pkt – zapisanie układu dwóch równań z dwiema niewiadomymi a1 i r, np. a1 + 2r+ a1 + 4r= 10 i (a1 + 3r−1)2 = −1 8 (a1 + 6r)(2a1 + 4) ALBO – zapisanie związku 42 = −1 8 a7 ⋅(2a1 + 4); 1 pkt – zastosowanie własności ciągu geometrycznego i zapisanie związku (a4 −1)2 = −1 8 a7 ⋅(2a1 + 4) ALBO – zastosowanie wzoru na n-ty wyraz ciągu arytmetycznego i zapisanie równania z dwiema niewiadomymi a1 i r, np. a1 + 2r+ a1 + 4r= 10, ALBO – obliczenie a4 : a4 = 5; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z11",
+   "no": "11",
+   "points": 5,
+   "materials": [
+    "t11"
+   ],
+   "prompt": "Wyznacz wszystkie wartości parametru m, dla których funkcja f ma dwa różne 2| ≤12. Zapisz obliczenia. miejsca zerowe x1 , x2 spełniające warunek |x1",
+   "topic": "matr-par",
+   "requirement": [
+    "III.R3",
+    "III.R5"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k11.webp",
+    "w": 1079,
+    "h": 3765
+   },
+   "scoring": "1 pkt – poprawne rozwiązanie nierówności ∆> 0: m∈(−∞, −1 2) ∪(3 2 , +∞); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z12",
+   "no": "12",
+   "points": 5,
+   "materials": [
+    "t12"
+   ],
+   "prompt": "sin(2α) . Zapisz obliczenia.",
+   "topic": "matr-try",
+   "requirement": [
+    "VII.1",
+    "VII.R5",
+    "VII.R7"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k12.webp",
+    "w": 1076,
+    "h": 4120
+   },
+   "scoring": "5 pkt – zastosowanie poprawnej metody i poprawny wynik: 2. sin(2α) = |AC| tgβ |ED| i |ED| = 1; 4 pkt – zapisanie związków 2 ⋅|CF| oraz uzasadnienie, że |CF| = |AC|. sin(2α) = |AC| tgβ; 3 pkt – zapisanie równości |ED| oraz uzasadnienie, że |CF| = |AC|; 2 pkt – uzasadnienie, że |CF| = |AC| ALBO – zdefiniowanie punktu F jako obrazu punktu C w symetrii osiowej względem sin(2α) = |AC| tgβ prostej k oraz zapisanie równości |ED| ; 1 pkt – zdefiniowanie punktu F jako obrazu punktu C w symetrii osiowej względem prostej k ALBO sin(2α) = |AC| tgβ – zapisanie równości |ED| ; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z13.1",
+   "no": "13.1",
+   "points": 2,
+   "materials": [
+    "i13",
+    "t13.1"
+   ],
+   "prompt": "Wykaż, że pole P czworokąta OBCD w zależności od pierwszej współrzędnej x punktu C jest określone wzorem",
+   "topic": "matr-fun",
+   "requirement": [
+    "V.3"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k13.1.webp",
+    "w": 1101,
+    "h": 937
+   },
+   "scoring": "2 pkt – przeprowadzenie pełnego rozumowania; 1 pkt – obliczenie współrzędnych punktów B i D oraz zapisanie drugiej współrzędnej punktu C w zależności od x: B= (7, 0) i D= (0, 21 2 ) oraz C= (x, 12x−84 x−8 ); 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  },
+  {
+   "id": "mat-pr-2024-12-z13.2",
+   "no": "13.2",
+   "points": 4,
+   "materials": [
+    "i13",
+    "t13.2"
+   ],
+   "prompt": "Oblicz współrzędne wierzchołka C, dla których pole czworokąta OBCD jest największe. Zapisz obliczenia.",
+   "topic": "matr-gra",
+   "requirement": [
+    "XIII.R4",
+    "XIII.R5",
+    "XIII.R6"
+   ],
+   "key": {
+    "file": "assets/mat-pr-2024-12/k13.2.webp",
+    "w": 1077,
+    "h": 2159
+   },
+   "scoring": "4 pkt – uzasadnienie, że funkcja P przyjmuje wartość największą dla x= 8 −2√2 i obliczenie współrzędnych punktu C, dla których pole czworokąta OBCD jest największe: C= (8 −2√2, 12 −3√2); 3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja P przyjmuje wartość największą dla x= 8 −2√2; 2 pkt – obliczenie miejsc zerowych pochodnej funkcji P: x= 8 −2√2. 4 ⋅2x(x − 8) − (x2 − 56) ⋅ 1; 1 pkt – wyznaczenie pochodnej funkcji P, np. P′(x) = 21 . (x − 8)2; 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.",
+   "type": "open",
+   "answer": []
+  }
+ ]
+}
